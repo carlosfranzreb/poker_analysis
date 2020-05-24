@@ -1,0 +1,5414 @@
+*********** # 1 **************
+PokerStars Hand #214226267463: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:44:49 ET
+Table '2912130171 1' 9-max Seat #1 is the button
+Seat 1: lvggg (1500 in chips)
+Seat 2: mfranzreb (1500 in chips)
+Seat 3: elketefuka (1500 in chips)
+Seat 4: Toscker (1500 in chips)
+Seat 5: frasharri (1500 in chips)
+Seat 6: Bmineral (1500 in chips)
+Seat 7: majki8686 (1500 in chips)
+Seat 8: Sagandyk O. (1500 in chips)
+Seat 9: YADEWS (1500 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+mfranzreb: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [2s Th]
+Toscker: folds
+frasharri: folds
+Bmineral: raises 30 to 50
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: calls 50
+lvggg: calls 50
+mfranzreb: folds
+elketefuka: calls 30
+*** FLOP *** [3d 9h Qd]
+elketefuka: checks
+Bmineral: bets 156
+YADEWS: calls 156
+lvggg: folds
+elketefuka: folds
+*** TURN *** [3d 9h Qd] [Jh]
+Bmineral: bets 362
+YADEWS: calls 362
+*** RIVER *** [3d 9h Qd Jh] [5d]
+Bmineral: checks
+YADEWS: checks
+*** SHOW DOWN ***
+Bmineral: shows [Ac Qs] (a pair of Queens)
+YADEWS: mucks hand
+Bmineral collected 1273 from pot
+*** SUMMARY ***
+Total pot 1273 | Rake 0
+Board [3d 9h Qd Jh 5d]
+Seat 1: lvggg (button) folded on the Flop
+Seat 2: mfranzreb (small blind) folded before Flop
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 4: Toscker folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral showed [Ac Qs] and won (1273) with a pair of Queens
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS mucked [Ks 9s]
+
+
+*********** # 2 **************
+PokerStars Hand #214226308492: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:46:02 ET
+Table '2912130171 1' 9-max Seat #2 is the button
+Seat 1: lvggg (1447 in chips)
+Seat 2: mfranzreb (1487 in chips)
+Seat 3: elketefuka (1447 in chips)
+Seat 4: Toscker (1497 in chips)
+Seat 5: frasharri (1497 in chips)
+Seat 6: Bmineral (2202 in chips)
+Seat 7: majki8686 (1497 in chips)
+Seat 8: Sagandyk O. (1497 in chips)
+Seat 9: YADEWS (929 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+elketefuka: posts small blind 10
+Toscker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [5s 7h]
+frasharri: raises 40 to 60
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: calls 60
+mfranzreb: calls 60
+elketefuka: folds
+Toscker: folds
+*** FLOP *** [6c 7c 2d]
+frasharri: bets 160
+lvggg: folds
+mfranzreb: folds
+Uncalled bet (160) returned to frasharri
+frasharri collected 237 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 237 | Rake 0
+Board [6c 7c 2d]
+Seat 1: lvggg folded on the Flop
+Seat 2: mfranzreb (button) folded on the Flop
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: Toscker (big blind) folded before Flop
+Seat 5: frasharri collected (237)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #214226332476: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:46:45 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 1: lvggg (1384 in chips)
+Seat 2: mfranzreb (1424 in chips)
+Seat 3: elketefuka (1434 in chips)
+Seat 4: Toscker (1474 in chips)
+Seat 5: frasharri (1671 in chips)
+Seat 6: Bmineral (2199 in chips)
+Seat 7: majki8686 (1494 in chips)
+Seat 8: Sagandyk O. (1494 in chips)
+Seat 9: YADEWS (926 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+Toscker: posts small blind 10
+frasharri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 4s]
+Bmineral: raises 40 to 60
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: calls 60
+lvggg: folds
+mfranzreb: calls 60
+elketefuka: calls 60
+Toscker: folds
+frasharri: folds
+*** FLOP *** [8s Ks 9d]
+Bmineral: checks
+YADEWS: bets 180
+mfranzreb: folds
+elketefuka: folds
+Bmineral: folds
+Uncalled bet (180) returned to YADEWS
+YADEWS collected 297 from pot
+YADEWS: doesn't show hand
+*** SUMMARY ***
+Total pot 297 | Rake 0
+Board [8s Ks 9d]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded on the Flop
+Seat 3: elketefuka (button) folded on the Flop
+Seat 4: Toscker (small blind) folded before Flop
+Seat 5: frasharri (big blind) folded before Flop
+Seat 6: Bmineral folded on the Flop
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS collected (297)
+
+
+*********** # 4 **************
+PokerStars Hand #214226372900: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:47:57 ET
+Table '2912130171 1' 9-max Seat #4 is the button
+Seat 1: lvggg (1381 in chips)
+Seat 2: mfranzreb (1361 in chips)
+Seat 3: elketefuka (1371 in chips)
+Seat 4: Toscker (1461 in chips)
+Seat 5: frasharri (1648 in chips)
+Seat 6: Bmineral (2136 in chips)
+Seat 7: majki8686 (1491 in chips)
+Seat 8: Sagandyk O. (1491 in chips)
+Seat 9: YADEWS (1160 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+frasharri: posts small blind 10
+Bmineral: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [4d Td]
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: raises 20 to 40
+mfranzreb: folds
+elketefuka: calls 40
+Toscker: folds
+frasharri: folds
+Bmineral: folds
+*** FLOP *** [Kd Js 7h]
+lvggg: bets 69
+elketefuka: calls 69
+*** TURN *** [Kd Js 7h] [4c]
+lvggg: bets 88
+elketefuka: folds
+Uncalled bet (88) returned to lvggg
+lvggg collected 275 from pot
+lvggg: doesn't show hand
+*** SUMMARY ***
+Total pot 275 | Rake 0
+Board [Kd Js 7h 4c]
+Seat 1: lvggg collected (275)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded on the Turn
+Seat 4: Toscker (button) folded before Flop (didn't bet)
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 5 **************
+PokerStars Hand #214226403335: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:48:37 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 1: lvggg (1544 in chips)
+Seat 2: mfranzreb (1358 in chips)
+Seat 3: elketefuka (1259 in chips)
+Seat 4: Toscker (1458 in chips)
+Seat 5: frasharri (1635 in chips)
+Seat 6: Bmineral (2113 in chips)
+Seat 7: majki8686 (1488 in chips)
+Seat 8: Sagandyk O. (1488 in chips)
+Seat 9: YADEWS (1157 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+Bmineral: posts small blind 10
+majki8686: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 7h]
+Sagandyk O.: calls 20
+YADEWS: calls 20
+lvggg: calls 20
+mfranzreb: folds
+elketefuka: folds
+Toscker: folds
+frasharri: folds
+Bmineral: calls 10
+majki8686: checks
+*** FLOP *** [Td 8d 2h]
+Bmineral: checks
+majki8686: checks
+Sagandyk O.: bets 120
+YADEWS: folds
+lvggg: folds
+Bmineral: folds
+majki8686: folds
+Uncalled bet (120) returned to Sagandyk O.
+Sagandyk O. collected 127 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 127 | Rake 0
+Board [Td 8d 2h]
+Seat 1: lvggg folded on the Flop
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Toscker folded before Flop (didn't bet)
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded on the Flop
+Seat 7: majki8686 (big blind) folded on the Flop
+Seat 8: Sagandyk O. collected (127)
+Seat 9: YADEWS folded on the Flop
+
+
+*********** # 6 **************
+PokerStars Hand #214226429216: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:49:23 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 1: lvggg (1521 in chips)
+Seat 2: mfranzreb (1355 in chips)
+Seat 3: elketefuka (1256 in chips)
+Seat 4: Toscker (1455 in chips)
+Seat 5: frasharri (1632 in chips)
+Seat 6: Bmineral (2090 in chips)
+Seat 7: majki8686 (1465 in chips)
+Seat 8: Sagandyk O. (1592 in chips)
+Seat 9: YADEWS (1134 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+majki8686: posts small blind 10
+Sagandyk O.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 6c]
+YADEWS: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: calls 20
+Toscker: folds
+frasharri: folds
+Bmineral: raises 50 to 70
+majki8686: calls 60
+Sagandyk O.: calls 50
+elketefuka: calls 50
+*** FLOP *** [2c Th Td]
+majki8686: checks
+Sagandyk O.: checks
+elketefuka: bets 154
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: folds
+Uncalled bet (154) returned to elketefuka
+elketefuka collected 307 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 307 | Rake 0
+Board [2c Th Td]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka collected (307)
+Seat 4: Toscker folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) folded on the Flop
+Seat 7: majki8686 (small blind) folded on the Flop
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #214226452856: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:50:05 ET
+Table '2912130171 1' 9-max Seat #7 is the button
+Seat 1: lvggg (1518 in chips)
+Seat 2: mfranzreb (1352 in chips)
+Seat 3: elketefuka (1490 in chips)
+Seat 4: Toscker (1452 in chips)
+Seat 5: frasharri (1629 in chips)
+Seat 6: Bmineral (2017 in chips)
+Seat 7: majki8686 (1392 in chips)
+Seat 8: Sagandyk O. (1519 in chips)
+Seat 9: YADEWS (1131 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+Sagandyk O.: posts small blind 10
+YADEWS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 2c]
+lvggg: folds
+mfranzreb: folds
+elketefuka: raises 40 to 60
+Toscker: folds
+frasharri: folds
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: folds
+Uncalled bet (40) returned to elketefuka
+elketefuka collected 77 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 77 | Rake 0
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka collected (77)
+Seat 4: Toscker folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+Seat 9: YADEWS (big blind) folded before Flop
+
+
+*********** # 8 **************
+PokerStars Hand #214226466085: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:50:29 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 1: lvggg (1515 in chips)
+Seat 2: mfranzreb (1349 in chips)
+Seat 3: elketefuka (1544 in chips)
+Seat 4: Toscker (1449 in chips)
+Seat 5: frasharri (1626 in chips)
+Seat 6: Bmineral (2014 in chips)
+Seat 7: majki8686 (1389 in chips)
+Seat 8: Sagandyk O. (1506 in chips)
+Seat 9: YADEWS (1108 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+YADEWS: posts small blind 10
+lvggg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd 9c]
+mfranzreb: calls 20
+elketefuka: folds
+Toscker: folds
+frasharri: folds
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: checks
+*** FLOP *** [Th Qd Ks]
+lvggg: checks
+mfranzreb: checks
+*** TURN *** [Th Qd Ks] [As]
+lvggg: checks
+mfranzreb: checks
+*** RIVER *** [Th Qd Ks As] [Kc]
+lvggg: checks
+mfranzreb: checks
+*** SHOW DOWN ***
+lvggg: shows [8s 7h] (a pair of Kings)
+mfranzreb: shows [8d 9d] (a pair of Kings)
+lvggg collected 39 from pot
+mfranzreb collected 38 from pot
+*** SUMMARY ***
+Total pot 77 | Rake 0
+Board [Th Qd Ks As Kc]
+Seat 1: lvggg (big blind) showed [8s 7h] and won (39) with a pair of Kings
+Seat 2: mfranzreb showed [8d 9d] and won (38) with a pair of Kings
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Toscker folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+Seat 9: YADEWS (small blind) folded before Flop
+
+
+*********** # 9 **************
+PokerStars Hand #214226490763: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:51:13 ET
+Table '2912130171 1' 9-max Seat #9 is the button
+Seat 1: lvggg (1531 in chips)
+Seat 2: mfranzreb (1364 in chips)
+Seat 3: elketefuka (1541 in chips)
+Seat 4: Toscker (1446 in chips)
+Seat 5: frasharri (1623 in chips)
+Seat 6: Bmineral (2011 in chips)
+Seat 7: majki8686 (1386 in chips)
+Seat 8: Sagandyk O. (1503 in chips)
+Seat 9: YADEWS (1095 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+lvggg: posts small blind 10
+mfranzreb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [2s 3d]
+elketefuka: folds
+Toscker: folds
+frasharri: folds
+Bmineral: raises 30 to 50
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: calls 50
+lvggg: folds
+mfranzreb: raises 40 to 90
+Bmineral: raises 200 to 290
+YADEWS: folds
+mfranzreb: raises 210 to 500
+Bmineral: calls 210
+*** FLOP *** [8s 5c Tc]
+mfranzreb: checks
+Bmineral: checks
+*** TURN *** [8s 5c Tc] [2d]
+mfranzreb: bets 544
+Bmineral: folds
+Uncalled bet (544) returned to mfranzreb
+mfranzreb collected 1087 from pot
+mfranzreb: doesn't show hand
+*** SUMMARY ***
+Total pot 1087 | Rake 0
+Board [8s 5c Tc 2d]
+Seat 1: lvggg (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) collected (1087)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Toscker folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded on the Turn
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS (button) folded before Flop
+
+
+*********** # 10 **************
+PokerStars Hand #214226549072: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:52:57 ET
+Table '2912130171 1' 9-max Seat #1 is the button
+Seat 1: lvggg (1518 in chips)
+Seat 2: mfranzreb (1948 in chips)
+Seat 3: elketefuka (1538 in chips)
+Seat 4: Toscker (1443 in chips)
+Seat 5: frasharri (1620 in chips)
+Seat 6: Bmineral (1508 in chips)
+Seat 7: majki8686 (1383 in chips)
+Seat 8: Sagandyk O. (1500 in chips)
+Seat 9: YADEWS (1042 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+Toscker: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+mfranzreb: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd Ks]
+Toscker: raises 80 to 100
+frasharri: folds
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: calls 100
+lvggg: calls 100
+mfranzreb: folds
+elketefuka: raises 380 to 480
+Toscker: raises 960 to 1440 and is all-in
+YADEWS: folds
+lvggg: folds
+elketefuka: calls 960
+*** FLOP *** [9h Kh 8d]
+*** TURN *** [9h Kh 8d] [Jd]
+*** RIVER *** [9h Kh 8d Jd] [Td]
+*** SHOW DOWN ***
+elketefuka: shows [Kd Ks] (three of a kind, Kings)
+Toscker: shows [Ad Ah] (a pair of Aces)
+elketefuka collected 3117 from pot
+Toscker finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3117 | Rake 0
+Board [9h Kh 8d Jd Td]
+Seat 1: lvggg (button) folded before Flop
+Seat 2: mfranzreb (small blind) folded before Flop
+Seat 3: elketefuka (big blind) showed [Kd Ks] and won (3117) with three of a kind, Kings
+Seat 4: Toscker showed [Ad Ah] and lost with a pair of Aces
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded before Flop
+
+
+*********** # 11 **************
+PokerStars Hand #214226569761: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:53:33 ET
+Table '2912130171 1' 9-max Seat #2 is the button
+Seat 1: lvggg (1415 in chips)
+Seat 2: mfranzreb (1935 in chips)
+Seat 3: elketefuka (3212 in chips)
+Seat 5: frasharri (1617 in chips)
+Seat 6: Bmineral (1505 in chips)
+Seat 7: majki8686 (1380 in chips)
+Seat 8: Sagandyk O. (1497 in chips)
+Seat 9: YADEWS (939 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+elketefuka: posts small blind 10
+frasharri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Td 6s]
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: calls 20
+YADEWS: calls 20
+lvggg: folds
+mfranzreb: folds
+elketefuka: calls 10
+frasharri: checks
+*** FLOP *** [Ks 5d 4d]
+elketefuka: checks
+frasharri: checks
+Sagandyk O.: checks
+YADEWS: checks
+*** TURN *** [Ks 5d 4d] [8h]
+elketefuka: checks
+frasharri: bets 40
+Sagandyk O.: folds
+YADEWS: calls 40
+elketefuka: folds
+*** RIVER *** [Ks 5d 4d 8h] [Ac]
+frasharri: bets 200
+YADEWS: folds
+Uncalled bet (200) returned to frasharri
+frasharri collected 184 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 184 | Rake 0
+Board [Ks 5d 4d 8h Ac]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded on the Turn
+Seat 5: frasharri (big blind) collected (184)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded on the Turn
+Seat 9: YADEWS folded on the River
+
+
+*********** # 12 **************
+PokerStars Hand #214226609857: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level I (10/20) - 2020/05/21 9:54:45 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 1: lvggg (1412 in chips)
+Seat 2: mfranzreb (1932 in chips)
+Seat 3: elketefuka (3189 in chips)
+Seat 5: frasharri (1738 in chips)
+Seat 6: Bmineral (1502 in chips)
+Seat 7: majki8686 (1377 in chips)
+Seat 8: Sagandyk O. (1474 in chips)
+Seat 9: YADEWS (876 in chips)
+lvggg: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+frasharri: posts the ante 3
+Bmineral: posts the ante 3
+majki8686: posts the ante 3
+Sagandyk O.: posts the ante 3
+YADEWS: posts the ante 3
+frasharri: posts small blind 10
+Bmineral: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [9c Js]
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: calls 20
+lvggg: folds
+mfranzreb: folds
+elketefuka: raises 20 to 40
+frasharri: folds
+Bmineral: folds
+YADEWS: calls 20
+*** FLOP *** [Tc 8d Jd]
+YADEWS: checks
+elketefuka: bets 67
+YADEWS: calls 67
+*** TURN *** [Tc 8d Jd] [5c]
+YADEWS: checks
+elketefuka: bets 134
+YADEWS: calls 134
+*** RIVER *** [Tc 8d Jd 5c] [Ts]
+YADEWS: checks
+elketefuka: checks
+*** SHOW DOWN ***
+YADEWS: shows [Qh 7h] (a pair of Tens)
+elketefuka: shows [9c Js] (two pair, Jacks and Tens)
+elketefuka collected 536 from pot
+*** SUMMARY ***
+Total pot 536 | Rake 0
+Board [Tc 8d Jd 5c Ts]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) showed [9c Js] and won (536) with two pair, Jacks and Tens
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS showed [Qh 7h] and lost with a pair of Tens
+
+
+*********** # 13 **************
+PokerStars Hand #214226633190: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 9:55:31 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 1: lvggg (1409 in chips)
+Seat 2: mfranzreb (1929 in chips)
+Seat 3: elketefuka (3481 in chips)
+Seat 5: frasharri (1725 in chips)
+Seat 6: Bmineral (1479 in chips)
+Seat 7: majki8686 (1374 in chips)
+Seat 8: Sagandyk O. (1471 in chips)
+Seat 9: YADEWS (632 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+Bmineral: posts small blind 15
+majki8686: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [As 8d]
+Sagandyk O.: folds
+YADEWS: calls 30
+lvggg: folds
+mfranzreb: calls 30
+elketefuka: calls 30
+frasharri: folds
+Bmineral: folds
+majki8686: checks
+*** FLOP *** [Td 6h Ah]
+majki8686: checks
+YADEWS: checks
+mfranzreb: checks
+elketefuka: bets 84
+majki8686: calls 84
+YADEWS: folds
+mfranzreb: folds
+*** TURN *** [Td 6h Ah] [Qh]
+majki8686: bets 141
+elketefuka: folds
+Uncalled bet (141) returned to majki8686
+majki8686 collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | Rake 0
+Board [Td 6h Ah Qh]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded on the Flop
+Seat 3: elketefuka folded on the Turn
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 7: majki8686 (big blind) collected (335)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded on the Flop
+
+
+*********** # 14 **************
+PokerStars Hand #214226658673: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 9:56:29 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 1: lvggg (1405 in chips)
+Seat 2: mfranzreb (1895 in chips)
+Seat 3: elketefuka (3363 in chips)
+Seat 5: frasharri (1721 in chips)
+Seat 6: Bmineral (1460 in chips)
+Seat 7: majki8686 (1591 in chips)
+Seat 8: Sagandyk O. (1467 in chips)
+Seat 9: YADEWS (598 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+majki8686: posts small blind 15
+Sagandyk O.: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [9s Qs]
+YADEWS: calls 30
+lvggg: calls 30
+mfranzreb: raises 60 to 90
+elketefuka: calls 90
+frasharri: folds
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: calls 60
+lvggg: folds
+*** FLOP *** [4d 9d 3s]
+YADEWS: checks
+mfranzreb: checks
+elketefuka: bets 189
+YADEWS: folds
+mfranzreb: calls 189
+*** TURN *** [4d 9d 3s] [Ac]
+mfranzreb: checks
+elketefuka: checks
+*** RIVER *** [4d 9d 3s Ac] [2d]
+mfranzreb: bets 755
+elketefuka: folds
+Uncalled bet (755) returned to mfranzreb
+mfranzreb collected 755 from pot
+mfranzreb: doesn't show hand
+*** SUMMARY ***
+Total pot 755 | Rake 0
+Board [4d 9d 3s Ac 2d]
+Seat 1: lvggg folded before Flop
+Seat 2: mfranzreb collected (755)
+Seat 3: elketefuka folded on the River
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 7: majki8686 (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded before Flop
+Seat 9: YADEWS folded on the Flop
+
+
+*********** # 15 **************
+PokerStars Hand #214226690407: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 9:57:39 ET
+Table '2912130171 1' 9-max Seat #7 is the button
+Seat 1: lvggg (1371 in chips)
+Seat 2: mfranzreb (2367 in chips)
+Seat 3: elketefuka (3080 in chips)
+Seat 5: frasharri (1717 in chips)
+Seat 6: Bmineral (1456 in chips)
+Seat 7: majki8686 (1572 in chips)
+Seat 8: Sagandyk O. (1433 in chips)
+Seat 9: YADEWS (504 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+Sagandyk O.: posts small blind 15
+YADEWS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [7c 9h]
+lvggg: folds
+mfranzreb: folds
+elketefuka: folds
+frasharri: folds
+Bmineral: folds
+majki8686: raises 30 to 60
+Sagandyk O.: calls 45
+YADEWS: raises 440 to 500 and is all-in
+majki8686: folds
+Sagandyk O. is disconnected
+Sagandyk O. has timed out while disconnected
+Sagandyk O.: folds
+Sagandyk O. is sitting out
+Uncalled bet (440) returned to YADEWS
+YADEWS collected 212 from pot
+YADEWS: doesn't show hand
+*** SUMMARY ***
+Total pot 212 | Rake 0
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 (button) folded before Flop
+Seat 8: Sagandyk O. (small blind) folded before Flop
+Seat 9: YADEWS (big blind) collected (212)
+
+
+*********** # 16 **************
+PokerStars Hand #214226747393: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 9:59:45 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 1: lvggg (1367 in chips)
+Seat 2: mfranzreb (2363 in chips)
+Seat 3: elketefuka (3076 in chips)
+Seat 5: frasharri (1713 in chips)
+Seat 6: Bmineral (1452 in chips)
+Seat 7: majki8686 (1508 in chips)
+Seat 8: Sagandyk O. (1369 in chips) is sitting out
+Seat 9: YADEWS (652 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+YADEWS: posts small blind 15
+lvggg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Jh 9c]
+mfranzreb: folds
+elketefuka: folds
+frasharri: folds
+Bmineral: raises 45 to 75
+majki8686: calls 75
+Sagandyk O.: folds
+YADEWS: calls 60
+lvggg: calls 45
+*** FLOP *** [7c Qc Tc]
+YADEWS: checks
+lvggg: checks
+Bmineral: bets 100
+majki8686: folds
+YADEWS: raises 473 to 573 and is all-in
+lvggg: folds
+Bmineral: folds
+Uncalled bet (473) returned to YADEWS
+YADEWS collected 532 from pot
+YADEWS: doesn't show hand
+*** SUMMARY ***
+Total pot 532 | Rake 0
+Board [7c Qc Tc]
+Seat 1: lvggg (big blind) folded on the Flop
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded on the Flop
+Seat 7: majki8686 folded on the Flop
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+Seat 9: YADEWS (small blind) collected (532)
+
+
+*********** # 17 **************
+PokerStars Hand #214226767392: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 10:00:28 ET
+Table '2912130171 1' 9-max Seat #9 is the button
+Seat 1: lvggg (1288 in chips)
+Seat 2: mfranzreb (2359 in chips)
+Seat 3: elketefuka (3072 in chips)
+Seat 5: frasharri (1709 in chips)
+Seat 6: Bmineral (1273 in chips)
+Seat 7: majki8686 (1429 in chips)
+Seat 8: Sagandyk O. (1365 in chips) is sitting out
+Seat 9: YADEWS (1005 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+lvggg: posts small blind 15
+mfranzreb: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 2c]
+elketefuka: folds
+Sagandyk O. is disconnected
+frasharri: folds
+Bmineral: folds
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: calls 15
+mfranzreb: checks
+*** FLOP *** [7s Th 9h]
+lvggg: checks
+mfranzreb: checks
+*** TURN *** [7s Th 9h] [As]
+lvggg: bets 30
+mfranzreb: raises 90 to 120
+lvggg: folds
+Uncalled bet (90) returned to mfranzreb
+mfranzreb collected 152 from pot
+mfranzreb: doesn't show hand
+*** SUMMARY ***
+Total pot 152 | Rake 0
+Board [7s Th 9h As]
+Seat 1: lvggg (small blind) folded on the Turn
+Seat 2: mfranzreb (big blind) collected (152)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS (button) folded before Flop (didn't bet)
+
+
+*********** # 18 **************
+PokerStars Hand #214226794653: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 10:01:22 ET
+Table '2912130171 1' 9-max Seat #1 is the button
+Seat 1: lvggg (1224 in chips)
+Seat 2: mfranzreb (2447 in chips)
+Seat 3: elketefuka (3068 in chips)
+Seat 5: frasharri (1705 in chips)
+Seat 6: Bmineral (1269 in chips)
+Seat 7: majki8686 (1425 in chips)
+Seat 8: Sagandyk O. (1361 in chips) is sitting out
+Seat 9: YADEWS (1001 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+mfranzreb: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc Tc]
+frasharri: folds
+Bmineral: raises 45 to 75
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: folds
+mfranzreb: calls 60
+Sagandyk O. has returned
+elketefuka is disconnected
+elketefuka is connected
+elketefuka is disconnected
+elketefuka is connected
+elketefuka: calls 45
+*** FLOP *** [6s 7h Ac]
+mfranzreb: checks
+elketefuka: checks
+Bmineral: bets 90
+mfranzreb: folds
+elketefuka: folds
+Uncalled bet (90) returned to Bmineral
+Bmineral collected 257 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 257 | Rake 0
+Board [6s 7h Ac]
+Seat 1: lvggg (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) folded on the Flop
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral collected (257)
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #214226841741: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 10:02:47 ET
+Table '2912130171 1' 9-max Seat #2 is the button
+Seat 1: lvggg (1220 in chips)
+Seat 2: mfranzreb (2368 in chips)
+Seat 3: elketefuka (2989 in chips)
+Seat 5: frasharri (1701 in chips)
+Seat 6: Bmineral (1447 in chips)
+Seat 7: majki8686 (1421 in chips)
+Seat 8: Sagandyk O. (1357 in chips)
+Seat 9: YADEWS (997 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+elketefuka: posts small blind 15
+frasharri: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 4c]
+Bmineral: folds
+majki8686: raises 30 to 60
+Sagandyk O.: calls 60
+YADEWS: folds
+lvggg: folds
+mfranzreb: raises 30 to 90
+elketefuka: folds
+frasharri: folds
+majki8686: calls 30
+Sagandyk O.: calls 30
+*** FLOP *** [Kc 5h 4d]
+majki8686: bets 146
+Sagandyk O.: calls 146
+mfranzreb: calls 146
+*** TURN *** [Kc 5h 4d] [8c]
+majki8686: bets 330
+Sagandyk O.: calls 330
+mfranzreb: folds
+*** RIVER *** [Kc 5h 4d 8c] [Ac]
+majki8686: checks
+Sagandyk O.: bets 787 and is all-in
+majki8686: calls 787
+*** SHOW DOWN ***
+Sagandyk O.: shows [5c 5d] (three of a kind, Fives)
+majki8686: shows [Kh Td] (a pair of Kings)
+Sagandyk O. collected 3019 from pot
+*** SUMMARY ***
+Total pot 3019 | Rake 0
+Board [Kc 5h 4d 8c Ac]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) folded on the Turn
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: frasharri (big blind) folded before Flop
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 7: majki8686 showed [Kh Td] and lost with a pair of Kings
+Seat 8: Sagandyk O. showed [5c 5d] and won (3019) with three of a kind, Fives
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 20 **************
+PokerStars Hand #214226877316: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 10:03:51 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 1: lvggg (1216 in chips)
+Seat 2: mfranzreb (2128 in chips)
+Seat 3: elketefuka (2970 in chips)
+Seat 5: frasharri (1667 in chips)
+Seat 6: Bmineral (1443 in chips)
+Seat 7: majki8686 (64 in chips)
+Seat 8: Sagandyk O. (3019 in chips)
+Seat 9: YADEWS (993 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+frasharri: posts small blind 15
+Bmineral: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [5s 9s]
+majki8686: folds
+Sagandyk O.: folds
+YADEWS: raises 30 to 60
+lvggg: folds
+mfranzreb: folds
+elketefuka: calls 60
+frasharri: folds
+Bmineral: folds
+*** FLOP *** [5h Kh 2d]
+YADEWS: bets 60
+elketefuka: calls 60
+*** TURN *** [5h Kh 2d] [Td]
+YADEWS: bets 90
+elketefuka: calls 90
+*** RIVER *** [5h Kh 2d Td] [Ah]
+YADEWS: bets 120
+elketefuka: folds
+Uncalled bet (120) returned to YADEWS
+YADEWS collected 497 from pot
+YADEWS: doesn't show hand
+*** SUMMARY ***
+Total pot 497 | Rake 0
+Board [5h Kh 2d Td Ah]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded on the River
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 7: majki8686 folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS collected (497)
+
+
+*********** # 21 **************
+PokerStars Hand #214226900806: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level II (15/30) - 2020/05/21 10:04:32 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 1: lvggg (1212 in chips)
+Seat 2: mfranzreb (2124 in chips)
+Seat 3: elketefuka (2756 in chips)
+Seat 5: frasharri (1648 in chips)
+Seat 6: Bmineral (1409 in chips)
+Seat 7: majki8686 (60 in chips)
+Seat 8: Sagandyk O. (3015 in chips)
+Seat 9: YADEWS (1276 in chips)
+lvggg: posts the ante 4
+mfranzreb: posts the ante 4
+elketefuka: posts the ante 4
+frasharri: posts the ante 4
+Bmineral: posts the ante 4
+majki8686: posts the ante 4
+Sagandyk O.: posts the ante 4
+YADEWS: posts the ante 4
+Bmineral: posts small blind 15
+majki8686: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [5c As]
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: raises 30 to 60
+frasharri: folds
+Bmineral: folds
+majki8686: calls 26 and is all-in
+Uncalled bet (4) returned to elketefuka
+*** FLOP *** [4s 8h 8s]
+*** TURN *** [4s 8h 8s] [Ac]
+*** RIVER *** [4s 8h 8s Ac] [3c]
+*** SHOW DOWN ***
+majki8686: shows [Kc Jh] (a pair of Eights)
+elketefuka: shows [5c As] (two pair, Aces and Eights)
+elketefuka collected 159 from pot
+majki8686 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 159 | Rake 0
+Board [4s 8h 8s Ac 3c]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka showed [5c As] and won (159) with two pair, Aces and Eights
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 7: majki8686 (big blind) showed [Kc Jh] and lost with a pair of Eights
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #214226915965: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:04:59 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 1: lvggg (1208 in chips)
+Seat 2: mfranzreb (2120 in chips)
+Seat 3: elketefuka (2855 in chips)
+Seat 5: frasharri (1644 in chips)
+Seat 6: Bmineral (1390 in chips)
+Seat 8: Sagandyk O. (3011 in chips)
+Seat 9: YADEWS (1272 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+Sagandyk O.: posts small blind 25
+YADEWS: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [5d 3s]
+lvggg: folds
+mfranzreb: calls 50
+elketefuka: folds
+frasharri: folds
+Bmineral: calls 50
+Sagandyk O.: folds
+YADEWS: checks
+*** FLOP *** [Jh Th 5c]
+YADEWS: checks
+mfranzreb: bets 175
+Bmineral: raises 225 to 400
+YADEWS: folds
+mfranzreb: calls 225
+*** TURN *** [Jh Th 5c] [8h]
+mfranzreb: checks
+Bmineral: bets 934 and is all-in
+mfranzreb: folds
+Uncalled bet (934) returned to Bmineral
+Bmineral collected 1017 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 1017 | Rake 0
+Board [Jh Th 5c 8h]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded on the Turn
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) collected (1017)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+Seat 9: YADEWS (big blind) folded on the Flop
+
+
+*********** # 23 **************
+PokerStars Hand #214226955459: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:06:08 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 1: lvggg (1202 in chips)
+Seat 2: mfranzreb (1664 in chips)
+Seat 3: elketefuka (2849 in chips)
+Seat 5: frasharri (1638 in chips)
+Seat 6: Bmineral (1951 in chips)
+Seat 8: Sagandyk O. (2980 in chips)
+Seat 9: YADEWS (1216 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+YADEWS: posts small blind 25
+lvggg: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [9s 5s]
+mfranzreb: folds
+elketefuka: folds
+frasharri: raises 50 to 100
+Bmineral: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: calls 50
+*** FLOP *** [Qh 6d Ts]
+lvggg: bets 50
+frasharri: raises 150 to 200
+lvggg: raises 200 to 400
+frasharri: folds
+Uncalled bet (200) returned to lvggg
+lvggg collected 667 from pot
+lvggg: doesn't show hand
+*** SUMMARY ***
+Total pot 667 | Rake 0
+Board [Qh 6d Ts]
+Seat 1: lvggg (big blind) collected (667)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded on the Flop
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+Seat 9: YADEWS (small blind) folded before Flop
+
+
+*********** # 24 **************
+PokerStars Hand #214226978859: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:06:49 ET
+Table '2912130171 1' 9-max Seat #9 is the button
+Seat 1: lvggg (1563 in chips)
+Seat 2: mfranzreb (1658 in chips)
+Seat 3: elketefuka (2843 in chips)
+Seat 5: frasharri (1332 in chips)
+Seat 6: Bmineral (1945 in chips)
+Seat 8: Sagandyk O. (2974 in chips)
+Seat 9: YADEWS (1185 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+lvggg: posts small blind 25
+mfranzreb: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [8d 2c]
+elketefuka: folds
+frasharri: raises 100 to 150
+Bmineral: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: folds
+mfranzreb: folds
+Uncalled bet (100) returned to frasharri
+frasharri collected 167 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 167 | Rake 0
+Seat 1: lvggg (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri collected (167)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS (button) folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #214227001006: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:07:27 ET
+Table '2912130171 1' 9-max Seat #1 is the button
+Seat 1: lvggg (1532 in chips)
+Seat 2: mfranzreb (1602 in chips)
+Seat 3: elketefuka (2837 in chips)
+Seat 5: frasharri (1443 in chips)
+Seat 6: Bmineral (1939 in chips)
+Seat 8: Sagandyk O. (2968 in chips)
+Seat 9: YADEWS (1179 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+mfranzreb: posts small blind 25
+elketefuka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 2c]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+YADEWS: raises 50 to 100
+lvggg: folds
+mfranzreb: calls 75
+elketefuka: calls 50
+*** FLOP *** [9s Jd Qh]
+mfranzreb: bets 171
+elketefuka: folds
+YADEWS: folds
+Uncalled bet (171) returned to mfranzreb
+mfranzreb collected 342 from pot
+mfranzreb: doesn't show hand
+*** SUMMARY ***
+Total pot 342 | Rake 0
+Board [9s Jd Qh]
+Seat 1: lvggg (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) collected (342)
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded on the Flop
+
+
+*********** # 26 **************
+PokerStars Hand #214227026947: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:08:13 ET
+Table '2912130171 1' 9-max Seat #2 is the button
+Seat 1: lvggg (1526 in chips)
+Seat 2: mfranzreb (1838 in chips)
+Seat 3: elketefuka (2731 in chips)
+Seat 5: frasharri (1437 in chips)
+Seat 6: Bmineral (1933 in chips)
+Seat 8: Sagandyk O. (2962 in chips)
+Seat 9: YADEWS (1073 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+elketefuka: posts small blind 25
+frasharri: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd 7s]
+Bmineral: folds
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: raises 100 to 150
+frasharri: raises 200 to 350
+elketefuka: folds
+Uncalled bet (200) returned to frasharri
+frasharri collected 342 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 342 | Rake 0
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: frasharri (big blind) collected (342)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #214227052173: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:08:57 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 1: lvggg (1520 in chips)
+Seat 2: mfranzreb (1832 in chips)
+Seat 3: elketefuka (2575 in chips)
+Seat 5: frasharri (1623 in chips)
+Seat 6: Bmineral (1927 in chips)
+Seat 8: Sagandyk O. (2956 in chips)
+Seat 9: YADEWS (1067 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+frasharri: posts small blind 25
+Bmineral: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2h 6s]
+Sagandyk O.: folds
+YADEWS: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: calls 50
+frasharri: folds
+Bmineral: raises 100 to 150
+elketefuka: calls 100
+*** FLOP *** [5h 8c 4c]
+Bmineral: bets 184
+elketefuka: calls 184
+*** TURN *** [5h 8c 4c] [Ac]
+Bmineral: bets 485
+elketefuka: folds
+Uncalled bet (485) returned to Bmineral
+Bmineral collected 735 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 735 | Rake 0
+Board [5h 8c 4c Ac]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded on the Turn
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) collected (735)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 28 **************
+PokerStars Hand #214227080135: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:09:45 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 1: lvggg (1514 in chips)
+Seat 2: mfranzreb (1826 in chips)
+Seat 3: elketefuka (2235 in chips)
+Seat 5: frasharri (1592 in chips)
+Seat 6: Bmineral (2322 in chips)
+Seat 8: Sagandyk O. (2950 in chips)
+Seat 9: YADEWS (1061 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+Bmineral: posts small blind 25
+Sagandyk O.: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [7s Th]
+YADEWS: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: folds
+frasharri: raises 100 to 150
+Bmineral: folds
+Sagandyk O.: calls 100
+*** FLOP *** [Ks 4h 4s]
+Sagandyk O.: checks
+frasharri: bets 200
+Sagandyk O.: folds
+Uncalled bet (200) returned to frasharri
+frasharri collected 367 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 367 | Rake 0
+Board [Ks 4h 4s]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) collected (367)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+Seat 9: YADEWS folded before Flop (didn't bet)
+
+
+*********** # 29 **************
+PokerStars Hand #214227099190: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:10:18 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 1: lvggg (1508 in chips)
+Seat 2: mfranzreb (1820 in chips)
+Seat 3: elketefuka (2229 in chips)
+Seat 5: frasharri (1803 in chips)
+Seat 6: Bmineral (2291 in chips)
+Seat 8: Sagandyk O. (2794 in chips)
+Seat 9: YADEWS (1055 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+YADEWS: posts the ante 6
+Sagandyk O.: posts small blind 25
+YADEWS: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh 9d]
+lvggg: folds
+mfranzreb: folds
+elketefuka: calls 50
+frasharri: calls 50
+Bmineral: folds
+Sagandyk O.: calls 25
+YADEWS: raises 100 to 150
+elketefuka: calls 100
+frasharri: calls 100
+Sagandyk O.: calls 100
+*** FLOP *** [8h 9s 5d]
+Sagandyk O.: checks
+YADEWS: bets 899 and is all-in
+elketefuka: calls 899
+frasharri: folds
+Sagandyk O.: folds
+*** TURN *** [8h 9s 5d] [6h]
+*** RIVER *** [8h 9s 5d 6h] [Qs]
+*** SHOW DOWN ***
+YADEWS: shows [As Ks] (high card Ace)
+elketefuka: shows [Kh 9d] (a pair of Nines)
+elketefuka collected 2440 from pot
+YADEWS finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2440 | Rake 0
+Board [8h 9s 5d 6h Qs]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka showed [Kh 9d] and won (2440) with a pair of Nines
+Seat 5: frasharri folded on the Flop
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded on the Flop
+Seat 9: YADEWS (big blind) showed [As Ks] and lost with high card Ace
+
+
+*********** # 30 **************
+PokerStars Hand #214227135343: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:11:21 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 1: lvggg (1502 in chips)
+Seat 2: mfranzreb (1814 in chips)
+Seat 3: elketefuka (3614 in chips)
+Seat 5: frasharri (1647 in chips)
+Seat 6: Bmineral (2285 in chips)
+Seat 8: Sagandyk O. (2638 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+lvggg: posts small blind 25
+mfranzreb: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Js Qs]
+elketefuka: raises 50 to 100
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: folds
+Uncalled bet (50) returned to elketefuka
+elketefuka collected 161 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 161 | Rake 0
+Seat 1: lvggg (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) folded before Flop
+Seat 3: elketefuka collected (161)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 31 **************
+PokerStars Hand #214227148523: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:11:43 ET
+Table '2912130171 1' 9-max Seat #1 is the button
+Seat 1: lvggg (1471 in chips)
+Seat 2: mfranzreb (1758 in chips)
+Seat 3: elketefuka (3719 in chips)
+Seat 5: frasharri (1641 in chips)
+Seat 6: Bmineral (2279 in chips)
+Seat 8: Sagandyk O. (2632 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+mfranzreb: posts small blind 25
+elketefuka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2s 5s]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: raises 150 to 200
+lvggg: folds
+mfranzreb: calls 175
+elketefuka: folds
+*** FLOP *** [Th 7s 3h]
+mfranzreb: checks
+Sagandyk O.: checks
+*** TURN *** [Th 7s 3h] [3s]
+mfranzreb: bets 243
+Sagandyk O.: calls 243
+*** RIVER *** [Th 7s 3h 3s] [7h]
+mfranzreb: checks
+Sagandyk O.: checks
+*** SHOW DOWN ***
+mfranzreb: shows [Ad Tc] (two pair, Tens and Sevens)
+Sagandyk O.: mucks hand
+mfranzreb collected 972 from pot
+*** SUMMARY ***
+Total pot 972 | Rake 0
+Board [Th 7s 3h 3s 7h]
+Seat 1: lvggg (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) showed [Ad Tc] and won (972) with two pair, Tens and Sevens
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. mucked [Ac Qs]
+
+
+*********** # 32 **************
+PokerStars Hand #214227176315: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:12:31 ET
+Table '2912130171 1' 9-max Seat #2 is the button
+Seat 1: lvggg (1465 in chips)
+Seat 2: mfranzreb (2281 in chips)
+Seat 3: elketefuka (3663 in chips)
+Seat 5: frasharri (1635 in chips)
+Seat 6: Bmineral (2273 in chips)
+Seat 8: Sagandyk O. (2183 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+elketefuka: posts small blind 25
+frasharri: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2h Jd]
+Bmineral: raises 75 to 125
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: calls 125
+elketefuka: folds
+frasharri: folds
+*** FLOP *** [Tc 7d Ks]
+Bmineral: checks
+mfranzreb: checks
+*** TURN *** [Tc 7d Ks] [Qh]
+Bmineral: bets 238
+mfranzreb: folds
+Uncalled bet (238) returned to Bmineral
+Bmineral collected 361 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 361 | Rake 0
+Board [Tc 7d Ks Qh]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) folded on the Turn
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: frasharri (big blind) folded before Flop
+Seat 6: Bmineral collected (361)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 33 **************
+PokerStars Hand #214227207472: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:13:25 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 1: lvggg (1459 in chips)
+Seat 2: mfranzreb (2150 in chips)
+Seat 3: elketefuka (3632 in chips)
+Seat 5: frasharri (1579 in chips)
+Seat 6: Bmineral (2503 in chips)
+Seat 8: Sagandyk O. (2177 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+frasharri: posts small blind 25
+Bmineral: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 9h]
+Sagandyk O.: folds
+lvggg: raises 50 to 100
+mfranzreb: folds
+elketefuka: calls 100
+frasharri: folds
+Bmineral: folds
+*** FLOP *** [8h 2c Ts]
+lvggg: bets 311
+elketefuka: calls 311
+*** TURN *** [8h 2c Ts] [8c]
+lvggg: checks
+elketefuka: checks
+*** RIVER *** [8h 2c Ts 8c] [6d]
+lvggg: checks
+elketefuka: checks
+*** SHOW DOWN ***
+lvggg: shows [9d Ah] (a pair of Eights)
+elketefuka: shows [Th 9h] (two pair, Tens and Eights)
+elketefuka collected 933 from pot
+*** SUMMARY ***
+Total pot 933 | Rake 0
+Board [8h 2c Ts 8c 6d]
+Seat 1: lvggg showed [9d Ah] and lost with a pair of Eights
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) showed [Th 9h] and won (933) with two pair, Tens and Eights
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 34 **************
+PokerStars Hand #214227230950: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:14:05 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 1: lvggg (1042 in chips)
+Seat 2: mfranzreb (2144 in chips)
+Seat 3: elketefuka (4148 in chips)
+Seat 5: frasharri (1548 in chips)
+Seat 6: Bmineral (2447 in chips)
+Seat 8: Sagandyk O. (2171 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+Bmineral: posts small blind 25
+Sagandyk O.: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 2c]
+lvggg: folds
+mfranzreb: folds
+elketefuka: folds
+frasharri: raises 100 to 150
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (100) returned to frasharri
+frasharri collected 161 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 161 | Rake 0
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) collected (161)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 35 **************
+PokerStars Hand #214227242912: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level III (25/50) - 2020/05/21 10:14:26 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 1: lvggg (1036 in chips)
+Seat 2: mfranzreb (2138 in chips)
+Seat 3: elketefuka (4142 in chips)
+Seat 5: frasharri (1653 in chips)
+Seat 6: Bmineral (2416 in chips)
+Seat 8: Sagandyk O. (2115 in chips)
+lvggg: posts the ante 6
+mfranzreb: posts the ante 6
+elketefuka: posts the ante 6
+frasharri: posts the ante 6
+Bmineral: posts the ante 6
+Sagandyk O.: posts the ante 6
+Sagandyk O.: posts small blind 25
+lvggg: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [8d Tc]
+mfranzreb: calls 50
+elketefuka: folds
+frasharri: folds
+Bmineral: raises 125 to 175
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: calls 125
+*** FLOP *** [5s Kd 5d]
+mfranzreb: checks
+Bmineral: bets 231
+mfranzreb: folds
+Uncalled bet (231) returned to Bmineral
+Bmineral collected 461 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 461 | Rake 0
+Board [5s Kd 5d]
+Seat 1: lvggg (big blind) folded before Flop
+Seat 2: mfranzreb folded on the Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) collected (461)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 36 **************
+PokerStars Hand #214227271514: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:15:14 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 1: lvggg (980 in chips)
+Seat 2: mfranzreb (1957 in chips)
+Seat 3: elketefuka (4136 in chips)
+Seat 5: frasharri (1647 in chips)
+Seat 6: Bmineral (2696 in chips)
+Seat 8: Sagandyk O. (2084 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+lvggg: posts small blind 40
+mfranzreb: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8h 5d]
+elketefuka: folds
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+lvggg: raises 80 to 160
+mfranzreb: folds
+Uncalled bet (80) returned to lvggg
+lvggg collected 220 from pot
+lvggg: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 1: lvggg (small blind) collected (220)
+Seat 2: mfranzreb (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 37 **************
+PokerStars Hand #214227295463: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:15:38 ET
+Table '2912130171 1' 9-max Seat #1 is the button
+Seat 1: lvggg (1110 in chips)
+Seat 2: mfranzreb (1867 in chips)
+Seat 3: elketefuka (4126 in chips)
+Seat 5: frasharri (1637 in chips)
+Seat 6: Bmineral (2686 in chips)
+Seat 8: Sagandyk O. (2074 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+mfranzreb: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd Td]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+lvggg: calls 80
+mfranzreb: raises 80 to 160
+elketefuka: calls 80
+lvggg: calls 80
+*** FLOP *** [7c 6c Ks]
+mfranzreb: checks
+elketefuka: checks
+lvggg: checks
+*** TURN *** [7c 6c Ks] [9c]
+mfranzreb: checks
+elketefuka: bets 180
+lvggg: calls 180
+mfranzreb: folds
+*** RIVER *** [7c 6c Ks 9c] [8d]
+elketefuka: checks
+lvggg: checks
+*** SHOW DOWN ***
+elketefuka: shows [Qd Td] (a straight, Six to Ten)
+lvggg: mucks hand
+elketefuka collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0
+Board [7c 6c Ks 9c 8d]
+Seat 1: lvggg (button) mucked [9s 7s]
+Seat 2: mfranzreb (small blind) folded on the Turn
+Seat 3: elketefuka (big blind) showed [Qd Td] and won (900) with a straight, Six to Ten
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 38 **************
+PokerStars Hand #214227336670: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:16:49 ET
+Table '2912130171 1' 9-max Seat #2 is the button
+Seat 1: lvggg (760 in chips)
+Seat 2: mfranzreb (1697 in chips)
+Seat 3: elketefuka (4676 in chips)
+Seat 5: frasharri (1627 in chips)
+Seat 6: Bmineral (2676 in chips)
+Seat 8: Sagandyk O. (2064 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+elketefuka: posts small blind 40
+frasharri: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [6s Qs]
+Bmineral: folds
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: calls 40
+frasharri: raises 160 to 240
+elketefuka: calls 160
+*** FLOP *** [Tc 8s Qh]
+elketefuka: checks
+frasharri: checks
+*** TURN *** [Tc 8s Qh] [7h]
+elketefuka: bets 270
+frasharri: raises 270 to 540
+elketefuka: calls 270
+*** RIVER *** [Tc 8s Qh 7h] [Kc]
+elketefuka: checks
+frasharri: bets 560
+elketefuka: calls 560
+*** SHOW DOWN ***
+frasharri: shows [Jh Ad] (a straight, Ten to Ace)
+elketefuka: mucks hand
+frasharri collected 2740 from pot
+*** SUMMARY ***
+Total pot 2740 | Rake 0
+Board [Tc 8s Qh 7h Kc]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) mucked [6s Qs]
+Seat 5: frasharri (big blind) showed [Jh Ad] and won (2740) with a straight, Ten to Ace
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 39 **************
+PokerStars Hand #214227381826: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:18:05 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 1: lvggg (750 in chips)
+Seat 2: mfranzreb (1687 in chips)
+Seat 3: elketefuka (3326 in chips)
+Seat 5: frasharri (3017 in chips)
+Seat 6: Bmineral (2666 in chips)
+Seat 8: Sagandyk O. (2054 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+frasharri: posts small blind 40
+Bmineral: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 6s]
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: folds
+frasharri: raises 80 to 160
+Bmineral: folds
+Uncalled bet (80) returned to frasharri
+frasharri collected 220 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 5: frasharri (small blind) collected (220)
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 40 **************
+PokerStars Hand #214227392724: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:18:24 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 1: lvggg (740 in chips)
+Seat 2: mfranzreb (1677 in chips)
+Seat 3: elketefuka (3316 in chips)
+Seat 5: frasharri (3147 in chips)
+Seat 6: Bmineral (2576 in chips)
+Seat 8: Sagandyk O. (2044 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+Bmineral: posts small blind 40
+Sagandyk O.: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd Kh]
+lvggg: folds
+mfranzreb: folds
+elketefuka: raises 80 to 160
+frasharri: folds
+Bmineral: raises 320 to 480
+Sagandyk O.: folds
+elketefuka: calls 320
+*** FLOP *** [8c 8d 2c]
+Bmineral: checks
+elketefuka: bets 550
+Bmineral: folds
+Uncalled bet (550) returned to elketefuka
+elketefuka collected 1100 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1100 | Rake 0
+Board [8c 8d 2c]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka collected (1100)
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded on the Flop
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 41 **************
+PokerStars Hand #214227411499: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:18:56 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 1: lvggg (730 in chips)
+Seat 2: mfranzreb (1667 in chips)
+Seat 3: elketefuka (3926 in chips)
+Seat 5: frasharri (3137 in chips)
+Seat 6: Bmineral (2086 in chips)
+Seat 8: Sagandyk O. (1954 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+Sagandyk O.: posts small blind 40
+lvggg: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Td 9c]
+mfranzreb: calls 80
+elketefuka: folds
+frasharri: folds
+Bmineral: raises 200 to 280
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: folds
+Uncalled bet (200) returned to Bmineral
+Bmineral collected 340 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 340 | Rake 0
+Seat 1: lvggg (big blind) folded before Flop
+Seat 2: mfranzreb folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) collected (340)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 42 **************
+PokerStars Hand #214227425324: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:19:20 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 1: lvggg (640 in chips)
+Seat 2: mfranzreb (1577 in chips)
+Seat 3: elketefuka (3916 in chips)
+Seat 5: frasharri (3127 in chips)
+Seat 6: Bmineral (2336 in chips)
+Seat 8: Sagandyk O. (1904 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+lvggg: posts small blind 40
+mfranzreb: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [7s 8d]
+elketefuka: folds
+frasharri: folds
+Bmineral: raises 120 to 200
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: folds
+Uncalled bet (120) returned to Bmineral
+Bmineral collected 260 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 260 | Rake 0
+Seat 1: lvggg (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral collected (260)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 43 **************
+PokerStars Hand #214227439355: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:19:44 ET
+Table '2912130171 1' 9-max Seat #1 is the button
+Seat 1: lvggg (590 in chips)
+Seat 2: mfranzreb (1487 in chips)
+Seat 3: elketefuka (3906 in chips)
+Seat 5: frasharri (3117 in chips)
+Seat 6: Bmineral (2506 in chips)
+Seat 8: Sagandyk O. (1894 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+mfranzreb: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 5h]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: calls 80
+lvggg: folds
+mfranzreb: calls 40
+elketefuka: checks
+*** FLOP *** [Ts Qh 3s]
+mfranzreb: checks
+elketefuka: checks
+Sagandyk O.: bets 320
+mfranzreb: folds
+elketefuka: calls 320
+*** TURN *** [Ts Qh 3s] [Kc]
+elketefuka: checks
+Sagandyk O.: bets 480
+elketefuka: calls 480
+*** RIVER *** [Ts Qh 3s Kc] [Jh]
+elketefuka: checks
+Sagandyk O.: checks
+*** SHOW DOWN ***
+elketefuka: shows [Qs 5h] (a pair of Queens)
+Sagandyk O.: shows [Qd Jd] (two pair, Queens and Jacks)
+Sagandyk O. collected 1900 from pot
+*** SUMMARY ***
+Total pot 1900 | Rake 0
+Board [Ts Qh 3s Kc Jh]
+Seat 1: lvggg (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) folded on the Flop
+Seat 3: elketefuka (big blind) showed [Qs 5h] and lost with a pair of Queens
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. showed [Qd Jd] and won (1900) with two pair, Queens and Jacks
+
+
+*********** # 44 **************
+PokerStars Hand #214227480735: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:20:54 ET
+Table '2912130171 1' 9-max Seat #2 is the button
+Seat 1: lvggg (580 in chips)
+Seat 2: mfranzreb (1397 in chips)
+Seat 3: elketefuka (3016 in chips)
+Seat 5: frasharri (3107 in chips)
+Seat 6: Bmineral (2496 in chips)
+Seat 8: Sagandyk O. (2904 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+elketefuka: posts small blind 40
+frasharri: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [5d 6s]
+Bmineral: folds
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: calls 40
+frasharri: checks
+*** FLOP *** [7s 2s 3s]
+elketefuka: bets 110
+frasharri: folds
+Uncalled bet (110) returned to elketefuka
+elketefuka collected 220 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Board [7s 2s 3s]
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) collected (220)
+Seat 5: frasharri (big blind) folded on the Flop
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 45 **************
+PokerStars Hand #214227496286: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:21:20 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 1: lvggg (570 in chips)
+Seat 2: mfranzreb (1387 in chips)
+Seat 3: elketefuka (3146 in chips)
+Seat 5: frasharri (3017 in chips)
+Seat 6: Bmineral (2486 in chips)
+Seat 8: Sagandyk O. (2894 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+frasharri: posts small blind 40
+Bmineral: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [4d 9d]
+Sagandyk O.: folds
+lvggg: folds
+mfranzreb: folds
+elketefuka: raises 80 to 160
+frasharri: folds
+Bmineral: raises 320 to 480
+elketefuka: folds
+Uncalled bet (320) returned to Bmineral
+Bmineral collected 420 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Seat 1: lvggg folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) collected (420)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 46 **************
+PokerStars Hand #214227512382: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:21:47 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 1: lvggg (560 in chips)
+Seat 2: mfranzreb (1377 in chips)
+Seat 3: elketefuka (2976 in chips)
+Seat 5: frasharri (2967 in chips)
+Seat 6: Bmineral (2736 in chips)
+Seat 8: Sagandyk O. (2884 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+Bmineral: posts small blind 40
+Sagandyk O.: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 5h]
+lvggg: raises 470 to 550 and is all-in
+mfranzreb: folds
+elketefuka: folds
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (470) returned to lvggg
+lvggg collected 260 from pot
+lvggg: doesn't show hand
+*** SUMMARY ***
+Total pot 260 | Rake 0
+Seat 1: lvggg collected (260)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 47 **************
+PokerStars Hand #214227522760: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:22:05 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 1: lvggg (730 in chips)
+Seat 2: mfranzreb (1367 in chips)
+Seat 3: elketefuka (2966 in chips)
+Seat 5: frasharri (2957 in chips)
+Seat 6: Bmineral (2686 in chips)
+Seat 8: Sagandyk O. (2794 in chips)
+lvggg: posts the ante 10
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+Sagandyk O.: posts small blind 40
+lvggg: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts 8d]
+mfranzreb: folds
+elketefuka: folds
+frasharri: raises 160 to 240
+Bmineral: folds
+Sagandyk O.: folds
+lvggg: raises 480 to 720 and is all-in
+frasharri: calls 480
+*** FLOP *** [7d 4h Td]
+*** TURN *** [7d 4h Td] [6c]
+*** RIVER *** [7d 4h Td 6c] [4s]
+*** SHOW DOWN ***
+lvggg: shows [Qc Ac] (a pair of Fours)
+frasharri: shows [Qs Qd] (two pair, Queens and Fours)
+frasharri collected 1540 from pot
+lvggg finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 1540 | Rake 0
+Board [7d 4h Td 6c 4s]
+Seat 1: lvggg (big blind) showed [Qc Ac] and lost with a pair of Fours
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri showed [Qs Qd] and won (1540) with two pair, Queens and Fours
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 48 **************
+PokerStars Hand #214227538591: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:22:31 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 2: mfranzreb (1357 in chips)
+Seat 3: elketefuka (2956 in chips)
+Seat 5: frasharri (3767 in chips)
+Seat 6: Bmineral (2676 in chips)
+Seat 8: Sagandyk O. (2744 in chips)
+mfranzreb: posts the ante 10
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+mfranzreb: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [7s Ac]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: raises 250 to 330
+mfranzreb: calls 290
+elketefuka: calls 250
+*** FLOP *** [6c 4h 9h]
+mfranzreb: checks
+elketefuka: checks
+Sagandyk O.: bets 960
+mfranzreb: raises 57 to 1017 and is all-in
+elketefuka: folds
+Sagandyk O.: calls 57
+*** TURN *** [6c 4h 9h] [4d]
+*** RIVER *** [6c 4h 9h 4d] [Kc]
+*** SHOW DOWN ***
+mfranzreb: shows [Tc Td] (two pair, Tens and Fours)
+Sagandyk O.: shows [Kd Kh] (a full house, Kings full of Fours)
+Sagandyk O. collected 3074 from pot
+mfranzreb finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 3074 | Rake 0
+Board [6c 4h 9h 4d Kc]
+Seat 2: mfranzreb (small blind) showed [Tc Td] and lost with two pair, Tens and Fours
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) showed [Kd Kh] and won (3074) with a full house, Kings full of Fours
+
+
+*********** # 49 **************
+PokerStars Hand #214227576271: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:23:35 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (2616 in chips)
+Seat 5: frasharri (3757 in chips)
+Seat 6: Bmineral (2666 in chips)
+Seat 8: Sagandyk O. (4461 in chips)
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+frasharri: posts small blind 40
+Bmineral: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8h 9c]
+Sagandyk O.: calls 80
+elketefuka: calls 80
+frasharri: folds
+Bmineral: raises 240 to 320
+Sagandyk O.: calls 240
+elketefuka: calls 240
+*** FLOP *** [7d Td Kc]
+Bmineral: bets 686
+Sagandyk O.: folds
+elketefuka: calls 686
+*** TURN *** [7d Td Kc] [Kh]
+Bmineral: bets 1650 and is all-in
+elketefuka: folds
+Uncalled bet (1650) returned to Bmineral
+Bmineral collected 2412 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 2412 | Rake 0
+Board [7d Td Kc Kh]
+Seat 3: elketefuka (button) folded on the Turn
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) collected (2412)
+Seat 8: Sagandyk O. folded on the Flop
+
+
+*********** # 50 **************
+PokerStars Hand #214227599223: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:24:13 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (1600 in chips)
+Seat 5: frasharri (3707 in chips)
+Seat 6: Bmineral (4062 in chips)
+Seat 8: Sagandyk O. (4131 in chips)
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+Bmineral: posts small blind 40
+Sagandyk O.: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [9c As]
+elketefuka: raises 80 to 160
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: calls 80
+*** FLOP *** [6s Ah Jd]
+Sagandyk O.: checks
+elketefuka: bets 200
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 400 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [6s Ah Jd]
+Seat 3: elketefuka collected (400)
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 51 **************
+PokerStars Hand #214227610445: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:24:32 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (1830 in chips)
+Seat 5: frasharri (3697 in chips)
+Seat 6: Bmineral (4012 in chips)
+Seat 8: Sagandyk O. (3961 in chips)
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+Sagandyk O.: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Th Qd]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (40) returned to elketefuka
+elketefuka collected 120 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 120 | Rake 0
+Seat 3: elketefuka (big blind) collected (120)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 52 **************
+PokerStars Hand #214227616919: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level IV (40/80) - 2020/05/21 10:24:43 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (1900 in chips)
+Seat 5: frasharri (3687 in chips)
+Seat 6: Bmineral (4002 in chips)
+Seat 8: Sagandyk O. (3911 in chips)
+elketefuka: posts the ante 10
+frasharri: posts the ante 10
+Bmineral: posts the ante 10
+Sagandyk O.: posts the ante 10
+elketefuka: posts small blind 40
+frasharri: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [6h Td]
+Bmineral: folds
+Sagandyk O.: folds
+elketefuka: calls 40
+frasharri: checks
+*** FLOP *** [Kd Qh 5s]
+elketefuka: bets 100
+frasharri: folds
+Uncalled bet (100) returned to elketefuka
+elketefuka collected 200 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Kd Qh 5s]
+Seat 3: elketefuka (small blind) collected (200)
+Seat 5: frasharri (big blind) folded on the Flop
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 53 **************
+PokerStars Hand #214227628316: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:25:02 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (2010 in chips)
+Seat 5: frasharri (3597 in chips)
+Seat 6: Bmineral (3992 in chips)
+Seat 8: Sagandyk O. (3901 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+frasharri: posts small blind 60
+Bmineral: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac Tc]
+Sagandyk O.: folds
+elketefuka: raises 240 to 360
+frasharri: folds
+Bmineral: calls 240
+*** FLOP *** [3d Td Ts]
+Bmineral: checks
+elketefuka: checks
+*** TURN *** [3d Td Ts] [Th]
+Bmineral: checks
+elketefuka: checks
+*** RIVER *** [3d Td Ts Th] [Jc]
+Bmineral: checks
+elketefuka: bets 420
+Bmineral: calls 420
+*** SHOW DOWN ***
+elketefuka: shows [Ac Tc] (four of a kind, Tens)
+Bmineral: mucks hand
+elketefuka collected 1680 from pot
+*** SUMMARY ***
+Total pot 1680 | Rake 0
+Board [3d Td Ts Th Jc]
+Seat 3: elketefuka (button) showed [Ac Tc] and won (1680) with four of a kind, Tens
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) mucked [Kc Qc]
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 54 **************
+PokerStars Hand #214227654963: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:25:48 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (2895 in chips)
+Seat 5: frasharri (3522 in chips)
+Seat 6: Bmineral (3197 in chips)
+Seat 8: Sagandyk O. (3886 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Bmineral: posts small blind 60
+Sagandyk O.: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [4d 3h]
+elketefuka: folds
+frasharri: raises 240 to 360
+Bmineral: raises 720 to 1080
+Sagandyk O.: raises 2791 to 3871 and is all-in
+frasharri: folds
+Bmineral: calls 2102 and is all-in
+Uncalled bet (689) returned to Sagandyk O.
+*** FLOP *** [2d Ac Th]
+*** TURN *** [2d Ac Th] [6s]
+*** RIVER *** [2d Ac Th 6s] [Ah]
+*** SHOW DOWN ***
+Bmineral: shows [Ad Kd] (three of a kind, Aces)
+Sagandyk O.: shows [As Kc] (three of a kind, Aces)
+Bmineral collected 3392 from pot
+Sagandyk O. collected 3392 from pot
+*** SUMMARY ***
+Total pot 6784 | Rake 0
+Board [2d Ac Th 6s Ah]
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) folded before Flop
+Seat 6: Bmineral (small blind) showed [Ad Kd] and won (3392) with three of a kind, Aces
+Seat 8: Sagandyk O. (big blind) showed [As Kc] and won (3392) with three of a kind, Aces
+
+
+*********** # 55 **************
+PokerStars Hand #214227677449: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:26:26 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (2880 in chips)
+Seat 5: frasharri (3147 in chips)
+Seat 6: Bmineral (3392 in chips)
+Seat 8: Sagandyk O. (4081 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Sagandyk O.: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc 3s]
+frasharri: folds
+Bmineral: raises 180 to 300
+Sagandyk O.: folds
+elketefuka: folds
+Uncalled bet (180) returned to Bmineral
+Bmineral collected 360 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) collected (360)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 56 **************
+PokerStars Hand #214227688122: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:26:44 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (2745 in chips)
+Seat 5: frasharri (3132 in chips)
+Seat 6: Bmineral (3617 in chips)
+Seat 8: Sagandyk O. (4006 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+elketefuka: posts small blind 60
+frasharri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [6c 5s]
+Bmineral: folds
+Sagandyk O.: folds
+elketefuka: calls 60
+frasharri: checks
+*** FLOP *** [Qh Th 6s]
+elketefuka: bets 120
+frasharri: raises 360 to 480
+elketefuka: calls 360
+*** TURN *** [Qh Th 6s] [Qd]
+elketefuka: checks
+frasharri: checks
+*** RIVER *** [Qh Th 6s Qd] [8c]
+elketefuka: bets 630
+frasharri: folds
+Uncalled bet (630) returned to elketefuka
+elketefuka collected 1260 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1260 | Rake 0
+Board [Qh Th 6s Qd 8c]
+Seat 3: elketefuka (small blind) collected (1260)
+Seat 5: frasharri (big blind) folded on the River
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 57 **************
+PokerStars Hand #214227711676: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:27:24 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (3390 in chips)
+Seat 5: frasharri (2517 in chips)
+Seat 6: Bmineral (3602 in chips)
+Seat 8: Sagandyk O. (3991 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+frasharri: posts small blind 60
+Bmineral: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Td 7d]
+Sagandyk O.: folds
+elketefuka: raises 120 to 240
+frasharri: folds
+Bmineral: calls 120
+*** FLOP *** [8c 3d Qd]
+Bmineral: checks
+elketefuka: bets 300
+Bmineral: folds
+Uncalled bet (300) returned to elketefuka
+elketefuka collected 600 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [8c 3d Qd]
+Seat 3: elketefuka (button) collected (600)
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) folded on the Flop
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 58 **************
+PokerStars Hand #214227724471: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:27:46 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (3735 in chips)
+Seat 5: frasharri (2442 in chips)
+Seat 6: Bmineral (3347 in chips)
+Seat 8: Sagandyk O. (3976 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Bmineral: posts small blind 60
+Sagandyk O.: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [3s Kd]
+elketefuka: folds
+frasharri: folds
+Bmineral: raises 180 to 300
+Sagandyk O.: raises 780 to 1080
+Bmineral: folds
+Uncalled bet (780) returned to Sagandyk O.
+Sagandyk O. collected 660 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 660 | Rake 0
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (660)
+
+
+*********** # 59 **************
+PokerStars Hand #214227742339: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:28:16 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (3720 in chips)
+Seat 5: frasharri (2427 in chips)
+Seat 6: Bmineral (3032 in chips)
+Seat 8: Sagandyk O. (4321 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Sagandyk O.: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [5d Qs]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: calls 60
+elketefuka: checks
+*** FLOP *** [Kh 9s Qd]
+Sagandyk O.: checks
+elketefuka: bets 150
+Sagandyk O.: folds
+Uncalled bet (150) returned to elketefuka
+elketefuka collected 300 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Board [Kh 9s Qd]
+Seat 3: elketefuka (big blind) collected (300)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded on the Flop
+
+
+*********** # 60 **************
+PokerStars Hand #214227751644: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:28:32 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (3885 in chips)
+Seat 5: frasharri (2412 in chips)
+Seat 6: Bmineral (3017 in chips)
+Seat 8: Sagandyk O. (4186 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+elketefuka: posts small blind 60
+frasharri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 2h]
+Bmineral: folds
+Sagandyk O.: calls 120
+elketefuka: calls 60
+frasharri: checks
+*** FLOP *** [Qc Tc Qd]
+elketefuka: checks
+frasharri: bets 360
+Sagandyk O.: calls 360
+elketefuka: folds
+*** TURN *** [Qc Tc Qd] [Kh]
+frasharri: bets 360
+Sagandyk O.: calls 360
+*** RIVER *** [Qc Tc Qd Kh] [7d]
+frasharri: bets 360
+Sagandyk O.: calls 360
+*** SHOW DOWN ***
+frasharri: shows [7c Td] (two pair, Queens and Tens)
+Sagandyk O.: shows [Qs Js] (three of a kind, Queens)
+Sagandyk O. collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | Rake 0
+Board [Qc Tc Qd Kh 7d]
+Seat 3: elketefuka (small blind) folded on the Flop
+Seat 5: frasharri (big blind) showed [7c Td] and lost with two pair, Queens and Tens
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) showed [Qs Js] and won (2580) with three of a kind, Queens
+
+
+*********** # 61 **************
+PokerStars Hand #214227775946: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:29:13 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (3750 in chips)
+Seat 5: frasharri (1197 in chips)
+Seat 6: Bmineral (3002 in chips)
+Seat 8: Sagandyk O. (5551 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+frasharri: posts small blind 60
+Bmineral: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd 5s]
+Sagandyk O.: folds
+elketefuka: folds
+frasharri: folds
+Uncalled bet (60) returned to Bmineral
+Bmineral collected 180 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) collected (180)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 62 **************
+PokerStars Hand #214227782336: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:29:24 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (3735 in chips)
+Seat 5: frasharri (1122 in chips)
+Seat 6: Bmineral (3107 in chips)
+Seat 8: Sagandyk O. (5536 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Bmineral: posts small blind 60
+Sagandyk O.: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [6h 7h]
+elketefuka: raises 120 to 240
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (120) returned to elketefuka
+elketefuka collected 360 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 3: elketefuka collected (360)
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 63 **************
+PokerStars Hand #214227793171: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:29:42 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (3960 in chips)
+Seat 5: frasharri (1107 in chips)
+Seat 6: Bmineral (3032 in chips)
+Seat 8: Sagandyk O. (5401 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Sagandyk O.: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [As 3c]
+frasharri: folds
+Bmineral: raises 180 to 300
+Sagandyk O.: folds
+elketefuka: calls 180
+*** FLOP *** [Qd 8c 4s]
+elketefuka: checks
+Bmineral: bets 216
+elketefuka: folds
+Uncalled bet (216) returned to Bmineral
+Bmineral collected 720 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 720 | Rake 0
+Board [Qd 8c 4s]
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) collected (720)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 64 **************
+PokerStars Hand #214227807789: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:30:06 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (3645 in chips)
+Seat 5: frasharri (1092 in chips)
+Seat 6: Bmineral (3437 in chips)
+Seat 8: Sagandyk O. (5326 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+elketefuka: posts small blind 60
+frasharri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Th As]
+Bmineral: folds
+Sagandyk O.: folds
+elketefuka: raises 120 to 240
+frasharri: raises 837 to 1077 and is all-in
+elketefuka: calls 837
+*** FLOP *** [Ad 7h 2s]
+*** TURN *** [Ad 7h 2s] [5c]
+*** RIVER *** [Ad 7h 2s 5c] [Ks]
+*** SHOW DOWN ***
+elketefuka: shows [Th As] (a pair of Aces)
+frasharri: shows [7s Kc] (two pair, Kings and Sevens)
+frasharri collected 2214 from pot
+*** SUMMARY ***
+Total pot 2214 | Rake 0
+Board [Ad 7h 2s 5c Ks]
+Seat 3: elketefuka (small blind) showed [Th As] and lost with a pair of Aces
+Seat 5: frasharri (big blind) showed [7s Kc] and won (2214) with two pair, Kings and Sevens
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 65 **************
+PokerStars Hand #214227820149: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:30:27 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (2553 in chips)
+Seat 5: frasharri (2214 in chips)
+Seat 6: Bmineral (3422 in chips)
+Seat 8: Sagandyk O. (5311 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+frasharri: posts small blind 60
+Bmineral: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks Th]
+Sagandyk O.: folds
+elketefuka: raises 240 to 360
+frasharri: folds
+Bmineral: folds
+Uncalled bet (240) returned to elketefuka
+elketefuka collected 360 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 3: elketefuka (button) collected (360)
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 66 **************
+PokerStars Hand #214227829164: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:30:42 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (2778 in chips)
+Seat 5: frasharri (2139 in chips)
+Seat 6: Bmineral (3287 in chips)
+Seat 8: Sagandyk O. (5296 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Bmineral: posts small blind 60
+Sagandyk O.: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ah 7s]
+elketefuka: calls 120
+frasharri: raises 120 to 240
+Bmineral: calls 180
+Sagandyk O.: calls 120
+elketefuka: calls 120
+*** FLOP *** [2h Jc 5d]
+Bmineral: checks
+Sagandyk O.: checks
+elketefuka: checks
+frasharri: checks
+*** TURN *** [2h Jc 5d] [4c]
+Bmineral: checks
+Sagandyk O.: checks
+elketefuka: checks
+frasharri: checks
+*** RIVER *** [2h Jc 5d 4c] [4h]
+Bmineral: checks
+Sagandyk O.: checks
+elketefuka: checks
+frasharri: checks
+*** SHOW DOWN ***
+Bmineral: shows [As 9s] (a pair of Fours)
+Sagandyk O.: shows [7d 7h] (two pair, Sevens and Fours)
+elketefuka: mucks hand
+frasharri: mucks hand
+Sagandyk O. collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Board [2h Jc 5d 4c 4h]
+Seat 3: elketefuka mucked [Ah 7s]
+Seat 5: frasharri (button) mucked [Td Qd]
+Seat 6: Bmineral (small blind) showed [As 9s] and lost with a pair of Fours
+Seat 8: Sagandyk O. (big blind) showed [7d 7h] and won (1020) with two pair, Sevens and Fours
+
+
+*********** # 67 **************
+PokerStars Hand #214227855164: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:31:26 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (2523 in chips)
+Seat 5: frasharri (1884 in chips)
+Seat 6: Bmineral (3032 in chips)
+Seat 8: Sagandyk O. (6061 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Sagandyk O.: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [5d 3h]
+frasharri: raises 120 to 240
+Bmineral: folds
+Sagandyk O.: calls 180
+elketefuka: calls 120
+*** FLOP *** [8h Qd Ad]
+Sagandyk O.: bets 240
+elketefuka: folds
+frasharri: calls 240
+*** TURN *** [8h Qd Ad] [As]
+Sagandyk O.: checks
+frasharri: checks
+*** RIVER *** [8h Qd Ad As] [6c]
+Sagandyk O.: checks
+frasharri: bets 1389 and is all-in
+Sagandyk O.: folds
+Uncalled bet (1389) returned to frasharri
+frasharri collected 1260 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 1260 | Rake 0
+Board [8h Qd Ad As 6c]
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: frasharri collected (1260)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded on the River
+
+
+*********** # 68 **************
+PokerStars Hand #214227878517: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:32:05 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (2268 in chips)
+Seat 5: frasharri (2649 in chips)
+Seat 6: Bmineral (3017 in chips)
+Seat 8: Sagandyk O. (5566 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+elketefuka: posts small blind 60
+frasharri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 8c]
+Bmineral: raises 180 to 300
+Sagandyk O.: folds
+elketefuka: folds
+frasharri: folds
+Uncalled bet (180) returned to Bmineral
+Bmineral collected 360 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: frasharri (big blind) folded before Flop
+Seat 6: Bmineral collected (360)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 69 **************
+PokerStars Hand #214227887367: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:32:20 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (2193 in chips)
+Seat 5: frasharri (2514 in chips)
+Seat 6: Bmineral (3242 in chips)
+Seat 8: Sagandyk O. (5551 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+frasharri: posts small blind 60
+Bmineral: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd 7h]
+Sagandyk O.: folds
+elketefuka: folds
+frasharri: folds
+Uncalled bet (60) returned to Bmineral
+Bmineral collected 180 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 5: frasharri (small blind) folded before Flop
+Seat 6: Bmineral (big blind) collected (180)
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 70 **************
+PokerStars Hand #214227892221: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:32:28 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (2178 in chips)
+Seat 5: frasharri (2439 in chips)
+Seat 6: Bmineral (3347 in chips)
+Seat 8: Sagandyk O. (5536 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Bmineral: posts small blind 60
+Sagandyk O.: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh 5c]
+elketefuka: folds
+frasharri: folds
+Bmineral: raises 180 to 300
+Sagandyk O.: folds
+Uncalled bet (180) returned to Bmineral
+Bmineral collected 300 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) collected (300)
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 71 **************
+PokerStars Hand #214227909163: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:32:56 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (2163 in chips)
+Seat 5: frasharri (2424 in chips)
+Seat 6: Bmineral (3512 in chips)
+Seat 8: Sagandyk O. (5401 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Sagandyk O.: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 6h]
+frasharri: folds
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (60) returned to elketefuka
+elketefuka collected 180 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 180 | Rake 0
+Seat 3: elketefuka (big blind) collected (180)
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 72 **************
+PokerStars Hand #214227914957: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:33:06 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (2268 in chips)
+Seat 5: frasharri (2409 in chips)
+Seat 6: Bmineral (3497 in chips)
+Seat 8: Sagandyk O. (5326 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+elketefuka: posts small blind 60
+frasharri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [6d Js]
+Bmineral: folds
+Sagandyk O.: raises 240 to 360
+elketefuka: folds
+frasharri: calls 240
+*** FLOP *** [As 4s Ad]
+frasharri: checks
+Sagandyk O.: bets 360
+frasharri: folds
+Uncalled bet (360) returned to Sagandyk O.
+Sagandyk O. collected 840 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [As 4s Ad]
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: frasharri (big blind) folded on the Flop
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) collected (840)
+
+
+*********** # 73 **************
+PokerStars Hand #214227927876: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:33:27 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (2193 in chips)
+Seat 5: frasharri (2034 in chips)
+Seat 6: Bmineral (3482 in chips)
+Seat 8: Sagandyk O. (5791 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+frasharri: posts small blind 60
+Bmineral: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 5h]
+Sagandyk O.: folds
+elketefuka: raises 120 to 240
+frasharri: calls 180
+Bmineral: folds
+*** FLOP *** [Ts 6s Jh]
+frasharri: bets 360
+elketefuka: calls 360
+*** TURN *** [Ts 6s Jh] [4s]
+frasharri: checks
+elketefuka: bets 1578 and is all-in
+frasharri: folds
+Uncalled bet (1578) returned to elketefuka
+elketefuka collected 1380 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1380 | Rake 0
+Board [Ts 6s Jh 4s]
+Seat 3: elketefuka (button) collected (1380)
+Seat 5: frasharri (small blind) folded on the Turn
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 74 **************
+PokerStars Hand #214227949123: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:34:03 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (2958 in chips)
+Seat 5: frasharri (1419 in chips)
+Seat 6: Bmineral (3347 in chips)
+Seat 8: Sagandyk O. (5776 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Bmineral: posts small blind 60
+Sagandyk O.: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [4d Ac]
+elketefuka: folds
+frasharri: raises 240 to 360
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (240) returned to frasharri
+frasharri collected 360 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) collected (360)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 75 **************
+PokerStars Hand #214227960194: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:34:21 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (2943 in chips)
+Seat 5: frasharri (1644 in chips)
+Seat 6: Bmineral (3272 in chips)
+Seat 8: Sagandyk O. (5641 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+Sagandyk O.: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh 5c]
+frasharri: folds
+Bmineral: raises 180 to 300
+Sagandyk O.: folds
+elketefuka: folds
+Uncalled bet (180) returned to Bmineral
+Bmineral collected 360 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 5: frasharri folded before Flop (didn't bet)
+Seat 6: Bmineral (button) collected (360)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 76 **************
+PokerStars Hand #214227969033: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level V (60/120) - 2020/05/21 10:34:36 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (2808 in chips)
+Seat 5: frasharri (1629 in chips)
+Seat 6: Bmineral (3497 in chips)
+Seat 8: Sagandyk O. (5566 in chips)
+elketefuka: posts the ante 15
+frasharri: posts the ante 15
+Bmineral: posts the ante 15
+Sagandyk O.: posts the ante 15
+elketefuka: posts small blind 60
+frasharri: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [2d 2s]
+Bmineral: folds
+Sagandyk O.: folds
+elketefuka: calls 60
+frasharri: checks
+*** FLOP *** [8s 5s 9h]
+elketefuka: checks
+frasharri: checks
+*** TURN *** [8s 5s 9h] [3c]
+elketefuka: bets 150
+frasharri: raises 300 to 450
+elketefuka: folds
+Uncalled bet (300) returned to frasharri
+frasharri collected 600 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [8s 5s 9h 3c]
+Seat 3: elketefuka (small blind) folded on the Turn
+Seat 5: frasharri (big blind) collected (600)
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 77 **************
+PokerStars Hand #214227983406: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:35:01 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (2523 in chips)
+Seat 5: frasharri (1944 in chips)
+Seat 6: Bmineral (3482 in chips)
+Seat 8: Sagandyk O. (5551 in chips)
+elketefuka: posts the ante 20
+frasharri: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+frasharri: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [3c 7s]
+Sagandyk O.: folds
+elketefuka: folds
+frasharri: raises 160 to 320
+Bmineral: folds
+Uncalled bet (160) returned to frasharri
+frasharri collected 400 from pot
+frasharri: doesn't show hand
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 5: frasharri (small blind) collected (400)
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. folded before Flop (didn't bet)
+
+
+*********** # 78 **************
+PokerStars Hand #214227990330: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:35:12 ET
+Table '2912130171 1' 9-max Seat #5 is the button
+Seat 3: elketefuka (2503 in chips)
+Seat 5: frasharri (2164 in chips)
+Seat 6: Bmineral (3302 in chips)
+Seat 8: Sagandyk O. (5531 in chips)
+elketefuka: posts the ante 20
+frasharri: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [5d 8d]
+elketefuka: folds
+frasharri: raises 160 to 320
+Bmineral: folds
+Sagandyk O.: calls 160
+*** FLOP *** [2h Ts Js]
+Sagandyk O.: checks
+frasharri: bets 160
+Sagandyk O.: calls 160
+*** TURN *** [2h Ts Js] [6d]
+Sagandyk O.: bets 480
+frasharri: calls 480
+*** RIVER *** [2h Ts Js 6d] [Kd]
+Sagandyk O.: bets 960
+frasharri: folds
+Uncalled bet (960) returned to Sagandyk O.
+Sagandyk O. collected 2080 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 2080 | Rake 0
+Board [2h Ts Js 6d Kd]
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: frasharri (button) folded on the River
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (2080)
+
+
+*********** # 79 **************
+PokerStars Hand #214228009998: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:35:46 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (2483 in chips)
+Seat 5: frasharri (1184 in chips)
+Seat 6: Bmineral (3202 in chips)
+Seat 8: Sagandyk O. (6631 in chips)
+elketefuka: posts the ante 20
+frasharri: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [4s 5h]
+frasharri: raises 160 to 320
+Bmineral: folds
+Sagandyk O.: calls 240
+elketefuka: calls 160
+*** FLOP *** [2d Ks Jh]
+Sagandyk O.: bets 960
+elketefuka: folds
+frasharri: folds
+Uncalled bet (960) returned to Sagandyk O.
+Sagandyk O. collected 1040 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 1040 | Rake 0
+Board [2d Ks Jh]
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: frasharri folded on the Flop
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) collected (1040)
+
+
+*********** # 80 **************
+PokerStars Hand #214228024104: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:36:10 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (2143 in chips)
+Seat 5: frasharri (844 in chips)
+Seat 6: Bmineral (3182 in chips)
+Seat 8: Sagandyk O. (7331 in chips)
+elketefuka: posts the ante 20
+frasharri: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+frasharri: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [5d Qs]
+Bmineral: folds
+Sagandyk O.: folds
+elketefuka: calls 80
+frasharri: raises 664 to 824 and is all-in
+elketefuka: calls 664
+*** FLOP *** [Qh Qd 6c]
+*** TURN *** [Qh Qd 6c] [8h]
+*** RIVER *** [Qh Qd 6c 8h] [9s]
+*** SHOW DOWN ***
+elketefuka: shows [5d Qs] (three of a kind, Queens)
+frasharri: shows [4s Jh] (a pair of Queens)
+elketefuka collected 1728 from pot
+frasharri finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1728 | Rake 0
+Board [Qh Qd 6c 8h 9s]
+Seat 3: elketefuka (small blind) showed [5d Qs] and won (1728) with three of a kind, Queens
+Seat 5: frasharri (big blind) showed [4s Jh] and lost with a pair of Queens
+Seat 6: Bmineral folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 81 **************
+PokerStars Hand #214228038234: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:36:33 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (3027 in chips)
+Seat 6: Bmineral (3162 in chips)
+Seat 8: Sagandyk O. (7311 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [6s Td]
+elketefuka: folds
+Bmineral: raises 240 to 400
+Sagandyk O.: calls 240
+*** FLOP *** [3d Js Ac]
+Bmineral: bets 258
+Sagandyk O.: folds
+Uncalled bet (258) returned to Bmineral
+Bmineral collected 860 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 860 | Rake 0
+Board [3d Js Ac]
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) collected (860)
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 82 **************
+PokerStars Hand #214228052942: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:36:58 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (3007 in chips)
+Seat 6: Bmineral (3602 in chips)
+Seat 8: Sagandyk O. (6891 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 9c]
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (80) returned to elketefuka
+elketefuka collected 220 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 3: elketefuka (big blind) collected (220)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 83 **************
+PokerStars Hand #214228059059: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:37:08 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (3127 in chips)
+Seat 6: Bmineral (3582 in chips)
+Seat 8: Sagandyk O. (6791 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [5d 2s]
+Sagandyk O.: calls 160
+elketefuka: folds
+Bmineral: checks
+*** FLOP *** [Ac 7d Ad]
+Bmineral: checks
+Sagandyk O.: checks
+*** TURN *** [Ac 7d Ad] [4d]
+Bmineral: checks
+Sagandyk O.: checks
+*** RIVER *** [Ac 7d Ad 4d] [Qc]
+Bmineral: bets 160
+Sagandyk O.: folds
+Uncalled bet (160) returned to Bmineral
+Bmineral collected 460 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 460 | Rake 0
+Board [Ac 7d Ad 4d Qc]
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 6: Bmineral (big blind) collected (460)
+Seat 8: Sagandyk O. (button) folded on the River
+
+
+*********** # 84 **************
+PokerStars Hand #214228081787: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:37:46 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (3027 in chips)
+Seat 6: Bmineral (3862 in chips)
+Seat 8: Sagandyk O. (6611 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd 6s]
+elketefuka: folds
+Bmineral: raises 240 to 400
+Sagandyk O.: calls 240
+*** FLOP *** [Ac 9d 5c]
+Bmineral: bets 430
+Sagandyk O.: folds
+Uncalled bet (430) returned to Bmineral
+Bmineral collected 860 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 860 | Rake 0
+Board [Ac 9d 5c]
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) collected (860)
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 85 **************
+PokerStars Hand #214228098029: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:38:13 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (3007 in chips)
+Seat 6: Bmineral (4302 in chips)
+Seat 8: Sagandyk O. (6191 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [4d Th]
+Bmineral: folds
+Sagandyk O.: raises 320 to 480
+elketefuka: folds
+Uncalled bet (320) returned to Sagandyk O.
+Sagandyk O. collected 380 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) collected (380)
+
+
+*********** # 86 **************
+PokerStars Hand #214228104640: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:38:24 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (2827 in chips)
+Seat 6: Bmineral (4282 in chips)
+Seat 8: Sagandyk O. (6391 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [6d 9s]
+Sagandyk O.: folds
+elketefuka: folds
+Uncalled bet (80) returned to Bmineral
+Bmineral collected 220 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 6: Bmineral (big blind) collected (220)
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 87 **************
+PokerStars Hand #214228109313: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:38:32 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (2727 in chips)
+Seat 6: Bmineral (4402 in chips)
+Seat 8: Sagandyk O. (6371 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [7c 6h]
+elketefuka: folds
+Bmineral: folds
+Uncalled bet (80) returned to Sagandyk O.
+Sagandyk O. collected 220 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (220)
+
+
+*********** # 88 **************
+PokerStars Hand #214228114756: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:38:41 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (2707 in chips)
+Seat 6: Bmineral (4302 in chips)
+Seat 8: Sagandyk O. (6491 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 5c]
+Bmineral: folds
+Sagandyk O.: calls 80
+elketefuka: raises 320 to 480
+Sagandyk O.: folds
+Uncalled bet (320) returned to elketefuka
+elketefuka collected 380 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Seat 3: elketefuka (big blind) collected (380)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 89 **************
+PokerStars Hand #214228122472: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:38:54 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (2907 in chips)
+Seat 6: Bmineral (4282 in chips)
+Seat 8: Sagandyk O. (6311 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [8s Kh]
+Sagandyk O.: folds
+elketefuka: raises 160 to 320
+Bmineral: folds
+Uncalled bet (160) returned to elketefuka
+elketefuka collected 380 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Seat 3: elketefuka (small blind) collected (380)
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 90 **************
+PokerStars Hand #214228128421: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:39:04 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (3107 in chips)
+Seat 6: Bmineral (4102 in chips)
+Seat 8: Sagandyk O. (6291 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [2c Kd]
+elketefuka: folds
+Bmineral: folds
+Uncalled bet (80) returned to Sagandyk O.
+Sagandyk O. collected 220 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (220)
+
+
+*********** # 91 **************
+PokerStars Hand #214228136417: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:39:17 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (3087 in chips)
+Seat 6: Bmineral (4002 in chips)
+Seat 8: Sagandyk O. (6411 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts 4d]
+Bmineral: folds
+Sagandyk O.: calls 80
+elketefuka: checks
+*** FLOP *** [Kh 7s Ks]
+Sagandyk O.: checks
+elketefuka: bets 190
+Sagandyk O.: folds
+Uncalled bet (190) returned to elketefuka
+elketefuka collected 380 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Board [Kh 7s Ks]
+Seat 3: elketefuka (big blind) collected (380)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded on the Flop
+
+
+*********** # 92 **************
+PokerStars Hand #214228148963: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:39:38 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (3287 in chips)
+Seat 6: Bmineral (3982 in chips)
+Seat 8: Sagandyk O. (6231 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac Kd]
+Sagandyk O.: folds
+elketefuka: raises 320 to 480
+Bmineral: folds
+Uncalled bet (320) returned to elketefuka
+elketefuka collected 380 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Seat 3: elketefuka (small blind) collected (380)
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 93 **************
+PokerStars Hand #214228157561: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:39:52 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (3487 in chips)
+Seat 6: Bmineral (3802 in chips)
+Seat 8: Sagandyk O. (6211 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 7s]
+elketefuka: folds
+Bmineral: folds
+Uncalled bet (80) returned to Sagandyk O.
+Sagandyk O. collected 220 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (220)
+
+
+*********** # 94 **************
+PokerStars Hand #214228164444: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:40:04 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (3467 in chips)
+Seat 6: Bmineral (3702 in chips)
+Seat 8: Sagandyk O. (6331 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Td Ks]
+Bmineral: folds
+Sagandyk O.: calls 80
+elketefuka: raises 160 to 320
+Sagandyk O.: calls 160
+*** FLOP *** [8h As Qd]
+Sagandyk O.: bets 320
+elketefuka: calls 320
+*** TURN *** [8h As Qd] [5s]
+Sagandyk O.: checks
+elketefuka: checks
+*** RIVER *** [8h As Qd 5s] [Ad]
+Sagandyk O.: bets 480
+elketefuka: raises 2327 to 2807 and is all-in
+Sagandyk O.: folds
+Uncalled bet (2327) returned to elketefuka
+elketefuka collected 2300 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 2300 | Rake 0
+Board [8h As Qd 5s Ad]
+Seat 3: elketefuka (big blind) collected (2300)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded on the River
+
+
+*********** # 95 **************
+PokerStars Hand #214228194496: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:40:53 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (4627 in chips)
+Seat 6: Bmineral (3682 in chips)
+Seat 8: Sagandyk O. (5191 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Ah 5h]
+Sagandyk O.: folds
+elketefuka: raises 160 to 320
+Bmineral: folds
+Uncalled bet (160) returned to elketefuka
+elketefuka collected 380 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Seat 3: elketefuka (small blind) collected (380)
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 96 **************
+PokerStars Hand #214228201342: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:41:05 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (4827 in chips)
+Seat 6: Bmineral (3502 in chips)
+Seat 8: Sagandyk O. (5171 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 3s]
+elketefuka: folds
+Bmineral: raises 240 to 400
+Sagandyk O.: folds
+Uncalled bet (240) returned to Bmineral
+Bmineral collected 380 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) collected (380)
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 97 **************
+PokerStars Hand #214228210234: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:41:20 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (4807 in chips)
+Seat 6: Bmineral (3702 in chips)
+Seat 8: Sagandyk O. (4991 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [8d Kc]
+Bmineral: raises 240 to 400
+Sagandyk O.: calls 320
+elketefuka: folds
+*** FLOP *** [5s 2d Jc]
+Sagandyk O.: checks
+Bmineral: bets 510
+Sagandyk O.: folds
+Uncalled bet (510) returned to Bmineral
+Bmineral collected 1020 from pot
+Bmineral: doesn't show hand
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Board [5s 2d Jc]
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 6: Bmineral (button) collected (1020)
+Seat 8: Sagandyk O. (small blind) folded on the Flop
+
+
+*********** # 98 **************
+PokerStars Hand #214228222695: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:41:41 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (4627 in chips)
+Seat 6: Bmineral (4302 in chips)
+Seat 8: Sagandyk O. (4571 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Jd]
+Sagandyk O.: folds
+elketefuka: raises 160 to 320
+Bmineral: calls 160
+*** FLOP *** [8c 3h 7h]
+elketefuka: bets 350
+Bmineral: calls 350
+*** TURN *** [8c 3h 7h] [2s]
+elketefuka: checks
+Bmineral: checks
+*** RIVER *** [8c 3h 7h 2s] [Js]
+elketefuka: bets 700
+Bmineral: folds
+Uncalled bet (700) returned to elketefuka
+elketefuka collected 1400 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1400 | Rake 0
+Board [8c 3h 7h 2s Js]
+Seat 3: elketefuka (small blind) collected (1400)
+Seat 6: Bmineral (big blind) folded on the River
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 99 **************
+PokerStars Hand #214228244843: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:42:17 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (5337 in chips)
+Seat 6: Bmineral (3612 in chips)
+Seat 8: Sagandyk O. (4551 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [5c Ah]
+elketefuka: raises 320 to 480
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (320) returned to elketefuka
+elketefuka collected 460 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 460 | Rake 0
+Seat 3: elketefuka (button) collected (460)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 100 **************
+PokerStars Hand #214228252649: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:42:30 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (5617 in chips)
+Seat 6: Bmineral (3512 in chips)
+Seat 8: Sagandyk O. (4371 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 9h]
+Bmineral: folds
+Sagandyk O.: calls 80
+elketefuka: raises 320 to 480
+Sagandyk O.: calls 320
+*** FLOP *** [9d Jc 5d]
+Sagandyk O.: checks
+elketefuka: bets 160
+Sagandyk O.: folds
+Uncalled bet (160) returned to elketefuka
+elketefuka collected 1020 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Board [9d Jc 5d]
+Seat 3: elketefuka (big blind) collected (1020)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded on the Flop
+
+
+*********** # 101 **************
+PokerStars Hand #214228263765: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:42:49 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (6137 in chips)
+Seat 6: Bmineral (3492 in chips)
+Seat 8: Sagandyk O. (3871 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [9d 9s]
+Sagandyk O.: folds
+elketefuka: raises 320 to 480
+Bmineral: folds
+Uncalled bet (320) returned to elketefuka
+elketefuka collected 380 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 380 | Rake 0
+Seat 3: elketefuka (small blind) collected (380)
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 102 **************
+PokerStars Hand #214228269644: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:42:59 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (6337 in chips)
+Seat 6: Bmineral (3312 in chips)
+Seat 8: Sagandyk O. (3851 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd 2h]
+elketefuka: folds
+Bmineral: raises 240 to 400
+Sagandyk O.: calls 240
+*** FLOP *** [6s 3d 8c]
+Bmineral: checks
+Sagandyk O.: bets 320
+Bmineral: folds
+Uncalled bet (320) returned to Sagandyk O.
+Sagandyk O. collected 860 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 860 | Rake 0
+Board [6s 3d 8c]
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded on the Flop
+Seat 8: Sagandyk O. (big blind) collected (860)
+
+
+*********** # 103 **************
+PokerStars Hand #214228285816: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:43:26 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (6317 in chips)
+Seat 6: Bmineral (2892 in chips)
+Seat 8: Sagandyk O. (4291 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [6d Th]
+Bmineral: folds
+Sagandyk O.: folds
+Uncalled bet (80) returned to elketefuka
+elketefuka collected 220 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 3: elketefuka (big blind) collected (220)
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) folded before Flop
+
+
+*********** # 104 **************
+PokerStars Hand #214228291548: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:43:35 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (6437 in chips)
+Seat 6: Bmineral (2872 in chips)
+Seat 8: Sagandyk O. (4191 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 2s]
+Sagandyk O.: raises 320 to 480
+elketefuka: folds
+Bmineral: folds
+Uncalled bet (320) returned to Sagandyk O.
+Sagandyk O. collected 460 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 460 | Rake 0
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 6: Bmineral (big blind) folded before Flop
+Seat 8: Sagandyk O. (button) collected (460)
+
+
+*********** # 105 **************
+PokerStars Hand #214228302957: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:43:54 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (6337 in chips)
+Seat 6: Bmineral (2692 in chips)
+Seat 8: Sagandyk O. (4471 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Bmineral: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [3s Kc]
+elketefuka: folds
+Bmineral: folds
+Uncalled bet (80) returned to Sagandyk O.
+Sagandyk O. collected 220 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 220 | Rake 0
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 6: Bmineral (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (220)
+
+
+*********** # 106 **************
+PokerStars Hand #214228308783: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:44:04 ET
+Table '2912130171 1' 9-max Seat #6 is the button
+Seat 3: elketefuka (6317 in chips)
+Seat 6: Bmineral (2592 in chips)
+Seat 8: Sagandyk O. (4591 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+Sagandyk O.: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd 7h]
+Bmineral: folds
+Sagandyk O.: raises 320 to 480
+elketefuka: calls 320
+*** FLOP *** [8c 2d Qd]
+Sagandyk O.: bets 640
+elketefuka: folds
+Uncalled bet (640) returned to Sagandyk O.
+Sagandyk O. collected 1020 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Board [8c 2d Qd]
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 6: Bmineral (button) folded before Flop (didn't bet)
+Seat 8: Sagandyk O. (small blind) collected (1020)
+
+
+*********** # 107 **************
+PokerStars Hand #214228320083: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:44:23 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (5817 in chips)
+Seat 6: Bmineral (2572 in chips)
+Seat 8: Sagandyk O. (5111 in chips)
+elketefuka: posts the ante 20
+Bmineral: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Bmineral: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [6s Ah]
+Sagandyk O.: folds
+elketefuka: calls 80
+Bmineral: raises 480 to 640
+elketefuka: raises 5157 to 5797 and is all-in
+Bmineral: calls 1912 and is all-in
+Uncalled bet (3245) returned to elketefuka
+*** FLOP *** [8c Ts 4h]
+*** TURN *** [8c Ts 4h] [6h]
+*** RIVER *** [8c Ts 4h 6h] [3h]
+*** SHOW DOWN ***
+elketefuka: shows [6s Ah] (a pair of Sixes)
+Bmineral: shows [As 2s] (high card Ace)
+elketefuka collected 5164 from pot
+Bmineral finished the tournament in 3rd place and received $2.32.
+*** SUMMARY ***
+Total pot 5164 | Rake 0
+Board [8c Ts 4h 6h 3h]
+Seat 3: elketefuka (small blind) showed [6s Ah] and won (5164) with a pair of Sixes
+Seat 6: Bmineral (big blind) showed [As 2s] and lost with high card Ace
+Seat 8: Sagandyk O. (button) folded before Flop (didn't bet)
+
+
+*********** # 108 **************
+PokerStars Hand #214228336765: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VI (80/160) - 2020/05/21 10:44:51 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8409 in chips)
+Seat 8: Sagandyk O. (5091 in chips)
+elketefuka: posts the ante 20
+Sagandyk O.: posts the ante 20
+elketefuka: posts small blind 80
+Sagandyk O.: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 4h]
+elketefuka: raises 160 to 320
+Sagandyk O.: calls 160
+*** FLOP *** [6h 2h 5c]
+Sagandyk O.: bets 640
+elketefuka: calls 640
+*** TURN *** [6h 2h 5c] [9s]
+Sagandyk O.: bets 1920
+elketefuka: folds
+Uncalled bet (1920) returned to Sagandyk O.
+Sagandyk O. collected 1960 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 1960 | Rake 0
+Board [6h 2h 5c 9s]
+Seat 3: elketefuka (button) (small blind) folded on the Turn
+Seat 8: Sagandyk O. (big blind) collected (1960)
+
+
+*********** # 109 **************
+PokerStars Hand #214228351286: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:45:15 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (7429 in chips)
+Seat 8: Sagandyk O. (6071 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Ah 8c]
+Sagandyk O.: calls 100
+elketefuka: raises 400 to 600
+Sagandyk O.: calls 400
+*** FLOP *** [Ac Qd Qs]
+elketefuka: bets 625
+Sagandyk O.: folds
+Uncalled bet (625) returned to elketefuka
+elketefuka collected 1250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Board [Ac Qd Qs]
+Seat 3: elketefuka (big blind) collected (1250)
+Seat 8: Sagandyk O. (button) (small blind) folded on the Flop
+
+
+*********** # 110 **************
+PokerStars Hand #214228359528: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:45:29 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8054 in chips)
+Seat 8: Sagandyk O. (5446 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [2s 6s]
+elketefuka: raises 200 to 400
+Sagandyk O.: calls 200
+*** FLOP *** [Js 7c 6c]
+Sagandyk O.: bets 800
+elketefuka: calls 800
+*** TURN *** [Js 7c 6c] [3d]
+Sagandyk O.: bets 2400
+elketefuka: folds
+Uncalled bet (2400) returned to Sagandyk O.
+Sagandyk O. collected 2450 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 2450 | Rake 0
+Board [Js 7c 6c 3d]
+Seat 3: elketefuka (button) (small blind) folded on the Turn
+Seat 8: Sagandyk O. (big blind) collected (2450)
+
+
+*********** # 111 **************
+PokerStars Hand #214228375108: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:45:54 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (6829 in chips)
+Seat 8: Sagandyk O. (6671 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [9c 2h]
+Sagandyk O.: calls 100
+elketefuka: checks
+*** FLOP *** [5h 3s Jc]
+elketefuka: checks
+Sagandyk O.: checks
+*** TURN *** [5h 3s Jc] [4h]
+elketefuka: bets 200
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [5h 3s Jc 4h]
+Seat 3: elketefuka (big blind) collected (450)
+Seat 8: Sagandyk O. (button) (small blind) folded on the Turn
+
+
+*********** # 112 **************
+PokerStars Hand #214228383959: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:46:09 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (7054 in chips)
+Seat 8: Sagandyk O. (6446 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 8c]
+elketefuka: raises 200 to 400
+Sagandyk O.: calls 200
+*** FLOP *** [3h Jd 9c]
+Sagandyk O.: checks
+elketefuka: checks
+*** TURN *** [3h Jd 9c] [2d]
+Sagandyk O.: checks
+elketefuka: bets 425
+Sagandyk O.: folds
+Uncalled bet (425) returned to elketefuka
+elketefuka collected 850 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [3h Jd 9c 2d]
+Seat 3: elketefuka (button) (small blind) collected (850)
+Seat 8: Sagandyk O. (big blind) folded on the Turn
+
+
+*********** # 113 **************
+PokerStars Hand #214228396008: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:46:29 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (7479 in chips)
+Seat 8: Sagandyk O. (6021 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [7c 5c]
+Sagandyk O.: raises 400 to 600
+elketefuka: calls 400
+*** FLOP *** [As Qc 8c]
+elketefuka: bets 625
+Sagandyk O.: folds
+Uncalled bet (625) returned to elketefuka
+elketefuka collected 1250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Board [As Qc 8c]
+Seat 3: elketefuka (big blind) collected (1250)
+Seat 8: Sagandyk O. (button) (small blind) folded on the Flop
+
+
+*********** # 114 **************
+PokerStars Hand #214228406189: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:46:46 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8104 in chips)
+Seat 8: Sagandyk O. (5396 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Td Jc]
+elketefuka: raises 200 to 400
+Sagandyk O.: calls 200
+*** FLOP *** [Kc Qs Th]
+Sagandyk O.: checks
+elketefuka: bets 425
+Sagandyk O.: calls 425
+*** TURN *** [Kc Qs Th] [Qd]
+Sagandyk O.: checks
+elketefuka: bets 850
+Sagandyk O.: folds
+Uncalled bet (850) returned to elketefuka
+elketefuka collected 1700 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1700 | Rake 0
+Board [Kc Qs Th Qd]
+Seat 3: elketefuka (button) (small blind) collected (1700)
+Seat 8: Sagandyk O. (big blind) folded on the Turn
+
+
+*********** # 115 **************
+PokerStars Hand #214228420363: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:47:10 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (8954 in chips)
+Seat 8: Sagandyk O. (4546 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [6h Kh]
+Sagandyk O.: calls 100
+elketefuka: checks
+*** FLOP *** [4s 4d As]
+elketefuka: bets 200
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [4s 4d As]
+Seat 3: elketefuka (big blind) collected (450)
+Seat 8: Sagandyk O. (button) (small blind) folded on the Flop
+
+
+*********** # 116 **************
+PokerStars Hand #214228426865: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:47:21 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9179 in chips)
+Seat 8: Sagandyk O. (4321 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 2d]
+elketefuka: raises 200 to 400
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Seat 3: elketefuka (button) (small blind) collected (450)
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 117 **************
+PokerStars Hand #214228432776: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:47:30 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9404 in chips)
+Seat 8: Sagandyk O. (4096 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [9c 6d]
+Sagandyk O.: calls 100
+elketefuka: checks
+*** FLOP *** [Ks 6s 7d]
+elketefuka: checks
+Sagandyk O.: checks
+*** TURN *** [Ks 6s 7d] [7c]
+elketefuka: bets 200
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Ks 6s 7d 7c]
+Seat 3: elketefuka (big blind) collected (450)
+Seat 8: Sagandyk O. (button) (small blind) folded on the Turn
+
+
+*********** # 118 **************
+PokerStars Hand #214228448188: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:47:56 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9629 in chips)
+Seat 8: Sagandyk O. (3871 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Th Jd]
+elketefuka: raises 200 to 400
+Sagandyk O.: calls 200
+*** FLOP *** [3h Ah 8s]
+Sagandyk O.: checks
+elketefuka: checks
+*** TURN *** [3h Ah 8s] [4h]
+Sagandyk O.: checks
+elketefuka: bets 425
+Sagandyk O.: folds
+Uncalled bet (425) returned to elketefuka
+elketefuka collected 850 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [3h Ah 8s 4h]
+Seat 3: elketefuka (button) (small blind) collected (850)
+Seat 8: Sagandyk O. (big blind) folded on the Turn
+
+
+*********** # 119 **************
+PokerStars Hand #214228461368: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:48:17 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (10054 in chips)
+Seat 8: Sagandyk O. (3446 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc Ad]
+Sagandyk O.: calls 100
+elketefuka: raises 400 to 600
+Sagandyk O.: folds
+Uncalled bet (400) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Seat 3: elketefuka (big blind) collected (450)
+Seat 8: Sagandyk O. (button) (small blind) folded before Flop
+
+
+*********** # 120 **************
+PokerStars Hand #214228470435: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:48:32 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (10279 in chips)
+Seat 8: Sagandyk O. (3221 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [3c 2s]
+elketefuka: calls 100
+Sagandyk O.: checks
+*** FLOP *** [Th Qd 7d]
+Sagandyk O.: checks
+elketefuka: bets 200
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Th Qd 7d]
+Seat 3: elketefuka (button) (small blind) collected (450)
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 121 **************
+PokerStars Hand #214228479865: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:48:48 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (10504 in chips)
+Seat 8: Sagandyk O. (2996 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 4c]
+Sagandyk O.: calls 100
+elketefuka: checks
+*** FLOP *** [2c 2s Kc]
+elketefuka: bets 200
+Sagandyk O.: calls 200
+*** TURN *** [2c 2s Kc] [Jd]
+elketefuka: checks
+Sagandyk O.: bets 800
+elketefuka: folds
+Uncalled bet (800) returned to Sagandyk O.
+Sagandyk O. collected 850 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [2c 2s Kc Jd]
+Seat 3: elketefuka (big blind) folded on the Turn
+Seat 8: Sagandyk O. (button) (small blind) collected (850)
+
+
+*********** # 122 **************
+PokerStars Hand #214228490998: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:49:06 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (10079 in chips)
+Seat 8: Sagandyk O. (3421 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [3d Ah]
+elketefuka: raises 200 to 400
+Sagandyk O.: raises 850 to 1250
+elketefuka: calls 850
+*** FLOP *** [9h Ts 6d]
+Sagandyk O.: bets 2146 and is all-in
+elketefuka: folds
+Uncalled bet (2146) returned to Sagandyk O.
+Sagandyk O. collected 2550 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 2550 | Rake 0
+Board [9h Ts 6d]
+Seat 3: elketefuka (button) (small blind) folded on the Flop
+Seat 8: Sagandyk O. (big blind) collected (2550)
+
+
+*********** # 123 **************
+PokerStars Hand #214228501367: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:49:24 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (8804 in chips)
+Seat 8: Sagandyk O. (4696 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Jh 2h]
+Sagandyk O.: folds
+Uncalled bet (100) returned to elketefuka
+elketefuka collected 250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: elketefuka (big blind) collected (250)
+Seat 8: Sagandyk O. (button) (small blind) folded before Flop
+
+
+*********** # 124 **************
+PokerStars Hand #214228506208: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:49:32 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8929 in chips)
+Seat 8: Sagandyk O. (4571 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [4h Js]
+elketefuka: calls 100
+Sagandyk O.: checks
+*** FLOP *** [Qc 7s Jd]
+Sagandyk O.: checks
+elketefuka: bets 200
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Qc 7s Jd]
+Seat 3: elketefuka (button) (small blind) collected (450)
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 125 **************
+PokerStars Hand #214228513948: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:49:45 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9154 in chips)
+Seat 8: Sagandyk O. (4346 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [6d 3d]
+Sagandyk O.: folds
+Uncalled bet (100) returned to elketefuka
+elketefuka collected 250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: elketefuka (big blind) collected (250)
+Seat 8: Sagandyk O. (button) (small blind) folded before Flop
+
+
+*********** # 126 **************
+PokerStars Hand #214228517965: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:49:51 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9279 in chips)
+Seat 8: Sagandyk O. (4221 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 2h]
+elketefuka: raises 200 to 400
+Sagandyk O.: raises 600 to 1000
+elketefuka: calls 600
+*** FLOP *** [9s 7h 9c]
+Sagandyk O.: bets 2000
+elketefuka: folds
+Uncalled bet (2000) returned to Sagandyk O.
+Sagandyk O. collected 2050 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 2050 | Rake 0
+Board [9s 7h 9c]
+Seat 3: elketefuka (button) (small blind) folded on the Flop
+Seat 8: Sagandyk O. (big blind) collected (2050)
+
+
+*********** # 127 **************
+PokerStars Hand #214228531993: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:50:14 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (8254 in chips)
+Seat 8: Sagandyk O. (5246 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 4c]
+Sagandyk O.: calls 100
+elketefuka: checks
+*** FLOP *** [4d Td Js]
+elketefuka: bets 200
+Sagandyk O.: calls 200
+*** TURN *** [4d Td Js] [7c]
+elketefuka: bets 425
+Sagandyk O.: calls 425
+*** RIVER *** [4d Td Js 7c] [As]
+elketefuka: checks
+Sagandyk O.: checks
+*** SHOW DOWN ***
+elketefuka: shows [8c 4c] (a pair of Fours)
+Sagandyk O.: mucks hand
+elketefuka collected 1700 from pot
+*** SUMMARY ***
+Total pot 1700 | Rake 0
+Board [4d Td Js 7c As]
+Seat 3: elketefuka (big blind) showed [8c 4c] and won (1700) with a pair of Fours
+Seat 8: Sagandyk O. (button) (small blind) mucked [8d 6d]
+
+
+*********** # 128 **************
+PokerStars Hand #214228545863: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:50:37 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9104 in chips)
+Seat 8: Sagandyk O. (4396 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc Qd]
+elketefuka: raises 400 to 600
+Sagandyk O.: folds
+Uncalled bet (400) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Seat 3: elketefuka (button) (small blind) collected (450)
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 129 **************
+PokerStars Hand #214228552484: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:50:48 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9329 in chips)
+Seat 8: Sagandyk O. (4171 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [3c 7c]
+Sagandyk O.: raises 400 to 600
+elketefuka: calls 400
+*** FLOP *** [Ah 7h 2d]
+elketefuka: checks
+Sagandyk O.: bets 1200
+elketefuka: folds
+Uncalled bet (1200) returned to Sagandyk O.
+Sagandyk O. collected 1250 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Board [Ah 7h 2d]
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 8: Sagandyk O. (button) (small blind) collected (1250)
+
+
+*********** # 130 **************
+PokerStars Hand #214228567719: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:51:13 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8704 in chips)
+Seat 8: Sagandyk O. (4796 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [2s Kh]
+elketefuka: raises 200 to 400
+Sagandyk O.: calls 200
+*** FLOP *** [3h Ac 5h]
+Sagandyk O.: checks
+elketefuka: bets 425
+Sagandyk O.: folds
+Uncalled bet (425) returned to elketefuka
+elketefuka collected 850 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [3h Ac 5h]
+Seat 3: elketefuka (button) (small blind) collected (850)
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 131 **************
+PokerStars Hand #214228576831: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:51:28 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9129 in chips)
+Seat 8: Sagandyk O. (4371 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [7c Ad]
+Sagandyk O.: calls 100
+elketefuka: checks
+*** FLOP *** [Ah 8c Qc]
+elketefuka: checks
+Sagandyk O.: checks
+*** TURN *** [Ah 8c Qc] [Js]
+elketefuka: bets 225
+Sagandyk O.: folds
+Uncalled bet (225) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Ah 8c Qc Js]
+Seat 3: elketefuka (big blind) collected (450)
+Seat 8: Sagandyk O. (button) (small blind) folded on the Turn
+
+
+*********** # 132 **************
+PokerStars Hand #214228586013: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:51:43 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9354 in chips)
+Seat 8: Sagandyk O. (4146 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 7h]
+elketefuka: calls 100
+Sagandyk O.: raises 400 to 600
+elketefuka: folds
+Uncalled bet (400) returned to Sagandyk O.
+Sagandyk O. collected 450 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Seat 3: elketefuka (button) (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (450)
+
+
+*********** # 133 **************
+PokerStars Hand #214228594647: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:51:57 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9129 in chips)
+Seat 8: Sagandyk O. (4371 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 7c]
+Sagandyk O.: calls 100
+elketefuka: raises 400 to 600
+Sagandyk O.: calls 400
+*** FLOP *** [Jh As Ah]
+elketefuka: checks
+Sagandyk O.: checks
+*** TURN *** [Jh As Ah] [9d]
+elketefuka: checks
+Sagandyk O.: checks
+*** RIVER *** [Jh As Ah 9d] [Jc]
+elketefuka: bets 625
+Sagandyk O.: folds
+Uncalled bet (625) returned to elketefuka
+elketefuka collected 1250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Board [Jh As Ah 9d Jc]
+Seat 3: elketefuka (big blind) collected (1250)
+Seat 8: Sagandyk O. (button) (small blind) folded on the River
+
+
+*********** # 134 **************
+PokerStars Hand #214228611160: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:52:25 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9754 in chips)
+Seat 8: Sagandyk O. (3746 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [3d Jd]
+elketefuka: raises 200 to 400
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Seat 3: elketefuka (button) (small blind) collected (450)
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 135 **************
+PokerStars Hand #214228616527: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:52:34 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9979 in chips)
+Seat 8: Sagandyk O. (3521 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [6c 8h]
+Sagandyk O.: raises 400 to 600
+elketefuka: folds
+Uncalled bet (400) returned to Sagandyk O.
+Sagandyk O. collected 450 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 8: Sagandyk O. (button) (small blind) collected (450)
+
+
+*********** # 136 **************
+PokerStars Hand #214228622679: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:52:44 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9754 in chips)
+Seat 8: Sagandyk O. (3746 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [7c 6c]
+elketefuka: raises 200 to 400
+Sagandyk O.: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Seat 3: elketefuka (button) (small blind) collected (450)
+Seat 8: Sagandyk O. (big blind) folded before Flop
+
+
+*********** # 137 **************
+PokerStars Hand #214228638312: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:53:10 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9979 in chips)
+Seat 8: Sagandyk O. (3521 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [9c Tc]
+Sagandyk O.: folds
+Uncalled bet (100) returned to elketefuka
+elketefuka collected 250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: elketefuka (big blind) collected (250)
+Seat 8: Sagandyk O. (button) (small blind) folded before Flop
+
+
+*********** # 138 **************
+PokerStars Hand #214228641940: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:53:16 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (10104 in chips)
+Seat 8: Sagandyk O. (3396 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc 8c]
+elketefuka: raises 400 to 600
+Sagandyk O.: raises 1250 to 1850
+elketefuka: folds
+Uncalled bet (1250) returned to Sagandyk O.
+Sagandyk O. collected 1250 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Seat 3: elketefuka (button) (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (1250)
+
+
+*********** # 139 **************
+PokerStars Hand #214228650631: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:53:31 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (9479 in chips)
+Seat 8: Sagandyk O. (4021 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Ad 5s]
+Sagandyk O.: raises 400 to 600
+elketefuka: calls 400
+*** FLOP *** [9c Qs Kd]
+elketefuka: checks
+Sagandyk O.: bets 600
+elketefuka: folds
+Uncalled bet (600) returned to Sagandyk O.
+Sagandyk O. collected 1250 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 1250 | Rake 0
+Board [9c Qs Kd]
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 8: Sagandyk O. (button) (small blind) collected (1250)
+
+
+*********** # 140 **************
+PokerStars Hand #214228660897: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:53:48 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8854 in chips)
+Seat 8: Sagandyk O. (4646 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [2c Tc]
+elketefuka: folds
+Uncalled bet (100) returned to Sagandyk O.
+Sagandyk O. collected 250 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: elketefuka (button) (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (250)
+
+
+*********** # 141 **************
+PokerStars Hand #214228665468: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:53:55 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (8729 in chips)
+Seat 8: Sagandyk O. (4771 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 9c]
+Sagandyk O.: folds
+Uncalled bet (100) returned to elketefuka
+elketefuka collected 250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: elketefuka (big blind) collected (250)
+Seat 8: Sagandyk O. (button) (small blind) folded before Flop
+
+
+*********** # 142 **************
+PokerStars Hand #214228670127: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:54:03 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8854 in chips)
+Seat 8: Sagandyk O. (4646 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [9c Td]
+elketefuka: raises 200 to 400
+Sagandyk O.: raises 650 to 1050
+elketefuka: folds
+Uncalled bet (650) returned to Sagandyk O.
+Sagandyk O. collected 850 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Seat 3: elketefuka (button) (small blind) folded before Flop
+Seat 8: Sagandyk O. (big blind) collected (850)
+
+
+*********** # 143 **************
+PokerStars Hand #214228678130: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:54:16 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (8429 in chips)
+Seat 8: Sagandyk O. (5071 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [5h 5s]
+Sagandyk O.: folds
+Uncalled bet (100) returned to elketefuka
+elketefuka collected 250 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 3: elketefuka (big blind) collected (250)
+Seat 8: Sagandyk O. (button) (small blind) folded before Flop
+
+
+*********** # 144 **************
+PokerStars Hand #214228682944: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:54:24 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (8554 in chips)
+Seat 8: Sagandyk O. (4946 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 100
+Sagandyk O.: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [5d 8c]
+elketefuka: calls 100
+Sagandyk O.: checks
+*** FLOP *** [Qc Qd 7c]
+Sagandyk O.: checks
+elketefuka: bets 225
+Sagandyk O.: folds
+Uncalled bet (225) returned to elketefuka
+elketefuka collected 450 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 450 | Rake 0
+Board [Qc Qd 7c]
+Seat 3: elketefuka (button) (small blind) collected (450)
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 145 **************
+PokerStars Hand #214228694164: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VII (100/200) - 2020/05/21 10:54:43 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (8779 in chips)
+Seat 8: Sagandyk O. (4721 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [5s 6c]
+Sagandyk O.: calls 100
+elketefuka: checks
+*** FLOP *** [6s 4h 7c]
+elketefuka: bets 225
+Sagandyk O.: calls 225
+*** TURN *** [6s 4h 7c] [Ks]
+elketefuka: bets 450
+Sagandyk O.: folds
+Uncalled bet (450) returned to elketefuka
+elketefuka collected 900 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 900 | Rake 0
+Board [6s 4h 7c Ks]
+Seat 3: elketefuka (big blind) collected (900)
+Seat 8: Sagandyk O. (button) (small blind) folded on the Turn
+
+
+*********** # 146 **************
+PokerStars Hand #214228706981: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VIII (150/300) - 2020/05/21 10:55:04 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (9229 in chips)
+Seat 8: Sagandyk O. (4271 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 150
+Sagandyk O.: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks Th]
+elketefuka: raises 600 to 900
+Sagandyk O.: calls 600
+*** FLOP *** [Ah 6h 3c]
+Sagandyk O.: checks
+elketefuka: bets 925
+Sagandyk O.: folds
+Uncalled bet (925) returned to elketefuka
+elketefuka collected 1850 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1850 | Rake 0
+Board [Ah 6h 3c]
+Seat 3: elketefuka (button) (small blind) collected (1850)
+Seat 8: Sagandyk O. (big blind) folded on the Flop
+
+
+*********** # 147 **************
+PokerStars Hand #214228715864: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VIII (150/300) - 2020/05/21 10:55:21 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (10154 in chips)
+Seat 8: Sagandyk O. (3346 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 150
+elketefuka: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc Jh]
+Sagandyk O.: calls 150
+elketefuka: raises 600 to 900
+Sagandyk O.: calls 600
+*** FLOP *** [5s 7h 3h]
+elketefuka: checks
+Sagandyk O.: checks
+*** TURN *** [5s 7h 3h] [6c]
+elketefuka: bets 925
+Sagandyk O.: calls 925
+*** RIVER *** [5s 7h 3h 6c] [Kh]
+elketefuka: bets 1850
+Sagandyk O.: folds
+Uncalled bet (1850) returned to elketefuka
+elketefuka collected 3700 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 3700 | Rake 0
+Board [5s 7h 3h 6c Kh]
+Seat 3: elketefuka (big blind) collected (3700)
+Seat 8: Sagandyk O. (button) (small blind) folded on the River
+
+
+*********** # 148 **************
+PokerStars Hand #214228736053: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VIII (150/300) - 2020/05/21 10:55:44 ET
+Table '2912130171 1' 9-max Seat #3 is the button
+Seat 3: elketefuka (12004 in chips)
+Seat 8: Sagandyk O. (1496 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+elketefuka: posts small blind 150
+Sagandyk O.: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [8c Jh]
+elketefuka: calls 150
+Sagandyk O.: checks
+*** FLOP *** [Qc As Td]
+Sagandyk O.: bets 600
+elketefuka: folds
+Uncalled bet (600) returned to Sagandyk O.
+Sagandyk O. collected 650 from pot
+Sagandyk O.: doesn't show hand
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Board [Qc As Td]
+Seat 3: elketefuka (button) (small blind) folded on the Flop
+Seat 8: Sagandyk O. (big blind) collected (650)
+
+
+*********** # 149 **************
+PokerStars Hand #214228744741: Tournament #2912130171, $1.29+$0.21 USD Hold'em No Limit - Level VIII (150/300) - 2020/05/21 10:56:03 ET
+Table '2912130171 1' 9-max Seat #8 is the button
+Seat 3: elketefuka (11679 in chips)
+Seat 8: Sagandyk O. (1821 in chips)
+elketefuka: posts the ante 25
+Sagandyk O.: posts the ante 25
+Sagandyk O.: posts small blind 150
+elketefuka: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Ac]
+Sagandyk O.: raises 300 to 600
+elketefuka: raises 11054 to 11654 and is all-in
+Sagandyk O.: calls 1196 and is all-in
+Uncalled bet (9858) returned to elketefuka
+*** FLOP *** [5s Jc Kd]
+*** TURN *** [5s Jc Kd] [8h]
+*** RIVER *** [5s Jc Kd 8h] [Ts]
+*** SHOW DOWN ***
+elketefuka: shows [Qs Ac] (a straight, Ten to Ace)
+Sagandyk O.: shows [Jd Ad] (a pair of Jacks)
+elketefuka collected 3642 from pot
+Sagandyk O. finished the tournament in 2nd place and received $3.48.
+elketefuka wins the tournament and receives $5.81 - congratulations!
+*** SUMMARY ***
+Total pot 3642 | Rake 0
+Board [5s Jc Kd 8h Ts]
+Seat 3: elketefuka (big blind) showed [Qs Ac] and won (3642) with a straight, Ten to Ace
+Seat 8: Sagandyk O. (button) (small blind) showed [Jd Ad] and lost with a pair of Jacks
