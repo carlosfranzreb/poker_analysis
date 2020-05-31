@@ -1,0 +1,4302 @@
+*********** # 1 **************
+PokerStars Hand #214713057796: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:00:13 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: req5000 (3000 in chips)
+Seat 2: SashaPSR (3000 in chips)
+Seat 3: ARTUR_JAGUAR (3000 in chips)
+Seat 4: xYURISx (3000 in chips)
+Seat 5: BigBoom111 (3000 in chips)
+Seat 6: elketefuka (3000 in chips)
+Seat 7: Trini Garcia (3000 in chips)
+Seat 8: young_mike87 (3000 in chips)
+Seat 9: nightdriver6 (3000 in chips)
+req5000: posts the ante 4
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+xYURISx: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+SashaPSR: posts small blind 15
+ARTUR_JAGUAR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [7c Ah]
+xYURISx: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+req5000: raises 30 to 60
+SashaPSR: raises 90 to 150
+ARTUR_JAGUAR: calls 120
+req5000: calls 90
+*** FLOP *** [9d 8c 3c]
+SashaPSR: bets 243
+ARTUR_JAGUAR: calls 243
+req5000: folds
+*** TURN *** [9d 8c 3c] [4c]
+SashaPSR: checks
+ARTUR_JAGUAR: bets 428
+SashaPSR: calls 428
+*** RIVER *** [9d 8c 3c 4c] [6d]
+SashaPSR: checks
+ARTUR_JAGUAR: bets 804
+SashaPSR: folds
+Uncalled bet (804) returned to ARTUR_JAGUAR
+ARTUR_JAGUAR collected 1828 from pot
+*** SUMMARY ***
+Total pot 1828 | Rake 0
+Board [9d 8c 3c 4c 6d]
+Seat 1: req5000 (button) folded on the Flop
+Seat 2: SashaPSR (small blind) folded on the River
+Seat 3: ARTUR_JAGUAR (big blind) collected (1828)
+Seat 4: xYURISx folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #214713088106: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:01:21 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: req5000 (2846 in chips)
+Seat 2: SashaPSR (2175 in chips)
+Seat 3: ARTUR_JAGUAR (4003 in chips)
+Seat 5: BigBoom111 (2996 in chips)
+Seat 6: elketefuka (2996 in chips)
+Seat 7: Trini Garcia (2996 in chips)
+Seat 8: young_mike87 (2996 in chips)
+Seat 9: nightdriver6 (2996 in chips)
+req5000: posts the ante 4
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+ARTUR_JAGUAR: posts small blind 15
+BigBoom111: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [3c 9c]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 60 to 90
+nightdriver6: folds
+req5000: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+BigBoom111: calls 60
+*** FLOP *** [Tc 8d 2c]
+BigBoom111: checks
+young_mike87: bets 116
+BigBoom111: folds
+Uncalled bet (116) returned to young_mike87
+young_mike87 collected 227 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 227 | Rake 0
+Board [Tc 8d 2c]
+Seat 1: req5000 folded before Flop (didn't bet)
+Seat 2: SashaPSR (button) folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (small blind) folded before Flop
+Seat 5: BigBoom111 (big blind) folded on the Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 collected (227)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #214713114293: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:02:15 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: req5000 (2842 in chips)
+Seat 2: SashaPSR (2171 in chips)
+Seat 3: ARTUR_JAGUAR (3984 in chips)
+Seat 4: 7kolian7107 (3000 in chips) out of hand (moved from another table into small blind)
+Seat 5: BigBoom111 (2902 in chips)
+Seat 6: elketefuka (2992 in chips)
+Seat 7: Trini Garcia (2992 in chips)
+Seat 8: young_mike87 (3129 in chips)
+Seat 9: nightdriver6 (2992 in chips)
+7kolian7107 will be allowed to play after the button
+req5000: posts the ante 4
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+BigBoom111: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 8h]
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+req5000: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+BigBoom111: raises 60 to 90
+elketefuka: calls 60
+*** FLOP *** [Kd 4d 2s]
+BigBoom111: bets 106
+elketefuka: raises 234 to 340
+BigBoom111: folds
+Uncalled bet (234) returned to elketefuka
+elketefuka collected 424 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 424 | Rake 0
+Board [Kd 4d 2s]
+Seat 1: req5000 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) folded on the Flop
+Seat 6: elketefuka (big blind) collected (424)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #214713141374: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:03:09 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: req5000 (2838 in chips)
+Seat 2: SashaPSR (2167 in chips)
+Seat 3: ARTUR_JAGUAR (3980 in chips)
+Seat 4: 7kolian7107 (3000 in chips)
+Seat 5: BigBoom111 (2702 in chips)
+Seat 6: elketefuka (3216 in chips)
+Seat 7: Trini Garcia (2988 in chips)
+Seat 8: young_mike87 (3125 in chips)
+Seat 9: nightdriver6 (2988 in chips)
+req5000: posts the ante 4
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+7kolian7107: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+elketefuka: posts small blind 15
+Trini Garcia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [7h 4c]
+young_mike87: folds
+nightdriver6: raises 60 to 90
+req5000: folds
+SashaPSR: folds
+ARTUR_JAGUAR: calls 90
+7kolian7107: calls 90
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+*** FLOP *** [9s 2s Jh]
+nightdriver6: bets 210
+ARTUR_JAGUAR: calls 210
+7kolian7107: calls 210
+*** TURN *** [9s 2s Jh] [7d]
+nightdriver6: bets 510
+ARTUR_JAGUAR: calls 510
+7kolian7107: calls 510
+*** RIVER *** [9s 2s Jh 7d] [9h]
+nightdriver6: checks
+ARTUR_JAGUAR: checks
+7kolian7107: checks
+*** SHOW DOWN ***
+nightdriver6: shows [Jd Qs] (two pair, Jacks and Nines)
+ARTUR_JAGUAR: shows [Kd Js] (two pair, Jacks and Nines - King kicker)
+7kolian7107: mucks hand
+ARTUR_JAGUAR collected 2511 from pot
+*** SUMMARY ***
+Total pot 2511 | Rake 0
+Board [9s 2s Jh 7d 9h]
+Seat 1: req5000 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR showed [Kd Js] and won (2511) with two pair, Jacks and Nines
+Seat 4: 7kolian7107 mucked [Td Kc]
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) folded before Flop
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 showed [Jd Qs] and lost with two pair, Jacks and Nines
+
+
+*********** # 5 **************
+PokerStars Hand #214713176547: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:04:19 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: req5000 (2834 in chips)
+Seat 2: SashaPSR (2163 in chips)
+Seat 3: ARTUR_JAGUAR (5677 in chips)
+Seat 4: 7kolian7107 (2186 in chips)
+Seat 5: BigBoom111 (2698 in chips)
+Seat 6: elketefuka (3197 in chips)
+Seat 7: Trini Garcia (2954 in chips)
+Seat 8: young_mike87 (3121 in chips)
+Seat 9: nightdriver6 (2174 in chips)
+req5000: posts the ante 4
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+7kolian7107: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+Trini Garcia: posts small blind 15
+young_mike87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [2s 8c]
+nightdriver6: raises 60 to 90
+req5000: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: calls 90
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: calls 60
+*** FLOP *** [6d 8h Ac]
+young_mike87: checks
+nightdriver6: bets 90
+7kolian7107: folds
+young_mike87: calls 90
+*** TURN *** [6d 8h Ac] [7c]
+young_mike87: checks
+nightdriver6: checks
+*** RIVER *** [6d 8h Ac 7c] [Jd]
+young_mike87: checks
+nightdriver6: checks
+*** SHOW DOWN ***
+young_mike87: shows [Ah 2d] (a pair of Aces)
+nightdriver6: mucks hand
+young_mike87 collected 501 from pot
+*** SUMMARY ***
+Total pot 501 | Rake 0
+Board [6d 8h Ac 7c Jd]
+Seat 1: req5000 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: 7kolian7107 folded on the Flop
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded before Flop (didn't bet)
+Seat 7: Trini Garcia (small blind) folded before Flop
+Seat 8: young_mike87 (big blind) showed [Ah 2d] and won (501) with a pair of Aces
+Seat 9: nightdriver6 mucked [Qd Js]
+
+
+*********** # 6 **************
+PokerStars Hand #214713210906: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:05:27 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: req5000 (2830 in chips)
+Seat 2: SashaPSR (2159 in chips)
+Seat 3: ARTUR_JAGUAR (5673 in chips)
+Seat 4: 7kolian7107 (2092 in chips)
+Seat 5: BigBoom111 (2694 in chips)
+Seat 6: elketefuka (3193 in chips)
+Seat 7: Trini Garcia (2935 in chips)
+Seat 8: young_mike87 (3438 in chips)
+Seat 9: nightdriver6 (1990 in chips)
+req5000: posts the ante 4
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+7kolian7107: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+young_mike87: posts small blind 15
+nightdriver6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Ah 3h]
+req5000: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: calls 30
+BigBoom111: raises 90 to 120
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: calls 105
+nightdriver6: folds
+7kolian7107: calls 90
+*** FLOP *** [Kh Kc 9c]
+young_mike87: checks
+7kolian7107: checks
+BigBoom111: checks
+*** TURN *** [Kh Kc 9c] [Qs]
+young_mike87: bets 217
+7kolian7107: folds
+BigBoom111: calls 217
+*** RIVER *** [Kh Kc 9c Qs] [4s]
+young_mike87: bets 439
+BigBoom111: folds
+Uncalled bet (439) returned to young_mike87
+young_mike87 collected 860 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 860 | Rake 0
+Board [Kh Kc 9c Qs 4s]
+Seat 1: req5000 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: 7kolian7107 folded on the Turn
+Seat 5: BigBoom111 folded on the River
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia (button) folded before Flop (didn't bet)
+Seat 8: young_mike87 (small blind) collected (860)
+Seat 9: nightdriver6 (big blind) folded before Flop
+
+
+*********** # 7 **************
+PokerStars Hand #214713266713: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:07:16 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 2: SashaPSR (2155 in chips)
+Seat 3: ARTUR_JAGUAR (5669 in chips)
+Seat 4: 7kolian7107 (1968 in chips)
+Seat 5: BigBoom111 (2353 in chips)
+Seat 6: elketefuka (3189 in chips)
+Seat 7: Trini Garcia (2931 in chips)
+Seat 8: young_mike87 (3957 in chips)
+Seat 9: nightdriver6 (1956 in chips)
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+7kolian7107: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+nightdriver6: posts small blind 15
+SashaPSR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [8d 6d]
+ARTUR_JAGUAR: raises 42 to 72
+7kolian7107: calls 72
+BigBoom111: folds
+elketefuka: calls 72
+Trini Garcia: calls 72
+young_mike87: folds
+nightdriver6: folds
+SashaPSR: folds
+*** FLOP *** [2d 2s 5d]
+ARTUR_JAGUAR: checks
+7kolian7107: checks
+elketefuka: bets 180
+Trini Garcia: calls 180
+ARTUR_JAGUAR: folds
+7kolian7107: calls 180
+*** TURN *** [2d 2s 5d] [9c]
+7kolian7107: checks
+elketefuka: bets 430
+Trini Garcia: calls 430
+7kolian7107: calls 430
+*** RIVER *** [2d 2s 5d 9c] [2h]
+7kolian7107: checks
+elketefuka: checks
+Trini Garcia: bets 744
+7kolian7107: folds
+elketefuka: folds
+Uncalled bet (744) returned to Trini Garcia
+Trini Garcia collected 2195 from pot
+Trini Garcia: doesn't show hand
+*** SUMMARY ***
+Total pot 2195 | Rake 0
+Board [2d 2s 5d 9c 2h]
+Seat 2: SashaPSR (big blind) folded before Flop
+Seat 3: ARTUR_JAGUAR folded on the Flop
+Seat 4: 7kolian7107 folded on the River
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded on the River
+Seat 7: Trini Garcia collected (2195)
+Seat 8: young_mike87 (button) folded before Flop (didn't bet)
+Seat 9: nightdriver6 (small blind) folded before Flop
+
+
+*********** # 8 **************
+PokerStars Hand #214713335308: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level I (15/30) - 2020/05/31 8:09:31 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 1: sylart (3000 in chips) out of hand (moved from another table into small blind)
+Seat 2: SashaPSR (2121 in chips)
+Seat 3: ARTUR_JAGUAR (5593 in chips)
+Seat 4: 7kolian7107 (1282 in chips)
+Seat 5: BigBoom111 (2349 in chips)
+Seat 6: elketefuka (2503 in chips)
+Seat 7: Trini Garcia (4440 in chips)
+Seat 8: young_mike87 (3953 in chips)
+Seat 9: nightdriver6 (1937 in chips)
+sylart will be allowed to play after the button
+SashaPSR: posts the ante 4
+ARTUR_JAGUAR: posts the ante 4
+7kolian7107: posts the ante 4
+BigBoom111: posts the ante 4
+elketefuka: posts the ante 4
+Trini Garcia: posts the ante 4
+young_mike87: posts the ante 4
+nightdriver6: posts the ante 4
+SashaPSR: posts small blind 15
+ARTUR_JAGUAR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd Ac]
+7kolian7107: calls 30
+BigBoom111: folds
+elketefuka: raises 90 to 120
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: calls 90
+*** FLOP *** [3c Kh Jc]
+7kolian7107: bets 90
+elketefuka: calls 90
+*** TURN *** [3c Kh Jc] [3d]
+7kolian7107: bets 120
+elketefuka: calls 120
+*** RIVER *** [3c Kh Jc 3d] [Jd]
+7kolian7107: checks
+elketefuka: checks
+*** SHOW DOWN ***
+7kolian7107: shows [Ad Jh] (a full house, Jacks full of Threes)
+elketefuka: mucks hand
+7kolian7107 collected 737 from pot
+*** SUMMARY ***
+Total pot 737 | Rake 0
+Board [3c Kh Jc 3d Jd]
+Seat 2: SashaPSR (small blind) folded before Flop
+Seat 3: ARTUR_JAGUAR (big blind) folded before Flop
+Seat 4: 7kolian7107 showed [Ad Jh] and won (737) with a full house, Jacks full of Threes
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka mucked [Kd Ac]
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 (button) folded before Flop (didn't bet)
+
+
+*********** # 9 **************
+PokerStars Hand #214713366448: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:10:32 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: sylart (3000 in chips)
+Seat 2: SashaPSR (2102 in chips)
+Seat 3: ARTUR_JAGUAR (5559 in chips)
+Seat 4: 7kolian7107 (1685 in chips)
+Seat 5: BigBoom111 (2345 in chips)
+Seat 6: elketefuka (2169 in chips)
+Seat 7: Trini Garcia (4436 in chips)
+Seat 8: young_mike87 (3949 in chips)
+Seat 9: nightdriver6 (1933 in chips)
+sylart: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+7kolian7107: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+ARTUR_JAGUAR: posts small blind 20
+7kolian7107: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 6h]
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 60 to 100
+nightdriver6: folds
+sylart: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: calls 60
+*** FLOP *** [5s 6d 3h]
+7kolian7107: checks
+young_mike87: checks
+*** TURN *** [5s 6d 3h] [Ts]
+7kolian7107: bets 80
+young_mike87: calls 80
+*** RIVER *** [5s 6d 3h Ts] [9c]
+7kolian7107: checks
+young_mike87: checks
+*** SHOW DOWN ***
+7kolian7107: shows [3d 3c] (three of a kind, Threes)
+young_mike87: mucks hand
+7kolian7107 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | Rake 0
+Board [5s 6d 3h Ts 9c]
+Seat 1: sylart folded before Flop (didn't bet)
+Seat 2: SashaPSR (button) folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (small blind) folded before Flop
+Seat 4: 7kolian7107 (big blind) showed [3d 3c] and won (425) with three of a kind, Threes
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 mucked [Qs Ah]
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #214713401667: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:11:41 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: sylart (2995 in chips)
+Seat 2: SashaPSR (2097 in chips)
+Seat 3: ARTUR_JAGUAR (5534 in chips)
+Seat 4: 7kolian7107 (1925 in chips)
+Seat 5: BigBoom111 (2340 in chips)
+Seat 6: elketefuka (2164 in chips)
+Seat 7: Trini Garcia (4431 in chips)
+Seat 8: young_mike87 (3764 in chips)
+Seat 9: nightdriver6 (1928 in chips)
+sylart: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+7kolian7107: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+7kolian7107: posts small blind 20
+BigBoom111: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 4s]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+sylart: folds
+SashaPSR: raises 40 to 80
+ARTUR_JAGUAR: folds
+7kolian7107: calls 60
+BigBoom111: raises 280 to 360
+SashaPSR: folds
+7kolian7107: folds
+Uncalled bet (280) returned to BigBoom111
+BigBoom111 collected 285 from pot
+BigBoom111: doesn't show hand
+*** SUMMARY ***
+Total pot 285 | Rake 0
+Seat 1: sylart folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop
+Seat 3: ARTUR_JAGUAR (button) folded before Flop (didn't bet)
+Seat 4: 7kolian7107 (small blind) folded before Flop
+Seat 5: BigBoom111 (big blind) collected (285)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 11 **************
+PokerStars Hand #214713429044: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:12:34 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: sylart (2990 in chips)
+Seat 2: SashaPSR (2012 in chips)
+Seat 3: ARTUR_JAGUAR (5529 in chips)
+Seat 4: 7kolian7107 (1840 in chips)
+Seat 5: BigBoom111 (2540 in chips)
+Seat 6: elketefuka (2159 in chips)
+Seat 7: Trini Garcia (4426 in chips)
+Seat 8: young_mike87 (3759 in chips)
+Seat 9: nightdriver6 (1923 in chips)
+sylart: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+7kolian7107: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+BigBoom111: posts small blind 20
+elketefuka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [8s 6s]
+Trini Garcia: folds
+young_mike87: raises 60 to 100
+nightdriver6: folds
+sylart: raises 140 to 240
+SashaPSR: folds
+ARTUR_JAGUAR: calls 240
+7kolian7107: calls 240
+BigBoom111: folds
+elketefuka: folds
+young_mike87: calls 140
+*** FLOP *** [Td 6d Qc]
+young_mike87: checks
+sylart: bets 240
+ARTUR_JAGUAR: raises 541 to 781
+7kolian7107: folds
+young_mike87: folds
+sylart: calls 541
+*** TURN *** [Td 6d Qc] [5s]
+sylart: checks
+ARTUR_JAGUAR: bets 1760
+sylart: calls 1760
+*** RIVER *** [Td 6d Qc 5s] [2h]
+sylart: checks
+ARTUR_JAGUAR: bets 2743 and is all-in
+sylart: folds
+Uncalled bet (2743) returned to ARTUR_JAGUAR
+ARTUR_JAGUAR collected 6147 from pot
+*** SUMMARY ***
+Total pot 6147 | Rake 0
+Board [Td 6d Qc 5s 2h]
+Seat 1: sylart folded on the River
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR collected (6147)
+Seat 4: 7kolian7107 (button) folded on the Flop
+Seat 5: BigBoom111 (small blind) folded before Flop
+Seat 6: elketefuka (big blind) folded before Flop
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded on the Flop
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 12 **************
+PokerStars Hand #214713467371: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:13:48 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: sylart (204 in chips)
+Seat 2: SashaPSR (2007 in chips)
+Seat 3: ARTUR_JAGUAR (8890 in chips)
+Seat 4: 7kolian7107 (1595 in chips)
+Seat 5: BigBoom111 (2515 in chips)
+Seat 6: elketefuka (2114 in chips)
+Seat 7: Trini Garcia (4421 in chips)
+Seat 8: young_mike87 (3514 in chips)
+Seat 9: nightdriver6 (1918 in chips)
+sylart: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+7kolian7107: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+elketefuka: posts small blind 20
+Trini Garcia: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [8d Qc]
+young_mike87: folds
+nightdriver6: raises 400 to 440
+sylart: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+Uncalled bet (400) returned to nightdriver6
+nightdriver6 collected 145 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 145 | Rake 0
+Seat 1: sylart folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: 7kolian7107 folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) folded before Flop
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 collected (145)
+
+
+*********** # 13 **************
+PokerStars Hand #214713488156: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:14:28 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: sylart (199 in chips)
+Seat 2: SashaPSR (2002 in chips)
+Seat 3: ARTUR_JAGUAR (8885 in chips)
+Seat 4: 7kolian7107 (1590 in chips)
+Seat 5: BigBoom111 (2510 in chips)
+Seat 6: elketefuka (2089 in chips)
+Seat 7: Trini Garcia (4376 in chips)
+Seat 8: young_mike87 (3509 in chips)
+Seat 9: nightdriver6 (2018 in chips)
+sylart: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+7kolian7107: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+Trini Garcia: posts small blind 20
+young_mike87: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [8d Tc]
+nightdriver6: folds
+sylart: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: calls 40
+BigBoom111: calls 40
+elketefuka: raises 200 to 240
+Trini Garcia: folds
+young_mike87: folds
+7kolian7107: calls 200
+BigBoom111: folds
+*** FLOP *** [Qd Kc 6s]
+7kolian7107: bets 40
+elketefuka: raises 240 to 280
+7kolian7107: folds
+Uncalled bet (240) returned to elketefuka
+elketefuka collected 705 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 705 | Rake 0
+Board [Qd Kc 6s]
+Seat 1: sylart folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: 7kolian7107 folded on the Flop
+Seat 5: BigBoom111 folded before Flop
+Seat 6: elketefuka (button) collected (705)
+Seat 7: Trini Garcia (small blind) folded before Flop
+Seat 8: young_mike87 (big blind) folded before Flop
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 14 **************
+PokerStars Hand #214713525465: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:15:39 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: sylart (194 in chips)
+Seat 2: SashaPSR (1997 in chips)
+Seat 3: ARTUR_JAGUAR (8880 in chips)
+Seat 4: 7kolian7107 (1305 in chips)
+Seat 5: BigBoom111 (2465 in chips)
+Seat 6: elketefuka (2509 in chips)
+Seat 7: Trini Garcia (4351 in chips)
+Seat 8: young_mike87 (3464 in chips)
+Seat 9: nightdriver6 (2013 in chips)
+sylart: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+7kolian7107: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+young_mike87: posts small blind 20
+nightdriver6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [7s 5d]
+sylart: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: calls 40
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: raises 100 to 140
+young_mike87: folds
+nightdriver6: folds
+7kolian7107: calls 100
+*** FLOP *** [Ah 2c 7h]
+7kolian7107: bets 40
+Trini Garcia: calls 40
+*** TURN *** [Ah 2c 7h] [Kh]
+7kolian7107: bets 80
+Trini Garcia: folds
+Uncalled bet (80) returned to 7kolian7107
+7kolian7107 collected 465 from pot
+7kolian7107: doesn't show hand
+*** SUMMARY ***
+Total pot 465 | Rake 0
+Board [Ah 2c 7h Kh]
+Seat 1: sylart folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: 7kolian7107 collected (465)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia (button) folded on the Turn
+Seat 8: young_mike87 (small blind) folded before Flop
+Seat 9: nightdriver6 (big blind) folded before Flop
+
+
+*********** # 15 **************
+PokerStars Hand #214713569829: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:17:04 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: sylart (189 in chips)
+Seat 2: SashaPSR (1992 in chips)
+Seat 3: ARTUR_JAGUAR (8875 in chips)
+Seat 4: 7kolian7107 (1585 in chips)
+Seat 5: BigBoom111 (2460 in chips)
+Seat 6: elketefuka (2504 in chips)
+Seat 7: Trini Garcia (4166 in chips)
+Seat 8: young_mike87 (3439 in chips)
+Seat 9: nightdriver6 (1968 in chips)
+sylart: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+7kolian7107: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+nightdriver6: posts small blind 20
+sylart: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [8h 7h]
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+7kolian7107: calls 40
+BigBoom111: folds
+elketefuka: calls 40
+Trini Garcia: raises 200 to 240
+young_mike87: folds
+nightdriver6: raises 645 to 885
+sylart: calls 144 and is all-in
+7kolian7107: calls 845
+elketefuka: folds
+Trini Garcia: calls 645
+*** FLOP *** [4d 8d Tc]
+nightdriver6: bets 1078 and is all-in
+7kolian7107: calls 695 and is all-in
+Trini Garcia: calls 1078
+*** TURN *** [4d 8d Tc] [4c]
+*** RIVER *** [4d 8d Tc 4c] [Td]
+*** SHOW DOWN ***
+nightdriver6: shows [Ad Jd] (a flush, Ace high)
+Trini Garcia: shows [Jh Jc] (two pair, Jacks and Tens)
+nightdriver6 collected 766 from side pot-2
+7kolian7107: shows [Kc 8c] (two pair, Tens and Eights)
+nightdriver6 collected 4188 from side pot-1
+sylart: shows [2s Qs] (two pair, Tens and Fours)
+nightdriver6 collected 821 from main pot
+7kolian7107 finished the tournament in 1727th place
+sylart finished the tournament in 1728th place
+*** SUMMARY ***
+Total pot 5775 Main pot 821. Side pot-1 4188. Side pot-2 766. | Rake 0
+Board [4d 8d Tc 4c Td]
+Seat 1: sylart (big blind) showed [2s Qs] and lost with two pair, Tens and Fours
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: 7kolian7107 showed [Kc 8c] and lost with two pair, Tens and Eights
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop
+Seat 7: Trini Garcia showed [Jh Jc] and lost with two pair, Jacks and Tens
+Seat 8: young_mike87 (button) folded before Flop (didn't bet)
+Seat 9: nightdriver6 (small blind) showed [Ad Jd] and won (5775) with a flush, Ace high
+
+
+*********** # 16 **************
+PokerStars Hand #214713603273: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:18:07 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 2: SashaPSR (1987 in chips)
+Seat 3: ARTUR_JAGUAR (8870 in chips)
+Seat 5: BigBoom111 (2455 in chips)
+Seat 6: elketefuka (2459 in chips)
+Seat 7: Trini Garcia (2198 in chips)
+Seat 8: young_mike87 (3434 in chips)
+Seat 9: nightdriver6 (5775 in chips)
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+SashaPSR: posts small blind 20
+ARTUR_JAGUAR: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [4d Ad]
+BigBoom111: folds
+elketefuka: raises 80 to 120
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+SashaPSR: folds
+ARTUR_JAGUAR: raises 240 to 360
+elketefuka: calls 240
+*** FLOP *** [5d Qc 7c]
+ARTUR_JAGUAR: bets 519
+elketefuka: folds
+Uncalled bet (519) returned to ARTUR_JAGUAR
+ARTUR_JAGUAR collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | Rake 0
+Board [5d Qc 7c]
+Seat 2: SashaPSR (small blind) folded before Flop
+Seat 3: ARTUR_JAGUAR (big blind) collected (775)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded on the Flop
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 (button) folded before Flop (didn't bet)
+
+
+*********** # 17 **************
+PokerStars Hand #214713627373: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:18:53 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: RedDevil1099 (3000 in chips)
+Seat 2: SashaPSR (1962 in chips)
+Seat 3: ARTUR_JAGUAR (9280 in chips)
+Seat 4: viktoriayr (2868 in chips)
+Seat 5: BigBoom111 (2450 in chips)
+Seat 6: elketefuka (2094 in chips)
+Seat 7: Trini Garcia (2193 in chips)
+Seat 8: young_mike87 (3429 in chips)
+Seat 9: nightdriver6 (5770 in chips)
+RedDevil1099: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+viktoriayr: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+ARTUR_JAGUAR: posts small blind 20
+viktoriayr: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [2d 9d]
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+RedDevil1099: folds
+SashaPSR: folds
+ARTUR_JAGUAR: raises 56 to 96
+viktoriayr: folds
+Uncalled bet (56) returned to ARTUR_JAGUAR
+ARTUR_JAGUAR collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | Rake 0
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR (button) folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (small blind) collected (125)
+Seat 4: viktoriayr (big blind) folded before Flop
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 18 **************
+PokerStars Hand #214713637210: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:19:12 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: RedDevil1099 (2995 in chips)
+Seat 2: SashaPSR (1957 in chips)
+Seat 3: ARTUR_JAGUAR (9360 in chips)
+Seat 4: viktoriayr (2823 in chips)
+Seat 5: BigBoom111 (2445 in chips)
+Seat 6: elketefuka (2089 in chips)
+Seat 7: Trini Garcia (2188 in chips)
+Seat 8: young_mike87 (3424 in chips)
+Seat 9: nightdriver6 (5765 in chips)
+RedDevil1099: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+viktoriayr: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+viktoriayr: posts small blind 20
+BigBoom111: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh 4c]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+RedDevil1099: folds
+SashaPSR: folds
+ARTUR_JAGUAR: raises 56 to 96
+viktoriayr: raises 2722 to 2818 and is all-in
+BigBoom111: folds
+ARTUR_JAGUAR: folds
+Uncalled bet (2722) returned to viktoriayr
+viktoriayr collected 277 from pot
+viktoriayr: doesn't show hand
+*** SUMMARY ***
+Total pot 277 | Rake 0
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (button) folded before Flop
+Seat 4: viktoriayr (small blind) collected (277)
+Seat 5: BigBoom111 (big blind) folded before Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #214713658641: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level II (20/40) - 2020/05/31 8:19:53 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: RedDevil1099 (2990 in chips)
+Seat 2: SashaPSR (1952 in chips)
+Seat 3: ARTUR_JAGUAR (9259 in chips)
+Seat 4: viktoriayr (2999 in chips)
+Seat 5: BigBoom111 (2400 in chips)
+Seat 6: elketefuka (2084 in chips)
+Seat 7: Trini Garcia (2183 in chips)
+Seat 8: young_mike87 (3419 in chips)
+Seat 9: nightdriver6 (5760 in chips)
+RedDevil1099: posts the ante 5
+SashaPSR: posts the ante 5
+ARTUR_JAGUAR: posts the ante 5
+viktoriayr: posts the ante 5
+BigBoom111: posts the ante 5
+elketefuka: posts the ante 5
+Trini Garcia: posts the ante 5
+young_mike87: posts the ante 5
+nightdriver6: posts the ante 5
+BigBoom111: posts small blind 20
+elketefuka: posts big blind 40
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 7c]
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: raises 80 to 120
+RedDevil1099: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Uncalled bet (80) returned to nightdriver6
+nightdriver6 collected 145 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 145 | Rake 0
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) folded before Flop
+Seat 6: elketefuka (big blind) folded before Flop
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 collected (145)
+
+
+*********** # 20 **************
+PokerStars Hand #214713674958: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:20:24 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: RedDevil1099 (2985 in chips)
+Seat 2: SashaPSR (1947 in chips)
+Seat 3: ARTUR_JAGUAR (9254 in chips)
+Seat 4: viktoriayr (2994 in chips)
+Seat 5: BigBoom111 (2375 in chips)
+Seat 6: elketefuka (2039 in chips)
+Seat 7: Trini Garcia (2178 in chips)
+Seat 8: young_mike87 (3414 in chips)
+Seat 9: nightdriver6 (5860 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+elketefuka: posts small blind 25
+Trini Garcia: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd 6h]
+young_mike87: folds
+nightdriver6: folds
+RedDevil1099: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 100 to 150
+Trini Garcia: folds
+Uncalled bet (100) returned to elketefuka
+elketefuka collected 154 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 154 | Rake 0
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) collected (154)
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 21 **************
+PokerStars Hand #214713689978: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:20:52 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: RedDevil1099 (2979 in chips)
+Seat 2: SashaPSR (1941 in chips)
+Seat 3: ARTUR_JAGUAR (9248 in chips)
+Seat 4: viktoriayr (2988 in chips)
+Seat 5: BigBoom111 (2369 in chips)
+Seat 6: elketefuka (2137 in chips)
+Seat 7: Trini Garcia (2122 in chips)
+Seat 8: young_mike87 (3408 in chips)
+Seat 9: nightdriver6 (5854 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+Trini Garcia: posts small blind 25
+young_mike87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 8s]
+nightdriver6: folds
+RedDevil1099: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+Uncalled bet (25) returned to young_mike87
+SashaPSR is sitting out
+young_mike87 collected 104 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded before Flop (didn't bet)
+Seat 7: Trini Garcia (small blind) folded before Flop
+Seat 8: young_mike87 (big blind) collected (104)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #214713701972: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:21:14 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: RedDevil1099 (2973 in chips)
+Seat 2: SashaPSR (1935 in chips) is sitting out
+Seat 3: ARTUR_JAGUAR (9242 in chips)
+Seat 4: viktoriayr (2982 in chips)
+Seat 5: BigBoom111 (2363 in chips)
+Seat 6: elketefuka (2131 in chips)
+Seat 7: Trini Garcia (2091 in chips)
+Seat 8: young_mike87 (3481 in chips)
+Seat 9: nightdriver6 (5848 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+young_mike87: posts small blind 25
+nightdriver6: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3d Kd]
+RedDevil1099: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 50 to 100
+Trini Garcia: folds
+SashaPSR has returned
+young_mike87: calls 75
+nightdriver6: calls 50
+*** FLOP *** [Qd 9h Js]
+young_mike87: checks
+nightdriver6: checks
+elketefuka: bets 217
+young_mike87: folds
+nightdriver6: folds
+Uncalled bet (217) returned to elketefuka
+elketefuka collected 354 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 354 | Rake 0
+Board [Qd 9h Js]
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka collected (354)
+Seat 7: Trini Garcia (button) folded before Flop (didn't bet)
+Seat 8: young_mike87 (small blind) folded on the Flop
+Seat 9: nightdriver6 (big blind) folded on the Flop
+
+
+*********** # 23 **************
+PokerStars Hand #214713756795: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:22:51 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: RedDevil1099 (2967 in chips)
+Seat 2: SashaPSR (1929 in chips)
+Seat 3: ARTUR_JAGUAR (9236 in chips)
+Seat 4: viktoriayr (2976 in chips)
+Seat 5: BigBoom111 (2357 in chips)
+Seat 6: elketefuka (2379 in chips)
+Seat 7: Trini Garcia (2085 in chips)
+Seat 8: young_mike87 (3375 in chips)
+Seat 9: nightdriver6 (5742 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+nightdriver6: posts small blind 25
+RedDevil1099: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [5c Qh]
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Uncalled bet (25) returned to RedDevil1099
+RedDevil1099 collected 104 from pot
+RedDevil1099: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: RedDevil1099 (big blind) collected (104)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 (button) folded before Flop (didn't bet)
+Seat 9: nightdriver6 (small blind) folded before Flop
+
+
+*********** # 24 **************
+PokerStars Hand #214713769460: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:23:14 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 1: RedDevil1099 (3040 in chips)
+Seat 2: SashaPSR (1923 in chips)
+Seat 3: ARTUR_JAGUAR (9230 in chips)
+Seat 4: viktoriayr (2970 in chips)
+Seat 5: BigBoom111 (2351 in chips)
+Seat 6: elketefuka (2373 in chips)
+Seat 7: Trini Garcia (2079 in chips)
+Seat 8: young_mike87 (3369 in chips)
+Seat 9: nightdriver6 (5711 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+RedDevil1099: posts small blind 25
+SashaPSR: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Td Kh]
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 100 to 150
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: calls 150
+RedDevil1099: calls 125
+SashaPSR: raises 1767 to 1917 and is all-in
+elketefuka: folds
+nightdriver6: folds
+RedDevil1099: folds
+Uncalled bet (1767) returned to SashaPSR
+SashaPSR collected 654 from pot
+SashaPSR: doesn't show hand
+*** SUMMARY ***
+Total pot 654 | Rake 0
+Seat 1: RedDevil1099 (small blind) folded before Flop
+Seat 2: SashaPSR (big blind) collected (654)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 (button) folded before Flop
+
+
+*********** # 25 **************
+PokerStars Hand #214713790532: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:23:53 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: RedDevil1099 (2884 in chips)
+Seat 2: SashaPSR (2421 in chips)
+Seat 3: ARTUR_JAGUAR (9224 in chips)
+Seat 4: viktoriayr (2964 in chips)
+Seat 5: BigBoom111 (2345 in chips)
+Seat 6: elketefuka (2217 in chips)
+Seat 7: Trini Garcia (2073 in chips)
+Seat 8: young_mike87 (3363 in chips)
+Seat 9: nightdriver6 (5555 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+SashaPSR: posts small blind 25
+ARTUR_JAGUAR: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3h Kh]
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+RedDevil1099: folds
+SashaPSR: folds
+Uncalled bet (25) returned to ARTUR_JAGUAR
+ARTUR_JAGUAR collected 104 from pot
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Seat 1: RedDevil1099 (button) folded before Flop (didn't bet)
+Seat 2: SashaPSR (small blind) folded before Flop
+Seat 3: ARTUR_JAGUAR (big blind) collected (104)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #214713800202: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:24:11 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: RedDevil1099 (2878 in chips)
+Seat 2: SashaPSR (2390 in chips)
+Seat 3: ARTUR_JAGUAR (9297 in chips)
+Seat 4: viktoriayr (2958 in chips)
+Seat 5: BigBoom111 (2339 in chips)
+Seat 6: elketefuka (2211 in chips)
+Seat 7: Trini Garcia (2067 in chips)
+Seat 8: young_mike87 (3357 in chips)
+Seat 9: nightdriver6 (5549 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+ARTUR_JAGUAR: posts small blind 25
+viktoriayr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [6c 5s]
+BigBoom111: raises 100 to 150
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+RedDevil1099: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+Uncalled bet (100) returned to BigBoom111
+BigBoom111 collected 179 from pot
+BigBoom111: doesn't show hand
+*** SUMMARY ***
+Total pot 179 | Rake 0
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR (button) folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (small blind) folded before Flop
+Seat 4: viktoriayr (big blind) folded before Flop
+Seat 5: BigBoom111 collected (179)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #214713813760: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:24:36 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: RedDevil1099 (2872 in chips)
+Seat 2: SashaPSR (2384 in chips)
+Seat 3: ARTUR_JAGUAR (9266 in chips)
+Seat 4: viktoriayr (2902 in chips)
+Seat 5: BigBoom111 (2462 in chips)
+Seat 6: elketefuka (2205 in chips)
+Seat 7: Trini Garcia (2061 in chips)
+Seat 8: young_mike87 (3351 in chips)
+Seat 9: nightdriver6 (5543 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+viktoriayr: posts small blind 25
+BigBoom111: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 9d]
+elketefuka: folds
+Trini Garcia: raises 50 to 100
+young_mike87: folds
+nightdriver6: folds
+RedDevil1099: folds
+SashaPSR: raises 200 to 300
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+Trini Garcia: calls 200
+*** FLOP *** [2c 7c Td]
+Trini Garcia: checks
+SashaPSR: checks
+*** TURN *** [2c 7c Td] [As]
+Trini Garcia: bets 401
+SashaPSR: calls 401
+*** RIVER *** [2c 7c Td As] [Qh]
+Trini Garcia: bets 1354 and is all-in
+SashaPSR: calls 1354
+*** SHOW DOWN ***
+Trini Garcia: shows [Jh Kc] (a straight, Ten to Ace)
+SashaPSR: shows [Tc Th] (three of a kind, Tens)
+Trini Garcia collected 4239 from pot
+*** SUMMARY ***
+Total pot 4239 | Rake 0
+Board [2c 7c Td As Qh]
+Seat 1: RedDevil1099 folded before Flop (didn't bet)
+Seat 2: SashaPSR showed [Tc Th] and lost with three of a kind, Tens
+Seat 3: ARTUR_JAGUAR (button) folded before Flop (didn't bet)
+Seat 4: viktoriayr (small blind) folded before Flop
+Seat 5: BigBoom111 (big blind) folded before Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia showed [Jh Kc] and won (4239) with a straight, Ten to Ace
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 28 **************
+PokerStars Hand #214713861190: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:26:04 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: RedDevil1099 (2866 in chips)
+Seat 2: SashaPSR (323 in chips)
+Seat 3: ARTUR_JAGUAR (9260 in chips)
+Seat 4: viktoriayr (2871 in chips)
+Seat 5: BigBoom111 (2406 in chips)
+Seat 6: elketefuka (2199 in chips)
+Seat 7: Trini Garcia (4239 in chips)
+Seat 8: young_mike87 (3345 in chips)
+Seat 9: nightdriver6 (5537 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+BigBoom111: posts small blind 25
+elketefuka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2h 3d]
+Trini Garcia: raises 50 to 100
+young_mike87: calls 100
+nightdriver6: folds
+RedDevil1099: raises 2760 to 2860 and is all-in
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+Uncalled bet (2760) returned to RedDevil1099
+RedDevil1099 collected 429 from pot
+RedDevil1099: doesn't show hand
+*** SUMMARY ***
+Total pot 429 | Rake 0
+Seat 1: RedDevil1099 collected (429)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) folded before Flop
+Seat 6: elketefuka (big blind) folded before Flop
+Seat 7: Trini Garcia folded before Flop
+Seat 8: young_mike87 folded before Flop
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 29 **************
+PokerStars Hand #214713877115: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:26:33 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: RedDevil1099 (3189 in chips)
+Seat 2: SashaPSR (317 in chips)
+Seat 3: ARTUR_JAGUAR (9254 in chips)
+Seat 4: viktoriayr (2865 in chips)
+Seat 5: BigBoom111 (2375 in chips)
+Seat 6: elketefuka (2143 in chips)
+Seat 7: Trini Garcia (4133 in chips)
+Seat 8: young_mike87 (3239 in chips)
+Seat 9: nightdriver6 (5531 in chips)
+RedDevil1099: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+elketefuka: posts small blind 25
+Trini Garcia: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2h Qd]
+young_mike87: folds
+nightdriver6: folds
+RedDevil1099: raises 100 to 150
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: calls 100
+*** FLOP *** [3h Qc Ad]
+Trini Garcia: checks
+RedDevil1099: bets 150
+Trini Garcia: calls 150
+*** TURN *** [3h Qc Ad] [5s]
+Trini Garcia: checks
+RedDevil1099: checks
+*** RIVER *** [3h Qc Ad 5s] [6c]
+SashaPSR is sitting out
+Trini Garcia: bets 469
+RedDevil1099: raises 2414 to 2883 and is all-in
+Trini Garcia: calls 2414
+*** SHOW DOWN ***
+RedDevil1099: shows [5c 6s] (two pair, Sixes and Fives)
+Trini Garcia: shows [Qh Ac] (two pair, Aces and Queens)
+Trini Garcia collected 6445 from pot
+RedDevil1099 finished the tournament in 1651st place
+*** SUMMARY ***
+Total pot 6445 | Rake 0
+Board [3h Qc Ad 5s 6c]
+Seat 1: RedDevil1099 showed [5c 6s] and lost with two pair, Sixes and Fives
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) folded before Flop
+Seat 7: Trini Garcia (big blind) showed [Qh Ac] and won (6445) with two pair, Aces and Queens
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 30 **************
+PokerStars Hand #214713926473: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:28:04 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 2: SashaPSR (311 in chips) is sitting out
+Seat 3: ARTUR_JAGUAR (9248 in chips)
+Seat 4: viktoriayr (2859 in chips)
+Seat 5: BigBoom111 (2369 in chips)
+Seat 6: elketefuka (2112 in chips)
+Seat 7: Trini Garcia (7389 in chips)
+Seat 8: young_mike87 (3233 in chips)
+Seat 9: nightdriver6 (5525 in chips)
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+Trini Garcia: posts small blind 25
+young_mike87: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [5c 4c]
+nightdriver6: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: raises 75 to 125
+BigBoom111: folds
+elketefuka: calls 125
+Trini Garcia: folds
+young_mike87: calls 75
+*** FLOP *** [9h Ts Ks]
+young_mike87: checks
+viktoriayr: bets 134
+elketefuka: folds
+young_mike87: folds
+Uncalled bet (134) returned to viktoriayr
+viktoriayr collected 448 from pot
+viktoriayr: doesn't show hand
+*** SUMMARY ***
+Total pot 448 | Rake 0
+Board [9h Ts Ks]
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr collected (448)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded on the Flop
+Seat 7: Trini Garcia (small blind) folded before Flop
+Seat 8: young_mike87 (big blind) folded on the Flop
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 31 **************
+PokerStars Hand #214713954730: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:28:56 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: Nick_29ru (3000 in chips)
+Seat 2: SashaPSR (305 in chips) is sitting out
+Seat 3: ARTUR_JAGUAR (9242 in chips)
+Seat 4: viktoriayr (3176 in chips)
+Seat 5: BigBoom111 (2363 in chips)
+Seat 6: elketefuka (1981 in chips)
+Seat 7: Trini Garcia (7358 in chips)
+Seat 8: young_mike87 (3102 in chips)
+Seat 9: nightdriver6 (5519 in chips)
+Nick_29ru: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+young_mike87: posts small blind 25
+nightdriver6: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [5c 2s]
+Nick_29ru: folds
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 75 to 125
+nightdriver6: calls 75
+*** FLOP *** [3d 5h Qs]
+young_mike87: bets 112
+nightdriver6: raises 112 to 224
+young_mike87: folds
+Uncalled bet (112) returned to nightdriver6
+nightdriver6 collected 528 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 528 | Rake 0
+Board [3d 5h Qs]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia (button) folded before Flop (didn't bet)
+Seat 8: young_mike87 (small blind) folded on the Flop
+Seat 9: nightdriver6 (big blind) collected (528)
+
+
+*********** # 32 **************
+PokerStars Hand #214713972644: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 8:29:30 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: Nick_29ru (2994 in chips)
+Seat 2: SashaPSR (299 in chips) is sitting out
+Seat 3: ARTUR_JAGUAR (9236 in chips)
+Seat 4: viktoriayr (3170 in chips)
+Seat 5: BigBoom111 (2357 in chips)
+Seat 6: elketefuka (1975 in chips)
+Seat 7: Trini Garcia (7352 in chips)
+Seat 8: young_mike87 (2859 in chips)
+Seat 9: nightdriver6 (5804 in chips)
+Nick_29ru: posts the ante 6
+SashaPSR: posts the ante 6
+ARTUR_JAGUAR: posts the ante 6
+viktoriayr: posts the ante 6
+BigBoom111: posts the ante 6
+elketefuka: posts the ante 6
+Trini Garcia: posts the ante 6
+young_mike87: posts the ante 6
+nightdriver6: posts the ante 6
+nightdriver6: posts small blind 25
+Nick_29ru: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 5d]
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: raises 65 to 115
+young_mike87: raises 310 to 425
+nightdriver6: folds
+Nick_29ru: folds
+Trini Garcia: folds
+Uncalled bet (310) returned to young_mike87
+young_mike87 collected 359 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 359 | Rake 0
+Seat 1: Nick_29ru (big blind) folded before Flop
+Seat 2: SashaPSR folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop
+Seat 8: young_mike87 (button) collected (359)
+Seat 9: nightdriver6 (small blind) folded before Flop
+
+
+*********** # 33 **************
+PokerStars Hand #214714002696: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:30:25 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 1: Nick_29ru (2938 in chips)
+Seat 2: SashaPSR (293 in chips) is sitting out
+Seat 3: ARTUR_JAGUAR (9230 in chips)
+Seat 4: viktoriayr (3164 in chips)
+Seat 5: BigBoom111 (2351 in chips)
+Seat 6: elketefuka (1969 in chips)
+Seat 7: Trini Garcia (7231 in chips)
+Seat 8: young_mike87 (3097 in chips)
+Seat 9: nightdriver6 (5773 in chips)
+Nick_29ru: posts the ante 7
+SashaPSR: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+Nick_29ru: posts small blind 30
+SashaPSR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc 3h]
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: raises 102 to 162
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: calls 162
+Nick_29ru: folds
+SashaPSR: folds
+*** FLOP *** [Jc 2c Qs]
+BigBoom111: bets 315
+nightdriver6: folds
+Uncalled bet (315) returned to BigBoom111
+BigBoom111 collected 477 from pot
+BigBoom111: doesn't show hand
+*** SUMMARY ***
+Total pot 477 | Rake 0
+Board [Jc 2c Qs]
+Seat 1: Nick_29ru (small blind) folded before Flop
+Seat 2: SashaPSR (big blind) folded before Flop
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 collected (477)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 (button) folded on the Flop
+
+
+*********** # 34 **************
+PokerStars Hand #214714029400: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:31:13 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: Nick_29ru (2901 in chips)
+Seat 2: SashaPSR (226 in chips) is sitting out
+Seat 3: ARTUR_JAGUAR (9223 in chips)
+Seat 4: viktoriayr (3157 in chips)
+Seat 5: BigBoom111 (2659 in chips)
+Seat 6: elketefuka (1962 in chips)
+Seat 7: Trini Garcia (7224 in chips)
+Seat 8: young_mike87 (3090 in chips)
+Seat 9: nightdriver6 (5604 in chips)
+Nick_29ru: posts the ante 7
+SashaPSR: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+SashaPSR: posts small blind 30
+ARTUR_JAGUAR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [6d 3c]
+viktoriayr: folds
+BigBoom111: raises 102 to 162
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: calls 162
+SashaPSR: folds
+ARTUR_JAGUAR: folds
+*** FLOP *** [7d 3d 8h]
+SashaPSR has returned
+BigBoom111: bets 315
+Nick_29ru: folds
+Uncalled bet (315) returned to BigBoom111
+BigBoom111 collected 477 from pot
+BigBoom111: doesn't show hand
+*** SUMMARY ***
+Total pot 477 | Rake 0
+Board [7d 3d 8h]
+Seat 1: Nick_29ru (button) folded on the Flop
+Seat 2: SashaPSR (small blind) folded before Flop
+Seat 3: ARTUR_JAGUAR (big blind) folded before Flop
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 collected (477)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 35 **************
+PokerStars Hand #214714050298: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:31:51 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: Nick_29ru (2732 in chips)
+Seat 3: ARTUR_JAGUAR (9156 in chips)
+Seat 4: viktoriayr (3150 in chips)
+Seat 5: BigBoom111 (2967 in chips)
+Seat 6: elketefuka (1955 in chips)
+Seat 7: Trini Garcia (7217 in chips)
+Seat 8: young_mike87 (3083 in chips)
+Seat 9: nightdriver6 (5597 in chips)
+Nick_29ru: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+viktoriayr: posts small blind 30
+BigBoom111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [4d Qd]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: raises 60 to 120
+ARTUR_JAGUAR: folds
+viktoriayr: calls 90
+BigBoom111: folds
+*** FLOP *** [9d 2d 5h]
+viktoriayr: checks
+Nick_29ru: checks
+*** TURN *** [9d 2d 5h] [3s]
+viktoriayr: checks
+Nick_29ru: checks
+*** RIVER *** [9d 2d 5h 3s] [7s]
+viktoriayr: checks
+Nick_29ru: checks
+*** SHOW DOWN ***
+viktoriayr: shows [6c Ac] (high card Ace)
+Nick_29ru: shows [Ah 8h] (high card Ace - Nine+Eight kicker)
+Nick_29ru collected 356 from pot
+*** SUMMARY ***
+Total pot 356 | Rake 0
+Board [9d 2d 5h 3s 7s]
+Seat 1: Nick_29ru showed [Ah 8h] and won (356) with high card Ace
+Seat 3: ARTUR_JAGUAR (button) folded before Flop (didn't bet)
+Seat 4: viktoriayr (small blind) showed [6c Ac] and lost with high card Ace
+Seat 5: BigBoom111 (big blind) folded before Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 36 **************
+PokerStars Hand #214714074491: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:32:35 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: Nick_29ru (2961 in chips)
+Seat 2: ikiiie (3000 in chips)
+Seat 3: ARTUR_JAGUAR (9149 in chips)
+Seat 4: viktoriayr (3023 in chips)
+Seat 5: BigBoom111 (2900 in chips)
+Seat 6: elketefuka (1948 in chips)
+Seat 7: Trini Garcia (7210 in chips)
+Seat 8: young_mike87 (3076 in chips)
+Seat 9: nightdriver6 (5590 in chips)
+Nick_29ru: posts the ante 7
+ikiiie: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+BigBoom111: posts small blind 30
+elketefuka: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [9s Jh]
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: raises 213 to 273
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: calls 273
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+*** FLOP *** [3s Kh Th]
+nightdriver6: bets 180
+ARTUR_JAGUAR: calls 180
+*** TURN *** [3s Kh Th] [5h]
+nightdriver6: bets 360
+ARTUR_JAGUAR: calls 360
+*** RIVER *** [3s Kh Th 5h] [Tc]
+nightdriver6: checks
+ARTUR_JAGUAR: checks
+*** SHOW DOWN ***
+nightdriver6: shows [As Qh] (a pair of Tens)
+ARTUR_JAGUAR: shows [4s 4c] (two pair, Tens and Fours)
+ARTUR_JAGUAR collected 1779 from pot
+*** SUMMARY ***
+Total pot 1779 | Rake 0
+Board [3s Kh Th 5h Tc]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR showed [4s 4c] and won (1779) with two pair, Tens and Fours
+Seat 4: viktoriayr (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) folded before Flop
+Seat 6: elketefuka (big blind) folded before Flop
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 showed [As Qh] and lost with a pair of Tens
+
+
+*********** # 37 **************
+PokerStars Hand #214714110815: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:33:41 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: Nick_29ru (2954 in chips)
+Seat 2: ikiiie (2993 in chips)
+Seat 3: ARTUR_JAGUAR (10108 in chips)
+Seat 4: viktoriayr (3016 in chips)
+Seat 5: BigBoom111 (2863 in chips)
+Seat 6: elketefuka (1881 in chips)
+Seat 7: Trini Garcia (7203 in chips)
+Seat 8: young_mike87 (3069 in chips)
+Seat 9: nightdriver6 (4770 in chips)
+Nick_29ru: posts the ante 7
+ikiiie: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+elketefuka: posts small blind 30
+Trini Garcia: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 9h]
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: raises 67 to 127
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+Uncalled bet (67) returned to ikiiie
+ikiiie collected 213 from pot
+*** SUMMARY ***
+Total pot 213 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie collected (213)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) folded before Flop
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 38 **************
+PokerStars Hand #214714126015: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:34:08 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: Nick_29ru (2947 in chips)
+Seat 2: ikiiie (3139 in chips)
+Seat 3: ARTUR_JAGUAR (10101 in chips)
+Seat 4: viktoriayr (3009 in chips)
+Seat 5: BigBoom111 (2856 in chips)
+Seat 6: elketefuka (1844 in chips)
+Seat 7: Trini Garcia (7136 in chips)
+Seat 8: young_mike87 (3062 in chips)
+Seat 9: nightdriver6 (4763 in chips)
+Nick_29ru: posts the ante 7
+ikiiie: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+Trini Garcia: posts small blind 30
+young_mike87: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [2c Tc]
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 120 to 180
+Trini Garcia: calls 150
+young_mike87: folds
+*** FLOP *** [Ah 5d Kh]
+Trini Garcia: checks
+elketefuka: bets 242
+Trini Garcia: calls 242
+*** TURN *** [Ah 5d Kh] [8h]
+Trini Garcia: checks
+elketefuka: checks
+*** RIVER *** [Ah 5d Kh 8h] [2h]
+Trini Garcia: bets 319
+elketefuka: folds
+Uncalled bet (319) returned to Trini Garcia
+Trini Garcia collected 967 from pot
+Trini Garcia: doesn't show hand
+*** SUMMARY ***
+Total pot 967 | Rake 0
+Board [Ah 5d Kh 8h 2h]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded on the River
+Seat 7: Trini Garcia (small blind) collected (967)
+Seat 8: young_mike87 (big blind) folded before Flop
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 39 **************
+PokerStars Hand #214714153887: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:34:59 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: Nick_29ru (2940 in chips)
+Seat 2: ikiiie (3132 in chips)
+Seat 3: ARTUR_JAGUAR (10094 in chips)
+Seat 4: viktoriayr (3002 in chips)
+Seat 5: BigBoom111 (2849 in chips)
+Seat 6: elketefuka (1415 in chips)
+Seat 7: Trini Garcia (7674 in chips)
+Seat 8: young_mike87 (2995 in chips)
+Seat 9: nightdriver6 (4756 in chips)
+Nick_29ru: posts the ante 7
+ikiiie: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+young_mike87: posts small blind 30
+nightdriver6: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [7s 4d]
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: raises 120 to 180
+viktoriayr: folds
+BigBoom111: raises 360 to 540
+elketefuka: folds
+Trini Garcia has timed out
+Trini Garcia: folds
+Trini Garcia is sitting out
+young_mike87: folds
+nightdriver6: folds
+ARTUR_JAGUAR: raises 9547 to 10087 and is all-in
+BigBoom111: folds
+Uncalled bet (9547) returned to ARTUR_JAGUAR
+ARTUR_JAGUAR collected 1233 from pot
+*** SUMMARY ***
+Total pot 1233 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR collected (1233)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia (button) folded before Flop (didn't bet)
+Seat 8: young_mike87 (small blind) folded before Flop
+Seat 9: nightdriver6 (big blind) folded before Flop
+
+
+*********** # 40 **************
+PokerStars Hand #214714198187: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:36:18 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: Nick_29ru (2933 in chips)
+Seat 2: ikiiie (3125 in chips)
+Seat 3: ARTUR_JAGUAR (10780 in chips)
+Seat 4: viktoriayr (2995 in chips)
+Seat 5: BigBoom111 (2302 in chips)
+Seat 6: elketefuka (1408 in chips)
+Seat 7: Trini Garcia (7667 in chips) is sitting out
+Seat 8: young_mike87 (2958 in chips)
+Seat 9: nightdriver6 (4689 in chips)
+Nick_29ru: posts the ante 7
+ikiiie: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+nightdriver6: posts small blind 30
+Nick_29ru: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 2h]
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: raises 90 to 150
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: calls 150
+nightdriver6: calls 120
+Trini Garcia has returned
+Nick_29ru: folds
+*** FLOP *** [6h 8d 5d]
+nightdriver6: checks
+BigBoom111: checks
+young_mike87: checks
+*** TURN *** [6h 8d 5d] [Ac]
+nightdriver6: checks
+BigBoom111: bets 286
+young_mike87: folds
+nightdriver6: calls 286
+*** RIVER *** [6h 8d 5d Ac] [Ts]
+nightdriver6: checks
+BigBoom111: checks
+*** SHOW DOWN ***
+nightdriver6: shows [Jh 9h] (high card Ace)
+BigBoom111: shows [9d Ah] (a pair of Aces)
+BigBoom111 collected 1145 from pot
+*** SUMMARY ***
+Total pot 1145 | Rake 0
+Board [6h 8d 5d Ac Ts]
+Seat 1: Nick_29ru (big blind) folded before Flop
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 showed [9d Ah] and won (1145) with a pair of Aces
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 (button) folded on the Turn
+Seat 9: nightdriver6 (small blind) showed [Jh 9h] and lost with high card Ace
+
+
+*********** # 41 **************
+PokerStars Hand #214714266220: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:38:20 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 1: Nick_29ru (2866 in chips)
+Seat 2: ikiiie (3118 in chips)
+Seat 3: ARTUR_JAGUAR (10773 in chips)
+Seat 4: viktoriayr (2988 in chips)
+Seat 5: BigBoom111 (3004 in chips)
+Seat 6: elketefuka (1401 in chips)
+Seat 7: Trini Garcia (7660 in chips)
+Seat 8: young_mike87 (2801 in chips)
+Seat 9: nightdriver6 (4246 in chips)
+Nick_29ru: posts the ante 7
+ikiiie: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+Nick_29ru: posts small blind 30
+ikiiie: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [5h 3s]
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 90 to 150
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: calls 90
+*** FLOP *** [Ts 4h 7h]
+ikiiie: checks
+young_mike87: bets 200
+ikiiie: calls 200
+*** TURN *** [Ts 4h 7h] [Ks]
+ikiiie: checks
+young_mike87: bets 404
+ikiiie: folds
+Uncalled bet (404) returned to young_mike87
+young_mike87 collected 793 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 793 | Rake 0
+Board [Ts 4h 7h Ks]
+Seat 1: Nick_29ru (small blind) folded before Flop
+Seat 2: ikiiie (big blind) folded on the Turn
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 collected (793)
+Seat 9: nightdriver6 (button) folded before Flop (didn't bet)
+
+
+*********** # 42 **************
+PokerStars Hand #214714299494: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level IV (30/60) - 2020/05/31 8:39:19 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: Nick_29ru (2829 in chips)
+Seat 2: ikiiie (2761 in chips)
+Seat 3: ARTUR_JAGUAR (10766 in chips)
+Seat 4: viktoriayr (2981 in chips)
+Seat 5: BigBoom111 (2997 in chips)
+Seat 6: elketefuka (1394 in chips)
+Seat 7: Trini Garcia (7653 in chips)
+Seat 8: young_mike87 (3237 in chips)
+Seat 9: nightdriver6 (4239 in chips)
+Nick_29ru: posts the ante 7
+ikiiie: posts the ante 7
+ARTUR_JAGUAR: posts the ante 7
+viktoriayr: posts the ante 7
+BigBoom111: posts the ante 7
+elketefuka: posts the ante 7
+Trini Garcia: posts the ante 7
+young_mike87: posts the ante 7
+nightdriver6: posts the ante 7
+ikiiie: posts small blind 30
+ARTUR_JAGUAR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to elketefuka [5h Qc]
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: raises 63 to 123
+young_mike87: calls 123
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: calls 63
+*** FLOP *** [5d Jh 3s]
+ARTUR_JAGUAR: checks
+Trini Garcia: bets 152
+young_mike87: calls 152
+ARTUR_JAGUAR: calls 152
+*** TURN *** [5d Jh 3s] [9c]
+ARTUR_JAGUAR: checks
+Trini Garcia: checks
+young_mike87: bets 468
+ARTUR_JAGUAR: calls 468
+Trini Garcia: folds
+*** RIVER *** [5d Jh 3s 9c] [7c]
+ARTUR_JAGUAR: checks
+young_mike87: checks
+*** SHOW DOWN ***
+ARTUR_JAGUAR: shows [6h 6d] (a pair of Sixes)
+young_mike87: shows [Qh Jc] (a pair of Jacks)
+young_mike87 collected 1854 from pot
+*** SUMMARY ***
+Total pot 1854 | Rake 0
+Board [5d Jh 3s 9c 7c]
+Seat 1: Nick_29ru (button) folded before Flop (didn't bet)
+Seat 2: ikiiie (small blind) folded before Flop
+Seat 3: ARTUR_JAGUAR (big blind) showed [6h 6d] and lost with a pair of Sixes
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded on the Turn
+Seat 8: young_mike87 showed [Qh Jc] and won (1854) with a pair of Jacks
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 43 **************
+PokerStars Hand #214714339648: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:40:31 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: Nick_29ru (2822 in chips)
+Seat 2: ikiiie (2724 in chips)
+Seat 3: ARTUR_JAGUAR (10016 in chips)
+Seat 4: viktoriayr (2974 in chips)
+Seat 5: BigBoom111 (2990 in chips)
+Seat 6: elketefuka (1387 in chips)
+Seat 7: Trini Garcia (7371 in chips)
+Seat 8: young_mike87 (4341 in chips)
+Seat 9: nightdriver6 (4232 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+ARTUR_JAGUAR: posts small blind 40
+viktoriayr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd 2c]
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: raises 84 to 164
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+Uncalled bet (84) returned to Trini Garcia
+Trini Garcia collected 290 from pot
+Trini Garcia: doesn't show hand
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie (button) folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (small blind) folded before Flop
+Seat 4: viktoriayr (big blind) folded before Flop
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia collected (290)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 44 **************
+PokerStars Hand #214714352191: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:40:54 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: Nick_29ru (2812 in chips)
+Seat 2: ikiiie (2714 in chips)
+Seat 3: ARTUR_JAGUAR (9966 in chips)
+Seat 4: viktoriayr (2884 in chips)
+Seat 5: BigBoom111 (2980 in chips)
+Seat 6: elketefuka (1377 in chips)
+Seat 7: Trini Garcia (7571 in chips)
+Seat 8: young_mike87 (4331 in chips)
+Seat 9: nightdriver6 (4222 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+viktoriayr: posts small blind 40
+BigBoom111: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 8h]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: raises 112 to 192
+viktoriayr: folds
+BigBoom111: calls 112
+*** FLOP *** [Jh As 3s]
+BigBoom111: checks
+ARTUR_JAGUAR: bets 180
+BigBoom111: folds
+Uncalled bet (180) returned to ARTUR_JAGUAR
+ARTUR_JAGUAR collected 514 from pot
+*** SUMMARY ***
+Total pot 514 | Rake 0
+Board [Jh As 3s]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (button) collected (514)
+Seat 4: viktoriayr (small blind) folded before Flop
+Seat 5: BigBoom111 (big blind) folded on the Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 45 **************
+PokerStars Hand #214714373195: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:41:31 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: Nick_29ru (2802 in chips)
+Seat 2: ikiiie (2704 in chips)
+Seat 3: ARTUR_JAGUAR (10278 in chips)
+Seat 4: viktoriayr (2834 in chips)
+Seat 5: BigBoom111 (2778 in chips)
+Seat 6: elketefuka (1367 in chips)
+Seat 7: Trini Garcia (7561 in chips)
+Seat 8: young_mike87 (4321 in chips)
+Seat 9: nightdriver6 (4212 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+BigBoom111: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [3s Kc]
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: raises 112 to 192
+viktoriayr: folds
+BigBoom111: calls 152
+elketefuka: folds
+*** FLOP *** [Th Js 7c]
+BigBoom111: checks
+ARTUR_JAGUAR: checks
+*** TURN *** [Th Js 7c] [Jc]
+BigBoom111: bets 366
+ARTUR_JAGUAR: folds
+Uncalled bet (366) returned to BigBoom111
+BigBoom111 collected 554 from pot
+BigBoom111: doesn't show hand
+*** SUMMARY ***
+Total pot 554 | Rake 0
+Board [Th Js 7c Jc]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded on the Turn
+Seat 4: viktoriayr (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) collected (554)
+Seat 6: elketefuka (big blind) folded before Flop
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 46 **************
+PokerStars Hand #214714407387: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:42:33 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: Nick_29ru (2792 in chips)
+Seat 2: ikiiie (2694 in chips)
+Seat 3: ARTUR_JAGUAR (10076 in chips)
+Seat 4: viktoriayr (2824 in chips)
+Seat 5: BigBoom111 (3130 in chips)
+Seat 6: elketefuka (1277 in chips)
+Seat 7: Trini Garcia (7551 in chips)
+Seat 8: young_mike87 (4311 in chips)
+Seat 9: nightdriver6 (4202 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+elketefuka: posts small blind 40
+Trini Garcia: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 4s]
+young_mike87: folds
+nightdriver6: raises 290 to 370
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+Uncalled bet (290) returned to nightdriver6
+nightdriver6 collected 290 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 290 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) folded before Flop
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 collected (290)
+
+
+*********** # 47 **************
+PokerStars Hand #214714428221: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:43:09 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: Nick_29ru (2782 in chips)
+Seat 2: ikiiie (2684 in chips)
+Seat 3: ARTUR_JAGUAR (10066 in chips)
+Seat 4: viktoriayr (2814 in chips)
+Seat 5: BigBoom111 (3120 in chips)
+Seat 6: elketefuka (1227 in chips)
+Seat 7: Trini Garcia (7461 in chips)
+Seat 8: young_mike87 (4301 in chips)
+Seat 9: nightdriver6 (4402 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+Trini Garcia: posts small blind 40
+young_mike87: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 5s]
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: raises 112 to 192
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: calls 152
+young_mike87: folds
+*** FLOP *** [Ts 7h 6c]
+Trini Garcia: checks
+ARTUR_JAGUAR: checks
+*** TURN *** [Ts 7h 6c] [Qd]
+Trini Garcia: bets 305
+ARTUR_JAGUAR: folds
+Uncalled bet (305) returned to Trini Garcia
+Trini Garcia collected 554 from pot
+Trini Garcia: doesn't show hand
+*** SUMMARY ***
+Total pot 554 | Rake 0
+Board [Ts 7h 6c Qd]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded on the Turn
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded before Flop (didn't bet)
+Seat 7: Trini Garcia (small blind) collected (554)
+Seat 8: young_mike87 (big blind) folded before Flop
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 48 **************
+PokerStars Hand #214714473894: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:44:22 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: Nick_29ru (2772 in chips)
+Seat 2: ikiiie (2674 in chips)
+Seat 3: ARTUR_JAGUAR (9864 in chips)
+Seat 4: viktoriayr (2804 in chips)
+Seat 5: BigBoom111 (3110 in chips)
+Seat 6: elketefuka (1217 in chips)
+Seat 7: Trini Garcia (7813 in chips)
+Seat 8: young_mike87 (4211 in chips)
+Seat 9: nightdriver6 (4392 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+young_mike87: posts small blind 40
+nightdriver6: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 9s]
+Nick_29ru: folds
+ikiiie: raises 87 to 167
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: calls 127
+nightdriver6: calls 87
+*** FLOP *** [8c 4h Qs]
+young_mike87: checks
+nightdriver6: bets 160
+Trini Garcia is sitting out
+ikiiie: folds
+young_mike87: folds
+Uncalled bet (160) returned to nightdriver6
+nightdriver6 collected 591 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 591 | Rake 0
+Board [8c 4h Qs]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded on the Flop
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia (button) folded before Flop (didn't bet)
+Seat 8: young_mike87 (small blind) folded on the Flop
+Seat 9: nightdriver6 (big blind) collected (591)
+
+
+*********** # 49 **************
+PokerStars Hand #214714497791: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:45:04 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: Nick_29ru (2762 in chips)
+Seat 2: ikiiie (2497 in chips)
+Seat 3: ARTUR_JAGUAR (9854 in chips)
+Seat 4: viktoriayr (2794 in chips)
+Seat 5: BigBoom111 (3100 in chips)
+Seat 6: elketefuka (1207 in chips)
+Seat 7: Trini Garcia (7803 in chips) is sitting out
+Seat 8: young_mike87 (4034 in chips)
+Seat 9: nightdriver6 (4806 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+nightdriver6: posts small blind 40
+Nick_29ru: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Jh 2h]
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 120 to 200
+nightdriver6: folds
+Nick_29ru: calls 120
+*** FLOP *** [Kc Ac 6h]
+Nick_29ru: checks
+young_mike87: bets 270
+Nick_29ru: folds
+Uncalled bet (270) returned to young_mike87
+young_mike87 collected 530 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 530 | Rake 0
+Board [Kc Ac 6h]
+Seat 1: Nick_29ru (big blind) folded on the Flop
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 (button) collected (530)
+Seat 9: nightdriver6 (small blind) folded before Flop
+
+
+*********** # 50 **************
+PokerStars Hand #214714524687: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:45:52 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 1: Nick_29ru (2552 in chips)
+Seat 2: ikiiie (2487 in chips)
+Seat 3: ARTUR_JAGUAR (9844 in chips)
+Seat 4: viktoriayr (2784 in chips)
+Seat 5: BigBoom111 (3090 in chips)
+Seat 6: elketefuka (1197 in chips)
+Seat 7: Trini Garcia (7793 in chips) is sitting out
+Seat 8: young_mike87 (4354 in chips)
+Seat 9: nightdriver6 (4756 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+Nick_29ru: posts small blind 40
+ikiiie: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [7h Th]
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 120 to 200
+nightdriver6: calls 200
+Nick_29ru: folds
+ikiiie: folds
+*** FLOP *** [4s Ah 4h]
+young_mike87: checks
+nightdriver6: bets 320
+young_mike87: folds
+Uncalled bet (320) returned to nightdriver6
+nightdriver6 collected 610 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 610 | Rake 0
+Board [4s Ah 4h]
+Seat 1: Nick_29ru (small blind) folded before Flop
+Seat 2: ikiiie (big blind) folded before Flop
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded on the Flop
+Seat 9: nightdriver6 (button) collected (610)
+
+
+*********** # 51 **************
+PokerStars Hand #214714556044: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:46:48 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: Nick_29ru (2502 in chips)
+Seat 2: ikiiie (2397 in chips)
+Seat 3: ARTUR_JAGUAR (9834 in chips)
+Seat 4: viktoriayr (2774 in chips)
+Seat 5: BigBoom111 (3080 in chips)
+Seat 6: elketefuka (1187 in chips)
+Seat 7: Trini Garcia (7783 in chips) is sitting out
+Seat 8: young_mike87 (4144 in chips)
+Seat 9: nightdriver6 (5156 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+ikiiie: posts small blind 40
+ARTUR_JAGUAR: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Jd]
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 160 to 240
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: calls 240
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: folds
+*** FLOP *** [6s 7d 5c]
+elketefuka: bets 937 and is all-in
+Trini Garcia has returned
+nightdriver6: folds
+Uncalled bet (937) returned to elketefuka
+elketefuka collected 690 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 690 | Rake 0
+Board [6s 7d 5c]
+Seat 1: Nick_29ru (button) folded before Flop (didn't bet)
+Seat 2: ikiiie (small blind) folded before Flop
+Seat 3: ARTUR_JAGUAR (big blind) folded before Flop
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka collected (690)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded on the Flop
+
+
+*********** # 52 **************
+PokerStars Hand #214714579497: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:47:30 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: Nick_29ru (2492 in chips)
+Seat 2: ikiiie (2347 in chips)
+Seat 3: ARTUR_JAGUAR (9744 in chips)
+Seat 4: viktoriayr (2764 in chips)
+Seat 5: BigBoom111 (3070 in chips)
+Seat 6: elketefuka (1627 in chips)
+Seat 7: Trini Garcia (7773 in chips)
+Seat 8: young_mike87 (4134 in chips)
+Seat 9: nightdriver6 (4906 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+ARTUR_JAGUAR: posts small blind 40
+viktoriayr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc Ts]
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: raises 84 to 164
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: calls 164
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+*** FLOP *** [As 6c Js]
+Trini Garcia: bets 178
+ikiiie: calls 178
+*** TURN *** [As 6c Js] [8c]
+Trini Garcia: checks
+ikiiie: checks
+*** RIVER *** [As 6c Js 8c] [3d]
+Trini Garcia: checks
+ikiiie: bets 491
+Trini Garcia: folds
+Uncalled bet (491) returned to ikiiie
+ikiiie collected 894 from pot
+*** SUMMARY ***
+Total pot 894 | Rake 0
+Board [As 6c Js 8c 3d]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie (button) collected (894)
+Seat 3: ARTUR_JAGUAR (small blind) folded before Flop
+Seat 4: viktoriayr (big blind) folded before Flop
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded on the River
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 53 **************
+PokerStars Hand #214714627151: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:48:41 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: Nick_29ru (2482 in chips)
+Seat 2: ikiiie (2889 in chips)
+Seat 3: ARTUR_JAGUAR (9694 in chips)
+Seat 4: viktoriayr (2674 in chips)
+Seat 5: BigBoom111 (3060 in chips)
+Seat 6: elketefuka (1617 in chips)
+Seat 7: Trini Garcia (7421 in chips)
+Seat 8: young_mike87 (4124 in chips)
+Seat 9: nightdriver6 (4896 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+viktoriayr: posts small blind 40
+BigBoom111: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [7d Qc]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: raises 2584 to 2664 and is all-in
+BigBoom111: folds
+Uncalled bet (2584) returned to viktoriayr
+viktoriayr collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR (button) folded before Flop (didn't bet)
+Seat 4: viktoriayr (small blind) collected (250)
+Seat 5: BigBoom111 (big blind) folded before Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 54 **************
+PokerStars Hand #214714639866: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:49:03 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: Nick_29ru (2472 in chips)
+Seat 2: ikiiie (2879 in chips)
+Seat 3: ARTUR_JAGUAR (9684 in chips)
+Seat 4: viktoriayr (2834 in chips)
+Seat 5: BigBoom111 (2970 in chips)
+Seat 6: elketefuka (1607 in chips)
+Seat 7: Trini Garcia (7411 in chips)
+Seat 8: young_mike87 (4114 in chips)
+Seat 9: nightdriver6 (4886 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+BigBoom111: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [9h 4c]
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: raises 80 to 160
+elketefuka: folds
+Uncalled bet (80) returned to BigBoom111
+BigBoom111 collected 250 from pot
+BigBoom111: doesn't show hand
+*** SUMMARY ***
+Total pot 250 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) collected (250)
+Seat 6: elketefuka (big blind) folded before Flop
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 55 **************
+PokerStars Hand #214714668913: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level V (40/80) - 2020/05/31 8:49:55 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: Nick_29ru (2462 in chips)
+Seat 2: ikiiie (2869 in chips)
+Seat 3: ARTUR_JAGUAR (9674 in chips)
+Seat 4: viktoriayr (2824 in chips)
+Seat 5: BigBoom111 (3130 in chips)
+Seat 6: elketefuka (1517 in chips)
+Seat 7: Trini Garcia (7401 in chips)
+Seat 8: young_mike87 (4104 in chips)
+Seat 9: nightdriver6 (4876 in chips)
+Nick_29ru: posts the ante 10
+ikiiie: posts the ante 10
+ARTUR_JAGUAR: posts the ante 10
+viktoriayr: posts the ante 10
+BigBoom111: posts the ante 10
+elketefuka: posts the ante 10
+Trini Garcia: posts the ante 10
+young_mike87: posts the ante 10
+nightdriver6: posts the ante 10
+elketefuka: posts small blind 40
+Trini Garcia: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc Ah]
+young_mike87: folds
+nightdriver6: raises 160 to 240
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: raises 400 to 640
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 867 to 1507 and is all-in
+Trini Garcia: folds
+nightdriver6: folds
+ARTUR_JAGUAR: calls 867
+*** FLOP *** [2c Qd Ac]
+*** TURN *** [2c Qd Ac] [8c]
+*** RIVER *** [2c Qd Ac 8c] [Th]
+*** SHOW DOWN ***
+elketefuka: shows [Kc Ah] (a pair of Aces)
+ARTUR_JAGUAR: shows [Jh Jd] (a pair of Jacks)
+elketefuka collected 3424 from pot
+*** SUMMARY ***
+Total pot 3424 | Rake 0
+Board [2c Qd Ac 8c Th]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR showed [Jh Jd] and lost with a pair of Jacks
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) showed [Kc Ah] and won (3424) with a pair of Aces
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop
+
+
+*********** # 56 **************
+PokerStars Hand #214714696212: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 8:50:44 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: Nick_29ru (2452 in chips)
+Seat 2: ikiiie (2859 in chips)
+Seat 3: ARTUR_JAGUAR (8157 in chips)
+Seat 4: viktoriayr (2814 in chips)
+Seat 5: BigBoom111 (3120 in chips)
+Seat 6: elketefuka (3424 in chips)
+Seat 7: Trini Garcia (7311 in chips)
+Seat 8: young_mike87 (4094 in chips)
+Seat 9: nightdriver6 (4626 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+ARTUR_JAGUAR: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+Trini Garcia: posts small blind 50
+young_mike87: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [6c 8s]
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+ARTUR_JAGUAR: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+Uncalled bet (50) returned to young_mike87
+young_mike87 collected 208 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 208 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: ARTUR_JAGUAR folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded before Flop (didn't bet)
+Seat 7: Trini Garcia (small blind) folded before Flop
+Seat 8: young_mike87 (big blind) collected (208)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 57 **************
+PokerStars Hand #214714709456: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 8:51:07 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: Nick_29ru (2440 in chips)
+Seat 2: ikiiie (2847 in chips)
+Seat 4: viktoriayr (2802 in chips)
+Seat 5: BigBoom111 (3108 in chips)
+Seat 6: elketefuka (3412 in chips)
+Seat 7: Trini Garcia (7249 in chips)
+Seat 8: young_mike87 (4240 in chips)
+Seat 9: nightdriver6 (4614 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+young_mike87: posts small blind 50
+nightdriver6: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd Kd]
+Nick_29ru: folds
+ikiiie: raises 112 to 212
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: calls 212
+Trini Garcia: calls 212
+young_mike87: folds
+nightdriver6: folds
+*** FLOP *** [4c 3s Ks]
+ikiiie: checks
+elketefuka: bets 441
+Trini Garcia: folds
+ikiiie: folds
+Uncalled bet (441) returned to elketefuka
+elketefuka collected 882 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 882 | Rake 0
+Board [4c 3s Ks]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded on the Flop
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka collected (882)
+Seat 7: Trini Garcia (button) folded on the Flop
+Seat 8: young_mike87 (small blind) folded before Flop
+Seat 9: nightdriver6 (big blind) folded before Flop
+
+
+*********** # 58 **************
+PokerStars Hand #214714736904: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 8:51:55 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: Nick_29ru (2428 in chips)
+Seat 2: ikiiie (2623 in chips)
+Seat 3: sportivul80 (3000 in chips)
+Seat 4: viktoriayr (2790 in chips)
+Seat 5: BigBoom111 (3096 in chips)
+Seat 6: elketefuka (4070 in chips)
+Seat 7: Trini Garcia (7025 in chips)
+Seat 8: young_mike87 (4178 in chips)
+Seat 9: nightdriver6 (4502 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+sportivul80: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+nightdriver6: posts small blind 50
+Nick_29ru: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 3s]
+ikiiie: raises 109 to 209
+sportivul80: calls 209
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+*** FLOP *** [Tc 9c 6h]
+ikiiie: checks
+sportivul80: checks
+*** TURN *** [Tc 9c 6h] [6d]
+ikiiie: bets 291
+sportivul80: calls 291
+*** RIVER *** [Tc 9c 6h 6d] [3c]
+ikiiie: checks
+sportivul80: bets 600
+ikiiie: folds
+Uncalled bet (600) returned to sportivul80
+sportivul80 collected 1258 from pot
+sportivul80: doesn't show hand
+*** SUMMARY ***
+Total pot 1258 | Rake 0
+Board [Tc 9c 6h 6d 3c]
+Seat 1: Nick_29ru (big blind) folded before Flop
+Seat 2: ikiiie folded on the River
+Seat 3: sportivul80 collected (1258)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 (button) folded before Flop (didn't bet)
+Seat 9: nightdriver6 (small blind) folded before Flop
+
+
+*********** # 59 **************
+PokerStars Hand #214714788652: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 8:53:27 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 1: Nick_29ru (2316 in chips)
+Seat 2: ikiiie (2111 in chips)
+Seat 3: sportivul80 (3746 in chips)
+Seat 4: viktoriayr (2778 in chips)
+Seat 5: BigBoom111 (3084 in chips)
+Seat 6: elketefuka (4058 in chips)
+Seat 7: Trini Garcia (7013 in chips)
+Seat 8: young_mike87 (4166 in chips)
+Seat 9: nightdriver6 (4440 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+sportivul80: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+Nick_29ru: posts small blind 50
+ikiiie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [7s Jh]
+sportivul80: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 130 to 230
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: calls 130
+*** FLOP *** [6c 5c Jc]
+ikiiie: checks
+young_mike87: bets 229
+ikiiie: raises 463 to 692
+young_mike87: calls 463
+*** TURN *** [6c 5c Jc] [8c]
+ikiiie: checks
+young_mike87: checks
+*** RIVER *** [6c 5c Jc 8c] [3h]
+ikiiie: checks
+young_mike87: bets 1050
+ikiiie: folds
+Uncalled bet (1050) returned to young_mike87
+young_mike87 collected 2002 from pot
+young_mike87: doesn't show hand
+*** SUMMARY ***
+Total pot 2002 | Rake 0
+Board [6c 5c Jc 8c 3h]
+Seat 1: Nick_29ru (small blind) folded before Flop
+Seat 2: ikiiie (big blind) folded on the River
+Seat 3: sportivul80 folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 collected (2002)
+Seat 9: nightdriver6 (button) folded before Flop (didn't bet)
+
+
+*********** # 60 **************
+PokerStars Hand #214714836990: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 8:54:52 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: Nick_29ru (2254 in chips)
+Seat 2: ikiiie (1177 in chips)
+Seat 3: sportivul80 (3734 in chips)
+Seat 4: viktoriayr (2766 in chips)
+Seat 5: BigBoom111 (3072 in chips)
+Seat 6: elketefuka (4046 in chips)
+Seat 7: Trini Garcia (7001 in chips)
+Seat 8: young_mike87 (5234 in chips)
+Seat 9: nightdriver6 (4428 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+sportivul80: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+ikiiie: posts small blind 50
+sportivul80: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 4c]
+viktoriayr: raises 100 to 200
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: calls 200
+young_mike87: folds
+BigBoom111 is sitting out
+nightdriver6: raises 800 to 1000
+Nick_29ru: folds
+ikiiie: folds
+sportivul80 is connected
+BigBoom111 has returned
+sportivul80: calls 900
+viktoriayr: folds
+Trini Garcia: folds
+*** FLOP *** [Jd 6c 8s]
+sportivul80: checks
+nightdriver6: bets 1279
+sportivul80: folds
+Uncalled bet (1279) returned to nightdriver6
+nightdriver6 collected 2558 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 2558 | Rake 0
+Board [Jd 6c 8s]
+Seat 1: Nick_29ru (button) folded before Flop (didn't bet)
+Seat 2: ikiiie (small blind) folded before Flop
+Seat 3: sportivul80 (big blind) folded on the Flop
+Seat 4: viktoriayr folded before Flop
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 collected (2558)
+
+
+*********** # 61 **************
+PokerStars Hand #214715049617: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 9:02:35 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: Nick_29ru (2242 in chips)
+Seat 2: ikiiie (1115 in chips)
+Seat 3: StuBird90 (3000 in chips) out of hand (moved from another table into small blind)
+Seat 4: viktoriayr (2554 in chips)
+Seat 5: BigBoom111 (3060 in chips)
+Seat 6: elketefuka (4034 in chips)
+Seat 7: Trini Garcia (6789 in chips)
+Seat 8: young_mike87 (5222 in chips)
+Seat 9: nightdriver6 (5974 in chips)
+StuBird90 will be allowed to play after the button
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+viktoriayr: posts small blind 50
+BigBoom111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [Js Qc]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: raises 100 to 200
+ikiiie: folds
+viktoriayr: raises 2342 to 2542 and is all-in
+BigBoom111 has timed out while disconnected
+BigBoom111: folds
+BigBoom111 is sitting out
+Nick_29ru: folds
+Uncalled bet (2342) returned to viktoriayr
+viktoriayr collected 596 from pot
+viktoriayr: doesn't show hand
+*** SUMMARY ***
+Total pot 596 | Rake 0
+Seat 1: Nick_29ru folded before Flop
+Seat 2: ikiiie (button) folded before Flop (didn't bet)
+Seat 4: viktoriayr (small blind) collected (596)
+Seat 5: BigBoom111 (big blind) folded before Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 62 **************
+PokerStars Hand #214715079108: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 9:03:26 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: Nick_29ru (2030 in chips)
+Seat 2: ikiiie (1103 in chips)
+Seat 3: StuBird90 (3000 in chips)
+Seat 4: viktoriayr (2938 in chips)
+Seat 5: BigBoom111 (2948 in chips) is sitting out
+Seat 6: elketefuka (4022 in chips)
+Seat 7: Trini Garcia (6777 in chips)
+Seat 8: young_mike87 (5210 in chips)
+Seat 9: nightdriver6 (5962 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+StuBird90: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+BigBoom111: posts small blind 50
+elketefuka: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [8s Th]
+Trini Garcia: raises 100 to 200
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+StuBird90: calls 200
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: calls 100
+*** FLOP *** [Td 4d 6d]
+elketefuka: checks
+Trini Garcia: checks
+StuBird90: checks
+*** TURN *** [Td 4d 6d] [Ad]
+elketefuka: checks
+Trini Garcia: bets 250
+StuBird90: folds
+elketefuka: folds
+Uncalled bet (250) returned to Trini Garcia
+Trini Garcia collected 758 from pot
+Trini Garcia: doesn't show hand
+*** SUMMARY ***
+Total pot 758 | Rake 0
+Board [Td 4d 6d Ad]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: StuBird90 folded on the Turn
+Seat 4: viktoriayr (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) folded before Flop
+Seat 6: elketefuka (big blind) folded on the Turn
+Seat 7: Trini Garcia collected (758)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 63 **************
+PokerStars Hand #214715124912: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 9:04:46 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: Nick_29ru (2018 in chips)
+Seat 2: ikiiie (1091 in chips)
+Seat 3: StuBird90 (2788 in chips)
+Seat 4: viktoriayr (2926 in chips)
+Seat 5: BigBoom111 (2886 in chips) is sitting out
+Seat 6: elketefuka (3810 in chips)
+Seat 7: Trini Garcia (7323 in chips)
+Seat 8: young_mike87 (5198 in chips)
+Seat 9: nightdriver6 (5950 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+StuBird90: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+elketefuka: posts small blind 50
+Trini Garcia: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [8d Tc]
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: raises 979 to 1079 and is all-in
+StuBird90: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+Uncalled bet (979) returned to ikiiie
+ikiiie collected 358 from pot
+*** SUMMARY ***
+Total pot 358 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie collected (358)
+Seat 3: StuBird90 folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) folded before Flop
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 64 **************
+PokerStars Hand #214715141927: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 9:05:15 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: Nick_29ru (2006 in chips)
+Seat 2: ikiiie (1337 in chips)
+Seat 3: StuBird90 (2776 in chips)
+Seat 4: viktoriayr (2914 in chips)
+Seat 5: BigBoom111 (2874 in chips) is sitting out
+Seat 6: elketefuka (3748 in chips)
+Seat 7: Trini Garcia (7211 in chips)
+Seat 8: young_mike87 (5186 in chips)
+Seat 9: nightdriver6 (5938 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+StuBird90: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+Trini Garcia: posts small blind 50
+young_mike87: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [9s 6d]
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: folds
+StuBird90: calls 100
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: raises 7099 to 7199 and is all-in
+young_mike87: folds
+StuBird90: folds
+Uncalled bet (7099) returned to Trini Garcia
+Trini Garcia collected 408 from pot
+Trini Garcia: doesn't show hand
+*** SUMMARY ***
+Total pot 408 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: StuBird90 folded before Flop
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded before Flop (didn't bet)
+Seat 7: Trini Garcia (small blind) collected (408)
+Seat 8: young_mike87 (big blind) folded before Flop
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 65 **************
+PokerStars Hand #214715165833: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 9:05:56 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: Nick_29ru (1994 in chips)
+Seat 2: ikiiie (1325 in chips)
+Seat 3: StuBird90 (2664 in chips)
+Seat 4: viktoriayr (2902 in chips)
+Seat 5: BigBoom111 (2862 in chips) is sitting out
+Seat 6: elketefuka (3736 in chips)
+Seat 7: Trini Garcia (7507 in chips)
+Seat 8: young_mike87 (5074 in chips)
+Seat 9: nightdriver6 (5926 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+StuBird90: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+young_mike87: posts small blind 50
+nightdriver6: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [2d 3d]
+Nick_29ru: folds
+ikiiie: folds
+StuBird90: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 200 to 300
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Uncalled bet (200) returned to elketefuka
+elketefuka collected 358 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 358 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: StuBird90 folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka collected (358)
+Seat 7: Trini Garcia (button) folded before Flop (didn't bet)
+Seat 8: young_mike87 (small blind) folded before Flop
+Seat 9: nightdriver6 (big blind) folded before Flop
+
+
+*********** # 66 **************
+PokerStars Hand #214715183747: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 9:06:26 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: Nick_29ru (1982 in chips)
+Seat 2: ikiiie (1313 in chips)
+Seat 3: StuBird90 (2652 in chips)
+Seat 4: viktoriayr (2890 in chips)
+Seat 5: BigBoom111 (2850 in chips) is sitting out
+Seat 6: elketefuka (3982 in chips)
+Seat 7: Trini Garcia (7495 in chips)
+Seat 8: young_mike87 (5012 in chips)
+Seat 9: nightdriver6 (5814 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+StuBird90: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+nightdriver6: posts small blind 50
+Nick_29ru: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [5c 6s]
+ikiiie: folds
+StuBird90: calls 100
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: calls 50
+Nick_29ru: checks
+*** FLOP *** [9s 8s Ac]
+nightdriver6: bets 100
+Nick_29ru: calls 100
+StuBird90: raises 300 to 400
+nightdriver6: folds
+Nick_29ru: calls 300
+*** TURN *** [9s 8s Ac] [6c]
+Nick_29ru: checks
+StuBird90: bets 1308
+Nick_29ru: folds
+Uncalled bet (1308) returned to StuBird90
+BigBoom111 has returned
+StuBird90 collected 1308 from pot
+StuBird90: doesn't show hand
+*** SUMMARY ***
+Total pot 1308 | Rake 0
+Board [9s 8s Ac 6c]
+Seat 1: Nick_29ru (big blind) folded on the Turn
+Seat 2: ikiiie folded before Flop (didn't bet)
+Seat 3: StuBird90 collected (1308)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 (button) folded before Flop (didn't bet)
+Seat 9: nightdriver6 (small blind) folded on the Flop
+
+
+*********** # 67 **************
+PokerStars Hand #214715224911: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VI (50/100) - 2020/05/31 9:07:37 ET
+Table '2913350489 41' 9-max Seat #9 is the button
+Seat 1: Nick_29ru (1470 in chips)
+Seat 2: ikiiie (1301 in chips)
+Seat 3: StuBird90 (3448 in chips)
+Seat 4: viktoriayr (2878 in chips)
+Seat 5: BigBoom111 (2838 in chips)
+Seat 6: elketefuka (3970 in chips)
+Seat 7: Trini Garcia (7483 in chips)
+Seat 8: young_mike87 (5000 in chips)
+Seat 9: nightdriver6 (5602 in chips)
+Nick_29ru: posts the ante 12
+ikiiie: posts the ante 12
+StuBird90: posts the ante 12
+viktoriayr: posts the ante 12
+BigBoom111: posts the ante 12
+elketefuka: posts the ante 12
+Trini Garcia: posts the ante 12
+young_mike87: posts the ante 12
+nightdriver6: posts the ante 12
+Nick_29ru: posts small blind 50
+ikiiie: posts big blind 100
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd 4h]
+StuBird90: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: raises 1358 to 1458 and is all-in
+ikiiie: folds
+Uncalled bet (1358) returned to Nick_29ru
+Nick_29ru collected 308 from pot
+Nick_29ru: doesn't show hand
+*** SUMMARY ***
+Total pot 308 | Rake 0
+Seat 1: Nick_29ru (small blind) collected (308)
+Seat 2: ikiiie (big blind) folded before Flop
+Seat 3: StuBird90 folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 (button) folded before Flop (didn't bet)
+
+
+*********** # 68 **************
+PokerStars Hand #214715243821: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:08:09 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: Nick_29ru (1666 in chips)
+Seat 2: ikiiie (1189 in chips)
+Seat 3: StuBird90 (3436 in chips)
+Seat 4: viktoriayr (2866 in chips)
+Seat 5: BigBoom111 (2826 in chips)
+Seat 6: elketefuka (3958 in chips)
+Seat 7: Trini Garcia (7471 in chips)
+Seat 8: young_mike87 (4988 in chips)
+Seat 9: nightdriver6 (5590 in chips)
+Nick_29ru: posts the ante 15
+ikiiie: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+nightdriver6: posts the ante 15
+ikiiie: posts small blind 60
+StuBird90: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc Kh]
+viktoriayr: folds
+BigBoom111: raises 180 to 300
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+ikiiie: raises 874 to 1174 and is all-in
+StuBird90: folds
+BigBoom111: calls 874
+*** FLOP *** [7h 9h 4s]
+*** TURN *** [7h 9h 4s] [7d]
+*** RIVER *** [7h 9h 4s 7d] [9c]
+*** SHOW DOWN ***
+ikiiie: shows [Ac Kc] (two pair, Nines and Sevens)
+BigBoom111: shows [Jd Js] (two pair, Jacks and Nines)
+BigBoom111 collected 2603 from pot
+ikiiie finished the tournament in 1313th place
+*** SUMMARY ***
+Total pot 2603 | Rake 0
+Board [7h 9h 4s 7d 9c]
+Seat 1: Nick_29ru (button) folded before Flop (didn't bet)
+Seat 2: ikiiie (small blind) showed [Ac Kc] and lost with two pair, Nines and Sevens
+Seat 3: StuBird90 (big blind) folded before Flop
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 showed [Jd Js] and won (2603) with two pair, Jacks and Nines
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 69 **************
+PokerStars Hand #214715267432: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:08:49 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: Nick_29ru (1651 in chips)
+Seat 3: StuBird90 (3301 in chips)
+Seat 4: viktoriayr (2851 in chips)
+Seat 5: BigBoom111 (4240 in chips)
+Seat 6: elketefuka (3943 in chips)
+Seat 7: Trini Garcia (7456 in chips)
+Seat 8: young_mike87 (4973 in chips)
+Seat 9: nightdriver6 (5575 in chips)
+Nick_29ru: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+nightdriver6: posts the ante 15
+viktoriayr: posts small blind 60
+BigBoom111: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 6d]
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: raises 240 to 360
+Nick_29ru: folds
+StuBird90: folds
+viktoriayr: raises 2476 to 2836 and is all-in
+BigBoom111: folds
+nightdriver6: folds
+Uncalled bet (2476) returned to viktoriayr
+viktoriayr collected 960 from pot
+viktoriayr: doesn't show hand
+*** SUMMARY ***
+Total pot 960 | Rake 0
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 3: StuBird90 (button) folded before Flop (didn't bet)
+Seat 4: viktoriayr (small blind) collected (960)
+Seat 5: BigBoom111 (big blind) folded before Flop
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop
+
+
+*********** # 70 **************
+PokerStars Hand #214715283828: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:09:17 ET
+Table '2913350489 41' 9-max Seat #4 is the button
+Seat 1: Nick_29ru (1636 in chips)
+Seat 3: StuBird90 (3286 in chips)
+Seat 4: viktoriayr (3436 in chips)
+Seat 5: BigBoom111 (4105 in chips)
+Seat 6: elketefuka (3928 in chips)
+Seat 7: Trini Garcia (7441 in chips)
+Seat 8: young_mike87 (4958 in chips)
+Seat 9: nightdriver6 (5200 in chips)
+Nick_29ru: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+nightdriver6: posts the ante 15
+BigBoom111: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Td 8h]
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: folds
+Nick_29ru: folds
+StuBird90: calls 120
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: checks
+*** FLOP *** [4s Ah Ad]
+elketefuka: bets 210
+StuBird90: folds
+Uncalled bet (210) returned to elketefuka
+elketefuka collected 420 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Board [4s Ah Ad]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 3: StuBird90 folded on the Flop
+Seat 4: viktoriayr (button) folded before Flop (didn't bet)
+Seat 5: BigBoom111 (small blind) folded before Flop
+Seat 6: elketefuka (big blind) collected (420)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 folded before Flop (didn't bet)
+
+
+*********** # 71 **************
+PokerStars Hand #214715305159: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:09:53 ET
+Table '2913350489 41' 9-max Seat #5 is the button
+Seat 1: Nick_29ru (1621 in chips)
+Seat 2: lagreece (2739 in chips) is sitting out
+Seat 3: StuBird90 (3151 in chips)
+Seat 4: viktoriayr (3421 in chips)
+Seat 5: BigBoom111 (4030 in chips)
+Seat 6: elketefuka (4213 in chips)
+Seat 7: Trini Garcia (7426 in chips)
+Seat 8: young_mike87 (4943 in chips)
+Seat 9: nightdriver6 (5185 in chips)
+Nick_29ru: posts the ante 15
+lagreece: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+nightdriver6: posts the ante 15
+elketefuka: posts small blind 60
+Trini Garcia: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts Jd]
+young_mike87: folds
+nightdriver6: raises 240 to 360
+Nick_29ru: folds
+lagreece: folds
+StuBird90: raises 1035 to 1395
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+nightdriver6: calls 1035
+*** FLOP *** [5d Kd 5c]
+nightdriver6: bets 2070
+lagreece has returned
+StuBird90: folds
+Uncalled bet (2070) returned to nightdriver6
+nightdriver6 collected 3105 from pot
+nightdriver6: doesn't show hand
+*** SUMMARY ***
+Total pot 3105 | Rake 0
+Board [5d Kd 5c]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: lagreece folded before Flop (didn't bet)
+Seat 3: StuBird90 folded on the Flop
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 (button) folded before Flop (didn't bet)
+Seat 6: elketefuka (small blind) folded before Flop
+Seat 7: Trini Garcia (big blind) folded before Flop
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: nightdriver6 collected (3105)
+
+
+*********** # 72 **************
+PokerStars Hand #214715333825: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:10:42 ET
+Table '2913350489 41' 9-max Seat #6 is the button
+Seat 1: Nick_29ru (1606 in chips)
+Seat 2: lagreece (2724 in chips)
+Seat 3: StuBird90 (1741 in chips)
+Seat 4: viktoriayr (3406 in chips)
+Seat 5: BigBoom111 (4015 in chips)
+Seat 6: elketefuka (4138 in chips)
+Seat 7: Trini Garcia (7291 in chips)
+Seat 8: young_mike87 (4928 in chips)
+Seat 9: nightdriver6 (6880 in chips)
+Nick_29ru: posts the ante 15
+lagreece: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+nightdriver6: posts the ante 15
+Trini Garcia: posts small blind 60
+young_mike87: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 8s]
+nightdriver6: raises 240 to 360
+Nick_29ru: folds
+lagreece: raises 240 to 600
+StuBird90: raises 1126 to 1726 and is all-in
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: calls 1366
+lagreece: raises 983 to 2709 and is all-in
+nightdriver6: calls 983
+*** FLOP *** [3s 8h 8d]
+*** TURN *** [3s 8h 8d] [9h]
+*** RIVER *** [3s 8h 8d 9h] [Th]
+*** SHOW DOWN ***
+nightdriver6: shows [Qs Ks] (a pair of Eights)
+lagreece: shows [Kc As] (a pair of Eights - Ace kicker)
+lagreece collected 1966 from side pot
+StuBird90: shows [Ac Kh] (a pair of Eights)
+lagreece collected 2747 from main pot
+StuBird90 collected 2746 from main pot
+*** SUMMARY ***
+Total pot 7459 Main pot 5493. Side pot 1966. | Rake 0
+Board [3s 8h 8d 9h Th]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: lagreece showed [Kc As] and won (4713) with a pair of Eights
+Seat 3: StuBird90 showed [Ac Kh] and won (2746) with a pair of Eights
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka (button) folded before Flop (didn't bet)
+Seat 7: Trini Garcia (small blind) folded before Flop
+Seat 8: young_mike87 (big blind) folded before Flop
+Seat 9: nightdriver6 showed [Qs Ks] and lost with a pair of Eights
+
+
+*********** # 73 **************
+PokerStars Hand #214715366357: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:11:37 ET
+Table '2913350489 41' 9-max Seat #7 is the button
+Seat 1: Nick_29ru (1591 in chips)
+Seat 2: lagreece (4713 in chips)
+Seat 3: StuBird90 (2746 in chips)
+Seat 4: viktoriayr (3391 in chips)
+Seat 5: BigBoom111 (4000 in chips)
+Seat 6: elketefuka (4123 in chips)
+Seat 7: Trini Garcia (7216 in chips)
+Seat 8: young_mike87 (4793 in chips)
+Seat 9: nightdriver6 (4156 in chips)
+Nick_29ru: posts the ante 15
+lagreece: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+nightdriver6: posts the ante 15
+young_mike87: posts small blind 60
+nightdriver6: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [8h Kc]
+Nick_29ru: folds
+lagreece: calls 120
+StuBird90: calls 120
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: calls 120
+young_mike87: folds
+nightdriver6: checks
+*** FLOP *** [As 5h Qs]
+nightdriver6: checks
+lagreece: checks
+StuBird90: checks
+Trini Garcia: checks
+*** TURN *** [As 5h Qs] [5c]
+nightdriver6: checks
+lagreece: bets 120
+StuBird90: calls 120
+Trini Garcia: calls 120
+nightdriver6: folds
+*** RIVER *** [As 5h Qs 5c] [8s]
+lagreece: bets 120
+StuBird90: folds
+Trini Garcia: raises 840 to 960
+lagreece: folds
+Uncalled bet (840) returned to Trini Garcia
+Trini Garcia collected 1275 from pot
+Trini Garcia: doesn't show hand
+*** SUMMARY ***
+Total pot 1275 | Rake 0
+Board [As 5h Qs 5c 8s]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: lagreece folded on the River
+Seat 3: StuBird90 folded on the River
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia (button) collected (1275)
+Seat 8: young_mike87 (small blind) folded before Flop
+Seat 9: nightdriver6 (big blind) folded on the Turn
+
+
+*********** # 74 **************
+PokerStars Hand #214715428717: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:13:11 ET
+Table '2913350489 41' 9-max Seat #8 is the button
+Seat 1: Nick_29ru (1576 in chips)
+Seat 2: lagreece (4338 in chips)
+Seat 3: StuBird90 (2491 in chips)
+Seat 4: viktoriayr (3376 in chips)
+Seat 5: BigBoom111 (3985 in chips)
+Seat 6: elketefuka (4108 in chips)
+Seat 7: Trini Garcia (8116 in chips)
+Seat 8: young_mike87 (4718 in chips)
+Seat 9: nightdriver6 (4021 in chips)
+Nick_29ru: posts the ante 15
+lagreece: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+nightdriver6: posts the ante 15
+nightdriver6: posts small blind 60
+Nick_29ru: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [5d Th]
+lagreece: calls 120
+StuBird90: folds
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: folds
+nightdriver6: calls 60
+Nick_29ru: checks
+*** FLOP *** [7h 8s 5h]
+nightdriver6: bets 330
+Nick_29ru: folds
+lagreece: calls 330
+*** TURN *** [7h 8s 5h] [Jc]
+nightdriver6: bets 770
+lagreece: calls 770
+*** RIVER *** [7h 8s 5h Jc] [5s]
+nightdriver6: bets 2786 and is all-in
+lagreece: calls 2786
+*** SHOW DOWN ***
+nightdriver6: shows [7d Ad] (two pair, Sevens and Fives)
+lagreece: shows [Kd Kc] (two pair, Kings and Fives)
+lagreece collected 8267 from pot
+nightdriver6 finished the tournament in 1239th place
+*** SUMMARY ***
+Total pot 8267 | Rake 0
+Board [7h 8s 5h Jc 5s]
+Seat 1: Nick_29ru (big blind) folded on the Flop
+Seat 2: lagreece showed [Kd Kc] and won (8267) with two pair, Kings and Fives
+Seat 3: StuBird90 folded before Flop (didn't bet)
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 (button) folded before Flop (didn't bet)
+Seat 9: nightdriver6 (small blind) showed [7d Ad] and lost with two pair, Sevens and Fives
+
+
+*********** # 75 **************
+PokerStars Hand #214715454049: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:13:54 ET
+Table '2913350489 41' 9-max Seat #1 is the button
+Seat 1: Nick_29ru (1441 in chips)
+Seat 2: lagreece (8584 in chips)
+Seat 3: StuBird90 (2476 in chips)
+Seat 4: viktoriayr (3361 in chips)
+Seat 5: BigBoom111 (3970 in chips)
+Seat 6: elketefuka (4093 in chips)
+Seat 7: Trini Garcia (8101 in chips)
+Seat 8: young_mike87 (4703 in chips)
+Nick_29ru: posts the ante 15
+lagreece: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+lagreece: posts small blind 60
+StuBird90: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [8h 8c]
+viktoriayr: folds
+BigBoom111: folds
+elketefuka: raises 240 to 360
+Trini Garcia: folds
+young_mike87: folds
+Nick_29ru: folds
+lagreece: folds
+StuBird90: raises 480 to 840
+elketefuka: calls 480
+*** FLOP *** [4d 2d 3s]
+StuBird90: bets 1621 and is all-in
+elketefuka: calls 1621
+*** TURN *** [4d 2d 3s] [9c]
+*** RIVER *** [4d 2d 3s 9c] [Th]
+*** SHOW DOWN ***
+StuBird90: shows [Kh Kc] (a pair of Kings)
+elketefuka: shows [8h 8c] (a pair of Eights)
+StuBird90 collected 5102 from pot
+*** SUMMARY ***
+Total pot 5102 | Rake 0
+Board [4d 2d 3s 9c Th]
+Seat 1: Nick_29ru (button) folded before Flop (didn't bet)
+Seat 2: lagreece (small blind) folded before Flop
+Seat 3: StuBird90 (big blind) showed [Kh Kc] and won (5102) with a pair of Kings
+Seat 4: viktoriayr folded before Flop (didn't bet)
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka showed [8h 8c] and lost with a pair of Eights
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+
+
+*********** # 76 **************
+PokerStars Hand #214715477748: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:14:34 ET
+Table '2913350489 41' 9-max Seat #2 is the button
+Seat 1: Nick_29ru (1426 in chips)
+Seat 2: lagreece (8509 in chips)
+Seat 3: StuBird90 (5102 in chips)
+Seat 4: viktoriayr (3346 in chips)
+Seat 5: BigBoom111 (3955 in chips)
+Seat 6: elketefuka (1617 in chips)
+Seat 7: Trini Garcia (8086 in chips)
+Seat 8: young_mike87 (4688 in chips)
+Seat 9: cookicrumble (12260 in chips)
+Nick_29ru: posts the ante 15
+lagreece: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+cookicrumble: posts the ante 15
+StuBird90: posts small blind 60
+viktoriayr: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [7c Qs]
+BigBoom111: folds
+elketefuka: folds
+Trini Garcia: folds
+young_mike87: raises 156 to 276
+cookicrumble: calls 276
+Nick_29ru: folds
+lagreece: folds
+StuBird90: calls 216
+viktoriayr: folds
+*** FLOP *** [8d Kh Ac]
+StuBird90: checks
+young_mike87: bets 420
+cookicrumble: calls 420
+StuBird90: raises 1172 to 1592
+young_mike87: raises 2805 to 4397 and is all-in
+cookicrumble: folds
+StuBird90: calls 2805
+*** TURN *** [8d Kh Ac] [2c]
+*** RIVER *** [8d Kh Ac 2c] [Ad]
+*** SHOW DOWN ***
+StuBird90: shows [8c Kc] (two pair, Aces and Kings)
+young_mike87: shows [Jc As] (three of a kind, Aces)
+young_mike87 collected 10297 from pot
+*** SUMMARY ***
+Total pot 10297 | Rake 0
+Board [8d Kh Ac 2c Ad]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: lagreece (button) folded before Flop (didn't bet)
+Seat 3: StuBird90 (small blind) showed [8c Kc] and lost with two pair, Aces and Kings
+Seat 4: viktoriayr (big blind) folded before Flop
+Seat 5: BigBoom111 folded before Flop (didn't bet)
+Seat 6: elketefuka folded before Flop (didn't bet)
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 showed [Jc As] and won (10297) with three of a kind, Aces
+Seat 9: cookicrumble folded on the Flop
+
+
+*********** # 77 **************
+PokerStars Hand #214715516035: Tournament #2913350489, $0.98+$0.12 USD Hold'em No Limit - Level VII (60/120) - 2020/05/31 9:15:38 ET
+Table '2913350489 41' 9-max Seat #3 is the button
+Seat 1: Nick_29ru (1411 in chips)
+Seat 2: lagreece (8494 in chips)
+Seat 3: StuBird90 (414 in chips)
+Seat 4: viktoriayr (3211 in chips)
+Seat 5: BigBoom111 (3940 in chips)
+Seat 6: elketefuka (1602 in chips)
+Seat 7: Trini Garcia (8071 in chips)
+Seat 8: young_mike87 (10297 in chips)
+Seat 9: cookicrumble (11549 in chips)
+Nick_29ru: posts the ante 15
+lagreece: posts the ante 15
+StuBird90: posts the ante 15
+viktoriayr: posts the ante 15
+BigBoom111: posts the ante 15
+elketefuka: posts the ante 15
+Trini Garcia: posts the ante 15
+young_mike87: posts the ante 15
+cookicrumble: posts the ante 15
+viktoriayr: posts small blind 60
+BigBoom111: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [3h Ah]
+elketefuka: raises 1467 to 1587 and is all-in
+Trini Garcia: folds
+young_mike87: folds
+cookicrumble: folds
+Nick_29ru: folds
+lagreece: folds
+StuBird90: calls 399 and is all-in
+viktoriayr: folds
+BigBoom111: calls 1467
+*** FLOP *** [6d Qs 6s]
+*** TURN *** [6d Qs 6s] [4s]
+*** RIVER *** [6d Qs 6s 4s] [8c]
+*** SHOW DOWN ***
+BigBoom111: shows [Kd Ks] (two pair, Kings and Sixes)
+elketefuka: shows [3h Ah] (a pair of Sixes)
+BigBoom111 collected 2376 from side pot
+StuBird90: shows [4d 4c] (a full house, Fours full of Sixes)
+StuBird90 collected 1392 from main pot
+elketefuka finished the tournament in 1205th place
+*** SUMMARY ***
+Total pot 3768 Main pot 1392. Side pot 2376. | Rake 0
+Board [6d Qs 6s 4s 8c]
+Seat 1: Nick_29ru folded before Flop (didn't bet)
+Seat 2: lagreece folded before Flop (didn't bet)
+Seat 3: StuBird90 (button) showed [4d 4c] and won (1392) with a full house, Fours full of Sixes
+Seat 4: viktoriayr (small blind) folded before Flop
+Seat 5: BigBoom111 (big blind) showed [Kd Ks] and won (2376) with two pair, Kings and Sixes
+Seat 6: elketefuka showed [3h Ah] and lost with a pair of Sixes
+Seat 7: Trini Garcia folded before Flop (didn't bet)
+Seat 8: young_mike87 folded before Flop (didn't bet)
+Seat 9: cookicrumble folded before Flop (didn't bet)

@@ -1,0 +1,1630 @@
+*********** # 1 **************
+PokerStars Hand #214715681257: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:20:15 ET
+Table '2922268592 2' 9-max Seat #1 is the button
+Seat 1: elketefuka (1500 in chips)
+Seat 2: Lucashaquino (1500 in chips)
+Seat 3: Kristupelis13 (1500 in chips)
+Seat 4: Lula.lap (1500 in chips)
+Seat 5: GOTT5476 (1500 in chips)
+Seat 6: nOHEgEJlbHUK (1500 in chips)
+Seat 7: tolentino_rd (1500 in chips)
+Seat 8: karas199 (1500 in chips)
+Seat 9: Pdvk (1500 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+Lula.lap: posts the ante 3
+GOTT5476: posts the ante 3
+nOHEgEJlbHUK: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+Lucashaquino: posts small blind 10
+Kristupelis13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd 8h]
+Lula.lap: calls 20
+GOTT5476: calls 20
+nOHEgEJlbHUK: raises 80 to 100
+tolentino_rd: folds
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 1397 to 1497 and is all-in
+Lula.lap: calls 1477 and is all-in
+GOTT5476: calls 1477 and is all-in
+nOHEgEJlbHUK: calls 1397 and is all-in
+*** FLOP *** [2h 9d 4d]
+*** TURN *** [2h 9d 4d] [5c]
+*** RIVER *** [2h 9d 4d 5c] [Kh]
+*** SHOW DOWN ***
+Kristupelis13: shows [Jh Js] (a pair of Jacks)
+Lula.lap: shows [Ac Qh] (high card Ace)
+GOTT5476: shows [8s 8c] (a pair of Eights)
+nOHEgEJlbHUK: shows [Tc Td] (a pair of Tens)
+Kristupelis13 collected 6025 from pot
+Lula.lap finished the tournament in 43rd place
+GOTT5476 finished the tournament in 43rd place
+nOHEgEJlbHUK finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 6025 | Rake 0
+Board [2h 9d 4d 5c Kh]
+Seat 1: elketefuka (button) folded before Flop (didn't bet)
+Seat 2: Lucashaquino (small blind) folded before Flop
+Seat 3: Kristupelis13 (big blind) showed [Jh Js] and won (6025) with a pair of Jacks
+Seat 4: Lula.lap showed [Ac Qh] and lost with high card Ace
+Seat 5: GOTT5476 showed [8s 8c] and lost with a pair of Eights
+Seat 6: nOHEgEJlbHUK showed [Tc Td] and lost with a pair of Tens
+Seat 7: tolentino_rd folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #214715707656: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:20:59 ET
+Table '2922268592 2' 9-max Seat #2 is the button
+Seat 1: elketefuka (1497 in chips)
+Seat 2: Lucashaquino (1487 in chips)
+Seat 3: Kristupelis13 (6025 in chips)
+Seat 7: tolentino_rd (1497 in chips)
+Seat 8: karas199 (1497 in chips)
+Seat 9: Pdvk (1497 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+Kristupelis13: posts small blind 10
+tolentino_rd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 6d]
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: calls 10
+tolentino_rd: checks
+*** FLOP *** [2c 7c 8c]
+Kristupelis13: checks
+tolentino_rd: checks
+*** TURN *** [2c 7c 8c] [Tc]
+Kristupelis13: bets 40
+tolentino_rd: calls 40
+*** RIVER *** [2c 7c 8c Tc] [Ah]
+Kristupelis13: checks
+tolentino_rd: checks
+*** SHOW DOWN ***
+Kristupelis13: shows [4h Jc] (a flush, Jack high)
+tolentino_rd: mucks hand
+Kristupelis13 collected 138 from pot
+*** SUMMARY ***
+Total pot 138 | Rake 0
+Board [2c 7c 8c Tc Ah]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino (button) folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (small blind) showed [4h Jc] and won (138) with a flush, Jack high
+Seat 7: tolentino_rd (big blind) mucked [6s Jh]
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #214715744619: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:22:00 ET
+Table '2922268592 2' 9-max Seat #3 is the button
+Seat 1: elketefuka (1494 in chips)
+Seat 2: Lucashaquino (1484 in chips)
+Seat 3: Kristupelis13 (6100 in chips)
+Seat 4: shlaya (1437 in chips) out of hand (moved from another table into small blind)
+Seat 7: tolentino_rd (1434 in chips)
+Seat 8: karas199 (1494 in chips)
+Seat 9: Pdvk (1494 in chips)
+shlaya will be allowed to play after the button
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+tolentino_rd: posts small blind 10
+karas199: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks Ts]
+Pdvk: folds
+elketefuka: raises 40 to 60
+Lucashaquino: folds
+Kristupelis13: folds
+tolentino_rd: calls 50
+karas199: folds
+*** FLOP *** [4s Th Ah]
+tolentino_rd: checks
+elketefuka: bets 79
+tolentino_rd: calls 79
+*** TURN *** [4s Th Ah] [3s]
+tolentino_rd: checks
+elketefuka: checks
+*** RIVER *** [4s Th Ah 3s] [3h]
+tolentino_rd: bets 104
+elketefuka: calls 104
+*** SHOW DOWN ***
+tolentino_rd: shows [Td 8s] (two pair, Tens and Threes)
+elketefuka: shows [Ks Ts] (two pair, Tens and Threes)
+tolentino_rd collected 262 from pot
+elketefuka collected 262 from pot
+*** SUMMARY ***
+Total pot 524 | Rake 0
+Board [4s Th Ah 3s 3h]
+Seat 1: elketefuka showed [Ks Ts] and won (262) with two pair, Tens and Threes
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (button) folded before Flop (didn't bet)
+Seat 7: tolentino_rd (small blind) showed [Td 8s] and won (262) with two pair, Tens and Threes
+Seat 8: karas199 (big blind) folded before Flop
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #214715769209: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:22:41 ET
+Table '2922268592 2' 9-max Seat #7 is the button
+Seat 1: elketefuka (1510 in chips)
+Seat 2: Lucashaquino (1481 in chips)
+Seat 3: Kristupelis13 (6097 in chips)
+Seat 4: shlaya (1437 in chips)
+Seat 5: SidneiS7 (1497 in chips)
+Seat 7: tolentino_rd (1450 in chips)
+Seat 8: karas199 (1471 in chips)
+Seat 9: Pdvk (1491 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+karas199: posts small blind 10
+Pdvk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts 6d]
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 24 to 44
+shlaya: folds
+SidneiS7: calls 44
+tolentino_rd: folds
+karas199: folds
+Pdvk: folds
+*** FLOP *** [9d 3h Td]
+Kristupelis13: checks
+SidneiS7: checks
+*** TURN *** [9d 3h Td] [Jd]
+Kristupelis13: bets 71
+SidneiS7: folds
+Uncalled bet (71) returned to Kristupelis13
+Kristupelis13 collected 142 from pot
+Kristupelis13: doesn't show hand
+*** SUMMARY ***
+Total pot 142 | Rake 0
+Board [9d 3h Td Jd]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 collected (142)
+Seat 4: shlaya folded before Flop (didn't bet)
+Seat 5: SidneiS7 folded on the Turn
+Seat 7: tolentino_rd (button) folded before Flop (didn't bet)
+Seat 8: karas199 (small blind) folded before Flop
+Seat 9: Pdvk (big blind) folded before Flop
+
+
+*********** # 5 **************
+PokerStars Hand #214715791409: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:23:18 ET
+Table '2922268592 2' 9-max Seat #8 is the button
+Seat 1: elketefuka (1507 in chips)
+Seat 2: Lucashaquino (1478 in chips)
+Seat 3: Kristupelis13 (6192 in chips)
+Seat 4: shlaya (1434 in chips)
+Seat 5: SidneiS7 (1450 in chips)
+Seat 7: tolentino_rd (1447 in chips)
+Seat 8: karas199 (1458 in chips)
+Seat 9: Pdvk (1468 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+Pdvk: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [9h Ac]
+Lucashaquino: folds
+Kristupelis13: raises 24 to 44
+shlaya: calls 44
+SidneiS7: folds
+tolentino_rd: calls 44
+karas199: folds
+Pdvk: folds
+elketefuka: calls 24
+*** FLOP *** [2h Qh 4s]
+elketefuka: checks
+Kristupelis13: checks
+shlaya: checks
+tolentino_rd: checks
+*** TURN *** [2h Qh 4s] [4c]
+elketefuka: bets 105
+Kristupelis13: folds
+shlaya: calls 105
+tolentino_rd: folds
+*** RIVER *** [2h Qh 4s 4c] [Jh]
+elketefuka: checks
+shlaya: bets 1282 and is all-in
+elketefuka: folds
+Uncalled bet (1282) returned to shlaya
+shlaya collected 420 from pot
+shlaya: doesn't show hand
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Board [2h Qh 4s 4c Jh]
+Seat 1: elketefuka (big blind) folded on the River
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded on the Turn
+Seat 4: shlaya collected (420)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 7: tolentino_rd folded on the Turn
+Seat 8: karas199 (button) folded before Flop (didn't bet)
+Seat 9: Pdvk (small blind) folded before Flop
+
+
+*********** # 6 **************
+PokerStars Hand #214715830833: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:24:24 ET
+Table '2922268592 2' 9-max Seat #9 is the button
+Seat 1: elketefuka (1355 in chips)
+Seat 2: Lucashaquino (1475 in chips)
+Seat 3: Kristupelis13 (6145 in chips)
+Seat 4: shlaya (1702 in chips)
+Seat 5: SidneiS7 (1447 in chips)
+Seat 7: tolentino_rd (1400 in chips)
+Seat 8: karas199 (1455 in chips)
+Seat 9: Pdvk (1455 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+elketefuka: posts small blind 10
+Lucashaquino: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [7c Js]
+Kristupelis13: folds
+shlaya: raises 24 to 44
+SidneiS7: folds
+tolentino_rd: folds
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Uncalled bet (24) returned to shlaya
+shlaya collected 74 from pot
+shlaya: doesn't show hand
+*** SUMMARY ***
+Total pot 74 | Rake 0
+Seat 1: elketefuka (small blind) folded before Flop
+Seat 2: Lucashaquino (big blind) folded before Flop
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 4: shlaya collected (74)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 7: tolentino_rd folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk (button) folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #214715849523: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:24:55 ET
+Table '2922268592 2' 9-max Seat #1 is the button
+Seat 1: elketefuka (1342 in chips)
+Seat 2: Lucashaquino (1452 in chips)
+Seat 3: Kristupelis13 (6142 in chips)
+Seat 4: shlaya (1753 in chips)
+Seat 5: SidneiS7 (1444 in chips)
+Seat 7: tolentino_rd (1397 in chips)
+Seat 8: karas199 (1452 in chips)
+Seat 9: Pdvk (1452 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+Lucashaquino: posts small blind 10
+Kristupelis13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 4s]
+shlaya: raises 24 to 44
+SidneiS7: folds
+tolentino_rd: calls 44
+karas199: folds
+Pdvk: folds
+elketefuka: calls 44
+Lucashaquino: folds
+Kristupelis13: folds
+*** FLOP *** [8s As 2s]
+shlaya: bets 80
+tolentino_rd: calls 80
+elketefuka: calls 80
+*** TURN *** [8s As 2s] [Jh]
+shlaya: bets 200
+tolentino_rd: calls 200
+elketefuka: calls 200
+*** RIVER *** [8s As 2s Jh] [4h]
+shlaya: checks
+tolentino_rd: checks
+elketefuka: bets 1015 and is all-in
+shlaya: folds
+tolentino_rd: folds
+Uncalled bet (1015) returned to elketefuka
+elketefuka collected 1026 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1026 | Rake 0
+Board [8s As 2s Jh 4h]
+Seat 1: elketefuka (button) collected (1026)
+Seat 2: Lucashaquino (small blind) folded before Flop
+Seat 3: Kristupelis13 (big blind) folded before Flop
+Seat 4: shlaya folded on the River
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 7: tolentino_rd folded on the River
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 8 **************
+PokerStars Hand #214715903165: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:26:25 ET
+Table '2922268592 2' 9-max Seat #2 is the button
+Seat 1: elketefuka (2041 in chips)
+Seat 2: Lucashaquino (1439 in chips)
+Seat 3: Kristupelis13 (6119 in chips)
+Seat 4: shlaya (1426 in chips)
+Seat 5: SidneiS7 (1441 in chips)
+Seat 7: tolentino_rd (1070 in chips)
+Seat 8: karas199 (1449 in chips)
+Seat 9: Pdvk (1449 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+Kristupelis13: posts small blind 10
+shlaya: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts 6d]
+SidneiS7: folds
+tolentino_rd: folds
+karas199: folds
+Pdvk: raises 24 to 44
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+shlaya: calls 24
+*** FLOP *** [Jd 5h Kd]
+shlaya: bets 60
+Pdvk: raises 161 to 221
+shlaya: calls 161
+*** TURN *** [Jd 5h Kd] [9h]
+shlaya: checks
+Pdvk: bets 320
+shlaya: folds
+Uncalled bet (320) returned to Pdvk
+Pdvk collected 564 from pot
+Pdvk: doesn't show hand
+*** SUMMARY ***
+Total pot 564 | Rake 0
+Board [Jd 5h Kd 9h]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino (button) folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (small blind) folded before Flop
+Seat 4: shlaya (big blind) folded on the Turn
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 7: tolentino_rd folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk collected (564)
+
+
+*********** # 9 **************
+PokerStars Hand #214715939883: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:27:26 ET
+Table '2922268592 2' 9-max Seat #3 is the button
+Seat 1: elketefuka (2038 in chips)
+Seat 2: Lucashaquino (1436 in chips)
+Seat 3: Kristupelis13 (6106 in chips)
+Seat 4: shlaya (1158 in chips)
+Seat 5: SidneiS7 (1438 in chips)
+Seat 7: tolentino_rd (1067 in chips)
+Seat 8: karas199 (1446 in chips)
+Seat 9: Pdvk (1745 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+tolentino_rd: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+shlaya: posts small blind 10
+SidneiS7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh 9d]
+tolentino_rd: raises 40 to 60
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+shlaya: calls 50
+SidneiS7: folds
+*** FLOP *** [Ac 6c 7d]
+shlaya: bets 60
+tolentino_rd: calls 60
+*** TURN *** [Ac 6c 7d] [5c]
+shlaya: bets 120
+tolentino_rd: calls 120
+*** RIVER *** [Ac 6c 7d 5c] [Ah]
+shlaya: checks
+tolentino_rd: bets 620
+shlaya: raises 295 to 915 and is all-in
+tolentino_rd: calls 204 and is all-in
+Uncalled bet (91) returned to shlaya
+*** SHOW DOWN ***
+shlaya: shows [Ad 6d] (a full house, Aces full of Sixes)
+tolentino_rd: shows [Qc 9c] (a flush, Ace high)
+shlaya collected 2172 from pot
+tolentino_rd finished the tournament in 40th place
+*** SUMMARY ***
+Total pot 2172 | Rake 0
+Board [Ac 6c 7d 5c Ah]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (button) folded before Flop (didn't bet)
+Seat 4: shlaya (small blind) showed [Ad 6d] and won (2172) with a full house, Aces full of Sixes
+Seat 5: SidneiS7 (big blind) folded before Flop
+Seat 7: tolentino_rd showed [Qc 9c] and lost with a flush, Ace high
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #214715985422: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:28:42 ET
+Table '2922268592 2' 9-max Seat #4 is the button
+Seat 1: elketefuka (2035 in chips)
+Seat 2: Lucashaquino (1433 in chips)
+Seat 3: Kristupelis13 (6103 in chips)
+Seat 4: shlaya (2263 in chips)
+Seat 5: SidneiS7 (1415 in chips)
+Seat 8: karas199 (1443 in chips)
+Seat 9: Pdvk (1742 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+SidneiS7: posts small blind 10
+karas199: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [5s 8c]
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 24 to 44
+shlaya: calls 44
+SidneiS7: calls 34
+karas199: calls 24
+*** FLOP *** [9c 2d 8d]
+SidneiS7: checks
+karas199: bets 99
+Kristupelis13: folds
+shlaya: folds
+SidneiS7: folds
+Uncalled bet (99) returned to karas199
+karas199 collected 197 from pot
+*** SUMMARY ***
+Total pot 197 | Rake 0
+Board [9c 2d 8d]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded on the Flop
+Seat 4: shlaya (button) folded on the Flop
+Seat 5: SidneiS7 (small blind) folded on the Flop
+Seat 8: karas199 (big blind) collected (197)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 11 **************
+PokerStars Hand #214716012424: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/05/31 9:29:27 ET
+Table '2922268592 2' 9-max Seat #5 is the button
+Seat 1: elketefuka (2032 in chips)
+Seat 2: Lucashaquino (1430 in chips)
+Seat 3: Kristupelis13 (6056 in chips)
+Seat 4: shlaya (2216 in chips)
+Seat 5: SidneiS7 (1368 in chips)
+Seat 8: karas199 (1593 in chips)
+Seat 9: Pdvk (1739 in chips)
+elketefuka: posts the ante 3
+Lucashaquino: posts the ante 3
+Kristupelis13: posts the ante 3
+shlaya: posts the ante 3
+SidneiS7: posts the ante 3
+karas199: posts the ante 3
+Pdvk: posts the ante 3
+karas199: posts small blind 10
+Pdvk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [4d 9d]
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+shlaya: raises 24 to 44
+SidneiS7: folds
+karas199: folds
+Pdvk: calls 24
+*** FLOP *** [9s 6s 6h]
+Pdvk: checks
+shlaya: checks
+*** TURN *** [9s 6s 6h] [Th]
+Pdvk: checks
+shlaya: bets 60
+Pdvk: calls 60
+*** RIVER *** [9s 6s 6h Th] [As]
+Pdvk: checks
+shlaya: bets 80
+Pdvk: folds
+Uncalled bet (80) returned to shlaya
+shlaya collected 239 from pot
+shlaya: doesn't show hand
+*** SUMMARY ***
+Total pot 239 | Rake 0
+Board [9s 6s 6h Th As]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 4: shlaya collected (239)
+Seat 5: SidneiS7 (button) folded before Flop (didn't bet)
+Seat 8: karas199 (small blind) folded before Flop
+Seat 9: Pdvk (big blind) folded on the River
+
+
+*********** # 12 **************
+PokerStars Hand #214716060128: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:30:46 ET
+Table '2922268592 2' 9-max Seat #8 is the button
+Seat 1: elketefuka (2029 in chips)
+Seat 2: Lucashaquino (1427 in chips)
+Seat 3: Kristupelis13 (6053 in chips)
+Seat 4: shlaya (2348 in chips)
+Seat 5: SidneiS7 (1365 in chips)
+Seat 8: karas199 (1580 in chips)
+Seat 9: Pdvk (1632 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+shlaya: posts the ante 4
+SidneiS7: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+Pdvk: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Ad 3d]
+Lucashaquino: folds
+Kristupelis13: folds
+shlaya: folds
+SidneiS7: raises 60 to 90
+karas199: calls 90
+Pdvk: folds
+elketefuka: calls 60
+*** FLOP *** [7s Jd Kd]
+elketefuka: checks
+SidneiS7: checks
+karas199: checks
+*** TURN *** [7s Jd Kd] [Qd]
+elketefuka: checks
+SidneiS7: checks
+karas199: checks
+*** RIVER *** [7s Jd Kd Qd] [2c]
+elketefuka: bets 157
+SidneiS7: folds
+karas199: folds
+Uncalled bet (157) returned to elketefuka
+elketefuka collected 313 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 313 | Rake 0
+Board [7s Jd Kd Qd 2c]
+Seat 1: elketefuka (big blind) collected (313)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 4: shlaya folded before Flop (didn't bet)
+Seat 5: SidneiS7 folded on the River
+Seat 8: karas199 (button) folded on the River
+Seat 9: Pdvk (small blind) folded before Flop
+
+
+*********** # 13 **************
+PokerStars Hand #214716108145: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:32:05 ET
+Table '2922268592 2' 9-max Seat #9 is the button
+Seat 1: elketefuka (2248 in chips)
+Seat 2: Lucashaquino (1423 in chips)
+Seat 3: Kristupelis13 (6049 in chips)
+Seat 4: shlaya (2344 in chips)
+Seat 5: SidneiS7 (1271 in chips)
+Seat 8: karas199 (1486 in chips)
+Seat 9: Pdvk (1613 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+shlaya: posts the ante 4
+SidneiS7: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+elketefuka: posts small blind 15
+Lucashaquino: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [4h Qc]
+Kristupelis13: folds
+shlaya: raises 30 to 60
+SidneiS7: folds
+karas199: folds
+Pdvk: calls 60
+elketefuka: folds
+Lucashaquino: folds
+*** FLOP *** [2s Qd Js]
+shlaya: bets 60
+Pdvk: calls 60
+*** TURN *** [2s Qd Js] [3s]
+shlaya: bets 60
+Pdvk: raises 325 to 385
+shlaya: raises 325 to 710
+Pdvk: calls 325
+*** RIVER *** [2s Qd Js 3s] [9s]
+shlaya: bets 1510 and is all-in
+Pdvk: calls 779 and is all-in
+Uncalled bet (731) returned to shlaya
+*** SHOW DOWN ***
+shlaya: shows [2d 2c] (three of a kind, Deuces)
+Pdvk: shows [6c As] (a flush, Ace high)
+Pdvk collected 3291 from pot
+*** SUMMARY ***
+Total pot 3291 | Rake 0
+Board [2s Qd Js 3s 9s]
+Seat 1: elketefuka (small blind) folded before Flop
+Seat 2: Lucashaquino (big blind) folded before Flop
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 4: shlaya showed [2d 2c] and lost with three of a kind, Deuces
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk (button) showed [6c As] and won (3291) with a flush, Ace high
+
+
+*********** # 14 **************
+PokerStars Hand #214716149850: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:33:14 ET
+Table '2922268592 2' 9-max Seat #1 is the button
+Seat 1: elketefuka (2229 in chips)
+Seat 2: Lucashaquino (1389 in chips)
+Seat 3: Kristupelis13 (6045 in chips)
+Seat 4: shlaya (731 in chips)
+Seat 5: SidneiS7 (1267 in chips)
+Seat 8: karas199 (1482 in chips)
+Seat 9: Pdvk (3291 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+shlaya: posts the ante 4
+SidneiS7: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+Lucashaquino: posts small blind 15
+Kristupelis13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 5d]
+shlaya: calls 30
+SidneiS7: folds
+karas199: folds
+Pdvk: folds
+elketefuka: raises 60 to 90
+Lucashaquino: folds
+Kristupelis13: calls 60
+shlaya: calls 60
+*** FLOP *** [6d 3s Td]
+Kristupelis13: checks
+shlaya: bets 637 and is all-in
+elketefuka: folds
+Kristupelis13: folds
+Uncalled bet (637) returned to shlaya
+shlaya collected 313 from pot
+shlaya: doesn't show hand
+*** SUMMARY ***
+Total pot 313 | Rake 0
+Board [6d 3s Td]
+Seat 1: elketefuka (button) folded on the Flop
+Seat 2: Lucashaquino (small blind) folded before Flop
+Seat 3: Kristupelis13 (big blind) folded on the Flop
+Seat 4: shlaya collected (313)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 15 **************
+PokerStars Hand #214716170018: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:33:48 ET
+Table '2922268592 2' 9-max Seat #2 is the button
+Seat 1: elketefuka (2135 in chips)
+Seat 2: Lucashaquino (1370 in chips)
+Seat 3: Kristupelis13 (5951 in chips)
+Seat 4: shlaya (950 in chips)
+Seat 5: SidneiS7 (1263 in chips)
+Seat 6: StasiaVLC (1592 in chips)
+Seat 7: Flamenco xD (1440 in chips)
+Seat 8: karas199 (1478 in chips)
+Seat 9: Pdvk (3287 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+shlaya: posts the ante 4
+SidneiS7: posts the ante 4
+StasiaVLC: posts the ante 4
+Flamenco xD: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+Kristupelis13: posts small blind 15
+shlaya: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [9s 6h]
+SidneiS7: folds
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: raises 45 to 75
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+shlaya: folds
+Uncalled bet (45) returned to karas199
+karas199 collected 111 from pot
+*** SUMMARY ***
+Total pot 111 | Rake 0
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino (button) folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (small blind) folded before Flop
+Seat 4: shlaya (big blind) folded before Flop
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 collected (111)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 16 **************
+PokerStars Hand #214716192947: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:34:25 ET
+Table '2922268592 2' 9-max Seat #3 is the button
+Seat 1: elketefuka (2131 in chips)
+Seat 2: Lucashaquino (1366 in chips)
+Seat 3: Kristupelis13 (5932 in chips)
+Seat 4: shlaya (916 in chips)
+Seat 5: SidneiS7 (1259 in chips)
+Seat 6: StasiaVLC (1588 in chips)
+Seat 7: Flamenco xD (1436 in chips)
+Seat 8: karas199 (1555 in chips)
+Seat 9: Pdvk (3283 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+shlaya: posts the ante 4
+SidneiS7: posts the ante 4
+StasiaVLC: posts the ante 4
+Flamenco xD: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+shlaya: posts small blind 15
+SidneiS7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [5h Jd]
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: raises 30 to 60
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+shlaya: calls 45
+SidneiS7: calls 30
+*** FLOP *** [As 7s Qs]
+shlaya: bets 852 and is all-in
+SidneiS7: raises 343 to 1195 and is all-in
+karas199: folds
+Uncalled bet (343) returned to SidneiS7
+*** TURN *** [As 7s Qs] [8c]
+*** RIVER *** [As 7s Qs 8c] [6c]
+*** SHOW DOWN ***
+shlaya: shows [Qd Kc] (a pair of Queens)
+SidneiS7: shows [8d Ad] (two pair, Aces and Eights)
+SidneiS7 collected 1920 from pot
+shlaya finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 1920 | Rake 0
+Board [As 7s Qs 8c 6c]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (button) folded before Flop (didn't bet)
+Seat 4: shlaya (small blind) showed [Qd Kc] and lost with a pair of Queens
+Seat 5: SidneiS7 (big blind) showed [8d Ad] and won (1920) with two pair, Aces and Eights
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 folded on the Flop
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 17 **************
+PokerStars Hand #214716243704: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:35:48 ET
+Table '2922268592 2' 9-max Seat #5 is the button
+Seat 1: elketefuka (2127 in chips)
+Seat 2: Lucashaquino (1362 in chips)
+Seat 3: Kristupelis13 (5928 in chips)
+Seat 5: SidneiS7 (2263 in chips)
+Seat 6: StasiaVLC (1584 in chips)
+Seat 7: Flamenco xD (1432 in chips)
+Seat 8: karas199 (1491 in chips)
+Seat 9: Pdvk (3279 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+SidneiS7: posts the ante 4
+StasiaVLC: posts the ante 4
+Flamenco xD: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+StasiaVLC: posts small blind 15
+Flamenco xD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 4d]
+karas199: folds
+Pdvk: raises 60 to 90
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+SidneiS7: folds
+StasiaVLC: folds
+Flamenco xD: calls 60
+*** FLOP *** [Jc 2d 7c]
+Flamenco xD: checks
+Pdvk: bets 57
+Flamenco xD: folds
+Uncalled bet (57) returned to Pdvk
+Pdvk collected 227 from pot
+*** SUMMARY ***
+Total pot 227 | Rake 0
+Board [Jc 2d 7c]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 5: SidneiS7 (button) folded before Flop (didn't bet)
+Seat 6: StasiaVLC (small blind) folded before Flop
+Seat 7: Flamenco xD (big blind) folded on the Flop
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk collected (227)
+
+
+*********** # 18 **************
+PokerStars Hand #214716283275: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:36:53 ET
+Table '2922268592 2' 9-max Seat #6 is the button
+Seat 1: elketefuka (2123 in chips)
+Seat 2: Lucashaquino (1358 in chips)
+Seat 3: Kristupelis13 (5924 in chips)
+Seat 5: SidneiS7 (2259 in chips)
+Seat 6: StasiaVLC (1565 in chips)
+Seat 7: Flamenco xD (1338 in chips)
+Seat 8: karas199 (1487 in chips)
+Seat 9: Pdvk (3412 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+SidneiS7: posts the ante 4
+StasiaVLC: posts the ante 4
+Flamenco xD: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+Flamenco xD: posts small blind 15
+karas199: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 3c]
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 36 to 66
+SidneiS7: raises 234 to 300
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: folds
+Kristupelis13: folds [As]
+Uncalled bet (234) returned to SidneiS7
+SidneiS7 collected 209 from pot
+SidneiS7: doesn't show hand
+*** SUMMARY ***
+Total pot 209 | Rake 0
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded before Flop
+Seat 5: SidneiS7 collected (209)
+Seat 6: StasiaVLC (button) folded before Flop (didn't bet)
+Seat 7: Flamenco xD (small blind) folded before Flop
+Seat 8: karas199 (big blind) folded before Flop
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #214716303443: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:37:26 ET
+Table '2922268592 2' 9-max Seat #7 is the button
+Seat 1: elketefuka (2119 in chips)
+Seat 2: Lucashaquino (1354 in chips)
+Seat 3: Kristupelis13 (5854 in chips)
+Seat 5: SidneiS7 (2398 in chips)
+Seat 6: StasiaVLC (1561 in chips)
+Seat 7: Flamenco xD (1319 in chips)
+Seat 8: karas199 (1453 in chips)
+Seat 9: Pdvk (3408 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+SidneiS7: posts the ante 4
+StasiaVLC: posts the ante 4
+Flamenco xD: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+karas199: posts small blind 15
+Pdvk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Td 8d]
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 36 to 66
+SidneiS7: calls 66
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: folds
+Pdvk: calls 36
+*** FLOP *** [4s 8h 5s]
+Pdvk: checks
+Kristupelis13: checks
+SidneiS7: bets 123
+Pdvk: calls 123
+Kristupelis13: folds
+*** TURN *** [4s 8h 5s] [4c]
+Pdvk: checks
+SidneiS7: checks
+*** RIVER *** [4s 8h 5s 4c] [Jd]
+Pdvk: checks
+SidneiS7: checks
+*** SHOW DOWN ***
+Pdvk: shows [2d Ad] (a pair of Fours)
+SidneiS7: shows [6s 8s] (two pair, Eights and Fours)
+SidneiS7 collected 491 from pot
+*** SUMMARY ***
+Total pot 491 | Rake 0
+Board [4s 8h 5s 4c Jd]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded on the Flop
+Seat 5: SidneiS7 showed [6s 8s] and won (491) with two pair, Eights and Fours
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD (button) folded before Flop (didn't bet)
+Seat 8: karas199 (small blind) folded before Flop
+Seat 9: Pdvk (big blind) showed [2d Ad] and lost with a pair of Fours
+
+
+*********** # 20 **************
+PokerStars Hand #214716381793: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:39:19 ET
+Table '2922268592 2' 9-max Seat #8 is the button
+Seat 1: elketefuka (2115 in chips)
+Seat 2: Lucashaquino (1350 in chips)
+Seat 3: Kristupelis13 (5784 in chips)
+Seat 5: SidneiS7 (2696 in chips)
+Seat 6: StasiaVLC (1557 in chips)
+Seat 7: Flamenco xD (1315 in chips)
+Seat 8: karas199 (1434 in chips)
+Seat 9: Pdvk (3215 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+SidneiS7: posts the ante 4
+StasiaVLC: posts the ante 4
+Flamenco xD: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+Pdvk: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [6h 2c]
+Lucashaquino: folds
+Kristupelis13: folds
+SidneiS7: folds
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: raises 30 to 60
+Pdvk: folds
+elketefuka: calls 30
+*** FLOP *** [5c 5d Ac]
+elketefuka: checks
+karas199: bets 50
+elketefuka: raises 134 to 184
+karas199: folds
+Uncalled bet (134) returned to elketefuka
+elketefuka collected 267 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 267 | Rake 0
+Board [5c 5d Ac]
+Seat 1: elketefuka (big blind) collected (267)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 (button) folded on the Flop
+Seat 9: Pdvk (small blind) folded before Flop
+
+
+*********** # 21 **************
+PokerStars Hand #214716413378: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/05/31 9:40:10 ET
+Table '2922268592 2' 9-max Seat #9 is the button
+Seat 1: elketefuka (2268 in chips)
+Seat 2: Lucashaquino (1346 in chips)
+Seat 3: Kristupelis13 (5780 in chips)
+Seat 5: SidneiS7 (2692 in chips)
+Seat 6: StasiaVLC (1553 in chips)
+Seat 7: Flamenco xD (1311 in chips)
+Seat 8: karas199 (1320 in chips)
+Seat 9: Pdvk (3196 in chips)
+elketefuka: posts the ante 4
+Lucashaquino: posts the ante 4
+Kristupelis13: posts the ante 4
+SidneiS7: posts the ante 4
+StasiaVLC: posts the ante 4
+Flamenco xD: posts the ante 4
+karas199: posts the ante 4
+Pdvk: posts the ante 4
+elketefuka: posts small blind 15
+Lucashaquino: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [9h 8h]
+Kristupelis13: folds
+SidneiS7: folds
+StasiaVLC: raises 45 to 75
+Flamenco xD: folds
+karas199: folds
+Pdvk: folds
+elketefuka: calls 60
+Lucashaquino: calls 45
+*** FLOP *** [Ad 8s 4s]
+elketefuka: checks
+Lucashaquino: checks
+StasiaVLC: bets 60
+elketefuka: calls 60
+Lucashaquino: folds
+*** TURN *** [Ad 8s 4s] [Jd]
+elketefuka: checks
+StasiaVLC: bets 207
+elketefuka: folds
+Uncalled bet (207) returned to StasiaVLC
+StasiaVLC collected 377 from pot
+*** SUMMARY ***
+Total pot 377 | Rake 0
+Board [Ad 8s 4s Jd]
+Seat 1: elketefuka (small blind) folded on the Turn
+Seat 2: Lucashaquino (big blind) folded on the Flop
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC collected (377)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk (button) folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #214716456116: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:41:20 ET
+Table '2922268592 2' 9-max Seat #1 is the button
+Seat 1: elketefuka (2129 in chips)
+Seat 2: Lucashaquino (1267 in chips)
+Seat 3: Kristupelis13 (5776 in chips)
+Seat 5: SidneiS7 (2688 in chips)
+Seat 6: StasiaVLC (1791 in chips)
+Seat 7: Flamenco xD (1307 in chips)
+Seat 8: karas199 (1316 in chips)
+Seat 9: Pdvk (3192 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+Lucashaquino: posts small blind 25
+Kristupelis13: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 6c]
+SidneiS7: raises 60 to 110
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+Uncalled bet (60) returned to SidneiS7
+SidneiS7 collected 173 from pot
+SidneiS7: doesn't show hand
+*** SUMMARY ***
+Total pot 173 | Rake 0
+Seat 1: elketefuka (button) folded before Flop (didn't bet)
+Seat 2: Lucashaquino (small blind) folded before Flop
+Seat 3: Kristupelis13 (big blind) folded before Flop
+Seat 5: SidneiS7 collected (173)
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 23 **************
+PokerStars Hand #214716492649: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:42:19 ET
+Table '2922268592 2' 9-max Seat #2 is the button
+Seat 1: elketefuka (2123 in chips)
+Seat 2: Lucashaquino (1236 in chips)
+Seat 3: Kristupelis13 (5720 in chips)
+Seat 5: SidneiS7 (2805 in chips)
+Seat 6: StasiaVLC (1785 in chips)
+Seat 7: Flamenco xD (1301 in chips)
+Seat 8: karas199 (1310 in chips)
+Seat 9: Pdvk (3186 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+Kristupelis13: posts small blind 25
+SidneiS7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 8s]
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 60 to 110
+SidneiS7: calls 60
+*** FLOP *** [Jh 4d 7s]
+Kristupelis13: bets 134
+SidneiS7: calls 134
+*** TURN *** [Jh 4d 7s] [As]
+Kristupelis13: bets 268
+SidneiS7: folds
+Uncalled bet (268) returned to Kristupelis13
+Kristupelis13 collected 536 from pot
+Kristupelis13: doesn't show hand
+*** SUMMARY ***
+Total pot 536 | Rake 0
+Board [Jh 4d 7s As]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino (button) folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (small blind) collected (536)
+Seat 5: SidneiS7 (big blind) folded on the Turn
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 24 **************
+PokerStars Hand #214716533303: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:43:25 ET
+Table '2922268592 2' 9-max Seat #3 is the button
+Seat 1: elketefuka (2117 in chips)
+Seat 2: Lucashaquino (1230 in chips)
+Seat 3: Kristupelis13 (6006 in chips)
+Seat 5: SidneiS7 (2555 in chips)
+Seat 6: StasiaVLC (1779 in chips)
+Seat 7: Flamenco xD (1295 in chips)
+Seat 8: karas199 (1304 in chips)
+Seat 9: Pdvk (3180 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+SidneiS7: posts small blind 25
+StasiaVLC: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [5h Ts]
+Flamenco xD: folds
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 60 to 110
+SidneiS7: folds
+StasiaVLC: calls 60
+*** FLOP *** [Th Ac 6s]
+StasiaVLC: checks
+Kristupelis13: bets 113
+StasiaVLC: calls 113
+*** TURN *** [Th Ac 6s] [3d]
+StasiaVLC: checks
+Kristupelis13: bets 300
+StasiaVLC: folds
+Uncalled bet (300) returned to Kristupelis13
+Kristupelis13 collected 519 from pot
+Kristupelis13: doesn't show hand
+*** SUMMARY ***
+Total pot 519 | Rake 0
+Board [Th Ac 6s 3d]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 (button) collected (519)
+Seat 5: SidneiS7 (small blind) folded before Flop
+Seat 6: StasiaVLC (big blind) folded on the Turn
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #214716566294: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:44:18 ET
+Table '2922268592 2' 9-max Seat #5 is the button
+Seat 1: elketefuka (2111 in chips)
+Seat 2: Lucashaquino (1224 in chips)
+Seat 3: Kristupelis13 (6296 in chips)
+Seat 5: SidneiS7 (2524 in chips)
+Seat 6: StasiaVLC (1550 in chips)
+Seat 7: Flamenco xD (1289 in chips)
+Seat 8: karas199 (1298 in chips)
+Seat 9: Pdvk (3174 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+StasiaVLC: posts small blind 25
+Flamenco xD: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Ad 4c]
+karas199: folds
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: folds
+SidneiS7: folds
+StasiaVLC: calls 25
+Flamenco xD: raises 100 to 150
+StasiaVLC: calls 100
+*** FLOP *** [Qs 9h 8d]
+StasiaVLC: checks
+Flamenco xD: checks
+*** TURN *** [Qs 9h 8d] [5h]
+StasiaVLC: checks
+Flamenco xD: checks
+*** RIVER *** [Qs 9h 8d 5h] [6s]
+StasiaVLC: checks
+Flamenco xD has timed out
+Flamenco xD: checks
+*** SHOW DOWN ***
+StasiaVLC: shows [As 2c] (high card Ace)
+Flamenco xD: mucks hand
+StasiaVLC collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | Rake 0
+Board [Qs 9h 8d 5h 6s]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 5: SidneiS7 (button) folded before Flop (didn't bet)
+Seat 6: StasiaVLC (small blind) showed [As 2c] and won (348) with high card Ace
+Seat 7: Flamenco xD (big blind) mucked [Ts Kd]
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #214716631073: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:46:02 ET
+Table '2922268592 2' 9-max Seat #6 is the button
+Seat 1: elketefuka (2105 in chips)
+Seat 2: Lucashaquino (1218 in chips)
+Seat 3: Kristupelis13 (6290 in chips)
+Seat 5: SidneiS7 (2518 in chips)
+Seat 6: StasiaVLC (1742 in chips)
+Seat 7: Flamenco xD (1133 in chips)
+Seat 8: karas199 (1292 in chips)
+Seat 9: Pdvk (3168 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+Flamenco xD: posts small blind 25
+karas199: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [6c Ts]
+Pdvk: folds
+elketefuka: folds
+Lucashaquino: folds
+Kristupelis13: raises 60 to 110
+SidneiS7: folds
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: raises 90 to 200
+Kristupelis13: calls 90
+*** FLOP *** [Ac Th 5h]
+karas199: checks
+Kristupelis13: checks
+*** TURN *** [Ac Th 5h] [Js]
+karas199: checks
+Kristupelis13: checks
+*** RIVER *** [Ac Th 5h Js] [7d]
+karas199: checks
+Kristupelis13: checks
+*** SHOW DOWN ***
+karas199: shows [Kd Kh] (a pair of Kings)
+Kristupelis13: mucks hand
+karas199 collected 473 from pot
+*** SUMMARY ***
+Total pot 473 | Rake 0
+Board [Ac Th 5h Js 7d]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 mucked [Kc Jd]
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC (button) folded before Flop (didn't bet)
+Seat 7: Flamenco xD (small blind) folded before Flop
+Seat 8: karas199 (big blind) showed [Kd Kh] and won (473) with a pair of Kings
+Seat 9: Pdvk folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #214716663532: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:46:55 ET
+Table '2922268592 2' 9-max Seat #7 is the button
+Seat 1: elketefuka (2099 in chips)
+Seat 2: Lucashaquino (1212 in chips)
+Seat 3: Kristupelis13 (6084 in chips)
+Seat 5: SidneiS7 (2512 in chips)
+Seat 6: StasiaVLC (1736 in chips)
+Seat 7: Flamenco xD (1102 in chips)
+Seat 8: karas199 (1559 in chips)
+Seat 9: Pdvk (3162 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+karas199: posts small blind 25
+Pdvk: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [7s 9s]
+elketefuka: folds
+Lucashaquino: raises 75 to 125
+Kristupelis13: folds
+SidneiS7: folds
+StasiaVLC: folds
+Flamenco xD has timed out
+Flamenco xD: folds
+Flamenco xD is sitting out
+karas199: folds
+Pdvk: raises 323 to 448
+Lucashaquino: calls 323
+*** FLOP *** [2c Qc Kc]
+Pdvk: checks
+Lucashaquino: bets 388
+Pdvk: raises 2320 to 2708 and is all-in
+Lucashaquino: calls 370 and is all-in
+Uncalled bet (1950) returned to Pdvk
+*** TURN *** [2c Qc Kc] [Ts]
+*** RIVER *** [2c Qc Kc Ts] [5h]
+*** SHOW DOWN ***
+Pdvk: shows [Ac As] (a pair of Aces)
+Lucashaquino: shows [Qs Kd] (two pair, Kings and Queens)
+Lucashaquino collected 2485 from pot
+*** SUMMARY ***
+Total pot 2485 | Rake 0
+Board [2c Qc Kc Ts 5h]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: Lucashaquino showed [Qs Kd] and won (2485) with two pair, Kings and Queens
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD (button) folded before Flop (didn't bet)
+Seat 8: karas199 (small blind) folded before Flop
+Seat 9: Pdvk (big blind) showed [Ac As] and lost with a pair of Aces
+
+
+*********** # 28 **************
+PokerStars Hand #214716709807: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:48:09 ET
+Table '2922268592 2' 9-max Seat #8 is the button
+Seat 1: elketefuka (2093 in chips)
+Seat 2: Lucashaquino (2485 in chips)
+Seat 3: Kristupelis13 (6078 in chips)
+Seat 5: SidneiS7 (2506 in chips)
+Seat 6: StasiaVLC (1730 in chips)
+Seat 7: Flamenco xD (1096 in chips) is sitting out
+Seat 8: karas199 (1528 in chips)
+Seat 9: Pdvk (1950 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+Pdvk: posts small blind 25
+elketefuka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd Qs]
+Lucashaquino: folds
+Kristupelis13: folds
+SidneiS7: folds
+StasiaVLC: raises 75 to 125
+Flamenco xD: folds
+karas199: folds
+Pdvk: folds
+elketefuka: calls 75
+*** FLOP *** [6d 5d 4h]
+elketefuka: checks
+StasiaVLC: bets 150
+elketefuka: calls 150
+*** TURN *** [6d 5d 4h] [Qd]
+elketefuka: checks
+StasiaVLC: bets 343
+elketefuka: calls 343
+*** RIVER *** [6d 5d 4h Qd] [7h]
+elketefuka: checks
+StasiaVLC: checks
+*** SHOW DOWN ***
+elketefuka: shows [Jd Qs] (a pair of Queens)
+StasiaVLC: shows [6c 5c] (two pair, Sixes and Fives)
+StasiaVLC collected 1309 from pot
+*** SUMMARY ***
+Total pot 1309 | Rake 0
+Board [6d 5d 4h Qd 7h]
+Seat 1: elketefuka (big blind) showed [Jd Qs] and lost with a pair of Queens
+Seat 2: Lucashaquino folded before Flop (didn't bet)
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC showed [6c 5c] and won (1309) with two pair, Sixes and Fives
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 (button) folded before Flop (didn't bet)
+Seat 9: Pdvk (small blind) folded before Flop
+
+
+*********** # 29 **************
+PokerStars Hand #214716746242: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:49:08 ET
+Table '2922268592 2' 9-max Seat #9 is the button
+Seat 1: elketefuka (1469 in chips)
+Seat 2: Lucashaquino (2479 in chips)
+Seat 3: Kristupelis13 (6072 in chips)
+Seat 5: SidneiS7 (2500 in chips)
+Seat 6: StasiaVLC (2415 in chips)
+Seat 7: Flamenco xD (1090 in chips) is sitting out
+Seat 8: karas199 (1522 in chips)
+Seat 9: Pdvk (1919 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+karas199: posts the ante 6
+Pdvk: posts the ante 6
+elketefuka: posts small blind 25
+Lucashaquino: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 8d]
+Kristupelis13: folds
+SidneiS7: folds
+StasiaVLC: folds
+Flamenco xD: folds
+karas199: folds
+Pdvk: raises 60 to 110
+elketefuka: folds
+Lucashaquino: calls 60
+*** FLOP *** [8c Qs Ad]
+Lucashaquino: checks
+Pdvk: bets 125
+Flamenco xD has returned
+Lucashaquino: folds
+Uncalled bet (125) returned to Pdvk
+Pdvk collected 293 from pot
+Pdvk: doesn't show hand
+*** SUMMARY ***
+Total pot 293 | Rake 0
+Board [8c Qs Ad]
+Seat 1: elketefuka (small blind) folded before Flop
+Seat 2: Lucashaquino (big blind) folded on the Flop
+Seat 3: Kristupelis13 folded before Flop (didn't bet)
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 8: karas199 folded before Flop (didn't bet)
+Seat 9: Pdvk (button) collected (293)
+
+
+*********** # 30 **************
+PokerStars Hand #214716770508: Tournament #2922268592, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/05/31 9:49:47 ET
+Table '2922268592 2' 9-max Seat #1 is the button
+Seat 1: elketefuka (1438 in chips)
+Seat 2: Lucashaquino (2363 in chips)
+Seat 3: Kristupelis13 (6066 in chips)
+Seat 5: SidneiS7 (2494 in chips)
+Seat 6: StasiaVLC (2409 in chips)
+Seat 7: Flamenco xD (1084 in chips)
+Seat 9: Pdvk (2096 in chips)
+elketefuka: posts the ante 6
+Lucashaquino: posts the ante 6
+Kristupelis13: posts the ante 6
+SidneiS7: posts the ante 6
+StasiaVLC: posts the ante 6
+Flamenco xD: posts the ante 6
+Pdvk: posts the ante 6
+Lucashaquino: posts small blind 25
+Kristupelis13: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [4d 4s]
+SidneiS7: folds
+StasiaVLC: folds
+Flamenco xD: folds
+Pdvk: folds
+elketefuka: raises 100 to 150
+Lucashaquino: folds
+Kristupelis13: calls 100
+*** FLOP *** [3h 9d Jd]
+Kristupelis13: checks
+elketefuka: bets 184
+Kristupelis13: raises 368 to 552
+elketefuka: raises 730 to 1282 and is all-in
+Kristupelis13: calls 730
+*** TURN *** [3h 9d Jd] [8s]
+*** RIVER *** [3h 9d Jd 8s] [2d]
+*** SHOW DOWN ***
+Kristupelis13: shows [8h 9c] (two pair, Nines and Eights)
+elketefuka: shows [4d 4s] (a pair of Fours)
+Kristupelis13 collected 2931 from pot
+elketefuka finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 2931 | Rake 0
+Board [3h 9d Jd 8s 2d]
+Seat 1: elketefuka (button) showed [4d 4s] and lost with a pair of Fours
+Seat 2: Lucashaquino (small blind) folded before Flop
+Seat 3: Kristupelis13 (big blind) showed [8h 9c] and won (2931) with two pair, Nines and Eights
+Seat 5: SidneiS7 folded before Flop (didn't bet)
+Seat 6: StasiaVLC folded before Flop (didn't bet)
+Seat 7: Flamenco xD folded before Flop (didn't bet)
+Seat 9: Pdvk folded before Flop (didn't bet)
