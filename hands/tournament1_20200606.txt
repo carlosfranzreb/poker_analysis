@@ -1,0 +1,3790 @@
+*********** # 1 **************
+PokerStars Hand #214988340276: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:01:19 ET
+Table '2928160996 4' 9-max Seat #1 is the button
+Seat 1: Uckeham (1500 in chips)
+Seat 2: Oleg031975 (1500 in chips)
+Seat 3: elketefuka (1500 in chips)
+Seat 4: Vova Estonec (1500 in chips)
+Seat 5: Gepard1102 (1500 in chips)
+Seat 6: catalo331 (1500 in chips)
+Seat 7: SMcQ666 (1500 in chips)
+Seat 8: CondNeiko (1500 in chips)
+Seat 9: Real trnsfrm (1500 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+SMcQ666: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Oleg031975: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Jh 7c]
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: folds
+SMcQ666: folds
+CondNeiko: folds
+Real trnsfrm: calls 20
+Uckeham: folds
+Oleg031975: calls 10
+elketefuka: checks
+*** FLOP *** [5d 2c Td]
+Oleg031975: checks
+elketefuka: checks
+Real trnsfrm: bets 40
+Oleg031975: calls 40
+elketefuka: folds
+*** TURN *** [5d 2c Td] [3c]
+Oleg031975: checks
+Real trnsfrm: bets 167
+Oleg031975: folds
+Uncalled bet (167) returned to Real trnsfrm
+Real trnsfrm collected 167 from pot
+*** SUMMARY ***
+Total pot 167 | Rake 0
+Board [5d 2c Td 3c]
+Seat 1: Uckeham (button) folded before Flop (didn't bet)
+Seat 2: Oleg031975 (small blind) folded on the Turn
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: SMcQ666 folded before Flop (didn't bet)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm collected (167)
+
+
+*********** # 2 **************
+PokerStars Hand #214988387784: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:02:35 ET
+Table '2928160996 4' 9-max Seat #2 is the button
+Seat 1: Uckeham (1497 in chips)
+Seat 2: Oleg031975 (1437 in chips)
+Seat 3: elketefuka (1477 in chips)
+Seat 4: Vova Estonec (1497 in chips)
+Seat 5: Gepard1102 (1497 in chips)
+Seat 6: catalo331 (1497 in chips)
+Seat 7: SMcQ666 (1497 in chips)
+Seat 8: CondNeiko (1497 in chips)
+Seat 9: Real trnsfrm (1604 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+SMcQ666: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+elketefuka: posts small blind 10
+Vova Estonec: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [7h Ts]
+Gepard1102: calls 20
+catalo331: folds
+SMcQ666: folds
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: calls 20
+elketefuka: calls 10
+Vova Estonec: checks
+*** FLOP *** [Jd Qh 7c]
+elketefuka: checks
+Vova Estonec: checks
+Gepard1102: checks
+Oleg031975: checks
+*** TURN *** [Jd Qh 7c] [Js]
+elketefuka: bets 54
+Vova Estonec: folds
+Gepard1102: calls 54
+Oleg031975: calls 54
+*** RIVER *** [Jd Qh 7c Js] [Kc]
+elketefuka: checks
+Gepard1102: checks
+Oleg031975: bets 20
+elketefuka: calls 20
+Gepard1102: folds
+*** SHOW DOWN ***
+Oleg031975: shows [6c Jh] (three of a kind, Jacks)
+elketefuka: mucks hand
+Oleg031975 collected 309 from pot
+*** SUMMARY ***
+Total pot 309 | Rake 0
+Board [Jd Qh 7c Js Kc]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Oleg031975 (button) showed [6c Jh] and won (309) with three of a kind, Jacks
+Seat 3: elketefuka (small blind) mucked [7h Ts]
+Seat 4: Vova Estonec (big blind) folded on the Turn
+Seat 5: Gepard1102 folded on the River
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: SMcQ666 folded before Flop (didn't bet)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #214988424889: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:03:19 ET
+Table '2928160996 4' 9-max Seat #3 is the button
+Seat 1: Uckeham (1494 in chips)
+Seat 2: Oleg031975 (1649 in chips)
+Seat 3: elketefuka (1380 in chips)
+Seat 4: Vova Estonec (1474 in chips)
+Seat 5: Gepard1102 (1420 in chips)
+Seat 6: catalo331 (1494 in chips)
+Seat 7: SMcQ666 (1494 in chips)
+Seat 8: CondNeiko (1494 in chips)
+Seat 9: Real trnsfrm (1601 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+SMcQ666: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Vova Estonec: posts small blind 10
+Gepard1102: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh 8c]
+catalo331: calls 20
+SMcQ666: calls 20
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: calls 20
+elketefuka: calls 20
+Vova Estonec: raises 147 to 167
+Gepard1102: calls 147
+catalo331: calls 147
+SMcQ666: calls 147
+Oleg031975: calls 147
+elketefuka: folds
+*** FLOP *** [6s 8h 8s]
+Vova Estonec: checks
+Gepard1102: checks
+catalo331: checks
+SMcQ666: checks
+Oleg031975: checks
+*** TURN *** [6s 8h 8s] [5c]
+Vova Estonec: bets 440
+Gepard1102: folds
+catalo331: folds
+SMcQ666: calls 440
+Oleg031975: folds
+*** RIVER *** [6s 8h 8s 5c] [Jd]
+Vova Estonec: bets 864 and is all-in
+SMcQ666: folds
+Uncalled bet (864) returned to Vova Estonec
+Vova Estonec collected 1762 from pot
+Vova Estonec: doesn't show hand
+*** SUMMARY ***
+Total pot 1762 | Rake 0
+Board [6s 8h 8s 5c Jd]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Oleg031975 folded on the Turn
+Seat 3: elketefuka (button) folded before Flop
+Seat 4: Vova Estonec (small blind) collected (1762)
+Seat 5: Gepard1102 (big blind) folded on the Turn
+Seat 6: catalo331 folded on the Turn
+Seat 7: SMcQ666 folded on the River
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #214988480827: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:04:45 ET
+Table '2928160996 4' 9-max Seat #4 is the button
+Seat 1: Uckeham (1491 in chips)
+Seat 2: Oleg031975 (1479 in chips)
+Seat 3: elketefuka (1357 in chips)
+Seat 4: Vova Estonec (2626 in chips)
+Seat 5: Gepard1102 (1250 in chips)
+Seat 6: catalo331 (1324 in chips)
+Seat 7: SMcQ666 (884 in chips)
+Seat 8: CondNeiko (1491 in chips)
+Seat 9: Real trnsfrm (1598 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+SMcQ666: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Gepard1102: posts small blind 10
+catalo331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 7d]
+SMcQ666: raises 20 to 40
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: calls 30
+catalo331: calls 20
+*** FLOP *** [Ac 6s Qs]
+Gepard1102: bets 20
+catalo331: folds
+SMcQ666: calls 20
+*** TURN *** [Ac 6s Qs] [Ks]
+Gepard1102: bets 20
+SMcQ666: calls 20
+*** RIVER *** [Ac 6s Qs Ks] [6c]
+Gepard1102: bets 20
+SMcQ666: folds
+Uncalled bet (20) returned to Gepard1102
+Gepard1102 collected 227 from pot
+Gepard1102: doesn't show hand
+*** SUMMARY ***
+Total pot 227 | Rake 0
+Board [Ac 6s Qs Ks 6c]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Oleg031975 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec (button) folded before Flop (didn't bet)
+Seat 5: Gepard1102 (small blind) collected (227)
+Seat 6: catalo331 (big blind) folded on the Flop
+Seat 7: SMcQ666 folded on the River
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 5 **************
+PokerStars Hand #214988507742: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:05:27 ET
+Table '2928160996 4' 9-max Seat #5 is the button
+Seat 1: Uckeham (1488 in chips)
+Seat 2: Oleg031975 (1476 in chips)
+Seat 3: elketefuka (1354 in chips)
+Seat 4: Vova Estonec (2623 in chips)
+Seat 5: Gepard1102 (1394 in chips)
+Seat 6: catalo331 (1281 in chips)
+Seat 7: SMcQ666 (801 in chips)
+Seat 8: CondNeiko (1488 in chips)
+Seat 9: Real trnsfrm (1595 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+SMcQ666: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+catalo331: posts small blind 10
+SMcQ666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [5c 3s]
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: raises 20 to 40
+elketefuka: folds
+Vova Estonec: calls 40
+Gepard1102: calls 40
+catalo331: folds
+SMcQ666: calls 20
+*** FLOP *** [2d 6s Qd]
+SMcQ666: checks
+Oleg031975: bets 99
+Vova Estonec: folds
+Gepard1102: calls 99
+SMcQ666: folds
+*** TURN *** [2d 6s Qd] [7d]
+Oleg031975: bets 1334 and is all-in
+Gepard1102: calls 1252 and is all-in
+Uncalled bet (82) returned to Oleg031975
+*** RIVER *** [2d 6s Qd 7d] [7c]
+*** SHOW DOWN ***
+Oleg031975: shows [Kc Kh] (two pair, Kings and Sevens)
+Gepard1102: shows [Td Kd] (a flush, King high)
+Gepard1102 collected 2899 from pot
+*** SUMMARY ***
+Total pot 2899 | Rake 0
+Board [2d 6s Qd 7d 7c]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Oleg031975 showed [Kc Kh] and lost with two pair, Kings and Sevens
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded on the Flop
+Seat 5: Gepard1102 (button) showed [Td Kd] and won (2899) with a flush, King high
+Seat 6: catalo331 (small blind) folded before Flop
+Seat 7: SMcQ666 (big blind) folded on the Flop
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 6 **************
+PokerStars Hand #214988532872: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:06:06 ET
+Table '2928160996 4' 9-max Seat #6 is the button
+Seat 1: Uckeham (1485 in chips)
+Seat 2: Oleg031975 (82 in chips)
+Seat 3: elketefuka (1351 in chips)
+Seat 4: Vova Estonec (2580 in chips)
+Seat 5: Gepard1102 (2899 in chips)
+Seat 6: catalo331 (1268 in chips)
+Seat 7: SMcQ666 (758 in chips)
+Seat 8: CondNeiko (1485 in chips)
+Seat 9: Real trnsfrm (1592 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+SMcQ666: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+SMcQ666: posts small blind 10
+CondNeiko: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh 3s]
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: raises 59 to 79 and is all-in
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: calls 79
+catalo331: calls 79
+SMcQ666: calls 69
+CondNeiko: folds
+*** FLOP *** [3d Tc 6s]
+SMcQ666: bets 676 and is all-in
+Gepard1102: folds
+catalo331: calls 676
+*** TURN *** [3d Tc 6s] [3h]
+*** RIVER *** [3d Tc 6s 3h] [9h]
+*** SHOW DOWN ***
+SMcQ666: shows [Qc Jc] (a pair of Threes)
+catalo331: shows [7s 7h] (two pair, Sevens and Threes)
+catalo331 collected 1352 from side pot
+Oleg031975: shows [Jh 9s] (two pair, Nines and Threes)
+Oleg031975 collected 363 from main pot
+SMcQ666 finished the tournament in 42nd place
+*** SUMMARY ***
+Total pot 1715 Main pot 363. Side pot 1352. | Rake 0
+Board [3d Tc 6s 3h 9h]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Oleg031975 showed [Jh 9s] and won (363) with two pair, Nines and Threes
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded on the Flop
+Seat 6: catalo331 (button) showed [7s 7h] and won (1352) with two pair, Sevens and Threes
+Seat 7: SMcQ666 (small blind) showed [Qc Jc] and lost with a pair of Threes
+Seat 8: CondNeiko (big blind) folded before Flop
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #214988556713: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:06:43 ET
+Table '2928160996 4' 9-max Seat #8 is the button
+Seat 1: Uckeham (1482 in chips)
+Seat 2: Oleg031975 (363 in chips)
+Seat 3: elketefuka (1348 in chips)
+Seat 4: Vova Estonec (2577 in chips)
+Seat 5: Gepard1102 (2817 in chips)
+Seat 6: catalo331 (1862 in chips)
+Seat 8: CondNeiko (1462 in chips)
+Seat 9: Real trnsfrm (1589 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Real trnsfrm: posts small blind 10
+Uckeham: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh Ts]
+Oleg031975: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: calls 20
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: checks
+*** FLOP *** [4h 5d Qs]
+Uckeham: checks
+catalo331: checks
+*** TURN *** [4h 5d Qs] [9c]
+Uckeham: checks
+catalo331: bets 60
+Uckeham: folds
+Uncalled bet (60) returned to catalo331
+catalo331 collected 74 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 74 | Rake 0
+Board [4h 5d Qs 9c]
+Seat 1: Uckeham (big blind) folded on the Turn
+Seat 2: Oleg031975 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 collected (74)
+Seat 8: CondNeiko (button) folded before Flop (didn't bet)
+Seat 9: Real trnsfrm (small blind) folded before Flop
+
+
+*********** # 8 **************
+PokerStars Hand #214988579299: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:07:18 ET
+Table '2928160996 4' 9-max Seat #9 is the button
+Seat 1: Uckeham (1459 in chips)
+Seat 2: Oleg031975 (360 in chips)
+Seat 3: elketefuka (1345 in chips)
+Seat 4: Vova Estonec (2574 in chips)
+Seat 5: Gepard1102 (2814 in chips)
+Seat 6: catalo331 (1913 in chips)
+Seat 8: CondNeiko (1459 in chips)
+Seat 9: Real trnsfrm (1576 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Uckeham: posts small blind 10
+Oleg031975: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [2d 4s]
+elketefuka: folds
+Vova Estonec: raises 20 to 40
+Gepard1102: folds
+catalo331: folds
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: calls 20
+*** FLOP *** [3s Jd Qc]
+Oleg031975: checks
+Vova Estonec: bets 60
+Oleg031975: folds
+Uncalled bet (60) returned to Vova Estonec
+Vova Estonec collected 114 from pot
+Vova Estonec: doesn't show hand
+*** SUMMARY ***
+Total pot 114 | Rake 0
+Board [3s Jd Qc]
+Seat 1: Uckeham (small blind) folded before Flop
+Seat 2: Oleg031975 (big blind) folded on the Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec collected (114)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm (button) folded before Flop (didn't bet)
+
+
+*********** # 9 **************
+PokerStars Hand #214988595615: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:07:43 ET
+Table '2928160996 4' 9-max Seat #1 is the button
+Seat 1: Uckeham (1446 in chips)
+Seat 2: Oleg031975 (317 in chips)
+Seat 3: elketefuka (1342 in chips)
+Seat 4: Vova Estonec (2645 in chips)
+Seat 5: Gepard1102 (2811 in chips)
+Seat 6: catalo331 (1910 in chips)
+Seat 8: CondNeiko (1456 in chips)
+Seat 9: Real trnsfrm (1573 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Oleg031975: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [As 5h]
+Vova Estonec: folds
+Gepard1102: calls 20
+catalo331: raises 20 to 40
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: folds
+elketefuka: calls 20
+Gepard1102: calls 20
+*** FLOP *** [Qs 4c 4s]
+elketefuka: checks
+Gepard1102: checks
+catalo331: checks
+*** TURN *** [Qs 4c 4s] [8h]
+elketefuka: checks
+Gepard1102: checks
+catalo331: bets 100
+elketefuka: folds
+Gepard1102: folds
+Uncalled bet (100) returned to catalo331
+catalo331 collected 154 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 154 | Rake 0
+Board [Qs 4c 4s 8h]
+Seat 1: Uckeham (button) folded before Flop (didn't bet)
+Seat 2: Oleg031975 (small blind) folded before Flop
+Seat 3: elketefuka (big blind) folded on the Turn
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded on the Turn
+Seat 6: catalo331 collected (154)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #214988623880: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:08:27 ET
+Table '2928160996 4' 9-max Seat #2 is the button
+Seat 1: Uckeham (1443 in chips)
+Seat 2: Oleg031975 (304 in chips)
+Seat 3: elketefuka (1299 in chips)
+Seat 4: Vova Estonec (2642 in chips)
+Seat 5: Gepard1102 (2768 in chips)
+Seat 6: catalo331 (2021 in chips)
+Seat 8: CondNeiko (1453 in chips)
+Seat 9: Real trnsfrm (1570 in chips)
+Uckeham: posts the ante 3
+Oleg031975: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+elketefuka: posts small blind 10
+Vova Estonec: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [6s 6d]
+Gepard1102: calls 20
+catalo331: folds
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+Oleg031975: raises 281 to 301 and is all-in
+elketefuka: folds
+Vova Estonec: raises 281 to 582
+Gepard1102: folds
+Uncalled bet (281) returned to Vova Estonec
+*** FLOP *** [Qd 6c Ts]
+*** TURN *** [Qd 6c Ts] [5d]
+*** RIVER *** [Qd 6c Ts 5d] [Qs]
+*** SHOW DOWN ***
+Vova Estonec: shows [Ks Kd] (two pair, Kings and Queens)
+Oleg031975: shows [8c Ac] (a pair of Queens)
+Vova Estonec collected 656 from pot
+Oleg031975 finished the tournament in 41st place
+*** SUMMARY ***
+Total pot 656 | Rake 0
+Board [Qd 6c Ts 5d Qs]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Oleg031975 (button) showed [8c Ac] and lost with a pair of Queens
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: Vova Estonec (big blind) showed [Ks Kd] and won (656) with two pair, Kings and Queens
+Seat 5: Gepard1102 folded before Flop
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 11 **************
+PokerStars Hand #214988648900: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:09:05 ET
+Table '2928160996 4' 9-max Seat #3 is the button
+Seat 1: Uckeham (1440 in chips)
+Seat 3: elketefuka (1286 in chips)
+Seat 4: Vova Estonec (2994 in chips)
+Seat 5: Gepard1102 (2745 in chips)
+Seat 6: catalo331 (2018 in chips)
+Seat 8: CondNeiko (1450 in chips)
+Seat 9: Real trnsfrm (1567 in chips)
+Uckeham: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Vova Estonec: posts small blind 10
+Gepard1102: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [4s 2c]
+catalo331: folds
+CondNeiko: raises 40 to 60
+Real trnsfrm: folds
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: calls 40
+*** FLOP *** [Jc Qd 5h]
+Gepard1102: checks
+CondNeiko: bets 60
+Gepard1102: calls 60
+*** TURN *** [Jc Qd 5h] [3h]
+Gepard1102: bets 20
+CondNeiko: raises 171 to 191
+Gepard1102: folds
+Uncalled bet (171) returned to CondNeiko
+CondNeiko collected 311 from pot
+CondNeiko: doesn't show hand
+*** SUMMARY ***
+Total pot 311 | Rake 0
+Board [Jc Qd 5h 3h]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: Vova Estonec (small blind) folded before Flop
+Seat 5: Gepard1102 (big blind) folded on the Turn
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 8: CondNeiko collected (311)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 12 **************
+PokerStars Hand #214988674695: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:09:45 ET
+Table '2928160996 4' 9-max Seat #4 is the button
+Seat 1: Uckeham (1437 in chips)
+Seat 3: elketefuka (1283 in chips)
+Seat 4: Vova Estonec (2981 in chips)
+Seat 5: Gepard1102 (2602 in chips)
+Seat 6: catalo331 (2015 in chips)
+Seat 8: CondNeiko (1618 in chips)
+Seat 9: Real trnsfrm (1564 in chips)
+Uckeham: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Gepard1102: posts small blind 10
+catalo331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [2s 4d]
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+Uncalled bet (10) returned to catalo331
+catalo331 collected 41 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 41 | Rake 0
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec (button) folded before Flop (didn't bet)
+Seat 5: Gepard1102 (small blind) folded before Flop
+Seat 6: catalo331 (big blind) collected (41)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 13 **************
+PokerStars Hand #214988682862: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:09:58 ET
+Table '2928160996 4' 9-max Seat #5 is the button
+Seat 1: Uckeham (1434 in chips)
+Seat 3: elketefuka (1280 in chips)
+Seat 4: Vova Estonec (2978 in chips)
+Seat 5: Gepard1102 (2589 in chips)
+Seat 6: catalo331 (2043 in chips)
+Seat 8: CondNeiko (1615 in chips)
+Seat 9: Real trnsfrm (1561 in chips)
+Uckeham: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+catalo331: posts small blind 10
+CondNeiko: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Js Ks]
+Real trnsfrm: calls 20
+Uckeham: folds
+elketefuka: raises 40 to 60
+Vova Estonec: folds
+Gepard1102: calls 60
+catalo331: calls 50
+CondNeiko: folds
+Real trnsfrm: calls 40
+*** FLOP *** [Ts Tc 3s]
+catalo331: checks
+Real trnsfrm: bets 1498 and is all-in
+elketefuka: folds
+Gepard1102: folds
+catalo331: folds
+Uncalled bet (1498) returned to Real trnsfrm
+Real trnsfrm collected 281 from pot
+Real trnsfrm: doesn't show hand
+*** SUMMARY ***
+Total pot 281 | Rake 0
+Board [Ts Tc 3s]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded on the Flop
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 (button) folded on the Flop
+Seat 6: catalo331 (small blind) folded on the Flop
+Seat 8: CondNeiko (big blind) folded before Flop
+Seat 9: Real trnsfrm collected (281)
+
+
+*********** # 14 **************
+PokerStars Hand #214988722320: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:10:59 ET
+Table '2928160996 4' 9-max Seat #6 is the button
+Seat 1: Uckeham (1431 in chips)
+Seat 3: elketefuka (1217 in chips)
+Seat 4: Vova Estonec (2975 in chips)
+Seat 5: Gepard1102 (2526 in chips)
+Seat 6: catalo331 (1980 in chips)
+Seat 8: CondNeiko (1592 in chips)
+Seat 9: Real trnsfrm (1779 in chips)
+Uckeham: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+CondNeiko: posts small blind 10
+Real trnsfrm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [7c 2h]
+Uckeham: raises 40 to 60
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: folds
+CondNeiko: folds
+Real trnsfrm: folds
+Uncalled bet (40) returned to Uckeham
+Uckeham collected 71 from pot
+Uckeham: doesn't show hand
+*** SUMMARY ***
+Total pot 71 | Rake 0
+Seat 1: Uckeham collected (71)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 (button) folded before Flop (didn't bet)
+Seat 8: CondNeiko (small blind) folded before Flop
+Seat 9: Real trnsfrm (big blind) folded before Flop
+
+
+*********** # 15 **************
+PokerStars Hand #214988732033: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 12:11:14 ET
+Table '2928160996 4' 9-max Seat #8 is the button
+Seat 1: Uckeham (1479 in chips)
+Seat 3: elketefuka (1214 in chips)
+Seat 4: Vova Estonec (2972 in chips)
+Seat 5: Gepard1102 (2523 in chips)
+Seat 6: catalo331 (1977 in chips)
+Seat 8: CondNeiko (1579 in chips)
+Seat 9: Real trnsfrm (1756 in chips)
+Uckeham: posts the ante 3
+elketefuka: posts the ante 3
+Vova Estonec: posts the ante 3
+Gepard1102: posts the ante 3
+catalo331: posts the ante 3
+CondNeiko: posts the ante 3
+Real trnsfrm: posts the ante 3
+Real trnsfrm: posts small blind 10
+Uckeham: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Ah]
+elketefuka: raises 40 to 60
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: folds
+CondNeiko: folds
+Real trnsfrm: calls 50
+Uckeham: folds
+*** FLOP *** [Tc 5s Jh]
+Real trnsfrm: bets 161
+elketefuka: calls 161
+*** TURN *** [Tc 5s Jh] [3d]
+Real trnsfrm: checks
+elketefuka: bets 242
+Real trnsfrm: calls 242
+*** RIVER *** [Tc 5s Jh 3d] [Kd]
+Real trnsfrm: checks
+elketefuka: bets 484
+Real trnsfrm: folds
+Uncalled bet (484) returned to elketefuka
+elketefuka collected 967 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 967 | Rake 0
+Board [Tc 5s Jh 3d Kd]
+Seat 1: Uckeham (big blind) folded before Flop
+Seat 3: elketefuka collected (967)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 8: CondNeiko (button) folded before Flop (didn't bet)
+Seat 9: Real trnsfrm (small blind) folded on the River
+
+
+*********** # 16 **************
+PokerStars Hand #214988767640: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:12:09 ET
+Table '2928160996 4' 9-max Seat #9 is the button
+Seat 1: Uckeham (1456 in chips)
+Seat 3: elketefuka (1715 in chips)
+Seat 4: Vova Estonec (2969 in chips)
+Seat 5: Gepard1102 (2520 in chips)
+Seat 6: catalo331 (1974 in chips)
+Seat 8: CondNeiko (1576 in chips)
+Seat 9: Real trnsfrm (1290 in chips)
+Uckeham: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+Uckeham: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd 7c]
+Vova Estonec: raises 30 to 60
+Gepard1102: calls 60
+catalo331: folds
+CondNeiko: folds
+Real trnsfrm: calls 60
+Uckeham: folds
+elketefuka: calls 30
+*** FLOP *** [6d 4d 3s]
+elketefuka: checks
+Vova Estonec: bets 150
+Gepard1102: folds
+Real trnsfrm: folds
+elketefuka: folds
+Uncalled bet (150) returned to Vova Estonec
+Vova Estonec collected 283 from pot
+Vova Estonec: doesn't show hand
+*** SUMMARY ***
+Total pot 283 | Rake 0
+Board [6d 4d 3s]
+Seat 1: Uckeham (small blind) folded before Flop
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 4: Vova Estonec collected (283)
+Seat 5: Gepard1102 folded on the Flop
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm (button) folded on the Flop
+
+
+*********** # 17 **************
+PokerStars Hand #214988801702: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:13:02 ET
+Table '2928160996 4' 9-max Seat #1 is the button
+Seat 1: Uckeham (1437 in chips)
+Seat 3: elketefuka (1651 in chips)
+Seat 4: Vova Estonec (3188 in chips)
+Seat 5: Gepard1102 (2456 in chips)
+Seat 6: catalo331 (1970 in chips)
+Seat 8: CondNeiko (1572 in chips)
+Seat 9: Real trnsfrm (1226 in chips)
+Uckeham: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+elketefuka: posts small blind 15
+Vova Estonec: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 2h]
+Gepard1102: calls 30
+catalo331: raises 30 to 60
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: calls 30
+*** FLOP *** [9h 7h Tc]
+Gepard1102: bets 30
+catalo331: raises 30 to 60
+Gepard1102: calls 30
+*** TURN *** [9h 7h Tc] [6d]
+Gepard1102: bets 30
+catalo331: calls 30
+*** RIVER *** [9h 7h Tc 6d] [4c]
+Gepard1102: bets 30
+catalo331: raises 210 to 240
+Gepard1102: calls 210
+*** SHOW DOWN ***
+catalo331: shows [Jh Th] (a pair of Tens)
+Gepard1102: shows [Ts Qs] (a pair of Tens - Queen kicker)
+Gepard1102 collected 853 from pot
+*** SUMMARY ***
+Total pot 853 | Rake 0
+Board [9h 7h Tc 6d 4c]
+Seat 1: Uckeham (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: Vova Estonec (big blind) folded before Flop
+Seat 5: Gepard1102 showed [Ts Qs] and won (853) with a pair of Tens
+Seat 6: catalo331 showed [Jh Th] and lost with a pair of Tens
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 18 **************
+PokerStars Hand #214988839635: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:14:01 ET
+Table '2928160996 4' 9-max Seat #3 is the button
+Seat 1: Uckeham (1433 in chips)
+Seat 3: elketefuka (1632 in chips)
+Seat 4: Vova Estonec (3154 in chips)
+Seat 5: Gepard1102 (2915 in chips)
+Seat 6: catalo331 (1576 in chips)
+Seat 8: CondNeiko (1568 in chips)
+Seat 9: Real trnsfrm (1222 in chips)
+Uckeham: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+Vova Estonec: posts small blind 15
+Gepard1102: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 5d]
+catalo331: calls 30
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: raises 30 to 60
+Gepard1102: calls 30
+catalo331: calls 30
+*** FLOP *** [5h 6s 3d]
+Vova Estonec: bets 90
+Gepard1102: calls 90
+catalo331: raises 90 to 180
+Vova Estonec: calls 90
+Gepard1102: calls 90
+*** TURN *** [5h 6s 3d] [7c]
+Vova Estonec: checks
+Gepard1102: bets 90
+catalo331: raises 1242 to 1332 and is all-in
+Vova Estonec: folds
+Gepard1102: folds
+Uncalled bet (1242) returned to catalo331
+catalo331 collected 928 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 928 | Rake 0
+Board [5h 6s 3d 7c]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: Vova Estonec (small blind) folded on the Turn
+Seat 5: Gepard1102 (big blind) folded on the Turn
+Seat 6: catalo331 collected (928)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 19 **************
+PokerStars Hand #214988869686: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:14:48 ET
+Table '2928160996 4' 9-max Seat #4 is the button
+Seat 1: Uckeham (1429 in chips)
+Seat 3: elketefuka (1628 in chips)
+Seat 4: Vova Estonec (2910 in chips)
+Seat 5: Gepard1102 (2581 in chips)
+Seat 6: catalo331 (2170 in chips)
+Seat 8: CondNeiko (1564 in chips)
+Seat 9: Real trnsfrm (1218 in chips)
+Uckeham: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+Gepard1102: posts small blind 15
+catalo331: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [8h Ks]
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: calls 30
+Gepard1102: calls 15
+catalo331: checks
+*** FLOP *** [4c 6d 3s]
+Gepard1102: checks
+catalo331: checks
+Vova Estonec: bets 120
+Gepard1102: calls 120
+catalo331: folds
+*** TURN *** [4c 6d 3s] [4d]
+Gepard1102: bets 30
+Vova Estonec: raises 420 to 450
+Gepard1102: calls 420
+*** RIVER *** [4c 6d 3s 4d] [7h]
+Gepard1102: checks
+Vova Estonec: bets 1260
+Gepard1102: folds
+Uncalled bet (1260) returned to Vova Estonec
+Vova Estonec collected 1258 from pot
+Vova Estonec: doesn't show hand
+*** SUMMARY ***
+Total pot 1258 | Rake 0
+Board [4c 6d 3s 4d 7h]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec (button) collected (1258)
+Seat 5: Gepard1102 (small blind) folded on the River
+Seat 6: catalo331 (big blind) folded on the Flop
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 20 **************
+PokerStars Hand #214988906525: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:15:45 ET
+Table '2928160996 4' 9-max Seat #5 is the button
+Seat 1: Uckeham (1425 in chips)
+Seat 2: schu1986 (1668 in chips)
+Seat 3: elketefuka (1624 in chips)
+Seat 4: Vova Estonec (3564 in chips)
+Seat 5: Gepard1102 (1977 in chips)
+Seat 6: catalo331 (2136 in chips)
+Seat 7: Slaterkiller (3208 in chips)
+Seat 8: CondNeiko (1560 in chips)
+Seat 9: Real trnsfrm (1214 in chips)
+Uckeham: posts the ante 4
+schu1986: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+Slaterkiller: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+catalo331: posts small blind 15
+Slaterkiller: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Jc Ah]
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+schu1986: folds
+elketefuka: raises 60 to 90
+Vova Estonec: folds
+Gepard1102: calls 90
+catalo331: calls 75
+Slaterkiller: folds
+*** FLOP *** [5c 7d 6c]
+catalo331: checks
+elketefuka: bets 130
+Gepard1102: folds
+catalo331: calls 130
+*** TURN *** [5c 7d 6c] [8s]
+catalo331: checks
+elketefuka: checks
+*** RIVER *** [5c 7d 6c 8s] [2h]
+catalo331: bets 270
+elketefuka: folds
+Uncalled bet (270) returned to catalo331
+catalo331 collected 596 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 596 | Rake 0
+Board [5c 7d 6c 8s 2h]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: schu1986 folded before Flop (didn't bet)
+Seat 3: elketefuka folded on the River
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 (button) folded on the Flop
+Seat 6: catalo331 (small blind) collected (596)
+Seat 7: Slaterkiller (big blind) folded before Flop
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 21 **************
+PokerStars Hand #214988952868: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:16:57 ET
+Table '2928160996 4' 9-max Seat #6 is the button
+Seat 1: Uckeham (1421 in chips)
+Seat 2: schu1986 (1664 in chips)
+Seat 3: elketefuka (1400 in chips)
+Seat 4: Vova Estonec (3560 in chips)
+Seat 5: Gepard1102 (1883 in chips)
+Seat 6: catalo331 (2508 in chips)
+Seat 7: Slaterkiller (3174 in chips)
+Seat 8: CondNeiko (1556 in chips)
+Seat 9: Real trnsfrm (1210 in chips)
+Uckeham: posts the ante 4
+schu1986: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+Slaterkiller: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+Slaterkiller: posts small blind 15
+CondNeiko: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 5c]
+Real trnsfrm: folds
+Uckeham: folds
+schu1986: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: calls 30
+Slaterkiller: folds
+CondNeiko: checks
+*** FLOP *** [Jc Jh 4s]
+CondNeiko: bets 44
+catalo331: calls 44
+*** TURN *** [Jc Jh 4s] [Qd]
+CondNeiko: bets 80
+catalo331: folds
+Uncalled bet (80) returned to CondNeiko
+CondNeiko collected 199 from pot
+CondNeiko: doesn't show hand
+*** SUMMARY ***
+Total pot 199 | Rake 0
+Board [Jc Jh 4s Qd]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: schu1986 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 (button) folded on the Turn
+Seat 7: Slaterkiller (small blind) folded before Flop
+Seat 8: CondNeiko (big blind) collected (199)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 22 **************
+PokerStars Hand #214988982532: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:17:39 ET
+Table '2928160996 4' 9-max Seat #7 is the button
+Seat 1: Uckeham (1417 in chips)
+Seat 2: schu1986 (1660 in chips)
+Seat 3: elketefuka (1396 in chips)
+Seat 4: Vova Estonec (3556 in chips)
+Seat 5: Gepard1102 (1879 in chips)
+Seat 6: catalo331 (2430 in chips)
+Seat 7: Slaterkiller (3155 in chips)
+Seat 8: CondNeiko (1677 in chips)
+Seat 9: Real trnsfrm (1206 in chips)
+Uckeham: posts the ante 4
+schu1986: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+Slaterkiller: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+CondNeiko: posts small blind 15
+Real trnsfrm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 5s]
+Uckeham: folds
+schu1986: raises 30 to 60
+elketefuka: folds
+Vova Estonec: raises 30 to 90
+Gepard1102: folds
+catalo331: folds
+Slaterkiller: folds
+CondNeiko: folds
+Real trnsfrm: calls 60
+schu1986: calls 30
+*** FLOP *** [Th 2c 3s]
+Real trnsfrm: checks
+schu1986: checks
+Vova Estonec: bets 150
+Real trnsfrm: calls 150
+schu1986: calls 150
+*** TURN *** [Th 2c 3s] [Kd]
+Real trnsfrm: bets 771
+schu1986: folds
+Vova Estonec: folds
+Uncalled bet (771) returned to Real trnsfrm
+Real trnsfrm collected 771 from pot
+*** SUMMARY ***
+Total pot 771 | Rake 0
+Board [Th 2c 3s Kd]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: schu1986 folded on the Turn
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded on the Turn
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: Slaterkiller (button) folded before Flop (didn't bet)
+Seat 8: CondNeiko (small blind) folded before Flop
+Seat 9: Real trnsfrm (big blind) collected (771)
+
+
+*********** # 23 **************
+PokerStars Hand #214989017059: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:18:33 ET
+Table '2928160996 4' 9-max Seat #8 is the button
+Seat 1: Uckeham (1413 in chips)
+Seat 2: schu1986 (1416 in chips)
+Seat 3: elketefuka (1392 in chips)
+Seat 4: Vova Estonec (3312 in chips)
+Seat 5: Gepard1102 (1875 in chips)
+Seat 6: catalo331 (2426 in chips)
+Seat 7: Slaterkiller (3151 in chips)
+Seat 8: CondNeiko (1658 in chips)
+Seat 9: Real trnsfrm (1733 in chips)
+Uckeham: posts the ante 4
+schu1986: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+Slaterkiller: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+Real trnsfrm: posts small blind 15
+Uckeham: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh Td]
+schu1986: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: calls 30
+Slaterkiller: folds
+CondNeiko: folds
+Real trnsfrm: calls 15
+Uckeham: checks
+*** FLOP *** [3h Qd 3d]
+Real trnsfrm: checks
+Uckeham: checks
+catalo331: bets 60
+Real trnsfrm: folds
+Uckeham: folds
+Uncalled bet (60) returned to catalo331
+catalo331 collected 126 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 126 | Rake 0
+Board [3h Qd 3d]
+Seat 1: Uckeham (big blind) folded on the Flop
+Seat 2: schu1986 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 collected (126)
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: CondNeiko (button) folded before Flop (didn't bet)
+Seat 9: Real trnsfrm (small blind) folded on the Flop
+
+
+*********** # 24 **************
+PokerStars Hand #214989047362: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:19:20 ET
+Table '2928160996 4' 9-max Seat #9 is the button
+Seat 1: Uckeham (1379 in chips)
+Seat 2: schu1986 (1412 in chips)
+Seat 3: elketefuka (1388 in chips)
+Seat 4: Vova Estonec (3308 in chips)
+Seat 5: Gepard1102 (1871 in chips)
+Seat 6: catalo331 (2518 in chips)
+Seat 7: Slaterkiller (3147 in chips)
+Seat 8: CondNeiko (1654 in chips)
+Seat 9: Real trnsfrm (1699 in chips)
+Uckeham: posts the ante 4
+schu1986: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+Slaterkiller: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+Uckeham: posts small blind 15
+schu1986: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh Ad]
+elketefuka: raises 60 to 90
+Vova Estonec: folds
+Gepard1102: calls 90
+catalo331: calls 90
+Slaterkiller: folds
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+schu1986: calls 60
+*** FLOP *** [7s Qc 4c]
+schu1986: checks
+elketefuka: checks
+Gepard1102: checks
+catalo331: bets 150
+schu1986: calls 150
+elketefuka: calls 150
+Gepard1102: folds
+*** TURN *** [7s Qc 4c] [As]
+schu1986: checks
+elketefuka: bets 431
+catalo331: folds
+schu1986: calls 431
+*** RIVER *** [7s Qc 4c As] [Ks]
+schu1986: bets 737 and is all-in
+elketefuka: calls 713 and is all-in
+Uncalled bet (24) returned to schu1986
+*** SHOW DOWN ***
+schu1986: shows [7c 9c] (a pair of Sevens)
+elketefuka: shows [Kh Ad] (two pair, Aces and Kings)
+elketefuka collected 3149 from pot
+*** SUMMARY ***
+Total pot 3149 | Rake 0
+Board [7s Qc 4c As Ks]
+Seat 1: Uckeham (small blind) folded before Flop
+Seat 2: schu1986 (big blind) showed [7c 9c] and lost with a pair of Sevens
+Seat 3: elketefuka showed [Kh Ad] and won (3149) with two pair, Aces and Kings
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded on the Flop
+Seat 6: catalo331 folded on the Turn
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm (button) folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #214989099415: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 12:20:41 ET
+Table '2928160996 4' 9-max Seat #1 is the button
+Seat 1: Uckeham (1360 in chips)
+Seat 2: schu1986 (24 in chips)
+Seat 3: elketefuka (3149 in chips)
+Seat 4: Vova Estonec (3304 in chips)
+Seat 5: Gepard1102 (1777 in chips)
+Seat 6: catalo331 (2274 in chips)
+Seat 7: Slaterkiller (3143 in chips)
+Seat 8: CondNeiko (1650 in chips)
+Seat 9: Real trnsfrm (1695 in chips)
+Uckeham: posts the ante 4
+schu1986: posts the ante 4
+elketefuka: posts the ante 4
+Vova Estonec: posts the ante 4
+Gepard1102: posts the ante 4
+catalo331: posts the ante 4
+Slaterkiller: posts the ante 4
+CondNeiko: posts the ante 4
+Real trnsfrm: posts the ante 4
+schu1986: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [6d Qs]
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: calls 30
+Slaterkiller: folds
+CondNeiko: raises 90 to 120
+Real trnsfrm: folds
+Uckeham: folds
+schu1986: calls 5 and is all-in
+elketefuka: folds
+catalo331: calls 90
+*** FLOP *** [Tc 3d 4h]
+catalo331: checks
+CondNeiko: bets 179
+catalo331: calls 179
+*** TURN *** [Tc 3d 4h] [8d]
+catalo331: checks
+CondNeiko: checks
+*** RIVER *** [Tc 3d 4h 8d] [9c]
+catalo331: bets 360
+CondNeiko: folds
+Uncalled bet (360) returned to catalo331
+*** SHOW DOWN ***
+catalo331: shows [5d 6s] (high card Ten)
+catalo331 collected 568 from side pot
+schu1986: shows [Jh 8h] (a pair of Eights)
+schu1986 collected 116 from main pot
+*** SUMMARY ***
+Total pot 684 Main pot 116. Side pot 568. | Rake 0
+Board [Tc 3d 4h 8d 9c]
+Seat 1: Uckeham (button) folded before Flop (didn't bet)
+Seat 2: schu1986 (small blind) showed [Jh 8h] and won (116) with a pair of Eights
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 showed [5d 6s] and won (568) with high card Ten
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: CondNeiko folded on the River
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #214989134922: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:21:35 ET
+Table '2928160996 4' 9-max Seat #2 is the button
+Seat 1: Uckeham (1356 in chips)
+Seat 2: schu1986 (116 in chips)
+Seat 3: elketefuka (3115 in chips)
+Seat 4: Vova Estonec (3300 in chips)
+Seat 5: Gepard1102 (1773 in chips)
+Seat 6: catalo331 (2539 in chips)
+Seat 7: Slaterkiller (3139 in chips)
+Seat 8: CondNeiko (1347 in chips)
+Seat 9: Real trnsfrm (1691 in chips)
+Uckeham: posts the ante 6
+schu1986: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+CondNeiko: posts the ante 6
+Real trnsfrm: posts the ante 6
+elketefuka: posts small blind 25
+Vova Estonec: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 3s]
+Gepard1102: folds
+catalo331: folds
+Slaterkiller: raises 60 to 110
+CondNeiko: folds
+Real trnsfrm: folds
+Uckeham: folds
+schu1986: calls 110 and is all-in
+elketefuka: folds
+Vova Estonec: calls 60
+*** FLOP *** [4s Qd Jh]
+Vova Estonec: bets 200
+Slaterkiller: calls 200
+*** TURN *** [4s Qd Jh] [Kd]
+Vova Estonec: bets 400
+Slaterkiller: calls 400
+*** RIVER *** [4s Qd Jh Kd] [Tc]
+Vova Estonec: checks
+Slaterkiller: bets 1609
+Vova Estonec: folds
+Uncalled bet (1609) returned to Slaterkiller
+*** SHOW DOWN ***
+Slaterkiller: shows [Kc As] (a straight, Ten to Ace)
+Slaterkiller collected 1200 from side pot
+schu1986: shows [Kh Ah] (a straight, Ten to Ace)
+Slaterkiller collected 205 from main pot
+schu1986 collected 204 from main pot
+*** SUMMARY ***
+Total pot 1609 Main pot 409. Side pot 1200. | Rake 0
+Board [4s Qd Jh Kd Tc]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: schu1986 (button) showed [Kh Ah] and won (204) with a straight, Ten to Ace
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: Vova Estonec (big blind) folded on the River
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: Slaterkiller showed [Kc As] and won (1405) with a straight, Ten to Ace
+Seat 8: CondNeiko folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #214989162968: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:22:19 ET
+Table '2928160996 4' 9-max Seat #3 is the button
+Seat 1: Uckeham (1350 in chips)
+Seat 2: schu1986 (204 in chips)
+Seat 3: elketefuka (3084 in chips)
+Seat 4: Vova Estonec (2584 in chips)
+Seat 5: Gepard1102 (1767 in chips)
+Seat 6: catalo331 (2533 in chips)
+Seat 7: Slaterkiller (3828 in chips)
+Seat 9: Real trnsfrm (1685 in chips)
+Uckeham: posts the ante 6
+schu1986: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+Real trnsfrm: posts the ante 6
+Vova Estonec: posts small blind 25
+Gepard1102: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc 6d]
+catalo331: folds
+Slaterkiller: raises 60 to 110
+Real trnsfrm: folds
+Uckeham: folds
+schu1986: raises 88 to 198 and is all-in
+elketefuka: folds
+Vova Estonec: calls 173
+Gepard1102: calls 148
+Slaterkiller: calls 88
+*** FLOP *** [3s 3c 5h]
+Vova Estonec: checks
+Gepard1102: bets 50
+Slaterkiller: calls 50
+Vova Estonec: calls 50
+*** TURN *** [3s 3c 5h] [3h]
+Vova Estonec: checks
+Gepard1102: bets 990
+Slaterkiller: folds
+Vova Estonec: folds
+Uncalled bet (990) returned to Gepard1102
+*** RIVER *** [3s 3c 5h 3h] [2s]
+*** SHOW DOWN ***
+Gepard1102: shows [4c 4h] (a full house, Threes full of Fours)
+Gepard1102 collected 150 from side pot
+schu1986: shows [Jh Qs] (three of a kind, Threes)
+Gepard1102 collected 840 from main pot
+schu1986 finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 990 Main pot 840. Side pot 150. | Rake 0
+Board [3s 3c 5h 3h 2s]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: schu1986 showed [Jh Qs] and lost with three of a kind, Threes
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: Vova Estonec (small blind) folded on the Turn
+Seat 5: Gepard1102 (big blind) showed [4c 4h] and won (990) with a full house, Threes full of Fours
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: Slaterkiller folded on the Turn
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 28 **************
+PokerStars Hand #214989216401: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:23:43 ET
+Table '2928160996 4' 9-max Seat #4 is the button
+Seat 1: Uckeham (1344 in chips)
+Seat 3: elketefuka (3078 in chips)
+Seat 4: Vova Estonec (2330 in chips)
+Seat 5: Gepard1102 (2503 in chips)
+Seat 6: catalo331 (2527 in chips)
+Seat 7: Slaterkiller (3574 in chips)
+Seat 9: Real trnsfrm (1679 in chips)
+Uckeham: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+Real trnsfrm: posts the ante 6
+Gepard1102: posts small blind 25
+catalo331: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Tc]
+Slaterkiller: folds
+Real trnsfrm: calls 50
+Uckeham: folds
+elketefuka: raises 50 to 100
+Vova Estonec: calls 100
+Gepard1102: folds
+catalo331: folds
+Real trnsfrm: calls 50
+*** FLOP *** [Ah 6h 3s]
+Real trnsfrm: bets 417
+elketefuka: folds
+Vova Estonec: folds
+Uncalled bet (417) returned to Real trnsfrm
+Real trnsfrm collected 417 from pot
+Real trnsfrm: doesn't show hand
+*** SUMMARY ***
+Total pot 417 | Rake 0
+Board [Ah 6h 3s]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded on the Flop
+Seat 4: Vova Estonec (button) folded on the Flop
+Seat 5: Gepard1102 (small blind) folded before Flop
+Seat 6: catalo331 (big blind) folded before Flop
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 9: Real trnsfrm collected (417)
+
+
+*********** # 29 **************
+PokerStars Hand #214989251475: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:24:38 ET
+Table '2928160996 4' 9-max Seat #5 is the button
+Seat 1: Uckeham (1338 in chips)
+Seat 3: elketefuka (2972 in chips)
+Seat 4: Vova Estonec (2224 in chips)
+Seat 5: Gepard1102 (2472 in chips)
+Seat 6: catalo331 (2471 in chips)
+Seat 7: Slaterkiller (3568 in chips)
+Seat 9: Real trnsfrm (1990 in chips)
+Uckeham: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+Real trnsfrm: posts the ante 6
+catalo331: posts small blind 25
+Slaterkiller: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2h 6h]
+Real trnsfrm: calls 50
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: calls 50
+catalo331: raises 50 to 100
+Slaterkiller: folds
+Real trnsfrm: calls 50
+Gepard1102: calls 50
+*** FLOP *** [Qd 5s Ad]
+catalo331: bets 100
+Real trnsfrm: calls 100
+Gepard1102: calls 100
+*** TURN *** [Qd 5s Ad] [3h]
+catalo331: bets 400
+Real trnsfrm: folds
+Gepard1102: calls 400
+*** RIVER *** [Qd 5s Ad 3h] [3s]
+catalo331: bets 1865 and is all-in
+Gepard1102: folds
+Uncalled bet (1865) returned to catalo331
+catalo331 collected 1492 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 1492 | Rake 0
+Board [Qd 5s Ad 3h 3s]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 (button) folded on the River
+Seat 6: catalo331 (small blind) collected (1492)
+Seat 7: Slaterkiller (big blind) folded before Flop
+Seat 9: Real trnsfrm folded on the Turn
+
+
+*********** # 30 **************
+PokerStars Hand #214989307250: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:26:04 ET
+Table '2928160996 4' 9-max Seat #6 is the button
+Seat 1: Uckeham (1332 in chips)
+Seat 3: elketefuka (2966 in chips)
+Seat 4: Vova Estonec (2218 in chips)
+Seat 5: Gepard1102 (1866 in chips)
+Seat 6: catalo331 (3357 in chips)
+Seat 7: Slaterkiller (3512 in chips)
+Seat 9: Real trnsfrm (1784 in chips)
+Uckeham: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+Real trnsfrm: posts the ante 6
+Slaterkiller: posts small blind 25
+Real trnsfrm: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [5c 6d]
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: raises 50 to 100
+Slaterkiller: folds
+Real trnsfrm: calls 50
+*** FLOP *** [Ac 2s 4h]
+Real trnsfrm: checks
+catalo331: bets 150
+Real trnsfrm: raises 1528 to 1678 and is all-in
+catalo331: folds
+Uncalled bet (1528) returned to Real trnsfrm
+Real trnsfrm collected 567 from pot
+Real trnsfrm: doesn't show hand
+*** SUMMARY ***
+Total pot 567 | Rake 0
+Board [Ac 2s 4h]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 (button) folded on the Flop
+Seat 7: Slaterkiller (small blind) folded before Flop
+Seat 9: Real trnsfrm (big blind) collected (567)
+
+
+*********** # 31 **************
+PokerStars Hand #214989341925: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:26:56 ET
+Table '2928160996 4' 9-max Seat #7 is the button
+Seat 1: Uckeham (1326 in chips)
+Seat 3: elketefuka (2960 in chips)
+Seat 4: Vova Estonec (2212 in chips)
+Seat 5: Gepard1102 (1860 in chips)
+Seat 6: catalo331 (3101 in chips)
+Seat 7: Slaterkiller (3481 in chips)
+Seat 9: Real trnsfrm (2095 in chips)
+Uckeham: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+Real trnsfrm: posts the ante 6
+Real trnsfrm: posts small blind 25
+Uckeham: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2h Jc]
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: folds
+Slaterkiller: raises 60 to 110
+Real trnsfrm: calls 85
+Uckeham: calls 60
+*** FLOP *** [Ts Tc Ac]
+Real trnsfrm: checks
+Uckeham: checks
+Slaterkiller: bets 242
+Real trnsfrm: raises 1737 to 1979 and is all-in
+Uckeham: folds
+Slaterkiller: folds
+Uncalled bet (1737) returned to Real trnsfrm
+Real trnsfrm collected 856 from pot
+*** SUMMARY ***
+Total pot 856 | Rake 0
+Board [Ts Tc Ac]
+Seat 1: Uckeham (big blind) folded on the Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: Slaterkiller (button) folded on the Flop
+Seat 9: Real trnsfrm (small blind) collected (856)
+
+
+*********** # 32 **************
+PokerStars Hand #214989400216: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:28:14 ET
+Table '2928160996 4' 9-max Seat #9 is the button
+Seat 1: Uckeham (1210 in chips)
+Seat 2: Tabletos1551 (3087 in chips)
+Seat 3: elketefuka (2954 in chips)
+Seat 4: Vova Estonec (2206 in chips)
+Seat 5: Gepard1102 (1854 in chips)
+Seat 6: catalo331 (3095 in chips)
+Seat 7: Slaterkiller (3123 in chips)
+Seat 8: rfvalis (3393 in chips)
+Seat 9: Real trnsfrm (2593 in chips)
+Uckeham: posts the ante 6
+Tabletos1551: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+rfvalis: posts the ante 6
+Real trnsfrm: posts the ante 6
+Uckeham: posts small blind 25
+Tabletos1551: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 8h]
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: folds
+Slaterkiller: folds
+rfvalis: calls 50
+Real trnsfrm: calls 50
+Uckeham: raises 1154 to 1204 and is all-in
+Tabletos1551: folds
+rfvalis: folds
+Real trnsfrm: calls 1154
+*** FLOP *** [8d 6h 3c]
+*** TURN *** [8d 6h 3c] [Js]
+*** RIVER *** [8d 6h 3c Js] [Td]
+*** SHOW DOWN ***
+Uckeham: shows [Th Ts] (three of a kind, Tens)
+Real trnsfrm: shows [Jd Ac] (a pair of Jacks)
+Uckeham collected 2562 from pot
+*** SUMMARY ***
+Total pot 2562 | Rake 0
+Board [8d 6h 3c Js Td]
+Seat 1: Uckeham (small blind) showed [Th Ts] and won (2562) with three of a kind, Tens
+Seat 2: Tabletos1551 (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop
+Seat 9: Real trnsfrm (button) showed [Jd Ac] and lost with a pair of Jacks
+
+
+*********** # 33 **************
+PokerStars Hand #214989429080: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:28:58 ET
+Table '2928160996 4' 9-max Seat #1 is the button
+Seat 1: Uckeham (2562 in chips)
+Seat 2: Tabletos1551 (3031 in chips)
+Seat 3: elketefuka (2948 in chips)
+Seat 4: Vova Estonec (2200 in chips)
+Seat 5: Gepard1102 (1848 in chips)
+Seat 6: catalo331 (3089 in chips)
+Seat 7: Slaterkiller (3117 in chips)
+Seat 8: rfvalis (3337 in chips)
+Seat 9: Real trnsfrm (1383 in chips)
+Uckeham: posts the ante 6
+Tabletos1551: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+rfvalis: posts the ante 6
+Real trnsfrm: posts the ante 6
+Tabletos1551: posts small blind 25
+elketefuka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [4c Jc]
+Vova Estonec: folds
+Gepard1102: folds
+catalo331: raises 50 to 100
+Slaterkiller: folds
+rfvalis: folds
+Real trnsfrm: calls 100
+Uckeham: folds
+Tabletos1551: folds
+elketefuka: calls 50
+*** FLOP *** [3c Qc 7c]
+elketefuka: checks
+catalo331: bets 250
+Real trnsfrm: folds
+elketefuka: calls 250
+*** TURN *** [3c Qc 7c] [4s]
+elketefuka: checks
+catalo331: bets 250
+elketefuka: calls 250
+*** RIVER *** [3c Qc 7c 4s] [Ad]
+elketefuka: checks
+catalo331: checks
+*** SHOW DOWN ***
+elketefuka: shows [4c Jc] (a flush, Queen high)
+catalo331: mucks hand
+elketefuka collected 1379 from pot
+*** SUMMARY ***
+Total pot 1379 | Rake 0
+Board [3c Qc 7c 4s Ad]
+Seat 1: Uckeham (button) folded before Flop (didn't bet)
+Seat 2: Tabletos1551 (small blind) folded before Flop
+Seat 3: elketefuka (big blind) showed [4c Jc] and won (1379) with a flush, Queen high
+Seat 4: Vova Estonec folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 mucked [Qh Tc]
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded on the Flop
+
+
+*********** # 34 **************
+PokerStars Hand #214989464333: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:29:52 ET
+Table '2928160996 4' 9-max Seat #2 is the button
+Seat 1: Uckeham (2556 in chips)
+Seat 2: Tabletos1551 (3000 in chips)
+Seat 3: elketefuka (3721 in chips)
+Seat 4: Vova Estonec (2194 in chips)
+Seat 5: Gepard1102 (1842 in chips)
+Seat 6: catalo331 (2483 in chips)
+Seat 7: Slaterkiller (3111 in chips)
+Seat 8: rfvalis (3331 in chips)
+Seat 9: Real trnsfrm (1277 in chips)
+Uckeham: posts the ante 6
+Tabletos1551: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+rfvalis: posts the ante 6
+Real trnsfrm: posts the ante 6
+elketefuka: posts small blind 25
+Vova Estonec: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [9h Jd]
+Gepard1102: folds
+catalo331: calls 50
+Slaterkiller: folds
+rfvalis: folds
+Real trnsfrm: folds
+Uckeham: folds
+Tabletos1551: folds
+elketefuka: folds
+Vova Estonec: checks
+*** FLOP *** [6s Qc Kc]
+Vova Estonec: checks
+catalo331: checks
+*** TURN *** [6s Qc Kc] [2c]
+Vova Estonec: checks
+catalo331: checks
+*** RIVER *** [6s Qc Kc 2c] [7s]
+Vova Estonec: checks
+catalo331: checks
+*** SHOW DOWN ***
+Vova Estonec: shows [3s 7c] (a pair of Sevens)
+catalo331: mucks hand
+Vova Estonec collected 179 from pot
+*** SUMMARY ***
+Total pot 179 | Rake 0
+Board [6s Qc Kc 2c 7s]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Tabletos1551 (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: Vova Estonec (big blind) showed [3s 7c] and won (179) with a pair of Sevens
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 mucked [6h 3h]
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 35 **************
+PokerStars Hand #214989495806: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/06 12:30:39 ET
+Table '2928160996 4' 9-max Seat #3 is the button
+Seat 1: Uckeham (2550 in chips)
+Seat 2: Tabletos1551 (2994 in chips)
+Seat 3: elketefuka (3690 in chips)
+Seat 4: Vova Estonec (2317 in chips)
+Seat 5: Gepard1102 (1836 in chips)
+Seat 6: catalo331 (2427 in chips)
+Seat 7: Slaterkiller (3105 in chips)
+Seat 8: rfvalis (3325 in chips)
+Seat 9: Real trnsfrm (1271 in chips)
+Uckeham: posts the ante 6
+Tabletos1551: posts the ante 6
+elketefuka: posts the ante 6
+Vova Estonec: posts the ante 6
+Gepard1102: posts the ante 6
+catalo331: posts the ante 6
+Slaterkiller: posts the ante 6
+rfvalis: posts the ante 6
+Real trnsfrm: posts the ante 6
+Vova Estonec: posts small blind 25
+Gepard1102: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2d 7s]
+catalo331: raises 50 to 100
+Slaterkiller: folds
+rfvalis: calls 100
+Real trnsfrm: folds
+Uckeham: folds
+Tabletos1551: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: calls 50
+*** FLOP *** [3d Th 6h]
+Gepard1102: checks
+catalo331: bets 200
+rfvalis: calls 200
+Gepard1102: calls 200
+*** TURN *** [3d Th 6h] [4c]
+Gepard1102: checks
+catalo331: bets 2121 and is all-in
+rfvalis: folds
+Gepard1102: folds
+Uncalled bet (2121) returned to catalo331
+catalo331 collected 979 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 979 | Rake 0
+Board [3d Th 6h 4c]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 2: Tabletos1551 folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: Vova Estonec (small blind) folded before Flop
+Seat 5: Gepard1102 (big blind) folded on the Turn
+Seat 6: catalo331 collected (979)
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: rfvalis folded on the Turn
+Seat 9: Real trnsfrm folded before Flop (didn't bet)
+
+
+*********** # 36 **************
+PokerStars Hand #214989540614: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:31:47 ET
+Table '2928160996 4' 9-max Seat #4 is the button
+Seat 1: Uckeham (2544 in chips)
+Seat 3: elketefuka (3684 in chips)
+Seat 4: Vova Estonec (2286 in chips)
+Seat 5: Gepard1102 (1530 in chips)
+Seat 6: catalo331 (3100 in chips)
+Seat 7: Slaterkiller (3099 in chips)
+Seat 8: rfvalis (3019 in chips)
+Seat 9: Real trnsfrm (1265 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Vova Estonec: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+Slaterkiller: posts the ante 10
+rfvalis: posts the ante 10
+Real trnsfrm: posts the ante 10
+Gepard1102: posts small blind 40
+catalo331: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8c Ks]
+Slaterkiller: folds
+rfvalis: folds
+Real trnsfrm: raises 80 to 160
+Uckeham: folds
+elketefuka: folds
+Vova Estonec: folds
+Gepard1102: calls 120
+catalo331: folds
+*** FLOP *** [Td 5h 4d]
+Gepard1102: bets 480
+Real trnsfrm: raises 615 to 1095 and is all-in
+Gepard1102: calls 615
+*** TURN *** [Td 5h 4d] [Js]
+*** RIVER *** [Td 5h 4d Js] [2c]
+*** SHOW DOWN ***
+Gepard1102: shows [Ts As] (a pair of Tens)
+Real trnsfrm: shows [Tc 9h] (a pair of Tens - lower kicker)
+Gepard1102 collected 2670 from pot
+Real trnsfrm finished the tournament in 25th place
+*** SUMMARY ***
+Total pot 2670 | Rake 0
+Board [Td 5h 4d Js 2c]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: Vova Estonec (button) folded before Flop (didn't bet)
+Seat 5: Gepard1102 (small blind) showed [Ts As] and won (2670) with a pair of Tens
+Seat 6: catalo331 (big blind) folded before Flop
+Seat 7: Slaterkiller folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: Real trnsfrm showed [Tc 9h] and lost with a pair of Tens
+
+
+*********** # 37 **************
+PokerStars Hand #214989571907: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:32:34 ET
+Table '2928160996 4' 9-max Seat #5 is the button
+Seat 1: Uckeham (2534 in chips)
+Seat 3: elketefuka (3674 in chips)
+Seat 4: Vova Estonec (2276 in chips)
+Seat 5: Gepard1102 (2935 in chips)
+Seat 6: catalo331 (3010 in chips)
+Seat 7: Slaterkiller (3089 in chips)
+Seat 8: rfvalis (3009 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Vova Estonec: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+Slaterkiller: posts the ante 10
+rfvalis: posts the ante 10
+catalo331: posts small blind 40
+Slaterkiller: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Jh]
+rfvalis: calls 80
+Uckeham: folds
+elketefuka: calls 80
+Vova Estonec: raises 160 to 240
+Gepard1102: folds
+catalo331: folds
+Slaterkiller: calls 160
+rfvalis: calls 160
+elketefuka: folds
+*** FLOP *** [Ac 7s Jc]
+Slaterkiller: checks
+rfvalis: checks
+Vova Estonec: bets 480
+Slaterkiller: folds
+rfvalis: calls 480
+*** TURN *** [Ac 7s Jc] [6s]
+rfvalis: checks
+Vova Estonec: bets 1546 and is all-in
+rfvalis: calls 1546
+*** RIVER *** [Ac 7s Jc 6s] [2c]
+*** SHOW DOWN ***
+rfvalis: shows [Ah 5d] (a pair of Aces)
+Vova Estonec: shows [Kh Js] (a pair of Jacks)
+rfvalis collected 4962 from pot
+Vova Estonec finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 4962 | Rake 0
+Board [Ac 7s Jc 6s 2c]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop
+Seat 4: Vova Estonec showed [Kh Js] and lost with a pair of Jacks
+Seat 5: Gepard1102 (button) folded before Flop (didn't bet)
+Seat 6: catalo331 (small blind) folded before Flop
+Seat 7: Slaterkiller (big blind) folded on the Flop
+Seat 8: rfvalis showed [Ah 5d] and won (4962) with a pair of Aces
+
+
+*********** # 38 **************
+PokerStars Hand #214989639384: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:34:15 ET
+Table '2928160996 4' 9-max Seat #6 is the button
+Seat 1: Uckeham (2524 in chips)
+Seat 3: elketefuka (3584 in chips)
+Seat 5: Gepard1102 (2925 in chips)
+Seat 6: catalo331 (2960 in chips)
+Seat 7: Slaterkiller (2839 in chips)
+Seat 8: rfvalis (5695 in chips)
+Seat 9: ScorpionTeamPro (2864 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+Slaterkiller: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+Slaterkiller: posts small blind 40
+rfvalis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Jh 4h]
+ScorpionTeamPro: raises 96 to 176
+Uckeham: folds
+elketefuka: folds
+Gepard1102: calls 176
+catalo331: folds
+Slaterkiller: raises 678 to 854
+rfvalis: folds
+ScorpionTeamPro: folds
+Gepard1102: calls 678
+*** FLOP *** [7h 2h 5h]
+Slaterkiller: checks
+Gepard1102: bets 2061 and is all-in
+Slaterkiller: calls 1975 and is all-in
+Uncalled bet (86) returned to Gepard1102
+*** TURN *** [7h 2h 5h] [5s]
+*** RIVER *** [7h 2h 5h 5s] [Qs]
+*** SHOW DOWN ***
+Slaterkiller: shows [Ac Jd] (a pair of Fives)
+Gepard1102: shows [Ts Td] (two pair, Tens and Fives)
+Gepard1102 collected 5984 from pot
+Slaterkiller finished the tournament in 23rd place
+*** SUMMARY ***
+Total pot 5984 | Rake 0
+Board [7h 2h 5h 5s Qs]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Gepard1102 showed [Ts Td] and won (5984) with two pair, Tens and Fives
+Seat 6: catalo331 (button) folded before Flop (didn't bet)
+Seat 7: Slaterkiller (small blind) showed [Ac Jd] and lost with a pair of Fives
+Seat 8: rfvalis (big blind) folded before Flop
+Seat 9: ScorpionTeamPro folded before Flop
+
+
+*********** # 39 **************
+PokerStars Hand #214989671480: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:35:03 ET
+Table '2928160996 4' 9-max Seat #8 is the button
+Seat 1: Uckeham (2514 in chips)
+Seat 3: elketefuka (3574 in chips)
+Seat 5: Gepard1102 (6070 in chips)
+Seat 6: catalo331 (2950 in chips)
+Seat 8: rfvalis (5605 in chips)
+Seat 9: ScorpionTeamPro (2678 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+ScorpionTeamPro: posts small blind 40
+Uckeham: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 3c]
+elketefuka: folds
+Gepard1102: calls 80
+catalo331: calls 80
+rfvalis: calls 80
+ScorpionTeamPro: folds
+Uckeham: checks
+*** FLOP *** [2c 4d 3s]
+Uckeham: checks
+Gepard1102: checks
+catalo331: checks
+rfvalis: bets 160
+Uckeham: folds
+Gepard1102: calls 160
+catalo331: folds
+*** TURN *** [2c 4d 3s] [7h]
+Gepard1102: bets 80
+rfvalis: calls 80
+*** RIVER *** [2c 4d 3s 7h] [Td]
+Gepard1102: checks
+rfvalis: checks
+*** SHOW DOWN ***
+Gepard1102: shows [8s Ac] (high card Ace)
+rfvalis: shows [7d Ah] (a pair of Sevens)
+rfvalis collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0
+Board [2c 4d 3s 7h Td]
+Seat 1: Uckeham (big blind) folded on the Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Gepard1102 showed [8s Ac] and lost with high card Ace
+Seat 6: catalo331 folded on the Flop
+Seat 8: rfvalis (button) showed [7d Ah] and won (900) with a pair of Sevens
+Seat 9: ScorpionTeamPro (small blind) folded before Flop
+
+
+*********** # 40 **************
+PokerStars Hand #214989709583: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:36:00 ET
+Table '2928160996 4' 9-max Seat #9 is the button
+Seat 1: Uckeham (2424 in chips)
+Seat 3: elketefuka (3564 in chips)
+Seat 5: Gepard1102 (5740 in chips)
+Seat 6: catalo331 (2860 in chips)
+Seat 7: GusGago (3185 in chips)
+Seat 8: rfvalis (6175 in chips)
+Seat 9: ScorpionTeamPro (2628 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+GusGago: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+Uckeham: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [5h Ah]
+Gepard1102: calls 80
+catalo331: calls 80
+GusGago: raises 240 to 320
+rfvalis: folds
+ScorpionTeamPro: folds
+Uckeham: folds
+elketefuka: calls 240
+Gepard1102: calls 240
+catalo331: calls 240
+*** FLOP *** [5c 7h Tc]
+elketefuka: checks
+Gepard1102: bets 80
+catalo331: raises 2450 to 2530 and is all-in
+GusGago: folds
+elketefuka: folds
+Gepard1102: folds
+Uncalled bet (2450) returned to catalo331
+catalo331 collected 1550 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 1550 | Rake 0
+Board [5c 7h Tc]
+Seat 1: Uckeham (small blind) folded before Flop
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: Gepard1102 folded on the Flop
+Seat 6: catalo331 collected (1550)
+Seat 7: GusGago folded on the Flop
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: ScorpionTeamPro (button) folded before Flop (didn't bet)
+
+
+*********** # 41 **************
+PokerStars Hand #214989769910: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:37:31 ET
+Table '2928160996 4' 9-max Seat #1 is the button
+Seat 1: Uckeham (2374 in chips)
+Seat 3: elketefuka (3234 in chips)
+Seat 5: Gepard1102 (5330 in chips)
+Seat 6: catalo331 (4000 in chips)
+Seat 7: GusGago (2855 in chips)
+Seat 8: rfvalis (6165 in chips)
+Seat 9: ScorpionTeamPro (2618 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+GusGago: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+elketefuka: posts small blind 40
+Gepard1102: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [2s Jd]
+catalo331: folds
+GusGago: folds
+rfvalis: calls 80
+ScorpionTeamPro: raises 160 to 240
+Uckeham: folds
+elketefuka: folds
+Gepard1102: folds
+rfvalis: calls 160
+*** FLOP *** [Ts 2h Js]
+rfvalis: checks
+ScorpionTeamPro: checks
+*** TURN *** [Ts 2h Js] [4s]
+rfvalis: bets 160
+ScorpionTeamPro: folds
+Uncalled bet (160) returned to rfvalis
+rfvalis collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0
+Board [Ts 2h Js 4s]
+Seat 1: Uckeham (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: Gepard1102 (big blind) folded before Flop
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: GusGago folded before Flop (didn't bet)
+Seat 8: rfvalis collected (670)
+Seat 9: ScorpionTeamPro folded on the Turn
+
+
+*********** # 42 **************
+PokerStars Hand #214989812553: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:38:36 ET
+Table '2928160996 4' 9-max Seat #3 is the button
+Seat 1: Uckeham (2364 in chips)
+Seat 3: elketefuka (3184 in chips)
+Seat 5: Gepard1102 (5240 in chips)
+Seat 6: catalo331 (3990 in chips)
+Seat 7: GusGago (2845 in chips)
+Seat 8: rfvalis (6585 in chips)
+Seat 9: ScorpionTeamPro (2368 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+GusGago: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+Gepard1102: posts small blind 40
+catalo331: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 4h]
+GusGago: folds
+rfvalis: folds
+ScorpionTeamPro: folds
+Uckeham: raises 104 to 184
+elketefuka: folds
+Gepard1102: calls 144
+catalo331: folds
+*** FLOP *** [5c 6s 4d]
+Gepard1102: bets 5046 and is all-in
+Uckeham: folds
+Uncalled bet (5046) returned to Gepard1102
+Gepard1102 collected 518 from pot
+Gepard1102: doesn't show hand
+*** SUMMARY ***
+Total pot 518 | Rake 0
+Board [5c 6s 4d]
+Seat 1: Uckeham folded on the Flop
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 5: Gepard1102 (small blind) collected (518)
+Seat 6: catalo331 (big blind) folded before Flop
+Seat 7: GusGago folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: ScorpionTeamPro folded before Flop (didn't bet)
+
+
+*********** # 43 **************
+PokerStars Hand #214989832337: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:39:05 ET
+Table '2928160996 4' 9-max Seat #5 is the button
+Seat 1: Uckeham (2170 in chips)
+Seat 3: elketefuka (3174 in chips)
+Seat 5: Gepard1102 (5564 in chips)
+Seat 6: catalo331 (3900 in chips)
+Seat 7: GusGago (2835 in chips)
+Seat 8: rfvalis (6575 in chips)
+Seat 9: ScorpionTeamPro (2358 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+GusGago: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+catalo331: posts small blind 40
+GusGago: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 3s]
+rfvalis: folds
+ScorpionTeamPro: folds
+Uckeham: raises 104 to 184
+elketefuka: folds
+Gepard1102: calls 184
+catalo331: folds
+GusGago: folds
+*** FLOP *** [9h Jc Ac]
+Uckeham: bets 195
+Gepard1102: folds
+Uncalled bet (195) returned to Uckeham
+Uckeham collected 558 from pot
+Uckeham: doesn't show hand
+*** SUMMARY ***
+Total pot 558 | Rake 0
+Board [9h Jc Ac]
+Seat 1: Uckeham collected (558)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Gepard1102 (button) folded on the Flop
+Seat 6: catalo331 (small blind) folded before Flop
+Seat 7: GusGago (big blind) folded before Flop
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: ScorpionTeamPro folded before Flop (didn't bet)
+
+
+*********** # 44 **************
+PokerStars Hand #214989862328: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:39:51 ET
+Table '2928160996 4' 9-max Seat #6 is the button
+Seat 1: Uckeham (2534 in chips)
+Seat 3: elketefuka (3164 in chips)
+Seat 5: Gepard1102 (5370 in chips)
+Seat 6: catalo331 (3850 in chips)
+Seat 7: GusGago (2745 in chips)
+Seat 8: rfvalis (6565 in chips)
+Seat 9: ScorpionTeamPro (2348 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+GusGago: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+GusGago: posts small blind 40
+rfvalis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 8d]
+ScorpionTeamPro: folds
+Uckeham: folds
+elketefuka: raises 160 to 240
+Gepard1102: folds
+catalo331: folds
+GusGago: folds
+rfvalis: calls 160
+*** FLOP *** [Qc Ac 2s]
+rfvalis: checks
+elketefuka: bets 295
+rfvalis: calls 295
+*** TURN *** [Qc Ac 2s] [3s]
+rfvalis: checks
+elketefuka: checks
+*** RIVER *** [Qc Ac 2s 3s] [5s]
+rfvalis: bets 80
+elketefuka: calls 80
+*** SHOW DOWN ***
+rfvalis: shows [Ts Qs] (a flush, Queen high)
+elketefuka: mucks hand
+rfvalis collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | Rake 0
+Board [Qc Ac 2s 3s 5s]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka mucked [8c 8d]
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 (button) folded before Flop (didn't bet)
+Seat 7: GusGago (small blind) folded before Flop
+Seat 8: rfvalis (big blind) showed [Ts Qs] and won (1340) with a flush, Queen high
+Seat 9: ScorpionTeamPro folded before Flop (didn't bet)
+
+
+*********** # 45 **************
+PokerStars Hand #214989899986: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:40:48 ET
+Table '2928160996 4' 9-max Seat #7 is the button
+Seat 1: Uckeham (2524 in chips)
+Seat 3: elketefuka (2539 in chips)
+Seat 5: Gepard1102 (5360 in chips)
+Seat 6: catalo331 (3840 in chips)
+Seat 7: GusGago (2695 in chips)
+Seat 8: rfvalis (7280 in chips)
+Seat 9: ScorpionTeamPro (2338 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+GusGago: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+rfvalis: posts small blind 40
+ScorpionTeamPro: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts Td]
+Uckeham: folds
+elketefuka: raises 160 to 240
+Gepard1102: folds
+catalo331: folds
+GusGago: folds
+rfvalis: folds
+ScorpionTeamPro: folds
+Uncalled bet (160) returned to elketefuka
+elketefuka collected 270 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 270 | Rake 0
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 3: elketefuka collected (270)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: GusGago (button) folded before Flop (didn't bet)
+Seat 8: rfvalis (small blind) folded before Flop
+Seat 9: ScorpionTeamPro (big blind) folded before Flop
+
+
+*********** # 46 **************
+PokerStars Hand #214989916517: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/06 12:41:13 ET
+Table '2928160996 4' 9-max Seat #8 is the button
+Seat 1: Uckeham (2514 in chips)
+Seat 3: elketefuka (2719 in chips)
+Seat 5: Gepard1102 (5350 in chips)
+Seat 6: catalo331 (3830 in chips)
+Seat 7: GusGago (2685 in chips)
+Seat 8: rfvalis (7230 in chips)
+Seat 9: ScorpionTeamPro (2248 in chips)
+Uckeham: posts the ante 10
+elketefuka: posts the ante 10
+Gepard1102: posts the ante 10
+catalo331: posts the ante 10
+GusGago: posts the ante 10
+rfvalis: posts the ante 10
+ScorpionTeamPro: posts the ante 10
+ScorpionTeamPro: posts small blind 40
+Uckeham: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Ac 3c]
+elketefuka: folds
+Gepard1102: folds
+catalo331: calls 80
+GusGago: raises 160 to 240
+rfvalis: folds
+ScorpionTeamPro: folds
+Uckeham: folds
+catalo331: calls 160
+*** FLOP *** [5s 3d 8h]
+catalo331: checks
+GusGago: bets 400
+catalo331: folds
+Uncalled bet (400) returned to GusGago
+GusGago collected 670 from pot
+GusGago: doesn't show hand
+*** SUMMARY ***
+Total pot 670 | Rake 0
+Board [5s 3d 8h]
+Seat 1: Uckeham (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Gepard1102 folded before Flop (didn't bet)
+Seat 6: catalo331 folded on the Flop
+Seat 7: GusGago collected (670)
+Seat 8: rfvalis (button) folded before Flop (didn't bet)
+Seat 9: ScorpionTeamPro (small blind) folded before Flop
+
+
+*********** # 47 **************
+PokerStars Hand #214989946733: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:41:58 ET
+Table '2928160996 4' 9-max Seat #9 is the button
+Seat 1: Uckeham (2424 in chips)
+Seat 3: elketefuka (2709 in chips)
+Seat 5: Gepard1102 (5340 in chips)
+Seat 6: catalo331 (3580 in chips)
+Seat 7: GusGago (3105 in chips)
+Seat 8: rfvalis (7220 in chips)
+Seat 9: ScorpionTeamPro (2198 in chips)
+Uckeham: posts the ante 15
+elketefuka: posts the ante 15
+Gepard1102: posts the ante 15
+catalo331: posts the ante 15
+GusGago: posts the ante 15
+rfvalis: posts the ante 15
+ScorpionTeamPro: posts the ante 15
+Uckeham: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc Ts]
+Gepard1102: calls 120
+catalo331: raises 120 to 240
+GusGago: folds
+rfvalis: folds
+ScorpionTeamPro: folds
+Uckeham: folds
+elketefuka: calls 120
+Gepard1102: calls 120
+*** FLOP *** [3h 3s 4d]
+elketefuka: checks
+Gepard1102: bets 120
+catalo331: raises 600 to 720
+elketefuka: folds
+Gepard1102: folds
+Uncalled bet (600) returned to catalo331
+catalo331 collected 1125 from pot
+catalo331: doesn't show hand
+*** SUMMARY ***
+Total pot 1125 | Rake 0
+Board [3h 3s 4d]
+Seat 1: Uckeham (small blind) folded before Flop
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 5: Gepard1102 folded on the Flop
+Seat 6: catalo331 collected (1125)
+Seat 7: GusGago folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: ScorpionTeamPro (button) folded before Flop (didn't bet)
+
+
+*********** # 48 **************
+PokerStars Hand #214989979287: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:42:47 ET
+Table '2928160996 4' 9-max Seat #1 is the button
+Seat 1: Uckeham (2349 in chips)
+Seat 3: elketefuka (2454 in chips)
+Seat 5: Gepard1102 (4965 in chips)
+Seat 6: catalo331 (4330 in chips)
+Seat 7: GusGago (3090 in chips)
+Seat 8: rfvalis (7205 in chips)
+Seat 9: ScorpionTeamPro (2183 in chips)
+Uckeham: posts the ante 15
+elketefuka: posts the ante 15
+Gepard1102: posts the ante 15
+catalo331: posts the ante 15
+GusGago: posts the ante 15
+rfvalis: posts the ante 15
+ScorpionTeamPro: posts the ante 15
+elketefuka: posts small blind 60
+Gepard1102: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [5c 6c]
+catalo331: folds
+GusGago: folds
+rfvalis: folds
+ScorpionTeamPro: folds
+Uckeham: raises 156 to 276
+elketefuka: calls 216
+Gepard1102: folds
+*** FLOP *** [8c Ks 3h]
+elketefuka: checks
+Uckeham: bets 420
+elketefuka: folds
+Uncalled bet (420) returned to Uckeham
+Uckeham collected 777 from pot
+Uckeham: doesn't show hand
+*** SUMMARY ***
+Total pot 777 | Rake 0
+Board [8c Ks 3h]
+Seat 1: Uckeham (button) collected (777)
+Seat 3: elketefuka (small blind) folded on the Flop
+Seat 5: Gepard1102 (big blind) folded before Flop
+Seat 6: catalo331 folded before Flop (didn't bet)
+Seat 7: GusGago folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: ScorpionTeamPro folded before Flop (didn't bet)
+
+
+*********** # 49 **************
+PokerStars Hand #214990000197: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:43:19 ET
+Table '2928160996 1' 9-max Seat #1 is the button
+Seat 1: D'bitencourt (5051 in chips)
+Seat 2: elketefuka (2163 in chips) out of hand (moved from another table into small blind)
+Seat 3: dankol2 (3717 in chips)
+Seat 7: FillBertGolD (4149 in chips)
+Seat 8: ELMASSABROSO (1156 in chips)
+Seat 9: Akimov_AlexV (4054 in chips)
+elketefuka will be allowed to play after the button
+D'bitencourt: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+dankol2: posts small blind 60
+FillBertGolD: posts big blind 120
+*** HOLE CARDS ***
+ELMASSABROSO: folds
+Akimov_AlexV: folds
+D'bitencourt: raises 180 to 300
+dankol2: folds
+FillBertGolD: folds
+Uncalled bet (180) returned to D'bitencourt
+D'bitencourt collected 375 from pot
+D'bitencourt: doesn't show hand
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: D'bitencourt (button) collected (375)
+Seat 3: dankol2 (small blind) folded before Flop
+Seat 7: FillBertGolD (big blind) folded before Flop
+Seat 8: ELMASSABROSO folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 50 **************
+PokerStars Hand #214990018460: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:43:46 ET
+Table '2928160996 1' 9-max Seat #3 is the button
+Seat 1: D'bitencourt (5291 in chips)
+Seat 2: elketefuka (2163 in chips)
+Seat 3: dankol2 (3642 in chips)
+Seat 7: FillBertGolD (4014 in chips)
+Seat 8: ELMASSABROSO (1141 in chips)
+Seat 9: Akimov_AlexV (4039 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+FillBertGolD: posts small blind 60
+ELMASSABROSO: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 6s]
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: folds
+dankol2: raises 120 to 240
+FillBertGolD: folds
+ELMASSABROSO: calls 120
+*** FLOP *** [Qs Kd Jc]
+ELMASSABROSO: checks
+dankol2: bets 214
+ELMASSABROSO: calls 214
+*** TURN *** [Qs Kd Jc] [9s]
+ELMASSABROSO: bets 672 and is all-in
+dankol2: folds
+Uncalled bet (672) returned to ELMASSABROSO
+ELMASSABROSO collected 1058 from pot
+ELMASSABROSO: doesn't show hand
+*** SUMMARY ***
+Total pot 1058 | Rake 0
+Board [Qs Kd Jc 9s]
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 (button) folded on the Turn
+Seat 7: FillBertGolD (small blind) folded before Flop
+Seat 8: ELMASSABROSO (big blind) collected (1058)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 51 **************
+PokerStars Hand #214990051552: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:44:36 ET
+Table '2928160996 1' 9-max Seat #7 is the button
+Seat 1: D'bitencourt (5276 in chips)
+Seat 2: elketefuka (2148 in chips)
+Seat 3: dankol2 (3173 in chips)
+Seat 7: FillBertGolD (3939 in chips)
+Seat 8: ELMASSABROSO (1730 in chips)
+Seat 9: Akimov_AlexV (4024 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+ELMASSABROSO: posts small blind 60
+Akimov_AlexV: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [5h 3s]
+D'bitencourt: folds
+elketefuka: folds
+dankol2: raises 240 to 360
+FillBertGolD: folds
+ELMASSABROSO: folds
+Akimov_AlexV: folds
+Uncalled bet (240) returned to dankol2
+dankol2 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 collected (390)
+Seat 7: FillBertGolD (button) folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO (small blind) folded before Flop
+Seat 9: Akimov_AlexV (big blind) folded before Flop
+
+
+*********** # 52 **************
+PokerStars Hand #214990077322: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:45:15 ET
+Table '2928160996 1' 9-max Seat #8 is the button
+Seat 1: D'bitencourt (5261 in chips)
+Seat 2: elketefuka (2133 in chips)
+Seat 3: dankol2 (3428 in chips)
+Seat 7: FillBertGolD (3924 in chips)
+Seat 8: ELMASSABROSO (1655 in chips)
+Seat 9: Akimov_AlexV (3889 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+Akimov_AlexV: posts small blind 60
+D'bitencourt: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [9s Jd]
+elketefuka: folds
+dankol2: folds
+FillBertGolD: folds
+ELMASSABROSO: raises 1520 to 1640 and is all-in
+Akimov_AlexV: folds
+D'bitencourt: folds
+Uncalled bet (1520) returned to ELMASSABROSO
+ELMASSABROSO collected 390 from pot
+ELMASSABROSO: doesn't show hand
+*** SUMMARY ***
+Total pot 390 | Rake 0
+Seat 1: D'bitencourt (big blind) folded before Flop
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO (button) collected (390)
+Seat 9: Akimov_AlexV (small blind) folded before Flop
+
+
+*********** # 53 **************
+PokerStars Hand #214990115522: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:46:12 ET
+Table '2928160996 1' 9-max Seat #9 is the button
+Seat 1: D'bitencourt (5126 in chips)
+Seat 2: elketefuka (2118 in chips)
+Seat 3: dankol2 (3413 in chips)
+Seat 7: FillBertGolD (3909 in chips)
+Seat 8: ELMASSABROSO (1910 in chips)
+Seat 9: Akimov_AlexV (3814 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+D'bitencourt: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 5d]
+dankol2: folds
+FillBertGolD: folds
+ELMASSABROSO: folds
+Akimov_AlexV: raises 145 to 265
+D'bitencourt: folds
+elketefuka: folds
+Uncalled bet (145) returned to Akimov_AlexV
+Akimov_AlexV collected 390 from pot
+Akimov_AlexV: doesn't show hand
+*** SUMMARY ***
+Total pot 390 | Rake 0
+Seat 1: D'bitencourt (small blind) folded before Flop
+Seat 2: elketefuka (big blind) folded before Flop
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV (button) collected (390)
+
+
+*********** # 54 **************
+PokerStars Hand #214990139100: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:46:47 ET
+Table '2928160996 1' 9-max Seat #1 is the button
+Seat 1: D'bitencourt (5051 in chips)
+Seat 2: elketefuka (1983 in chips)
+Seat 3: dankol2 (3398 in chips)
+Seat 7: FillBertGolD (3894 in chips)
+Seat 8: ELMASSABROSO (1895 in chips)
+Seat 9: Akimov_AlexV (4069 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+elketefuka: posts small blind 60
+dankol2: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Jc 6d]
+FillBertGolD: folds
+ELMASSABROSO: folds
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: raises 120 to 240
+dankol2: raises 1200 to 1440
+elketefuka: folds
+Uncalled bet (1200) returned to dankol2
+dankol2 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0
+Seat 1: D'bitencourt (button) folded before Flop (didn't bet)
+Seat 2: elketefuka (small blind) folded before Flop
+Seat 3: dankol2 (big blind) collected (570)
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 55 **************
+PokerStars Hand #214990182284: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:47:52 ET
+Table '2928160996 1' 9-max Seat #2 is the button
+Seat 1: D'bitencourt (5036 in chips)
+Seat 2: elketefuka (1728 in chips)
+Seat 3: dankol2 (3713 in chips)
+Seat 7: FillBertGolD (3879 in chips)
+Seat 8: ELMASSABROSO (1880 in chips)
+Seat 9: Akimov_AlexV (4054 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+dankol2: posts small blind 60
+FillBertGolD: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh 9s]
+ELMASSABROSO: folds
+Akimov_AlexV: folds
+D'bitencourt: raises 180 to 300
+elketefuka: folds
+dankol2: folds
+FillBertGolD: folds
+Uncalled bet (180) returned to D'bitencourt
+D'bitencourt collected 390 from pot
+D'bitencourt: doesn't show hand
+*** SUMMARY ***
+Total pot 390 | Rake 0
+Seat 1: D'bitencourt collected (390)
+Seat 2: elketefuka (button) folded before Flop (didn't bet)
+Seat 3: dankol2 (small blind) folded before Flop
+Seat 7: FillBertGolD (big blind) folded before Flop
+Seat 8: ELMASSABROSO folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 56 **************
+PokerStars Hand #214990206896: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:48:28 ET
+Table '2928160996 1' 9-max Seat #3 is the button
+Seat 1: D'bitencourt (5291 in chips)
+Seat 2: elketefuka (1713 in chips)
+Seat 3: dankol2 (3638 in chips)
+Seat 7: FillBertGolD (3744 in chips)
+Seat 8: ELMASSABROSO (1865 in chips)
+Seat 9: Akimov_AlexV (4039 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+FillBertGolD: posts small blind 60
+ELMASSABROSO: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [9h 6d]
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: folds
+dankol2: raises 3503 to 3623 and is all-in
+FillBertGolD: folds
+ELMASSABROSO: folds
+Uncalled bet (3503) returned to dankol2
+dankol2 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 (button) collected (390)
+Seat 7: FillBertGolD (small blind) folded before Flop
+Seat 8: ELMASSABROSO (big blind) folded before Flop
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 57 **************
+PokerStars Hand #214990228736: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:49:01 ET
+Table '2928160996 1' 9-max Seat #7 is the button
+Seat 1: D'bitencourt (5276 in chips)
+Seat 2: elketefuka (1698 in chips)
+Seat 3: dankol2 (3893 in chips)
+Seat 7: FillBertGolD (3669 in chips)
+Seat 8: ELMASSABROSO (1730 in chips)
+Seat 9: Akimov_AlexV (4024 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+ELMASSABROSO: posts small blind 60
+Akimov_AlexV: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [8s Ah]
+D'bitencourt: folds
+elketefuka: calls 120
+dankol2: folds
+FillBertGolD: folds
+ELMASSABROSO: folds
+Akimov_AlexV: checks
+*** FLOP *** [8d 2s Js]
+Akimov_AlexV: checks
+elketefuka: bets 195
+Akimov_AlexV: calls 195
+*** TURN *** [8d 2s Js] [4h]
+Akimov_AlexV: checks
+elketefuka: bets 390
+Akimov_AlexV: calls 390
+*** RIVER *** [8d 2s Js 4h] [Ac]
+Akimov_AlexV: checks
+elketefuka: bets 978 and is all-in
+Akimov_AlexV: folds
+Uncalled bet (978) returned to elketefuka
+elketefuka collected 1560 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1560 | Rake 0
+Board [8d 2s Js 4h Ac]
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka collected (1560)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 7: FillBertGolD (button) folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO (small blind) folded before Flop
+Seat 9: Akimov_AlexV (big blind) folded on the River
+
+
+*********** # 58 **************
+PokerStars Hand #214990305988: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/06 12:50:58 ET
+Table '2928160996 1' 9-max Seat #8 is the button
+Seat 1: D'bitencourt (5261 in chips)
+Seat 2: elketefuka (2538 in chips)
+Seat 3: dankol2 (3878 in chips)
+Seat 7: FillBertGolD (3654 in chips)
+Seat 8: ELMASSABROSO (1655 in chips)
+Seat 9: Akimov_AlexV (3304 in chips)
+D'bitencourt: posts the ante 15
+elketefuka: posts the ante 15
+dankol2: posts the ante 15
+FillBertGolD: posts the ante 15
+ELMASSABROSO: posts the ante 15
+Akimov_AlexV: posts the ante 15
+Akimov_AlexV: posts small blind 60
+D'bitencourt: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [2d 2h]
+elketefuka: calls 120
+dankol2: calls 120
+FillBertGolD: folds
+ELMASSABROSO: calls 120
+Akimov_AlexV: folds
+D'bitencourt: checks
+*** FLOP *** [9c 9h Ah]
+D'bitencourt: checks
+elketefuka: checks
+dankol2: checks
+ELMASSABROSO: bets 1520 and is all-in
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+Uncalled bet (1520) returned to ELMASSABROSO
+ELMASSABROSO collected 630 from pot
+ELMASSABROSO: doesn't show hand
+*** SUMMARY ***
+Total pot 630 | Rake 0
+Board [9c 9h Ah]
+Seat 1: D'bitencourt (big blind) folded on the Flop
+Seat 2: elketefuka folded on the Flop
+Seat 3: dankol2 folded on the Flop
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO (button) collected (630)
+Seat 9: Akimov_AlexV (small blind) folded before Flop
+
+
+*********** # 59 **************
+PokerStars Hand #214990343204: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 12:51:54 ET
+Table '2928160996 1' 9-max Seat #9 is the button
+Seat 1: D'bitencourt (5126 in chips)
+Seat 2: elketefuka (2403 in chips)
+Seat 3: dankol2 (3743 in chips)
+Seat 7: FillBertGolD (3639 in chips)
+Seat 8: ELMASSABROSO (2150 in chips)
+Seat 9: Akimov_AlexV (3229 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+FillBertGolD: posts the ante 20
+ELMASSABROSO: posts the ante 20
+Akimov_AlexV: posts the ante 20
+D'bitencourt: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [3c Th]
+dankol2: folds
+FillBertGolD: folds
+ELMASSABROSO: folds
+Akimov_AlexV: folds
+D'bitencourt: folds
+Uncalled bet (80) returned to elketefuka
+elketefuka collected 280 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 1: D'bitencourt (small blind) folded before Flop
+Seat 2: elketefuka (big blind) collected (280)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV (button) folded before Flop (didn't bet)
+
+
+*********** # 60 **************
+PokerStars Hand #214990369530: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 12:52:33 ET
+Table '2928160996 1' 9-max Seat #1 is the button
+Seat 1: D'bitencourt (5026 in chips)
+Seat 2: elketefuka (2583 in chips)
+Seat 3: dankol2 (3723 in chips)
+Seat 7: FillBertGolD (3619 in chips)
+Seat 8: ELMASSABROSO (2130 in chips)
+Seat 9: Akimov_AlexV (3209 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+FillBertGolD: posts the ante 20
+ELMASSABROSO: posts the ante 20
+Akimov_AlexV: posts the ante 20
+elketefuka: posts small blind 80
+dankol2: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 6c]
+FillBertGolD: folds
+ELMASSABROSO: raises 1950 to 2110 and is all-in
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+Uncalled bet (1950) returned to ELMASSABROSO
+ELMASSABROSO collected 520 from pot
+ELMASSABROSO: doesn't show hand
+*** SUMMARY ***
+Total pot 520 | Rake 0
+Seat 1: D'bitencourt (button) folded before Flop (didn't bet)
+Seat 2: elketefuka (small blind) folded before Flop
+Seat 3: dankol2 (big blind) folded before Flop
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO collected (520)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 61 **************
+PokerStars Hand #214990387716: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 12:53:01 ET
+Table '2928160996 1' 9-max Seat #2 is the button
+Seat 1: D'bitencourt (5006 in chips)
+Seat 2: elketefuka (2483 in chips)
+Seat 3: dankol2 (3543 in chips)
+Seat 7: FillBertGolD (3599 in chips)
+Seat 8: ELMASSABROSO (2470 in chips)
+Seat 9: Akimov_AlexV (3189 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+FillBertGolD: posts the ante 20
+ELMASSABROSO: posts the ante 20
+Akimov_AlexV: posts the ante 20
+dankol2: posts small blind 80
+FillBertGolD: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 7s]
+ELMASSABROSO: calls 160
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+FillBertGolD: checks
+*** FLOP *** [7h 4c 5d]
+FillBertGolD: bets 160
+ELMASSABROSO: calls 160
+*** TURN *** [7h 4c 5d] [8s]
+FillBertGolD: checks
+ELMASSABROSO: checks
+*** RIVER *** [7h 4c 5d 8s] [4d]
+FillBertGolD: checks
+ELMASSABROSO: checks
+*** SHOW DOWN ***
+FillBertGolD: shows [2d 5c] (two pair, Fives and Fours)
+ELMASSABROSO: mucks hand
+FillBertGolD collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0
+Board [7h 4c 5d 8s 4d]
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka (button) folded before Flop (didn't bet)
+Seat 3: dankol2 (small blind) folded before Flop
+Seat 7: FillBertGolD (big blind) showed [2d 5c] and won (840) with two pair, Fives and Fours
+Seat 8: ELMASSABROSO mucked [9s As]
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 62 **************
+PokerStars Hand #214990435066: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 12:54:01 ET
+Table '2928160996 1' 9-max Seat #3 is the button
+Seat 1: D'bitencourt (4986 in chips)
+Seat 2: elketefuka (2463 in chips)
+Seat 3: dankol2 (3443 in chips)
+Seat 7: FillBertGolD (4099 in chips)
+Seat 8: ELMASSABROSO (2130 in chips)
+Seat 9: Akimov_AlexV (3169 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+FillBertGolD: posts the ante 20
+ELMASSABROSO: posts the ante 20
+Akimov_AlexV: posts the ante 20
+FillBertGolD: posts small blind 80
+ELMASSABROSO: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh 4s]
+Akimov_AlexV: raises 193 to 353
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+FillBertGolD: folds
+ELMASSABROSO: calls 193
+*** FLOP *** [7c 8d 8h]
+ELMASSABROSO: checks
+Akimov_AlexV: checks
+*** TURN *** [7c 8d 8h] [6s]
+ELMASSABROSO: bets 272
+Akimov_AlexV: calls 272
+*** RIVER *** [7c 8d 8h 6s] [9d]
+ELMASSABROSO: bets 1485 and is all-in
+Akimov_AlexV: folds
+Uncalled bet (1485) returned to ELMASSABROSO
+ELMASSABROSO collected 1450 from pot
+ELMASSABROSO: doesn't show hand
+*** SUMMARY ***
+Total pot 1450 | Rake 0
+Board [7c 8d 8h 6s 9d]
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 (button) folded before Flop (didn't bet)
+Seat 7: FillBertGolD (small blind) folded before Flop
+Seat 8: ELMASSABROSO (big blind) collected (1450)
+Seat 9: Akimov_AlexV folded on the River
+
+
+*********** # 63 **************
+PokerStars Hand #214990650407: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 13:00:42 ET
+Table '2928160996 1' 9-max Seat #7 is the button
+Seat 1: D'bitencourt (4966 in chips)
+Seat 2: elketefuka (2443 in chips)
+Seat 3: dankol2 (3423 in chips)
+Seat 4: Sahsa 38 (6835 in chips)
+Seat 5: LVRVCL (3282 in chips)
+Seat 6: R_jhonny_B (3916 in chips)
+Seat 7: FillBertGolD (3999 in chips)
+Seat 8: ELMASSABROSO (2935 in chips)
+Seat 9: Akimov_AlexV (2524 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+Sahsa 38: posts the ante 20
+LVRVCL: posts the ante 20
+R_jhonny_B: posts the ante 20
+FillBertGolD: posts the ante 20
+ELMASSABROSO: posts the ante 20
+Akimov_AlexV: posts the ante 20
+ELMASSABROSO: posts small blind 80
+Akimov_AlexV: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [6c 3s]
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+Sahsa 38: folds
+LVRVCL: folds
+R_jhonny_B: folds
+FillBertGolD: folds
+ELMASSABROSO: folds
+Uncalled bet (80) returned to Akimov_AlexV
+Akimov_AlexV collected 340 from pot
+Akimov_AlexV: doesn't show hand
+*** SUMMARY ***
+Total pot 340 | Rake 0
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 4: Sahsa 38 folded before Flop (didn't bet)
+Seat 5: LVRVCL folded before Flop (didn't bet)
+Seat 6: R_jhonny_B folded before Flop (didn't bet)
+Seat 7: FillBertGolD (button) folded before Flop (didn't bet)
+Seat 8: ELMASSABROSO (small blind) folded before Flop
+Seat 9: Akimov_AlexV (big blind) collected (340)
+
+
+*********** # 64 **************
+PokerStars Hand #214990671067: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 13:01:17 ET
+Table '2928160996 1' 9-max Seat #8 is the button
+Seat 1: D'bitencourt (4946 in chips)
+Seat 2: elketefuka (2423 in chips)
+Seat 3: dankol2 (3403 in chips)
+Seat 4: Sahsa 38 (6815 in chips)
+Seat 5: LVRVCL (3262 in chips)
+Seat 6: R_jhonny_B (3896 in chips)
+Seat 7: FillBertGolD (3979 in chips)
+Seat 8: ELMASSABROSO (2835 in chips)
+Seat 9: Akimov_AlexV (2764 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+Sahsa 38: posts the ante 20
+LVRVCL: posts the ante 20
+R_jhonny_B: posts the ante 20
+FillBertGolD: posts the ante 20
+ELMASSABROSO: posts the ante 20
+Akimov_AlexV: posts the ante 20
+Akimov_AlexV: posts small blind 80
+D'bitencourt: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [4s Qc]
+elketefuka: folds
+dankol2: folds
+Sahsa 38: folds
+LVRVCL: folds
+R_jhonny_B: folds
+FillBertGolD: raises 200 to 360
+ELMASSABROSO: calls 360
+Akimov_AlexV: folds
+D'bitencourt: calls 200
+*** FLOP *** [2d 5s Ah]
+D'bitencourt: checks
+FillBertGolD: bets 670
+ELMASSABROSO: raises 1785 to 2455 and is all-in
+D'bitencourt: folds
+FillBertGolD: calls 1785
+*** TURN *** [2d 5s Ah] [9h]
+*** RIVER *** [2d 5s Ah 9h] [3s]
+*** SHOW DOWN ***
+FillBertGolD: shows [Jc Ad] (a pair of Aces)
+ELMASSABROSO: shows [Ac Td] (a pair of Aces - lower kicker)
+FillBertGolD collected 6250 from pot
+ELMASSABROSO finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 6250 | Rake 0
+Board [2d 5s Ah 9h 3s]
+Seat 1: D'bitencourt (big blind) folded on the Flop
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 4: Sahsa 38 folded before Flop (didn't bet)
+Seat 5: LVRVCL folded before Flop (didn't bet)
+Seat 6: R_jhonny_B folded before Flop (didn't bet)
+Seat 7: FillBertGolD showed [Jc Ad] and won (6250) with a pair of Aces
+Seat 8: ELMASSABROSO (button) showed [Ac Td] and lost with a pair of Aces
+Seat 9: Akimov_AlexV (small blind) folded before Flop
+
+
+*********** # 65 **************
+PokerStars Hand #214990714633: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 13:02:27 ET
+Table '2928160996 1' 9-max Seat #9 is the button
+Seat 1: D'bitencourt (4566 in chips)
+Seat 2: elketefuka (2403 in chips)
+Seat 3: dankol2 (3383 in chips)
+Seat 4: Sahsa 38 (6795 in chips)
+Seat 5: LVRVCL (3242 in chips)
+Seat 6: R_jhonny_B (3876 in chips)
+Seat 7: FillBertGolD (7394 in chips)
+Seat 9: Akimov_AlexV (2664 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+Sahsa 38: posts the ante 20
+LVRVCL: posts the ante 20
+R_jhonny_B: posts the ante 20
+FillBertGolD: posts the ante 20
+Akimov_AlexV: posts the ante 20
+D'bitencourt: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 3h]
+dankol2: folds
+Sahsa 38: folds
+LVRVCL: folds
+R_jhonny_B: raises 3696 to 3856 and is all-in
+FillBertGolD: raises 3518 to 7374 and is all-in
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: folds
+Uncalled bet (3518) returned to FillBertGolD
+*** FLOP *** [6s 9s 2h]
+*** TURN *** [6s 9s 2h] [9c]
+*** RIVER *** [6s 9s 2h 9c] [4c]
+*** SHOW DOWN ***
+R_jhonny_B: shows [Ad Ks] (a pair of Nines)
+FillBertGolD: shows [Ac As] (two pair, Aces and Nines)
+FillBertGolD collected 8112 from pot
+R_jhonny_B finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 8112 | Rake 0
+Board [6s 9s 2h 9c 4c]
+Seat 1: D'bitencourt (small blind) folded before Flop
+Seat 2: elketefuka (big blind) folded before Flop
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 4: Sahsa 38 folded before Flop (didn't bet)
+Seat 5: LVRVCL folded before Flop (didn't bet)
+Seat 6: R_jhonny_B showed [Ad Ks] and lost with a pair of Nines
+Seat 7: FillBertGolD showed [Ac As] and won (8112) with two pair, Aces and Nines
+Seat 9: Akimov_AlexV (button) folded before Flop (didn't bet)
+
+
+*********** # 66 **************
+PokerStars Hand #214990753871: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 13:03:24 ET
+Table '2928160996 1' 9-max Seat #1 is the button
+Seat 1: D'bitencourt (4466 in chips)
+Seat 2: elketefuka (2223 in chips)
+Seat 3: dankol2 (3363 in chips)
+Seat 4: Sahsa 38 (6775 in chips)
+Seat 5: LVRVCL (3222 in chips)
+Seat 7: FillBertGolD (11630 in chips)
+Seat 9: Akimov_AlexV (2644 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+Sahsa 38: posts the ante 20
+LVRVCL: posts the ante 20
+FillBertGolD: posts the ante 20
+Akimov_AlexV: posts the ante 20
+elketefuka: posts small blind 80
+dankol2: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd Jh]
+Sahsa 38: folds
+LVRVCL: folds
+FillBertGolD: folds
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: raises 160 to 320
+dankol2: calls 160
+*** FLOP *** [5c 7d Qc]
+elketefuka: checks
+dankol2: bets 265
+elketefuka: raises 265 to 530
+dankol2: folds
+Uncalled bet (265) returned to elketefuka
+elketefuka collected 1310 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1310 | Rake 0
+Board [5c 7d Qc]
+Seat 1: D'bitencourt (button) folded before Flop (didn't bet)
+Seat 2: elketefuka (small blind) collected (1310)
+Seat 3: dankol2 (big blind) folded on the Flop
+Seat 4: Sahsa 38 folded before Flop (didn't bet)
+Seat 5: LVRVCL folded before Flop (didn't bet)
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 67 **************
+PokerStars Hand #214990787158: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 13:04:15 ET
+Table '2928160996 1' 9-max Seat #2 is the button
+Seat 1: D'bitencourt (4446 in chips)
+Seat 2: elketefuka (2928 in chips)
+Seat 3: dankol2 (2758 in chips)
+Seat 4: Sahsa 38 (6755 in chips)
+Seat 5: LVRVCL (3202 in chips)
+Seat 6: GusGago (5048 in chips)
+Seat 7: FillBertGolD (11610 in chips)
+Seat 9: Akimov_AlexV (2624 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+Sahsa 38: posts the ante 20
+LVRVCL: posts the ante 20
+GusGago: posts the ante 20
+FillBertGolD: posts the ante 20
+Akimov_AlexV: posts the ante 20
+dankol2: posts small blind 80
+Sahsa 38: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Ah 4c]
+LVRVCL: folds
+GusGago: folds
+FillBertGolD: folds
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: calls 160
+dankol2: raises 2578 to 2738 and is all-in
+Sahsa 38: folds
+elketefuka: folds
+Uncalled bet (2578) returned to dankol2
+dankol2 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka (button) folded before Flop
+Seat 3: dankol2 (small blind) collected (640)
+Seat 4: Sahsa 38 (big blind) folded before Flop
+Seat 5: LVRVCL folded before Flop (didn't bet)
+Seat 6: GusGago folded before Flop (didn't bet)
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 68 **************
+PokerStars Hand #214990822911: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 13:05:07 ET
+Table '2928160996 1' 9-max Seat #3 is the button
+Seat 1: D'bitencourt (4426 in chips)
+Seat 2: elketefuka (2748 in chips)
+Seat 3: dankol2 (3218 in chips)
+Seat 4: Sahsa 38 (6575 in chips)
+Seat 5: LVRVCL (3182 in chips)
+Seat 6: GusGago (5028 in chips)
+Seat 7: FillBertGolD (11590 in chips)
+Seat 9: Akimov_AlexV (2604 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+Sahsa 38: posts the ante 20
+LVRVCL: posts the ante 20
+GusGago: posts the ante 20
+FillBertGolD: posts the ante 20
+Akimov_AlexV: posts the ante 20
+Sahsa 38: posts small blind 80
+LVRVCL: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 9s]
+GusGago: raises 160 to 320
+FillBertGolD: folds
+Akimov_AlexV: raises 480 to 800
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+Sahsa 38: calls 720
+LVRVCL: folds
+GusGago: folds
+*** FLOP *** [4c 2s 3s]
+Sahsa 38: bets 160
+Akimov_AlexV: raises 640 to 800
+Sahsa 38: calls 640
+*** TURN *** [4c 2s 3s] [Jh]
+Sahsa 38: checks
+Akimov_AlexV: bets 984 and is all-in
+Sahsa 38: calls 984
+*** RIVER *** [4c 2s 3s Jh] [Qc]
+*** SHOW DOWN ***
+Sahsa 38: shows [3h Th] (a pair of Threes)
+Akimov_AlexV: shows [Ac Ah] (a pair of Aces)
+Akimov_AlexV collected 5808 from pot
+*** SUMMARY ***
+Total pot 5808 | Rake 0
+Board [4c 2s 3s Jh Qc]
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 (button) folded before Flop (didn't bet)
+Seat 4: Sahsa 38 (small blind) showed [3h Th] and lost with a pair of Threes
+Seat 5: LVRVCL (big blind) folded before Flop
+Seat 6: GusGago folded before Flop
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV showed [Ac Ah] and won (5808) with a pair of Aces
+
+
+*********** # 69 **************
+PokerStars Hand #214990884223: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/06 13:06:37 ET
+Table '2928160996 1' 9-max Seat #4 is the button
+Seat 1: D'bitencourt (4406 in chips)
+Seat 2: elketefuka (2728 in chips)
+Seat 3: dankol2 (3198 in chips)
+Seat 4: Sahsa 38 (3971 in chips)
+Seat 5: LVRVCL (3002 in chips)
+Seat 6: GusGago (4688 in chips)
+Seat 7: FillBertGolD (11570 in chips)
+Seat 9: Akimov_AlexV (5808 in chips)
+D'bitencourt: posts the ante 20
+elketefuka: posts the ante 20
+dankol2: posts the ante 20
+Sahsa 38: posts the ante 20
+LVRVCL: posts the ante 20
+GusGago: posts the ante 20
+FillBertGolD: posts the ante 20
+Akimov_AlexV: posts the ante 20
+LVRVCL: posts small blind 80
+GusGago: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [6d Td]
+FillBertGolD: folds
+Akimov_AlexV: folds
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+Sahsa 38: raises 160 to 320
+LVRVCL: folds
+GusGago: folds
+Uncalled bet (160) returned to Sahsa 38
+Sahsa 38 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 4: Sahsa 38 (button) collected (560)
+Seat 5: LVRVCL (small blind) folded before Flop
+Seat 6: GusGago (big blind) folded before Flop
+Seat 7: FillBertGolD folded before Flop (didn't bet)
+Seat 9: Akimov_AlexV folded before Flop (didn't bet)
+
+
+*********** # 70 **************
+PokerStars Hand #214990910129: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/06 13:07:16 ET
+Table '2928160996 1' 9-max Seat #5 is the button
+Seat 1: D'bitencourt (4386 in chips)
+Seat 2: elketefuka (2708 in chips)
+Seat 3: dankol2 (3178 in chips)
+Seat 4: Sahsa 38 (4351 in chips)
+Seat 5: LVRVCL (2902 in chips)
+Seat 6: GusGago (4508 in chips)
+Seat 7: FillBertGolD (11550 in chips)
+Seat 9: Akimov_AlexV (5788 in chips)
+D'bitencourt: posts the ante 25
+elketefuka: posts the ante 25
+dankol2: posts the ante 25
+Sahsa 38: posts the ante 25
+LVRVCL: posts the ante 25
+GusGago: posts the ante 25
+FillBertGolD: posts the ante 25
+Akimov_AlexV: posts the ante 25
+GusGago: posts small blind 100
+FillBertGolD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [5c Ks]
+Akimov_AlexV: raises 200 to 400
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+Sahsa 38: calls 400
+LVRVCL: folds
+GusGago: folds
+D'bitencourt is sitting out
+FillBertGolD: folds
+*** FLOP *** [Kh 7h Ah]
+Akimov_AlexV: checks
+Sahsa 38: bets 650
+Akimov_AlexV: folds
+Uncalled bet (650) returned to Sahsa 38
+Sahsa 38 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0
+Board [Kh 7h Ah]
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 4: Sahsa 38 collected (1300)
+Seat 5: LVRVCL (button) folded before Flop (didn't bet)
+Seat 6: GusGago (small blind) folded before Flop
+Seat 7: FillBertGolD (big blind) folded before Flop
+Seat 9: Akimov_AlexV folded on the Flop
+
+
+*********** # 71 **************
+PokerStars Hand #214990963451: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/06 13:08:23 ET
+Table '2928160996 1' 9-max Seat #6 is the button
+Seat 1: D'bitencourt (4361 in chips) is sitting out
+Seat 2: elketefuka (2683 in chips)
+Seat 3: dankol2 (3153 in chips)
+Seat 4: Sahsa 38 (5226 in chips)
+Seat 5: LVRVCL (2877 in chips)
+Seat 6: GusGago (4383 in chips)
+Seat 7: FillBertGolD (11325 in chips)
+Seat 9: Akimov_AlexV (5363 in chips)
+D'bitencourt: posts the ante 25
+elketefuka: posts the ante 25
+dankol2: posts the ante 25
+Sahsa 38: posts the ante 25
+LVRVCL: posts the ante 25
+GusGago: posts the ante 25
+FillBertGolD: posts the ante 25
+Akimov_AlexV: posts the ante 25
+FillBertGolD: posts small blind 100
+Akimov_AlexV: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [6c 2h]
+D'bitencourt: folds
+elketefuka: folds
+dankol2: folds
+Sahsa 38: folds
+LVRVCL: folds
+GusGago: folds
+FillBertGolD: raises 250 to 450
+Akimov_AlexV: folds
+Uncalled bet (250) returned to FillBertGolD
+FillBertGolD collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Seat 1: D'bitencourt folded before Flop (didn't bet)
+Seat 2: elketefuka folded before Flop (didn't bet)
+Seat 3: dankol2 folded before Flop (didn't bet)
+Seat 4: Sahsa 38 folded before Flop (didn't bet)
+Seat 5: LVRVCL folded before Flop (didn't bet)
+Seat 6: GusGago (button) folded before Flop (didn't bet)
+Seat 7: FillBertGolD (small blind) collected (600)
+Seat 9: Akimov_AlexV (big blind) folded before Flop
+
+
+*********** # 72 **************
+PokerStars Hand #214991006286: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/06 13:09:27 ET
+Table '2928160996 4' 9-max Seat #4 is the button
+Seat 1: Uckeham (2574 in chips)
+Seat 4: ProkTur (3534 in chips)
+Seat 5: Gepard1102 (5819 in chips)
+Seat 6: catalo331 (3280 in chips)
+Seat 7: elketefuka (2658 in chips)
+Seat 8: rfvalis (8526 in chips)
+Seat 9: ScorpionTeamPro (4396 in chips)
+Uckeham: posts the ante 25
+ProkTur: posts the ante 25
+Gepard1102: posts the ante 25
+catalo331: posts the ante 25
+elketefuka: posts the ante 25
+rfvalis: posts the ante 25
+ScorpionTeamPro: posts the ante 25
+Gepard1102: posts small blind 100
+catalo331: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [3s Jc]
+elketefuka: folds
+rfvalis: folds
+ScorpionTeamPro: folds
+Uckeham: folds
+ProkTur: folds
+Gepard1102: calls 100
+catalo331: raises 400 to 600
+Gepard1102: calls 400
+*** FLOP *** [4s Jh 8s]
+Gepard1102: bets 200
+catalo331: raises 800 to 1000
+Gepard1102: calls 800
+*** TURN *** [4s Jh 8s] [9c]
+Gepard1102: bets 200
+catalo331: raises 1455 to 1655 and is all-in
+Gepard1102: calls 1455
+*** RIVER *** [4s Jh 8s 9c] [2s]
+*** SHOW DOWN ***
+Gepard1102: shows [Ts As] (a flush, Ace high)
+catalo331: shows [Kd Ks] (a pair of Kings)
+Gepard1102 collected 6685 from pot
+catalo331 finished the tournament in 14th place
+*** SUMMARY ***
+Total pot 6685 | Rake 0
+Board [4s Jh 8s 9c 2s]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 4: ProkTur (button) folded before Flop (didn't bet)
+Seat 5: Gepard1102 (small blind) showed [Ts As] and won (6685) with a flush, Ace high
+Seat 6: catalo331 (big blind) showed [Kd Ks] and lost with a pair of Kings
+Seat 7: elketefuka folded before Flop (didn't bet)
+Seat 8: rfvalis folded before Flop (didn't bet)
+Seat 9: ScorpionTeamPro folded before Flop (didn't bet)
+
+
+*********** # 73 **************
+PokerStars Hand #214991034564: Tournament #2928160996, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/06 13:10:09 ET
+Table '2928160996 4' 9-max Seat #5 is the button
+Seat 1: Uckeham (2549 in chips)
+Seat 4: ProkTur (3509 in chips)
+Seat 5: Gepard1102 (9224 in chips)
+Seat 7: elketefuka (2633 in chips)
+Seat 8: rfvalis (8501 in chips)
+Seat 9: ScorpionTeamPro (4371 in chips)
+Uckeham: posts the ante 25
+ProkTur: posts the ante 25
+Gepard1102: posts the ante 25
+elketefuka: posts the ante 25
+rfvalis: posts the ante 25
+ScorpionTeamPro: posts the ante 25
+elketefuka: posts small blind 100
+rfvalis: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh Th]
+ScorpionTeamPro: folds
+Uckeham: folds
+ProkTur: folds
+Gepard1102: folds
+elketefuka: raises 200 to 400
+rfvalis: calls 200
+*** FLOP *** [7d 3h 9h]
+elketefuka: bets 475
+rfvalis: calls 475
+*** TURN *** [7d 3h 9h] [3c]
+elketefuka: checks
+rfvalis: bets 400
+elketefuka: raises 1333 to 1733 and is all-in
+rfvalis: calls 1333
+*** RIVER *** [7d 3h 9h 3c] [4d]
+*** SHOW DOWN ***
+elketefuka: shows [Qh Th] (a pair of Threes)
+rfvalis: shows [7h 8d] (two pair, Sevens and Threes)
+rfvalis collected 5366 from pot
+elketefuka finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 5366 | Rake 0
+Board [7d 3h 9h 3c 4d]
+Seat 1: Uckeham folded before Flop (didn't bet)
+Seat 4: ProkTur folded before Flop (didn't bet)
+Seat 5: Gepard1102 (button) folded before Flop (didn't bet)
+Seat 7: elketefuka (small blind) showed [Qh Th] and lost with a pair of Threes
+Seat 8: rfvalis (big blind) showed [7h 8d] and won (5366) with two pair, Sevens and Threes
+Seat 9: ScorpionTeamPro folded before Flop (didn't bet)

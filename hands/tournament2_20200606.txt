@@ -1,0 +1,633 @@
+*********** # 1 **************
+PokerStars Hand #214991139739: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:12:44 ET
+Table '2928220950 2' 9-max Seat #1 is the button
+Seat 1: All1n_Call (1500 in chips)
+Seat 2: dini1969 (1500 in chips)
+Seat 3: DiabloNero81 (1500 in chips)
+Seat 4: RuBoard (1500 in chips)
+Seat 5: gmyrik2020 (1500 in chips)
+Seat 6: k1dlucky (1500 in chips)
+Seat 7: ice_shoma (1500 in chips)
+Seat 8: elketefuka (1500 in chips)
+Seat 9: Finches86 (1500 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+DiabloNero81: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+dini1969: posts small blind 10
+DiabloNero81: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [5h Ad]
+RuBoard: raises 40 to 60
+gmyrik2020: folds
+k1dlucky: folds
+ice_shoma: folds
+elketefuka: folds
+ice_shoma is sitting out
+Finches86: folds
+All1n_Call: folds
+dini1969: raises 40 to 100
+DiabloNero81: folds
+RuBoard: calls 40
+*** FLOP *** [4s Ah 5c]
+dini1969: bets 1397 and is all-in
+RuBoard: folds
+Uncalled bet (1397) returned to dini1969
+dini1969 collected 247 from pot
+dini1969: doesn't show hand
+*** SUMMARY ***
+Total pot 247 | Rake 0
+Board [4s Ah 5c]
+Seat 1: All1n_Call (button) folded before Flop (didn't bet)
+Seat 2: dini1969 (small blind) collected (247)
+Seat 3: DiabloNero81 (big blind) folded before Flop
+Seat 4: RuBoard folded on the Flop
+Seat 5: gmyrik2020 folded before Flop (didn't bet)
+Seat 6: k1dlucky folded before Flop (didn't bet)
+Seat 7: ice_shoma folded before Flop (didn't bet)
+Seat 8: elketefuka folded before Flop (didn't bet)
+Seat 9: Finches86 folded before Flop (didn't bet)
+
+
+*********** # 2 **************
+PokerStars Hand #214991181677: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:13:46 ET
+Table '2928220950 2' 9-max Seat #2 is the button
+Seat 1: All1n_Call (1497 in chips)
+Seat 2: dini1969 (1644 in chips)
+Seat 3: DiabloNero81 (1477 in chips)
+Seat 4: RuBoard (1397 in chips)
+Seat 5: gmyrik2020 (1497 in chips)
+Seat 6: k1dlucky (1497 in chips)
+Seat 7: ice_shoma (1497 in chips) is sitting out
+Seat 8: elketefuka (1497 in chips)
+Seat 9: Finches86 (1497 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+DiabloNero81: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+DiabloNero81: posts small blind 10
+RuBoard: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [6s Ks]
+gmyrik2020: folds
+k1dlucky: folds
+ice_shoma: folds
+elketefuka: folds
+Finches86: folds
+All1n_Call: raises 20 to 40
+dini1969: calls 40
+DiabloNero81: calls 30
+RuBoard: raises 160 to 200
+All1n_Call: folds
+dini1969: folds
+DiabloNero81: calls 160
+*** FLOP *** [4d 4h Th]
+DiabloNero81: bets 260
+RuBoard: calls 260
+*** TURN *** [4d 4h Th] [Kh]
+DiabloNero81: bets 1014 and is all-in
+RuBoard: calls 934 and is all-in
+Uncalled bet (80) returned to DiabloNero81
+*** RIVER *** [4d 4h Th Kh] [5s]
+*** SHOW DOWN ***
+DiabloNero81: shows [Tc Jh] (two pair, Tens and Fours)
+RuBoard: shows [Td Ac] (two pair, Tens and Fours - Ace kicker)
+RuBoard collected 2895 from pot
+*** SUMMARY ***
+Total pot 2895 | Rake 0
+Board [4d 4h Th Kh 5s]
+Seat 1: All1n_Call folded before Flop
+Seat 2: dini1969 (button) folded before Flop
+Seat 3: DiabloNero81 (small blind) showed [Tc Jh] and lost with two pair, Tens and Fours
+Seat 4: RuBoard (big blind) showed [Td Ac] and won (2895) with two pair, Tens and Fours
+Seat 5: gmyrik2020 folded before Flop (didn't bet)
+Seat 6: k1dlucky folded before Flop (didn't bet)
+Seat 7: ice_shoma folded before Flop (didn't bet)
+Seat 8: elketefuka folded before Flop (didn't bet)
+Seat 9: Finches86 folded before Flop (didn't bet)
+
+
+*********** # 3 **************
+PokerStars Hand #214991252482: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:15:29 ET
+Table '2928220950 2' 9-max Seat #3 is the button
+Seat 1: All1n_Call (1454 in chips)
+Seat 2: dini1969 (1601 in chips)
+Seat 3: DiabloNero81 (80 in chips)
+Seat 4: RuBoard (2895 in chips)
+Seat 5: gmyrik2020 (1494 in chips)
+Seat 6: k1dlucky (1494 in chips)
+Seat 7: ice_shoma (1494 in chips) is sitting out
+Seat 8: elketefuka (1494 in chips)
+Seat 9: Finches86 (1494 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+DiabloNero81: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+RuBoard: posts small blind 10
+gmyrik2020: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd Jc]
+k1dlucky: folds
+ice_shoma: folds
+elketefuka: raises 40 to 60
+Finches86: raises 40 to 100
+All1n_Call: folds
+dini1969: folds
+DiabloNero81: calls 77 and is all-in
+RuBoard: folds
+ice_shoma has returned
+gmyrik2020 has timed out
+gmyrik2020: folds
+gmyrik2020 is sitting out
+elketefuka: calls 40
+*** FLOP *** [9d 3h 5c]
+elketefuka: checks
+Finches86: checks
+*** TURN *** [9d 3h 5c] [7d]
+gmyrik2020 has returned
+elketefuka: bets 167
+Finches86: folds
+Uncalled bet (167) returned to elketefuka
+*** RIVER *** [9d 3h 5c 7d] [6c]
+*** SHOW DOWN ***
+elketefuka: shows [Kd Jc] (high card King)
+elketefuka collected 46 from side pot
+DiabloNero81: shows [2c 4s] (a straight, Three to Seven)
+DiabloNero81 collected 288 from main pot
+*** SUMMARY ***
+Total pot 334 Main pot 288. Side pot 46. | Rake 0
+Board [9d 3h 5c 7d 6c]
+Seat 1: All1n_Call folded before Flop (didn't bet)
+Seat 2: dini1969 folded before Flop (didn't bet)
+Seat 3: DiabloNero81 (button) showed [2c 4s] and won (288) with a straight, Three to Seven
+Seat 4: RuBoard (small blind) folded before Flop
+Seat 5: gmyrik2020 (big blind) folded before Flop
+Seat 6: k1dlucky folded before Flop (didn't bet)
+Seat 7: ice_shoma folded before Flop (didn't bet)
+Seat 8: elketefuka showed [Kd Jc] and won (46) with high card King
+Seat 9: Finches86 folded on the Turn
+
+
+*********** # 4 **************
+PokerStars Hand #214991306449: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:16:43 ET
+Table '2928220950 2' 9-max Seat #4 is the button
+Seat 1: All1n_Call (1451 in chips)
+Seat 2: dini1969 (1598 in chips)
+Seat 3: DiabloNero81 (288 in chips)
+Seat 4: RuBoard (2882 in chips)
+Seat 5: gmyrik2020 (1471 in chips)
+Seat 6: k1dlucky (1491 in chips)
+Seat 7: ice_shoma (1491 in chips)
+Seat 8: elketefuka (1437 in chips)
+Seat 9: Finches86 (1391 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+DiabloNero81: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+gmyrik2020: posts small blind 10
+k1dlucky: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Td 6c]
+ice_shoma: folds
+elketefuka: folds
+Finches86: calls 20
+All1n_Call: calls 20
+dini1969: folds
+DiabloNero81: folds
+RuBoard: folds
+gmyrik2020: calls 10
+k1dlucky: checks
+*** FLOP *** [Qh Tc Qc]
+gmyrik2020: checks
+k1dlucky: checks
+Finches86: bets 20
+All1n_Call: folds
+gmyrik2020: calls 20
+k1dlucky: folds
+*** TURN *** [Qh Tc Qc] [4s]
+gmyrik2020: bets 40
+Finches86: calls 40
+*** RIVER *** [Qh Tc Qc 4s] [Jh]
+gmyrik2020: bets 40
+Finches86: folds
+Uncalled bet (40) returned to gmyrik2020
+gmyrik2020 collected 227 from pot
+gmyrik2020: doesn't show hand
+*** SUMMARY ***
+Total pot 227 | Rake 0
+Board [Qh Tc Qc 4s Jh]
+Seat 1: All1n_Call folded on the Flop
+Seat 2: dini1969 folded before Flop (didn't bet)
+Seat 3: DiabloNero81 folded before Flop (didn't bet)
+Seat 4: RuBoard (button) folded before Flop (didn't bet)
+Seat 5: gmyrik2020 (small blind) collected (227)
+Seat 6: k1dlucky (big blind) folded on the Flop
+Seat 7: ice_shoma folded before Flop (didn't bet)
+Seat 8: elketefuka folded before Flop (didn't bet)
+Seat 9: Finches86 folded on the River
+
+
+*********** # 5 **************
+PokerStars Hand #214991358539: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:17:45 ET
+Table '2928220950 2' 9-max Seat #5 is the button
+Seat 1: All1n_Call (1428 in chips)
+Seat 2: dini1969 (1595 in chips)
+Seat 3: DiabloNero81 (285 in chips)
+Seat 4: RuBoard (2879 in chips)
+Seat 5: gmyrik2020 (1615 in chips)
+Seat 6: k1dlucky (1468 in chips)
+Seat 7: ice_shoma (1488 in chips)
+Seat 8: elketefuka (1434 in chips)
+Seat 9: Finches86 (1308 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+DiabloNero81: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+k1dlucky: posts small blind 10
+ice_shoma: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Jc Td]
+elketefuka: folds
+Finches86: raises 20 to 40
+All1n_Call: folds
+dini1969: folds
+DiabloNero81: calls 40
+RuBoard: folds
+gmyrik2020: folds
+k1dlucky: calls 30
+ice_shoma: folds
+*** FLOP *** [Kd 9c 5d]
+k1dlucky: bets 80
+Finches86: calls 80
+DiabloNero81: raises 162 to 242 and is all-in
+k1dlucky: folds
+Finches86: calls 162
+*** TURN *** [Kd 9c 5d] [7s]
+*** RIVER *** [Kd 9c 5d 7s] [3s]
+*** SHOW DOWN ***
+Finches86: shows [Qc Kc] (a pair of Kings)
+DiabloNero81: shows [8h 9s] (a pair of Nines)
+Finches86 collected 731 from pot
+DiabloNero81 finished the tournament in 44th place
+*** SUMMARY ***
+Total pot 731 | Rake 0
+Board [Kd 9c 5d 7s 3s]
+Seat 1: All1n_Call folded before Flop (didn't bet)
+Seat 2: dini1969 folded before Flop (didn't bet)
+Seat 3: DiabloNero81 showed [8h 9s] and lost with a pair of Nines
+Seat 4: RuBoard folded before Flop (didn't bet)
+Seat 5: gmyrik2020 (button) folded before Flop (didn't bet)
+Seat 6: k1dlucky (small blind) folded on the Flop
+Seat 7: ice_shoma (big blind) folded before Flop
+Seat 8: elketefuka folded before Flop (didn't bet)
+Seat 9: Finches86 showed [Qc Kc] and won (731) with a pair of Kings
+
+
+*********** # 6 **************
+PokerStars Hand #214991412025: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:18:58 ET
+Table '2928220950 2' 9-max Seat #6 is the button
+Seat 1: All1n_Call (1425 in chips)
+Seat 2: dini1969 (1592 in chips)
+Seat 4: RuBoard (2876 in chips)
+Seat 5: gmyrik2020 (1612 in chips)
+Seat 6: k1dlucky (1345 in chips)
+Seat 7: ice_shoma (1465 in chips)
+Seat 8: elketefuka (1431 in chips)
+Seat 9: Finches86 (1754 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+ice_shoma: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Ad 3h]
+Finches86: calls 20
+All1n_Call: folds
+dini1969: raises 1569 to 1589 and is all-in
+RuBoard: folds
+gmyrik2020: folds
+k1dlucky: folds
+ice_shoma: folds
+elketefuka: folds
+Finches86: folds
+Uncalled bet (1569) returned to dini1969
+dini1969 collected 94 from pot
+dini1969: doesn't show hand
+*** SUMMARY ***
+Total pot 94 | Rake 0
+Seat 1: All1n_Call folded before Flop (didn't bet)
+Seat 2: dini1969 collected (94)
+Seat 4: RuBoard folded before Flop (didn't bet)
+Seat 5: gmyrik2020 folded before Flop (didn't bet)
+Seat 6: k1dlucky (button) folded before Flop (didn't bet)
+Seat 7: ice_shoma (small blind) folded before Flop
+Seat 8: elketefuka (big blind) folded before Flop
+Seat 9: Finches86 folded before Flop
+
+
+*********** # 7 **************
+PokerStars Hand #214991446094: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:19:44 ET
+Table '2928220950 2' 9-max Seat #7 is the button
+Seat 1: All1n_Call (1422 in chips)
+Seat 2: dini1969 (1663 in chips)
+Seat 4: RuBoard (2873 in chips)
+Seat 5: gmyrik2020 (1609 in chips)
+Seat 6: k1dlucky (1342 in chips)
+Seat 7: ice_shoma (1452 in chips)
+Seat 8: elketefuka (1408 in chips)
+Seat 9: Finches86 (1731 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+elketefuka: posts small blind 10
+Finches86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [6h 3s]
+All1n_Call: raises 20 to 40
+dini1969: folds
+RuBoard: folds
+gmyrik2020: calls 40
+k1dlucky: calls 40
+ice_shoma: folds
+elketefuka: folds
+Finches86: raises 20 to 60
+All1n_Call: calls 20
+gmyrik2020: calls 20
+k1dlucky: calls 20
+*** FLOP *** [7h 5s As]
+Finches86: bets 20
+All1n_Call: folds
+gmyrik2020: raises 60 to 80
+k1dlucky: folds
+Finches86: folds
+Uncalled bet (60) returned to gmyrik2020
+gmyrik2020 collected 314 from pot
+gmyrik2020: doesn't show hand
+*** SUMMARY ***
+Total pot 314 | Rake 0
+Board [7h 5s As]
+Seat 1: All1n_Call folded on the Flop
+Seat 2: dini1969 folded before Flop (didn't bet)
+Seat 4: RuBoard folded before Flop (didn't bet)
+Seat 5: gmyrik2020 collected (314)
+Seat 6: k1dlucky folded on the Flop
+Seat 7: ice_shoma (button) folded before Flop (didn't bet)
+Seat 8: elketefuka (small blind) folded before Flop
+Seat 9: Finches86 (big blind) folded on the Flop
+
+
+*********** # 8 **************
+PokerStars Hand #214991505305: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:21:04 ET
+Table '2928220950 2' 9-max Seat #8 is the button
+Seat 1: All1n_Call (1359 in chips)
+Seat 2: dini1969 (1660 in chips)
+Seat 4: RuBoard (2870 in chips)
+Seat 5: gmyrik2020 (1840 in chips)
+Seat 6: k1dlucky (1279 in chips)
+Seat 7: ice_shoma (1449 in chips)
+Seat 8: elketefuka (1395 in chips)
+Seat 9: Finches86 (1648 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+Finches86: posts small blind 10
+All1n_Call: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 3c]
+dini1969: calls 20
+RuBoard: folds
+gmyrik2020: calls 20
+k1dlucky: folds
+ice_shoma: raises 60 to 80
+elketefuka: folds
+Finches86: calls 70
+All1n_Call: folds
+dini1969: calls 60
+gmyrik2020: folds
+*** FLOP *** [5c Qd Ah]
+Finches86: bets 40
+dini1969: raises 1537 to 1577 and is all-in
+ice_shoma: folds
+Finches86: folds
+Uncalled bet (1537) returned to dini1969
+dini1969 collected 384 from pot
+dini1969: doesn't show hand
+*** SUMMARY ***
+Total pot 384 | Rake 0
+Board [5c Qd Ah]
+Seat 1: All1n_Call (big blind) folded before Flop
+Seat 2: dini1969 collected (384)
+Seat 4: RuBoard folded before Flop (didn't bet)
+Seat 5: gmyrik2020 folded before Flop
+Seat 6: k1dlucky folded before Flop (didn't bet)
+Seat 7: ice_shoma folded on the Flop
+Seat 8: elketefuka (button) folded before Flop (didn't bet)
+Seat 9: Finches86 (small blind) folded on the Flop
+
+
+*********** # 9 **************
+PokerStars Hand #214991558603: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/06 13:22:15 ET
+Table '2928220950 2' 9-max Seat #9 is the button
+Seat 1: All1n_Call (1336 in chips)
+Seat 2: dini1969 (1921 in chips)
+Seat 4: RuBoard (2867 in chips)
+Seat 5: gmyrik2020 (1817 in chips)
+Seat 6: k1dlucky (1276 in chips)
+Seat 7: ice_shoma (1366 in chips)
+Seat 8: elketefuka (1392 in chips)
+Seat 9: Finches86 (1525 in chips)
+All1n_Call: posts the ante 3
+dini1969: posts the ante 3
+RuBoard: posts the ante 3
+gmyrik2020: posts the ante 3
+k1dlucky: posts the ante 3
+ice_shoma: posts the ante 3
+elketefuka: posts the ante 3
+Finches86: posts the ante 3
+All1n_Call: posts small blind 10
+dini1969: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 6c]
+RuBoard: raises 40 to 60
+gmyrik2020: calls 60
+k1dlucky: folds
+ice_shoma: folds
+elketefuka: folds
+Finches86: folds
+All1n_Call: folds
+dini1969: calls 40
+*** FLOP *** [6s Td 9s]
+dini1969: checks
+RuBoard: checks
+gmyrik2020: checks
+*** TURN *** [6s Td 9s] [Th]
+dini1969: checks
+RuBoard: checks
+gmyrik2020: checks
+*** RIVER *** [6s Td 9s Th] [Ks]
+dini1969: checks
+RuBoard: checks
+gmyrik2020: checks
+*** SHOW DOWN ***
+dini1969: shows [2h Ah] (a pair of Tens)
+RuBoard: shows [3c 3d] (two pair, Tens and Threes)
+gmyrik2020: mucks hand
+RuBoard collected 214 from pot
+*** SUMMARY ***
+Total pot 214 | Rake 0
+Board [6s Td 9s Th Ks]
+Seat 1: All1n_Call (small blind) folded before Flop
+Seat 2: dini1969 (big blind) showed [2h Ah] and lost with a pair of Tens
+Seat 4: RuBoard showed [3c 3d] and won (214) with two pair, Tens and Threes
+Seat 5: gmyrik2020 mucked [Qd 8h]
+Seat 6: k1dlucky folded before Flop (didn't bet)
+Seat 7: ice_shoma folded before Flop (didn't bet)
+Seat 8: elketefuka folded before Flop (didn't bet)
+Seat 9: Finches86 (button) folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #214991615319: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 13:23:31 ET
+Table '2928220950 2' 9-max Seat #1 is the button
+Seat 1: All1n_Call (1323 in chips)
+Seat 2: dini1969 (1858 in chips)
+Seat 4: RuBoard (3018 in chips)
+Seat 5: gmyrik2020 (1754 in chips)
+Seat 6: k1dlucky (1273 in chips)
+Seat 7: ice_shoma (1363 in chips)
+Seat 8: elketefuka (1389 in chips)
+Seat 9: Finches86 (1522 in chips)
+All1n_Call: posts the ante 4
+dini1969: posts the ante 4
+RuBoard: posts the ante 4
+gmyrik2020: posts the ante 4
+k1dlucky: posts the ante 4
+ice_shoma: posts the ante 4
+elketefuka: posts the ante 4
+Finches86: posts the ante 4
+dini1969: posts small blind 15
+RuBoard: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [5h 3d]
+gmyrik2020: folds
+k1dlucky: folds
+ice_shoma: folds
+elketefuka: folds
+Finches86: calls 30
+All1n_Call: raises 90 to 120
+dini1969: folds
+RuBoard: folds
+Finches86: folds
+Uncalled bet (90) returned to All1n_Call
+All1n_Call collected 137 from pot
+All1n_Call: doesn't show hand
+*** SUMMARY ***
+Total pot 137 | Rake 0
+Seat 1: All1n_Call (button) collected (137)
+Seat 2: dini1969 (small blind) folded before Flop
+Seat 4: RuBoard (big blind) folded before Flop
+Seat 5: gmyrik2020 folded before Flop (didn't bet)
+Seat 6: k1dlucky folded before Flop (didn't bet)
+Seat 7: ice_shoma folded before Flop (didn't bet)
+Seat 8: elketefuka folded before Flop (didn't bet)
+Seat 9: Finches86 folded before Flop
+
+
+*********** # 11 **************
+PokerStars Hand #214991648693: Tournament #2928220950, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/06 13:24:16 ET
+Table '2928220950 2' 9-max Seat #2 is the button
+Seat 1: All1n_Call (1426 in chips)
+Seat 2: dini1969 (1839 in chips)
+Seat 4: RuBoard (2984 in chips)
+Seat 5: gmyrik2020 (1750 in chips)
+Seat 6: k1dlucky (1269 in chips)
+Seat 7: ice_shoma (1359 in chips)
+Seat 8: elketefuka (1385 in chips)
+Seat 9: Finches86 (1488 in chips)
+All1n_Call: posts the ante 4
+dini1969: posts the ante 4
+RuBoard: posts the ante 4
+gmyrik2020: posts the ante 4
+k1dlucky: posts the ante 4
+ice_shoma: posts the ante 4
+elketefuka: posts the ante 4
+Finches86: posts the ante 4
+RuBoard: posts small blind 15
+gmyrik2020: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Jd Ad]
+k1dlucky: folds
+ice_shoma: folds
+elketefuka: raises 60 to 90
+Finches86: folds
+All1n_Call: calls 90
+dini1969: calls 90
+RuBoard: folds
+gmyrik2020: calls 60
+*** FLOP *** [9s As 7d]
+gmyrik2020: bets 210
+elketefuka: calls 210
+All1n_Call: folds
+dini1969: calls 210
+*** TURN *** [9s As 7d] [3h]
+gmyrik2020: bets 510
+elketefuka: raises 571 to 1081 and is all-in
+dini1969: folds
+gmyrik2020: calls 571
+*** RIVER *** [9s As 7d 3h] [2h]
+*** SHOW DOWN ***
+gmyrik2020: shows [2c Ac] (two pair, Aces and Deuces)
+elketefuka: shows [Jd Ad] (a pair of Aces)
+gmyrik2020 collected 3199 from pot
+elketefuka finished the tournament in 38th place
+*** SUMMARY ***
+Total pot 3199 | Rake 0
+Board [9s As 7d 3h 2h]
+Seat 1: All1n_Call folded on the Flop
+Seat 2: dini1969 (button) folded on the Turn
+Seat 4: RuBoard (small blind) folded before Flop
+Seat 5: gmyrik2020 (big blind) showed [2c Ac] and won (3199) with two pair, Aces and Deuces
+Seat 6: k1dlucky folded before Flop (didn't bet)
+Seat 7: ice_shoma folded before Flop (didn't bet)
+Seat 8: elketefuka showed [Jd Ad] and lost with a pair of Aces
+Seat 9: Finches86 folded before Flop (didn't bet)
