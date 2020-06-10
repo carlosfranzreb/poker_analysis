@@ -1,0 +1,5135 @@
+
+*********** # 1 **************
+PokerStars Hand #215158456207: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:56:55 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: Dr.Brachial (1500 in chips)
+Seat 2: mfranzreb (1500 in chips)
+Seat 3: elketefuka (1500 in chips)
+Seat 4: zsike4 (1500 in chips)
+Seat 5: Kaimundo (1500 in chips)
+Seat 6: blues147 (1500 in chips)
+Seat 7: ninel7 (1500 in chips)
+Seat 8: Kondr-KAV (1500 in chips)
+Seat 9: Tijolinhomau (1500 in chips)
+Dr.Brachial: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+zsike4: posts the ante 3
+Kaimundo: posts the ante 3
+blues147: posts the ante 3
+ninel7: posts the ante 3
+Kondr-KAV: posts the ante 3
+Tijolinhomau: posts the ante 3
+mfranzreb: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd Qs]
+zsike4: folds
+Kaimundo: folds
+blues147: folds
+ninel7 has timed out
+ninel7: folds
+ninel7 is sitting out
+Kondr-KAV: raises 40 to 60
+Tijolinhomau: calls 60
+Dr.Brachial has timed out
+Dr.Brachial: folds
+Dr.Brachial is sitting out
+mfranzreb: folds
+elketefuka: raises 180 to 240
+Kondr-KAV: folds
+Tijolinhomau: calls 180
+*** FLOP *** [Ts 4c 6h]
+Dr.Brachial has returned
+elketefuka: bets 480
+Tijolinhomau: folds
+Uncalled bet (480) returned to elketefuka
+elketefuka collected 577 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 577 | Rake 0
+Board [Ts 4c 6h]
+Seat 1: Dr.Brachial (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) folded before Flop
+Seat 3: elketefuka (big blind) collected (577)
+Seat 4: zsike4 folded before Flop (didn't bet)
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop
+Seat 9: Tijolinhomau folded on the Flop
+
+
+*********** # 2 **************
+PokerStars Hand #215158564990: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 13:00:36 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: Dr.Brachial (1497 in chips)
+Seat 2: mfranzreb (1487 in chips)
+Seat 3: elketefuka (1834 in chips)
+Seat 4: zsike4 (1497 in chips)
+Seat 5: Kaimundo (1497 in chips)
+Seat 6: blues147 (1497 in chips)
+Seat 7: ninel7 (1497 in chips) is sitting out
+Seat 8: Kondr-KAV (1437 in chips)
+Seat 9: Tijolinhomau (1257 in chips)
+Dr.Brachial: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+zsike4: posts the ante 3
+Kaimundo: posts the ante 3
+blues147: posts the ante 3
+ninel7: posts the ante 3
+Kondr-KAV: posts the ante 3
+Tijolinhomau: posts the ante 3
+elketefuka: posts small blind 10
+zsike4: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc Kh]
+Kaimundo: folds
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+ninel7 said, "6"
+Tijolinhomau: calls 20
+Dr.Brachial: calls 20
+ninel7 has returned
+mfranzreb: calls 20
+elketefuka: raises 60 to 80
+zsike4: calls 60
+Tijolinhomau: calls 60
+Dr.Brachial: calls 60
+mfranzreb: folds
+*** FLOP *** [Ks 2d Qd]
+elketefuka: bets 240
+zsike4: folds
+Tijolinhomau: folds
+Dr.Brachial: folds
+Uncalled bet (240) returned to elketefuka
+elketefuka collected 367 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 367 | Rake 0
+Board [Ks 2d Qd]
+Seat 1: Dr.Brachial folded on the Flop
+Seat 2: mfranzreb (button) folded before Flop
+Seat 3: elketefuka (small blind) collected (367)
+Seat 4: zsike4 (big blind) folded on the Flop
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded on the Flop
+
+
+*********** # 3 **************
+PokerStars Hand #215158607866: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 13:01:51 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: Dr.Brachial (1414 in chips)
+Seat 2: mfranzreb (1464 in chips)
+Seat 3: elketefuka (2118 in chips)
+Seat 4: zsike4 (1414 in chips)
+Seat 5: Kaimundo (1494 in chips)
+Seat 6: blues147 (1494 in chips)
+Seat 7: ninel7 (1494 in chips)
+Seat 8: Kondr-KAV (1434 in chips)
+Seat 9: Tijolinhomau (1174 in chips)
+Dr.Brachial: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+zsike4: posts the ante 3
+Kaimundo: posts the ante 3
+blues147: posts the ante 3
+ninel7: posts the ante 3
+Kondr-KAV: posts the ante 3
+Tijolinhomau: posts the ante 3
+zsike4: posts small blind 10
+Kaimundo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [8s Ks]
+blues147: folds
+ninel7: raises 40 to 60
+Kondr-KAV: folds
+Tijolinhomau: folds
+Dr.Brachial: calls 60
+mfranzreb: folds
+elketefuka: calls 60
+zsike4: calls 50
+Kaimundo: folds
+*** FLOP *** [4c Ac Ts]
+zsike4: checks
+ninel7: checks
+Dr.Brachial: checks
+elketefuka: checks
+*** TURN *** [4c Ac Ts] [2d]
+zsike4: checks
+ninel7: checks
+Dr.Brachial: checks
+elketefuka: bets 160
+zsike4: folds
+ninel7: folds
+Dr.Brachial: folds
+Uncalled bet (160) returned to elketefuka
+elketefuka collected 287 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 287 | Rake 0
+Board [4c Ac Ts 2d]
+Seat 1: Dr.Brachial folded on the Turn
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) collected (287)
+Seat 4: zsike4 (small blind) folded on the Turn
+Seat 5: Kaimundo (big blind) folded before Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded on the Turn
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 4 **************
+PokerStars Hand #215158638834: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 13:02:41 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 1: Dr.Brachial (1351 in chips)
+Seat 2: mfranzreb (1461 in chips)
+Seat 3: elketefuka (2342 in chips)
+Seat 4: zsike4 (1351 in chips)
+Seat 5: Kaimundo (1471 in chips)
+Seat 6: blues147 (1491 in chips)
+Seat 7: ninel7 (1431 in chips)
+Seat 8: Kondr-KAV (1431 in chips)
+Seat 9: Tijolinhomau (1171 in chips)
+Dr.Brachial: posts the ante 3
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+zsike4: posts the ante 3
+Kaimundo: posts the ante 3
+blues147: posts the ante 3
+ninel7: posts the ante 3
+Kondr-KAV: posts the ante 3
+Tijolinhomau: posts the ante 3
+Kaimundo: posts small blind 10
+blues147: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [6s Td]
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: calls 20
+Dr.Brachial: calls 20
+mfranzreb: calls 20
+elketefuka: folds
+zsike4: calls 20
+Kaimundo: calls 10
+blues147: checks
+*** FLOP *** [3s 3h 8d]
+Kaimundo: checks
+blues147: checks
+Tijolinhomau: checks
+Dr.Brachial: checks
+mfranzreb: checks
+zsike4: checks
+*** TURN *** [3s 3h 8d] [2d]
+Kaimundo: checks
+blues147: checks
+Tijolinhomau: checks
+Dr.Brachial: bets 80
+mfranzreb: calls 80
+zsike4: folds
+Kaimundo: folds
+blues147: folds
+Tijolinhomau: folds
+*** RIVER *** [3s 3h 8d 2d] [2c]
+Dr.Brachial: bets 300
+mfranzreb: raises 500 to 800
+Dr.Brachial: calls 500
+*** SHOW DOWN ***
+mfranzreb: shows [3c 3d] (four of a kind, Threes)
+Dr.Brachial: mucks hand
+mfranzreb collected 1907 from pot
+*** SUMMARY ***
+Total pot 1907 | Rake 0
+Board [3s 3h 8d 2d 2c]
+Seat 1: Dr.Brachial mucked [2h Ks]
+Seat 2: mfranzreb showed [3c 3d] and won (1907) with four of a kind, Threes
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: zsike4 (button) folded on the Turn
+Seat 5: Kaimundo (small blind) folded on the Turn
+Seat 6: blues147 (big blind) folded on the Turn
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded on the Turn
+
+
+*********** # 5 **************
+PokerStars Hand #215158696657: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 13:04:12 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 2: mfranzreb (2465 in chips)
+Seat 3: elketefuka (2339 in chips)
+Seat 4: zsike4 (1328 in chips)
+Seat 5: Kaimundo (1448 in chips)
+Seat 6: blues147 (1468 in chips)
+Seat 7: ninel7 (1428 in chips)
+Seat 8: Kondr-KAV (1428 in chips)
+Seat 9: Tijolinhomau (1148 in chips)
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+zsike4: posts the ante 3
+Kaimundo: posts the ante 3
+blues147: posts the ante 3
+ninel7: posts the ante 3
+Kondr-KAV: posts the ante 3
+Tijolinhomau: posts the ante 3
+blues147: posts small blind 10
+ninel7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [9c 2s]
+Kondr-KAV: folds
+Tijolinhomau: calls 20
+mfranzreb: folds
+elketefuka: folds
+zsike4: calls 20
+Kaimundo: folds
+blues147: calls 10
+ninel7: checks
+*** FLOP *** [2h 2c Ks]
+blues147 has timed out
+blues147: checks
+ninel7: checks
+Tijolinhomau: bets 52
+zsike4: folds
+blues147: folds
+ninel7: folds
+Uncalled bet (52) returned to Tijolinhomau
+Tijolinhomau collected 104 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 104 | Rake 0
+Board [2h 2c Ks]
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: zsike4 folded on the Flop
+Seat 5: Kaimundo (button) folded before Flop (didn't bet)
+Seat 6: blues147 (small blind) folded on the Flop
+Seat 7: ninel7 (big blind) folded on the Flop
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau collected (104)
+
+
+*********** # 6 **************
+PokerStars Hand #215158775438: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 13:06:10 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 2: mfranzreb (2462 in chips)
+Seat 3: elketefuka (2336 in chips)
+Seat 4: zsike4 (1305 in chips)
+Seat 5: Kaimundo (1445 in chips)
+Seat 6: blues147 (1445 in chips)
+Seat 7: ninel7 (1405 in chips)
+Seat 8: Kondr-KAV (1425 in chips)
+Seat 9: Tijolinhomau (1229 in chips)
+mfranzreb: posts the ante 3
+elketefuka: posts the ante 3
+zsike4: posts the ante 3
+Kaimundo: posts the ante 3
+blues147: posts the ante 3
+ninel7: posts the ante 3
+Kondr-KAV: posts the ante 3
+Tijolinhomau: posts the ante 3
+ninel7: posts small blind 10
+Kondr-KAV: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd Jd]
+Tijolinhomau: folds
+mfranzreb: folds
+elketefuka: raises 40 to 60
+zsike4: calls 60
+Kaimundo: folds
+blues147: raises 1382 to 1442 and is all-in
+ninel7: folds
+Kondr-KAV: folds
+elketefuka: folds
+zsike4: folds
+Uncalled bet (1382) returned to blues147
+blues147 collected 234 from pot
+blues147: doesn't show hand
+*** SUMMARY ***
+Total pot 234 | Rake 0
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop
+Seat 4: zsike4 folded before Flop
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 (button) collected (234)
+Seat 7: ninel7 (small blind) folded before Flop
+Seat 8: Kondr-KAV (big blind) folded before Flop
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #215158798835: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 13:06:44 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 3: elketefuka (2273 in chips)
+Seat 4: zsike4 (1242 in chips)
+Seat 5: Kaimundo (1442 in chips)
+Seat 6: blues147 (1616 in chips)
+Seat 7: ninel7 (1392 in chips)
+Seat 8: Kondr-KAV (1402 in chips)
+Seat 9: Tijolinhomau (1226 in chips)
+elketefuka: posts the ante 3
+zsike4: posts the ante 3
+Kaimundo: posts the ante 3
+blues147: posts the ante 3
+ninel7: posts the ante 3
+Kondr-KAV: posts the ante 3
+Tijolinhomau: posts the ante 3
+Kondr-KAV: posts small blind 10
+Tijolinhomau: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [3c 9d]
+elketefuka: folds
+zsike4: calls 20
+Kaimundo: folds
+blues147: folds
+ninel7: folds
+Kondr-KAV: calls 10
+Tijolinhomau: raises 20 to 40
+zsike4: calls 20
+Kondr-KAV: calls 20
+*** FLOP *** [Ad 2c 8s]
+Kondr-KAV: checks
+Tijolinhomau: bets 71
+zsike4: folds
+Kondr-KAV: folds
+Uncalled bet (71) returned to Tijolinhomau
+Tijolinhomau collected 141 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 141 | Rake 0
+Board [Ad 2c 8s]
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: zsike4 folded on the Flop
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 (button) folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (small blind) folded on the Flop
+Seat 9: Tijolinhomau (big blind) collected (141)
+
+
+*********** # 8 **************
+PokerStars Hand #215158838459: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:07:42 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 3: elketefuka (2270 in chips)
+Seat 4: zsike4 (1199 in chips)
+Seat 5: Kaimundo (1439 in chips)
+Seat 6: blues147 (1613 in chips)
+Seat 7: ninel7 (1389 in chips)
+Seat 8: Kondr-KAV (1359 in chips)
+Seat 9: Tijolinhomau (1324 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+Tijolinhomau: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 9d]
+zsike4: calls 30
+Kaimundo: folds
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: calls 15
+elketefuka: checks
+*** FLOP *** [5h 5d Js]
+Tijolinhomau: checks
+elketefuka: checks
+zsike4: checks
+*** TURN *** [5h 5d Js] [3c]
+Tijolinhomau: bets 118
+elketefuka: folds
+zsike4: folds
+Uncalled bet (118) returned to Tijolinhomau
+Tijolinhomau collected 118 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 118 | Rake 0
+Board [5h 5d Js 3c]
+Seat 3: elketefuka (big blind) folded on the Turn
+Seat 4: zsike4 folded on the Turn
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (button) folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (small blind) collected (118)
+
+
+*********** # 9 **************
+PokerStars Hand #215158868753: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:08:27 ET
+Table '2931808908 3' 9-max Seat #9 is the button
+Seat 3: elketefuka (2236 in chips)
+Seat 4: zsike4 (1165 in chips)
+Seat 5: Kaimundo (1435 in chips)
+Seat 6: blues147 (1609 in chips)
+Seat 7: ninel7 (1385 in chips)
+Seat 8: Kondr-KAV (1355 in chips)
+Seat 9: Tijolinhomau (1408 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+elketefuka: posts small blind 15
+zsike4: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc Th]
+Kaimundo: raises 30 to 60
+blues147: folds
+ninel7: calls 60
+Kondr-KAV: folds
+Tijolinhomau: calls 60
+elketefuka: calls 45
+zsike4: folds
+*** FLOP *** [9s Tc Ad]
+elketefuka: checks
+Kaimundo: checks
+ninel7: checks
+Tijolinhomau: bets 30
+elketefuka: raises 118 to 148
+Kaimundo: folds
+ninel7: calls 148
+Tijolinhomau: calls 118
+*** TURN *** [9s Tc Ad] [Kh]
+elketefuka: checks
+ninel7: checks
+Tijolinhomau: bets 195
+elketefuka: folds
+ninel7: folds
+Uncalled bet (195) returned to Tijolinhomau
+Tijolinhomau collected 742 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 742 | Rake 0
+Board [9s Tc Ad Kh]
+Seat 3: elketefuka (small blind) folded on the Turn
+Seat 4: zsike4 (big blind) folded before Flop
+Seat 5: Kaimundo folded on the Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded on the Turn
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (button) collected (742)
+
+
+*********** # 10 **************
+PokerStars Hand #215158928296: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:09:56 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 3: elketefuka (2024 in chips)
+Seat 4: zsike4 (1131 in chips)
+Seat 5: Kaimundo (1371 in chips)
+Seat 6: blues147 (1605 in chips)
+Seat 7: ninel7 (1173 in chips)
+Seat 8: Kondr-KAV (1351 in chips)
+Seat 9: Tijolinhomau (1938 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+zsike4: posts small blind 15
+Kaimundo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 4h]
+blues147: folds
+ninel7: folds
+Kondr-KAV: calls 30
+Tijolinhomau: raises 30 to 60
+elketefuka: folds
+zsike4: calls 45
+Kaimundo: folds
+Kondr-KAV: calls 30
+*** FLOP *** [Jh Tc 9h]
+zsike4: checks
+Kondr-KAV: bets 119
+Tijolinhomau: calls 119
+zsike4: calls 119
+*** TURN *** [Jh Tc 9h] [9d]
+zsike4: checks
+Kondr-KAV: bets 298
+Tijolinhomau: calls 298
+zsike4: calls 298
+*** RIVER *** [Jh Tc 9h 9d] [7s]
+zsike4: checks
+Kondr-KAV: checks
+Tijolinhomau: bets 1457 and is all-in
+zsike4: folds
+Kondr-KAV: folds
+Uncalled bet (1457) returned to Tijolinhomau
+Tijolinhomau collected 1489 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 1489 | Rake 0
+Board [Jh Tc 9h 9d 7s]
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: zsike4 (small blind) folded on the River
+Seat 5: Kaimundo (big blind) folded before Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded on the River
+Seat 9: Tijolinhomau collected (1489)
+
+
+*********** # 11 **************
+PokerStars Hand #215158977021: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:10:56 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 3: elketefuka (2020 in chips)
+Seat 4: zsike4 (650 in chips)
+Seat 5: Kaimundo (1337 in chips)
+Seat 6: blues147 (1601 in chips)
+Seat 7: ninel7 (1169 in chips)
+Seat 8: Kondr-KAV (870 in chips)
+Seat 9: Tijolinhomau (2946 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+Kaimundo: posts small blind 15
+blues147: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 5h]
+ninel7: folds
+Kondr-KAV: calls 30
+Tijolinhomau: calls 30
+elketefuka: folds
+zsike4: calls 30
+Kaimundo: calls 15
+blues147: checks
+*** FLOP *** [8s 5s Td]
+Kaimundo: checks
+blues147: bets 30
+Kondr-KAV: calls 30
+Tijolinhomau: calls 30
+zsike4: folds
+Kaimundo: folds
+*** TURN *** [8s 5s Td] [7c]
+blues147: checks
+Kondr-KAV: bets 134
+Tijolinhomau: calls 134
+blues147: calls 134
+*** RIVER *** [8s 5s Td 7c] [9h]
+blues147: checks
+Kondr-KAV: checks
+Tijolinhomau: checks
+*** SHOW DOWN ***
+blues147: shows [Qs 2s] (high card Queen)
+Kondr-KAV: shows [6d 4d] (a straight, Six to Ten)
+Tijolinhomau: mucks hand
+Kondr-KAV collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0
+Board [8s 5s Td 7c 9h]
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: zsike4 (button) folded on the Flop
+Seat 5: Kaimundo (small blind) folded on the Flop
+Seat 6: blues147 (big blind) showed [Qs 2s] and lost with high card Queen
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV showed [6d 4d] and won (670) with a straight, Six to Ten
+Seat 9: Tijolinhomau mucked [5c Ts]
+
+
+*********** # 12 **************
+PokerStars Hand #215159018152: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:11:58 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 3: elketefuka (2016 in chips)
+Seat 4: zsike4 (616 in chips)
+Seat 5: Kaimundo (1303 in chips)
+Seat 6: blues147 (1403 in chips)
+Seat 7: ninel7 (1165 in chips)
+Seat 8: Kondr-KAV (1342 in chips)
+Seat 9: Tijolinhomau (2748 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+blues147: posts small blind 15
+ninel7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [4s 2h]
+Kondr-KAV: folds
+Tijolinhomau: calls 30
+elketefuka: folds
+zsike4: folds
+Kaimundo: calls 30
+blues147: calls 15
+ninel7: checks
+*** FLOP *** [Ks Th Qd]
+blues147: checks
+ninel7: bets 104
+Tijolinhomau: folds
+Kaimundo: folds
+blues147: folds
+Uncalled bet (104) returned to ninel7
+ninel7 collected 148 from pot
+ninel7: doesn't show hand
+*** SUMMARY ***
+Total pot 148 | Rake 0
+Board [Ks Th Qd]
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: zsike4 folded before Flop (didn't bet)
+Seat 5: Kaimundo (button) folded on the Flop
+Seat 6: blues147 (small blind) folded on the Flop
+Seat 7: ninel7 (big blind) collected (148)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded on the Flop
+
+
+*********** # 13 **************
+PokerStars Hand #215159046940: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:12:41 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 3: elketefuka (2012 in chips)
+Seat 4: zsike4 (612 in chips)
+Seat 5: Kaimundo (1269 in chips)
+Seat 6: blues147 (1369 in chips)
+Seat 7: ninel7 (1279 in chips)
+Seat 8: Kondr-KAV (1338 in chips)
+Seat 9: Tijolinhomau (2714 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+ninel7: posts small blind 15
+Kondr-KAV: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts 8h]
+Tijolinhomau: calls 30
+elketefuka: folds
+zsike4: calls 30
+Kaimundo: calls 30
+blues147: calls 30
+ninel7: calls 15
+Kondr-KAV: checks
+*** FLOP *** [8c 6c Qs]
+ninel7: checks
+Kondr-KAV: checks
+Tijolinhomau: checks
+zsike4: bets 578 and is all-in
+Kaimundo: calls 578
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: folds
+*** TURN *** [8c 6c Qs] [5h]
+*** RIVER *** [8c 6c Qs 5h] [7s]
+*** SHOW DOWN ***
+zsike4: shows [Qd 2d] (a pair of Queens)
+Kaimundo: shows [Tc Kc] (high card King)
+zsike4 collected 1364 from pot
+*** SUMMARY ***
+Total pot 1364 | Rake 0
+Board [8c 6c Qs 5h 7s]
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: zsike4 showed [Qd 2d] and won (1364) with a pair of Queens
+Seat 5: Kaimundo showed [Tc Kc] and lost with high card King
+Seat 6: blues147 (button) folded on the Flop
+Seat 7: ninel7 (small blind) folded on the Flop
+Seat 8: Kondr-KAV (big blind) folded on the Flop
+Seat 9: Tijolinhomau folded on the Flop
+
+
+*********** # 14 **************
+PokerStars Hand #215159084198: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:13:37 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 3: elketefuka (2008 in chips)
+Seat 4: zsike4 (1364 in chips)
+Seat 5: Kaimundo (657 in chips)
+Seat 6: blues147 (1335 in chips)
+Seat 7: ninel7 (1245 in chips)
+Seat 8: Kondr-KAV (1304 in chips)
+Seat 9: Tijolinhomau (2680 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+Kondr-KAV: posts small blind 15
+Tijolinhomau: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd Ac]
+elketefuka: raises 60 to 90
+zsike4: calls 90
+Kaimundo: calls 90
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: calls 60
+*** FLOP *** [As Kd 4h]
+Tijolinhomau: checks
+elketefuka: bets 202
+zsike4: folds
+Kaimundo: calls 202
+Tijolinhomau: folds
+*** TURN *** [As Kd 4h] [5d]
+elketefuka: bets 630
+Kaimundo: calls 361 and is all-in
+Uncalled bet (269) returned to elketefuka
+*** RIVER *** [As Kd 4h 5d] [4c]
+*** SHOW DOWN ***
+elketefuka: shows [Qd Ac] (two pair, Aces and Fours)
+Kaimundo: shows [Ah 6c] (two pair, Aces and Fours)
+elketefuka collected 765 from pot
+Kaimundo collected 764 from pot
+*** SUMMARY ***
+Total pot 1529 | Rake 0
+Board [As Kd 4h 5d 4c]
+Seat 3: elketefuka showed [Qd Ac] and won (765) with two pair, Aces and Fours
+Seat 4: zsike4 folded on the Flop
+Seat 5: Kaimundo showed [Ah 6c] and won (764) with two pair, Aces and Fours
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 (button) folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (small blind) folded before Flop
+Seat 9: Tijolinhomau (big blind) folded on the Flop
+
+
+*********** # 15 **************
+PokerStars Hand #215159121125: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:14:34 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 3: elketefuka (2116 in chips)
+Seat 4: zsike4 (1270 in chips)
+Seat 5: Kaimundo (764 in chips)
+Seat 6: blues147 (1331 in chips)
+Seat 7: ninel7 (1241 in chips)
+Seat 8: Kondr-KAV (1285 in chips)
+Seat 9: Tijolinhomau (2586 in chips)
+elketefuka: posts the ante 4
+zsike4: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+Tijolinhomau: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc 7s]
+zsike4: calls 30
+Kaimundo: calls 30
+blues147: raises 60 to 90
+ninel7: folds
+Kondr-KAV: calls 90
+Tijolinhomau: folds
+elketefuka: folds
+zsike4: calls 60
+Kaimundo: calls 60
+*** FLOP *** [8c Jh 9s]
+zsike4: checks
+Kaimundo: checks
+blues147: bets 433
+Kondr-KAV: folds
+zsike4: raises 743 to 1176 and is all-in
+Kaimundo: folds
+blues147: calls 743
+*** TURN *** [8c Jh 9s] [6c]
+*** RIVER *** [8c Jh 9s 6c] [Ks]
+*** SHOW DOWN ***
+zsike4: shows [9c 3c] (a pair of Nines)
+blues147: shows [Qs Qh] (a pair of Queens)
+blues147 collected 2785 from pot
+zsike4 finished the tournament in 36th place
+*** SUMMARY ***
+Total pot 2785 | Rake 0
+Board [8c Jh 9s 6c Ks]
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 4: zsike4 showed [9c 3c] and lost with a pair of Nines
+Seat 5: Kaimundo folded on the Flop
+Seat 6: blues147 showed [Qs Qh] and won (2785) with a pair of Queens
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (button) folded on the Flop
+Seat 9: Tijolinhomau (small blind) folded before Flop
+
+
+*********** # 16 **************
+PokerStars Hand #215159173040: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:15:52 ET
+Table '2931808908 3' 9-max Seat #9 is the button
+Seat 1: WRN10 (1375 in chips) out of hand (moved from another table into small blind)
+Seat 2: JhontaBR (2356 in chips) out of hand (moved from another table into small blind)
+Seat 3: elketefuka (2082 in chips)
+Seat 5: Kaimundo (670 in chips)
+Seat 6: blues147 (2846 in chips)
+Seat 7: ninel7 (1237 in chips)
+Seat 8: Kondr-KAV (1191 in chips)
+Seat 9: Tijolinhomau (2567 in chips)
+WRN10 will be allowed to play after the button
+JhontaBR will be allowed to play after the button
+elketefuka: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+elketefuka: posts small blind 15
+Kaimundo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [5h 2h]
+blues147: folds
+ninel7: folds
+Kondr-KAV: calls 30
+Tijolinhomau: calls 30
+elketefuka: folds
+Kaimundo: checks
+*** FLOP *** [7c 8c Qc]
+Kaimundo: checks
+Kondr-KAV: checks
+Tijolinhomau: bets 45
+Kaimundo: folds
+Kondr-KAV: folds
+Uncalled bet (45) returned to Tijolinhomau
+Tijolinhomau collected 129 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 129 | Rake 0
+Board [7c 8c Qc]
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: Kaimundo (big blind) folded on the Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded on the Flop
+Seat 9: Tijolinhomau (button) collected (129)
+
+
+*********** # 17 **************
+PokerStars Hand #215159191890: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 13:16:21 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (1375 in chips)
+Seat 2: JhontaBR (2356 in chips)
+Seat 3: elketefuka (2063 in chips)
+Seat 5: Kaimundo (636 in chips)
+Seat 6: blues147 (2842 in chips)
+Seat 7: ninel7 (1233 in chips)
+Seat 8: Kondr-KAV (1157 in chips)
+Seat 9: Tijolinhomau (2662 in chips)
+WRN10: posts the ante 4
+JhontaBR: posts the ante 4
+elketefuka: posts the ante 4
+Kaimundo: posts the ante 4
+blues147: posts the ante 4
+ninel7: posts the ante 4
+Kondr-KAV: posts the ante 4
+Tijolinhomau: posts the ante 4
+Kaimundo: posts small blind 15
+blues147: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [9s 8d]
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: calls 30
+WRN10: folds
+JhontaBR: folds
+elketefuka: calls 30
+Kaimundo: calls 15
+blues147: raises 152 to 182
+Tijolinhomau: folds
+elketefuka: folds
+Kaimundo: calls 152
+*** FLOP *** [5h 3d Kc]
+Kaimundo: bets 450 and is all-in
+blues147: calls 450
+*** TURN *** [5h 3d Kc] [Jc]
+*** RIVER *** [5h 3d Kc Jc] [Ks]
+*** SHOW DOWN ***
+Kaimundo: shows [Td Kd] (three of a kind, Kings)
+blues147: shows [Qc Ac] (a pair of Kings)
+Kaimundo collected 1356 from pot
+*** SUMMARY ***
+Total pot 1356 | Rake 0
+Board [5h 3d Kc Jc Ks]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: JhontaBR folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop
+Seat 5: Kaimundo (small blind) showed [Td Kd] and won (1356) with three of a kind, Kings
+Seat 6: blues147 (big blind) showed [Qc Ac] and lost with a pair of Kings
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop
+
+
+*********** # 18 **************
+PokerStars Hand #215159227856: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:17:15 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (1371 in chips)
+Seat 2: JhontaBR (2352 in chips)
+Seat 3: elketefuka (2029 in chips)
+Seat 5: Kaimundo (1356 in chips)
+Seat 6: blues147 (2206 in chips)
+Seat 7: ninel7 (1229 in chips)
+Seat 8: Kondr-KAV (1153 in chips)
+Seat 9: Tijolinhomau (2628 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+blues147: posts small blind 25
+ninel7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3h Td]
+Kondr-KAV: folds
+Tijolinhomau: calls 50
+WRN10: calls 50
+JhontaBR: calls 50
+elketefuka: folds
+Kaimundo: folds
+blues147: calls 25
+ninel7: checks
+*** FLOP *** [Th 7h 5s]
+blues147: checks
+ninel7: checks
+Tijolinhomau: checks
+WRN10: checks
+JhontaBR: bets 150
+blues147: calls 150
+ninel7: calls 150
+Tijolinhomau: calls 150
+WRN10: folds
+*** TURN *** [Th 7h 5s] [6d]
+blues147: bets 449
+ninel7: folds
+Tijolinhomau: calls 449
+JhontaBR: folds
+*** RIVER *** [Th 7h 5s 6d] [2h]
+blues147: checks
+Tijolinhomau: checks
+*** SHOW DOWN ***
+blues147: shows [6c 7d] (two pair, Sevens and Sixes)
+Tijolinhomau: mucks hand
+blues147 collected 1796 from pot
+*** SUMMARY ***
+Total pot 1796 | Rake 0
+Board [Th 7h 5s 6d 2h]
+Seat 1: WRN10 folded on the Flop
+Seat 2: JhontaBR folded on the Turn
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Kaimundo (button) folded before Flop (didn't bet)
+Seat 6: blues147 (small blind) showed [6c 7d] and won (1796) with two pair, Sevens and Sixes
+Seat 7: ninel7 (big blind) folded on the Turn
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau mucked [As Ac]
+
+
+*********** # 19 **************
+PokerStars Hand #215159278500: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:18:32 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (1315 in chips)
+Seat 2: JhontaBR (2146 in chips)
+Seat 3: elketefuka (2023 in chips)
+Seat 5: Kaimundo (1350 in chips)
+Seat 6: blues147 (3347 in chips)
+Seat 7: ninel7 (1023 in chips)
+Seat 8: Kondr-KAV (1147 in chips)
+Seat 9: Tijolinhomau (1973 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+ninel7: posts small blind 25
+Kondr-KAV: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 6s]
+Tijolinhomau: calls 50
+WRN10: folds
+JhontaBR: folds
+elketefuka: folds
+Kaimundo: calls 50
+blues147: folds
+ninel7: folds
+Kondr-KAV: raises 100 to 150
+Tijolinhomau: folds
+Kaimundo: calls 100
+*** FLOP *** [Qd 2c Ts]
+Kondr-KAV: checks
+Kaimundo: bets 423
+Kondr-KAV: folds
+Uncalled bet (423) returned to Kaimundo
+Kaimundo collected 423 from pot
+Kaimundo: doesn't show hand
+*** SUMMARY ***
+Total pot 423 | Rake 0
+Board [Qd 2c Ts]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: JhontaBR folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Kaimundo collected (423)
+Seat 6: blues147 (button) folded before Flop (didn't bet)
+Seat 7: ninel7 (small blind) folded before Flop
+Seat 8: Kondr-KAV (big blind) folded on the Flop
+Seat 9: Tijolinhomau folded before Flop
+
+
+*********** # 20 **************
+PokerStars Hand #215159303328: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:19:03 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 1: WRN10 (1309 in chips)
+Seat 2: JhontaBR (2140 in chips)
+Seat 3: elketefuka (2017 in chips)
+Seat 5: Kaimundo (1617 in chips)
+Seat 6: blues147 (3341 in chips)
+Seat 7: ninel7 (992 in chips)
+Seat 8: Kondr-KAV (991 in chips)
+Seat 9: Tijolinhomau (1917 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+Kondr-KAV: posts small blind 25
+Tijolinhomau: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 4s]
+WRN10: folds
+JhontaBR: calls 50
+elketefuka: folds
+Kaimundo: folds
+blues147: folds
+ninel7: calls 50
+Kondr-KAV: calls 25
+Tijolinhomau: raises 225 to 275
+JhontaBR: calls 225
+ninel7: calls 225
+Kondr-KAV: folds
+*** FLOP *** [3s 4h Ks]
+Tijolinhomau: bets 225
+JhontaBR: folds
+ninel7: folds
+Uncalled bet (225) returned to Tijolinhomau
+Tijolinhomau collected 923 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 923 | Rake 0
+Board [3s 4h Ks]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: JhontaBR folded on the Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 (button) folded on the Flop
+Seat 8: Kondr-KAV (small blind) folded before Flop
+Seat 9: Tijolinhomau (big blind) collected (923)
+
+
+*********** # 21 **************
+PokerStars Hand #215159334141: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:19:50 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (1303 in chips)
+Seat 2: JhontaBR (1859 in chips)
+Seat 3: elketefuka (2011 in chips)
+Seat 5: Kaimundo (1611 in chips)
+Seat 6: blues147 (3335 in chips)
+Seat 7: ninel7 (711 in chips)
+Seat 8: Kondr-KAV (935 in chips)
+Seat 9: Tijolinhomau (2559 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+Tijolinhomau: posts small blind 25
+WRN10: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Td As]
+JhontaBR: folds
+elketefuka: raises 50 to 100
+Kaimundo: folds
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: folds
+WRN10: calls 50
+*** FLOP *** [8d 3d Js]
+WRN10: checks
+elketefuka: bets 137
+WRN10: raises 547 to 684
+elketefuka: folds
+Uncalled bet (547) returned to WRN10
+WRN10 collected 547 from pot
+*** SUMMARY ***
+Total pot 547 | Rake 0
+Board [8d 3d Js]
+Seat 1: WRN10 (big blind) collected (547)
+Seat 2: JhontaBR folded before Flop (didn't bet)
+Seat 3: elketefuka folded on the Flop
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (button) folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (small blind) folded before Flop
+
+
+*********** # 22 **************
+PokerStars Hand #215159365201: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:20:37 ET
+Table '2931808908 3' 9-max Seat #9 is the button
+Seat 1: WRN10 (1607 in chips)
+Seat 2: JhontaBR (1853 in chips)
+Seat 3: elketefuka (1768 in chips)
+Seat 5: Kaimundo (1605 in chips)
+Seat 6: blues147 (3329 in chips)
+Seat 7: ninel7 (705 in chips)
+Seat 8: Kondr-KAV (929 in chips)
+Seat 9: Tijolinhomau (2528 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+WRN10: posts small blind 25
+JhontaBR: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc Jc]
+elketefuka: calls 50
+Kaimundo: calls 50
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: raises 50 to 100
+WRN10: folds
+JhontaBR: calls 50
+elketefuka: calls 50
+Kaimundo: calls 50
+*** FLOP *** [As 5d 3d]
+JhontaBR: checks
+elketefuka: checks
+Kaimundo: checks
+Tijolinhomau: bets 237
+JhontaBR: folds
+elketefuka: folds
+Kaimundo: folds
+Uncalled bet (237) returned to Tijolinhomau
+Tijolinhomau collected 473 from pot
+Tijolinhomau: doesn't show hand
+*** SUMMARY ***
+Total pot 473 | Rake 0
+Board [As 5d 3d]
+Seat 1: WRN10 (small blind) folded before Flop
+Seat 2: JhontaBR (big blind) folded on the Flop
+Seat 3: elketefuka folded on the Flop
+Seat 5: Kaimundo folded on the Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (button) collected (473)
+
+
+*********** # 23 **************
+PokerStars Hand #215159403703: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:21:35 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (1576 in chips)
+Seat 2: JhontaBR (1747 in chips)
+Seat 3: elketefuka (1662 in chips)
+Seat 5: Kaimundo (1499 in chips)
+Seat 6: blues147 (3323 in chips)
+Seat 7: ninel7 (699 in chips)
+Seat 8: Kondr-KAV (923 in chips)
+Seat 9: Tijolinhomau (2895 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+JhontaBR: posts small blind 25
+elketefuka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc 8s]
+Kaimundo: folds
+blues147: folds
+ninel7: raises 643 to 693 and is all-in
+Kondr-KAV: folds
+Tijolinhomau: folds
+WRN10: folds
+JhontaBR: folds
+elketefuka: folds
+Uncalled bet (643) returned to ninel7
+ninel7 collected 173 from pot
+ninel7: doesn't show hand
+*** SUMMARY ***
+Total pot 173 | Rake 0
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 2: JhontaBR (small blind) folded before Flop
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 collected (173)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 24 **************
+PokerStars Hand #215159422217: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:22:04 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (1570 in chips)
+Seat 2: JhontaBR (1716 in chips)
+Seat 3: elketefuka (1606 in chips)
+Seat 5: Kaimundo (1493 in chips)
+Seat 6: blues147 (3317 in chips)
+Seat 7: ninel7 (816 in chips)
+Seat 8: Kondr-KAV (917 in chips)
+Seat 9: Tijolinhomau (2889 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+elketefuka: posts small blind 25
+Kaimundo: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [2c 7h]
+blues147: folds
+ninel7: raises 50 to 100
+Kondr-KAV: folds
+Tijolinhomau: folds
+WRN10: calls 100
+JhontaBR: folds
+elketefuka: folds
+Kaimundo: calls 50
+*** FLOP *** [6h 5h 6d]
+Kaimundo: bets 50
+ninel7: calls 50
+elketefuka is sitting out
+WRN10: calls 50
+*** TURN *** [6h 5h 6d] [Kh]
+elketefuka has returned
+Kaimundo: bets 50
+ninel7: folds
+WRN10: calls 50
+*** RIVER *** [6h 5h 6d Kh] [8h]
+Kaimundo: bets 50
+WRN10: raises 723 to 773
+Kaimundo: folds
+Uncalled bet (723) returned to WRN10
+WRN10 collected 723 from pot
+*** SUMMARY ***
+Total pot 723 | Rake 0
+Board [6h 5h 6d Kh 8h]
+Seat 1: WRN10 collected (723)
+Seat 2: JhontaBR (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 5: Kaimundo (big blind) folded on the River
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded on the Turn
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #215159453234: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:22:51 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (2037 in chips)
+Seat 2: JhontaBR (1710 in chips)
+Seat 3: elketefuka (1575 in chips)
+Seat 5: Kaimundo (1237 in chips)
+Seat 6: blues147 (3311 in chips)
+Seat 7: ninel7 (660 in chips)
+Seat 8: Kondr-KAV (911 in chips)
+Seat 9: Tijolinhomau (2883 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+Kaimundo: posts small blind 25
+blues147: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 4s]
+elketefuka is disconnected
+ninel7: folds
+Kondr-KAV: calls 50
+Tijolinhomau: folds
+WRN10: folds
+JhontaBR: folds
+elketefuka: calls 50
+Kaimundo: calls 25
+blues147: checks
+*** FLOP *** [Kh Js Qh]
+Kaimundo: checks
+blues147: checks
+Kondr-KAV: checks
+elketefuka: bets 174
+Kaimundo: folds
+blues147: calls 174
+Kondr-KAV: calls 174
+*** TURN *** [Kh Js Qh] [Kd]
+blues147: checks
+Kondr-KAV: checks
+elketefuka: bets 635
+blues147: folds
+Kondr-KAV: folds
+Uncalled bet (635) returned to elketefuka
+elketefuka collected 770 from pot
+elketefuka: doesn't show hand
+WRN10 is disconnected
+*** SUMMARY ***
+Total pot 770 | Rake 0
+Board [Kh Js Qh Kd]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: JhontaBR folded before Flop (didn't bet)
+Seat 3: elketefuka (button) collected (770)
+Seat 5: Kaimundo (small blind) folded on the Flop
+Seat 6: blues147 (big blind) folded on the Turn
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded on the Turn
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #215159502448: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:24:06 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (2031 in chips)
+Seat 2: JhontaBR (1704 in chips)
+Seat 3: elketefuka (2115 in chips)
+Seat 5: Kaimundo (1181 in chips)
+Seat 6: blues147 (3081 in chips)
+Seat 7: ninel7 (654 in chips)
+Seat 8: Kondr-KAV (681 in chips)
+Seat 9: Tijolinhomau (2877 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+blues147: posts small blind 25
+ninel7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 8c]
+Kondr-KAV: folds
+Tijolinhomau: folds
+WRN10: folds
+JhontaBR: calls 50
+elketefuka: folds
+Kaimundo: folds
+blues147: folds
+ninel7: checks
+*** FLOP *** [Ac 3d 8s]
+ninel7: checks
+JhontaBR: bets 50
+ninel7: folds
+Uncalled bet (50) returned to JhontaBR
+JhontaBR collected 173 from pot
+JhontaBR: doesn't show hand
+*** SUMMARY ***
+Total pot 173 | Rake 0
+Board [Ac 3d 8s]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: JhontaBR collected (173)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Kaimundo (button) folded before Flop (didn't bet)
+Seat 6: blues147 (small blind) folded before Flop
+Seat 7: ninel7 (big blind) folded on the Flop
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #215159524849: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:24:40 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (2025 in chips)
+Seat 2: JhontaBR (1821 in chips)
+Seat 3: elketefuka (2109 in chips)
+Seat 5: Kaimundo (1175 in chips)
+Seat 6: blues147 (3050 in chips)
+Seat 7: ninel7 (598 in chips)
+Seat 8: Kondr-KAV (675 in chips)
+Seat 9: Tijolinhomau (2871 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+ninel7: posts small blind 25
+Kondr-KAV: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Ks 3s]
+Tijolinhomau: calls 50
+WRN10 is disconnected
+WRN10 is connected
+WRN10: folds
+JhontaBR: calls 50
+elketefuka: calls 50
+Kaimundo: calls 50
+blues147: folds
+ninel7: folds
+Kondr-KAV: checks
+*** FLOP *** [2s Th Qc]
+Kondr-KAV: checks
+Tijolinhomau: bets 125
+JhontaBR: calls 125
+elketefuka: folds
+Kaimundo: raises 698 to 823
+Kondr-KAV: folds
+Tijolinhomau: folds
+JhontaBR: folds
+Uncalled bet (698) returned to Kaimundo
+Kaimundo collected 698 from pot
+Kaimundo: doesn't show hand
+*** SUMMARY ***
+Total pot 698 | Rake 0
+Board [2s Th Qc]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: JhontaBR folded on the Flop
+Seat 3: elketefuka folded on the Flop
+Seat 5: Kaimundo collected (698)
+Seat 6: blues147 (button) folded before Flop (didn't bet)
+Seat 7: ninel7 (small blind) folded before Flop
+Seat 8: Kondr-KAV (big blind) folded on the Flop
+Seat 9: Tijolinhomau folded on the Flop
+
+
+*********** # 28 **************
+PokerStars Hand #215159567867: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:25:46 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 1: WRN10 (2019 in chips)
+Seat 2: JhontaBR (1640 in chips)
+Seat 3: elketefuka (2053 in chips)
+Seat 5: Kaimundo (1692 in chips)
+Seat 6: blues147 (3044 in chips)
+Seat 7: ninel7 (567 in chips)
+Seat 8: Kondr-KAV (619 in chips)
+Seat 9: Tijolinhomau (2690 in chips)
+WRN10: posts the ante 6
+JhontaBR: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+Kondr-KAV: posts small blind 25
+Tijolinhomau: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3c 5d]
+WRN10: raises 173 to 223
+JhontaBR: calls 223
+elketefuka: folds
+Kaimundo: calls 223
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: calls 173
+*** FLOP *** [7h 4c 9d]
+Tijolinhomau: checks
+WRN10: bets 965
+JhontaBR: raises 446 to 1411 and is all-in
+Kaimundo: folds
+Tijolinhomau: folds
+WRN10: calls 446
+*** TURN *** [7h 4c 9d] [Qs]
+*** RIVER *** [7h 4c 9d Qs] [8d]
+*** SHOW DOWN ***
+WRN10: shows [Kd Ks] (a pair of Kings)
+JhontaBR: shows [As 7c] (a pair of Sevens)
+WRN10 collected 3787 from pot
+JhontaBR finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 3787 | Rake 0
+Board [7h 4c 9d Qs 8d]
+Seat 1: WRN10 showed [Kd Ks] and won (3787) with a pair of Kings
+Seat 2: JhontaBR showed [As 7c] and lost with a pair of Sevens
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: Kaimundo folded on the Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 (button) folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (small blind) folded before Flop
+Seat 9: Tijolinhomau (big blind) folded on the Flop
+
+
+*********** # 29 **************
+PokerStars Hand #215159595332: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 13:26:28 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (4166 in chips)
+Seat 3: elketefuka (2047 in chips)
+Seat 5: Kaimundo (1463 in chips)
+Seat 6: blues147 (3038 in chips)
+Seat 7: ninel7 (561 in chips)
+Seat 8: Kondr-KAV (588 in chips)
+Seat 9: Tijolinhomau (2461 in chips)
+WRN10: posts the ante 6
+elketefuka: posts the ante 6
+Kaimundo: posts the ante 6
+blues147: posts the ante 6
+ninel7: posts the ante 6
+Kondr-KAV: posts the ante 6
+Tijolinhomau: posts the ante 6
+Tijolinhomau: posts small blind 25
+WRN10: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [As 6h]
+elketefuka: calls 50
+Kaimundo: calls 50
+blues147: calls 50
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: calls 25
+WRN10: checks
+*** FLOP *** [3d 7s Jh]
+Tijolinhomau: checks
+WRN10: checks
+elketefuka: checks
+Kaimundo: bets 146
+blues147: raises 292 to 438
+Tijolinhomau: folds
+WRN10: folds
+elketefuka: folds
+Kaimundo: folds
+Uncalled bet (292) returned to blues147
+blues147 collected 584 from pot
+blues147: doesn't show hand
+*** SUMMARY ***
+Total pot 584 | Rake 0
+Board [3d 7s Jh]
+Seat 1: WRN10 (big blind) folded on the Flop
+Seat 3: elketefuka folded on the Flop
+Seat 5: Kaimundo folded on the Flop
+Seat 6: blues147 collected (584)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (button) folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (small blind) folded on the Flop
+
+
+*********** # 30 **************
+PokerStars Hand #215159634145: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:27:28 ET
+Table '2931808908 3' 9-max Seat #9 is the button
+Seat 1: WRN10 (4110 in chips)
+Seat 3: elketefuka (1991 in chips)
+Seat 5: Kaimundo (1261 in chips)
+Seat 6: blues147 (3420 in chips)
+Seat 7: ninel7 (555 in chips)
+Seat 8: Kondr-KAV (582 in chips)
+Seat 9: Tijolinhomau (2405 in chips)
+WRN10: posts the ante 10
+elketefuka: posts the ante 10
+Kaimundo: posts the ante 10
+blues147: posts the ante 10
+ninel7: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+WRN10: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc Qd]
+Kaimundo: folds
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: raises 80 to 160
+WRN10 has timed out while being disconnected
+WRN10: folds
+WRN10 is sitting out
+elketefuka: raises 400 to 560
+WRN10 is disconnected
+Tijolinhomau: folds
+Uncalled bet (400) returned to elketefuka
+elketefuka collected 430 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 430 | Rake 0
+Seat 1: WRN10 (small blind) folded before Flop
+Seat 3: elketefuka (big blind) collected (430)
+Seat 5: Kaimundo folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (button) folded before Flop
+
+
+*********** # 31 **************
+PokerStars Hand #215159672492: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:28:26 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (4060 in chips) is sitting out
+Seat 3: elketefuka (2251 in chips)
+Seat 5: Kaimundo (1251 in chips)
+Seat 6: blues147 (3410 in chips)
+Seat 7: ninel7 (545 in chips)
+Seat 8: Kondr-KAV (572 in chips)
+Seat 9: Tijolinhomau (2235 in chips)
+WRN10: posts the ante 10
+elketefuka: posts the ante 10
+Kaimundo: posts the ante 10
+blues147: posts the ante 10
+ninel7: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+elketefuka: posts small blind 40
+Kaimundo: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8h Jh]
+blues147: folds
+ninel7: folds
+Kondr-KAV: folds
+Tijolinhomau: folds
+WRN10: folds
+elketefuka: calls 40
+Kaimundo: checks
+*** FLOP *** [Ah 6c Qd]
+WRN10 has returned
+elketefuka: checks
+Kaimundo: bets 230
+elketefuka: raises 230 to 460
+Kaimundo: calls 230
+*** TURN *** [Ah 6c Qd] [7h]
+elketefuka: checks
+Kaimundo: checks
+*** RIVER *** [Ah 6c Qd 7h] [4d]
+elketefuka: bets 1701 and is all-in
+Kaimundo: folds
+Uncalled bet (1701) returned to elketefuka
+elketefuka collected 1150 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1150 | Rake 0
+Board [Ah 6c Qd 7h 4d]
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) collected (1150)
+Seat 5: Kaimundo (big blind) folded on the River
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: ninel7 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 32 **************
+PokerStars Hand #215159706337: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:29:18 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (4050 in chips)
+Seat 3: elketefuka (2851 in chips)
+Seat 5: Kaimundo (701 in chips)
+Seat 6: blues147 (3400 in chips)
+Seat 7: ninel7 (535 in chips)
+Seat 8: Kondr-KAV (562 in chips)
+Seat 9: Tijolinhomau (2225 in chips)
+WRN10: posts the ante 10
+elketefuka: posts the ante 10
+Kaimundo: posts the ante 10
+blues147: posts the ante 10
+ninel7: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+Kaimundo: posts small blind 40
+blues147: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [6c 4s]
+ninel7: raises 80 to 160
+Kondr-KAV: folds
+Tijolinhomau: folds
+WRN10: calls 160
+elketefuka: folds
+Kaimundo: folds
+blues147: folds
+*** FLOP *** [8h 7c 2h]
+ninel7: bets 365 and is all-in
+WRN10: calls 365
+*** TURN *** [8h 7c 2h] [Kh]
+*** RIVER *** [8h 7c 2h Kh] [2s]
+*** SHOW DOWN ***
+ninel7: shows [9c Ac] (a pair of Deuces)
+WRN10: shows [Jh Th] (a flush, King high)
+WRN10 collected 1240 from pot
+ninel7 finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 1240 | Rake 0
+Board [8h 7c 2h Kh 2s]
+Seat 1: WRN10 showed [Jh Th] and won (1240) with a flush, King high
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 5: Kaimundo (small blind) folded before Flop
+Seat 6: blues147 (big blind) folded before Flop
+Seat 7: ninel7 showed [9c Ac] and lost with a pair of Deuces
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 33 **************
+PokerStars Hand #215159731329: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:29:56 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (4755 in chips)
+Seat 2: rush1593 (1764 in chips)
+Seat 3: elketefuka (2841 in chips)
+Seat 4: tordilho (1219 in chips)
+Seat 5: Kaimundo (651 in chips)
+Seat 6: blues147 (3310 in chips)
+Seat 8: Kondr-KAV (552 in chips)
+Seat 9: Tijolinhomau (2215 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+Kaimundo: posts the ante 10
+blues147: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+blues147: posts small blind 40
+Kondr-KAV: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 4c]
+Tijolinhomau: folds
+WRN10: folds
+rush1593: raises 80 to 160
+elketefuka: folds
+tordilho: folds
+Kaimundo: calls 160
+blues147: calls 120
+Kondr-KAV: folds
+*** FLOP *** [8d Qs Qh]
+blues147: checks
+rush1593: checks
+Kaimundo: checks
+*** TURN *** [8d Qs Qh] [2h]
+blues147: bets 320
+rush1593: calls 320
+Kaimundo: folds
+*** RIVER *** [8d Qs Qh 2h] [4d]
+blues147: checks
+rush1593: checks
+*** SHOW DOWN ***
+blues147: shows [9c Jc] (a pair of Queens)
+rush1593: shows [Kh Ad] (a pair of Queens - Ace kicker)
+rush1593 collected 1280 from pot
+*** SUMMARY ***
+Total pot 1280 | Rake 0
+Board [8d Qs Qh 2h 4d]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: rush1593 showed [Kh Ad] and won (1280) with a pair of Queens
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: Kaimundo (button) folded on the Turn
+Seat 6: blues147 (small blind) showed [9c Jc] and lost with a pair of Queens
+Seat 8: Kondr-KAV (big blind) folded before Flop
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 34 **************
+PokerStars Hand #215159760810: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:30:40 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (4745 in chips)
+Seat 2: rush1593 (2554 in chips)
+Seat 3: elketefuka (2831 in chips)
+Seat 4: tordilho (1209 in chips)
+Seat 5: Kaimundo (481 in chips)
+Seat 6: blues147 (2820 in chips)
+Seat 8: Kondr-KAV (462 in chips)
+Seat 9: Tijolinhomau (2205 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+Kaimundo: posts the ante 10
+blues147: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+Kondr-KAV: posts small blind 40
+Tijolinhomau: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8s 6d]
+WRN10: folds
+rush1593: folds
+elketefuka: folds
+tordilho: folds
+Kaimundo: calls 80
+blues147: calls 80
+Kondr-KAV: folds
+Tijolinhomau: raises 80 to 160
+Kaimundo: raises 311 to 471 and is all-in
+blues147: folds
+Tijolinhomau: calls 311
+*** FLOP *** [Tc 7s 3d]
+*** TURN *** [Tc 7s 3d] [4d]
+*** RIVER *** [Tc 7s 3d 4d] [8d]
+*** SHOW DOWN ***
+Tijolinhomau: shows [7d 5d] (a flush, Eight high)
+Kaimundo: shows [As Kh] (high card Ace)
+Tijolinhomau collected 1142 from pot
+Kaimundo finished the tournament in 25th place
+*** SUMMARY ***
+Total pot 1142 | Rake 0
+Board [Tc 7s 3d 4d 8d]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: rush1593 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: Kaimundo showed [As Kh] and lost with high card Ace
+Seat 6: blues147 (button) folded before Flop
+Seat 8: Kondr-KAV (small blind) folded before Flop
+Seat 9: Tijolinhomau (big blind) showed [7d 5d] and won (1142) with a flush, Eight high
+
+
+*********** # 35 **************
+PokerStars Hand #215159779921: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:31:08 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (4735 in chips)
+Seat 2: rush1593 (2544 in chips)
+Seat 3: elketefuka (2821 in chips)
+Seat 4: tordilho (1199 in chips)
+Seat 6: blues147 (2730 in chips)
+Seat 8: Kondr-KAV (412 in chips)
+Seat 9: Tijolinhomau (2866 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+Tijolinhomau: posts small blind 40
+WRN10: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc Qc]
+rush1593: calls 80
+elketefuka: calls 80
+tordilho: folds
+blues147: folds
+Kondr-KAV: folds
+Tijolinhomau: calls 40
+WRN10: checks
+*** FLOP *** [Kc 7c 3c]
+Tijolinhomau: bets 120
+WRN10: folds
+rush1593: folds
+elketefuka: raises 440 to 560
+Tijolinhomau: calls 440
+*** TURN *** [Kc 7c 3c] [7h]
+Tijolinhomau: checks
+elketefuka: checks
+*** RIVER *** [Kc 7c 3c 7h] [Jh]
+Tijolinhomau: bets 240
+elketefuka: raises 480 to 720
+Tijolinhomau: calls 480
+*** SHOW DOWN ***
+elketefuka: shows [Tc Qc] (a flush, King high)
+Tijolinhomau: mucks hand
+elketefuka collected 2950 from pot
+*** SUMMARY ***
+Total pot 2950 | Rake 0
+Board [Kc 7c 3c 7h Jh]
+Seat 1: WRN10 (big blind) folded on the Flop
+Seat 2: rush1593 folded on the Flop
+Seat 3: elketefuka showed [Tc Qc] and won (2950) with a flush, King high
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 8: Kondr-KAV (button) folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (small blind) mucked [5h Ks]
+
+
+*********** # 36 **************
+PokerStars Hand #215159826065: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:32:17 ET
+Table '2931808908 3' 9-max Seat #9 is the button
+Seat 1: WRN10 (4645 in chips)
+Seat 2: rush1593 (2454 in chips)
+Seat 3: elketefuka (4401 in chips)
+Seat 4: tordilho (1189 in chips)
+Seat 6: blues147 (2720 in chips)
+Seat 7: MViniSol (789 in chips)
+Seat 8: Kondr-KAV (402 in chips)
+Seat 9: Tijolinhomau (1496 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+MViniSol: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+WRN10: posts small blind 40
+rush1593: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 9c]
+elketefuka: folds
+tordilho: folds
+blues147: folds
+MViniSol: folds
+Kondr-KAV: folds
+Tijolinhomau: raises 80 to 160
+WRN10: calls 120
+rush1593: calls 80
+*** FLOP *** [Kh 8c 6d]
+WRN10: checks
+rush1593: bets 560
+Tijolinhomau: folds
+WRN10: folds
+Uncalled bet (560) returned to rush1593
+rush1593 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Board [Kh 8c 6d]
+Seat 1: WRN10 (small blind) folded on the Flop
+Seat 2: rush1593 (big blind) collected (560)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau (button) folded on the Flop
+
+
+*********** # 37 **************
+PokerStars Hand #215159857402: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:33:03 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (4475 in chips)
+Seat 2: rush1593 (2844 in chips)
+Seat 3: elketefuka (4391 in chips)
+Seat 4: tordilho (1179 in chips)
+Seat 6: blues147 (2710 in chips)
+Seat 7: MViniSol (779 in chips)
+Seat 8: Kondr-KAV (392 in chips)
+Seat 9: Tijolinhomau (1326 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+MViniSol: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+rush1593: posts small blind 40
+elketefuka: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 5d]
+tordilho: folds
+blues147: folds
+MViniSol: raises 689 to 769 and is all-in
+Kondr-KAV: folds
+Tijolinhomau: folds
+WRN10: folds
+rush1593: calls 729
+elketefuka: folds
+*** FLOP *** [9h 5c 8h]
+*** TURN *** [9h 5c 8h] [4c]
+*** RIVER *** [9h 5c 8h 4c] [Ks]
+*** SHOW DOWN ***
+rush1593: shows [As Qh] (high card Ace)
+MViniSol: shows [2c 2d] (a pair of Deuces)
+MViniSol collected 1698 from pot
+*** SUMMARY ***
+Total pot 1698 | Rake 0
+Board [9h 5c 8h 4c Ks]
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 2: rush1593 (small blind) showed [As Qh] and lost with high card Ace
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol showed [2c 2d] and won (1698) with a pair of Deuces
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 38 **************
+PokerStars Hand #215159882592: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:33:41 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (4465 in chips)
+Seat 2: rush1593 (2065 in chips)
+Seat 3: elketefuka (4301 in chips)
+Seat 4: tordilho (1169 in chips)
+Seat 6: blues147 (2700 in chips)
+Seat 7: MViniSol (1698 in chips)
+Seat 8: Kondr-KAV (382 in chips)
+Seat 9: Tijolinhomau (1316 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+MViniSol: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+elketefuka: posts small blind 40
+tordilho: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Td 3h]
+blues147: folds
+MViniSol: folds
+Kondr-KAV: folds
+Tijolinhomau: raises 80 to 160
+WRN10: calls 160
+rush1593: folds
+elketefuka: folds
+tordilho: calls 80
+*** FLOP *** [Jh 7d Ks]
+tordilho: checks
+Tijolinhomau: bets 300
+WRN10: raises 1200 to 1500
+tordilho: folds
+Tijolinhomau: folds
+Uncalled bet (1200) returned to WRN10
+WRN10 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0
+Board [Jh 7d Ks]
+Seat 1: WRN10 collected (1200)
+Seat 2: rush1593 (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: tordilho (big blind) folded on the Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded on the Flop
+
+
+*********** # 39 **************
+PokerStars Hand #215159910722: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:34:22 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (5195 in chips)
+Seat 2: rush1593 (2055 in chips)
+Seat 3: elketefuka (4251 in chips)
+Seat 4: tordilho (999 in chips)
+Seat 6: blues147 (2690 in chips)
+Seat 7: MViniSol (1688 in chips)
+Seat 8: Kondr-KAV (372 in chips)
+Seat 9: Tijolinhomau (846 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+MViniSol: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+tordilho: posts small blind 40
+blues147: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc 2s]
+MViniSol: folds
+Kondr-KAV: raises 282 to 362 and is all-in
+Tijolinhomau: folds
+WRN10: folds
+rush1593: folds
+elketefuka: folds
+tordilho: folds
+blues147: folds
+Uncalled bet (282) returned to Kondr-KAV
+Kondr-KAV collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: rush1593 folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: tordilho (small blind) folded before Flop
+Seat 6: blues147 (big blind) folded before Flop
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Kondr-KAV collected (280)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 40 **************
+PokerStars Hand #215159927209: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:34:47 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 1: WRN10 (5185 in chips)
+Seat 2: rush1593 (2045 in chips)
+Seat 3: elketefuka (4241 in chips)
+Seat 4: tordilho (949 in chips)
+Seat 6: blues147 (2600 in chips)
+Seat 7: MViniSol (1678 in chips)
+Seat 8: Kondr-KAV (562 in chips)
+Seat 9: Tijolinhomau (836 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+MViniSol: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+blues147: posts small blind 40
+MViniSol: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8c 4d]
+Kondr-KAV: folds
+Tijolinhomau: calls 80
+WRN10: calls 80
+rush1593: calls 80
+elketefuka: folds
+tordilho: calls 80
+blues147: calls 40
+MViniSol: checks
+*** FLOP *** [Kc Jd Tc]
+blues147: checks
+MViniSol: checks
+Tijolinhomau: checks
+WRN10: bets 80
+rush1593: calls 80
+tordilho: calls 80
+blues147: calls 80
+MViniSol: raises 120 to 200
+Tijolinhomau: calls 200
+WRN10: calls 120
+rush1593: folds
+tordilho: calls 120
+blues147: folds
+*** TURN *** [Kc Jd Tc] [Ah]
+MViniSol: bets 1388 and is all-in
+Tijolinhomau: calls 546 and is all-in
+WRN10: folds
+tordilho: calls 659 and is all-in
+Uncalled bet (729) returned to MViniSol
+*** RIVER *** [Kc Jd Tc Ah] [6s]
+*** SHOW DOWN ***
+MViniSol: shows [Qs 9d] (a straight, Ten to Ace)
+tordilho: shows [Ks Qd] (a straight, Ten to Ace)
+MViniSol collected 113 from side pot
+tordilho collected 113 from side pot
+Tijolinhomau: shows [Jc Qh] (a straight, Ten to Ace)
+MViniSol collected 1053 from main pot
+Tijolinhomau collected 1053 from main pot
+tordilho collected 1052 from main pot
+*** SUMMARY ***
+Total pot 3384 Main pot 3158. Side pot 226. | Rake 0
+Board [Kc Jd Tc Ah 6s]
+Seat 1: WRN10 folded on the Turn
+Seat 2: rush1593 folded on the Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho (button) showed [Ks Qd] and won (1165) with a straight, Ten to Ace
+Seat 6: blues147 (small blind) folded on the Flop
+Seat 7: MViniSol (big blind) showed [Qs 9d] and won (1166) with a straight, Ten to Ace
+Seat 8: Kondr-KAV folded before Flop (didn't bet)
+Seat 9: Tijolinhomau showed [Jc Qh] and won (1053) with a straight, Ten to Ace
+
+
+*********** # 41 **************
+PokerStars Hand #215159986780: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:36:15 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (4895 in chips)
+Seat 2: rush1593 (1875 in chips)
+Seat 3: elketefuka (4231 in chips)
+Seat 4: tordilho (1165 in chips)
+Seat 6: blues147 (2430 in chips)
+Seat 7: MViniSol (1895 in chips)
+Seat 8: Kondr-KAV (552 in chips)
+Seat 9: Tijolinhomau (1053 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+MViniSol: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+MViniSol: posts small blind 40
+Kondr-KAV: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [7c 3c]
+Tijolinhomau: folds
+WRN10: folds
+rush1593: folds
+elketefuka: folds
+tordilho: calls 80
+blues147: folds
+MViniSol: raises 80 to 160
+Kondr-KAV: folds
+tordilho: calls 80
+*** FLOP *** [5d 4h 8s]
+MViniSol: bets 180
+tordilho: folds
+Uncalled bet (180) returned to MViniSol
+MViniSol collected 480 from pot
+MViniSol: doesn't show hand
+*** SUMMARY ***
+Total pot 480 | Rake 0
+Board [5d 4h 8s]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: rush1593 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded on the Flop
+Seat 6: blues147 (button) folded before Flop (didn't bet)
+Seat 7: MViniSol (small blind) collected (480)
+Seat 8: Kondr-KAV (big blind) folded before Flop
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 42 **************
+PokerStars Hand #215160013468: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level IV (40/80) - 2020/06/10 13:36:55 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 1: WRN10 (4885 in chips)
+Seat 2: rush1593 (1865 in chips)
+Seat 3: elketefuka (4221 in chips)
+Seat 4: tordilho (995 in chips)
+Seat 6: blues147 (2420 in chips)
+Seat 7: MViniSol (2205 in chips)
+Seat 8: Kondr-KAV (462 in chips)
+Seat 9: Tijolinhomau (1043 in chips)
+WRN10: posts the ante 10
+rush1593: posts the ante 10
+elketefuka: posts the ante 10
+tordilho: posts the ante 10
+blues147: posts the ante 10
+MViniSol: posts the ante 10
+Kondr-KAV: posts the ante 10
+Tijolinhomau: posts the ante 10
+Kondr-KAV: posts small blind 40
+Tijolinhomau: posts big blind 80
+*** HOLE CARDS ***
+Dealt to elketefuka [8h Js]
+WRN10: folds
+rush1593: folds
+elketefuka: folds
+tordilho: folds
+blues147: folds
+MViniSol: raises 80 to 160
+Kondr-KAV: folds
+Tijolinhomau: calls 80
+*** FLOP *** [3h 7s 4h]
+Tijolinhomau: checks
+MViniSol: checks
+*** TURN *** [3h 7s 4h] [Kc]
+Tijolinhomau: bets 220
+MViniSol: raises 220 to 440
+Tijolinhomau: folds
+Uncalled bet (220) returned to MViniSol
+MViniSol collected 880 from pot
+MViniSol: doesn't show hand
+*** SUMMARY ***
+Total pot 880 | Rake 0
+Board [3h 7s 4h Kc]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: rush1593 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol (button) collected (880)
+Seat 8: Kondr-KAV (small blind) folded before Flop
+Seat 9: Tijolinhomau (big blind) folded on the Turn
+
+
+*********** # 43 **************
+PokerStars Hand #215160060343: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:38:05 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (4875 in chips)
+Seat 2: rush1593 (1855 in chips)
+Seat 3: elketefuka (4211 in chips)
+Seat 4: tordilho (985 in chips)
+Seat 6: blues147 (2410 in chips)
+Seat 7: MViniSol (2695 in chips)
+Seat 8: Kondr-KAV (412 in chips)
+Seat 9: Tijolinhomau (653 in chips)
+WRN10: posts the ante 15
+rush1593: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Kondr-KAV: posts the ante 15
+Tijolinhomau: posts the ante 15
+Tijolinhomau: posts small blind 60
+WRN10: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ah 6h]
+rush1593: folds
+elketefuka: calls 120
+tordilho: folds
+blues147: folds
+MViniSol: raises 120 to 240
+Kondr-KAV: raises 157 to 397 and is all-in
+Tijolinhomau: calls 337
+WRN10: folds
+elketefuka: calls 277
+MViniSol: raises 2283 to 2680 and is all-in
+Tijolinhomau: calls 241 and is all-in
+elketefuka: folds
+Uncalled bet (2042) returned to MViniSol
+*** FLOP *** [4c 2h 9s]
+*** TURN *** [4c 2h 9s] [Ad]
+*** RIVER *** [4c 2h 9s Ad] [4s]
+*** SHOW DOWN ***
+Tijolinhomau: shows [Kc Kh] (two pair, Kings and Fours)
+MViniSol: shows [Qs Qd] (two pair, Queens and Fours)
+Tijolinhomau collected 482 from side pot
+Kondr-KAV: shows [3s 3h] (two pair, Fours and Threes)
+Tijolinhomau collected 1828 from main pot
+Kondr-KAV finished the tournament in 22nd place
+*** SUMMARY ***
+Total pot 2310 Main pot 1828. Side pot 482. | Rake 0
+Board [4c 2h 9s Ad 4s]
+Seat 1: WRN10 (big blind) folded before Flop
+Seat 2: rush1593 folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol showed [Qs Qd] and lost with two pair, Queens and Fours
+Seat 8: Kondr-KAV (button) showed [3s 3h] and lost with two pair, Fours and Threes
+Seat 9: Tijolinhomau (small blind) showed [Kc Kh] and won (2310) with two pair, Kings and Fours
+
+
+*********** # 44 **************
+PokerStars Hand #215160090753: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:38:50 ET
+Table '2931808908 3' 9-max Seat #9 is the button
+Seat 1: WRN10 (4740 in chips)
+Seat 2: rush1593 (1840 in chips)
+Seat 3: elketefuka (3799 in chips)
+Seat 4: tordilho (970 in chips)
+Seat 6: blues147 (2395 in chips)
+Seat 7: MViniSol (2042 in chips)
+Seat 9: Tijolinhomau (2310 in chips)
+WRN10: posts the ante 15
+rush1593: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Tijolinhomau: posts the ante 15
+WRN10: posts small blind 60
+rush1593: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [7h 3c]
+elketefuka: folds
+tordilho: calls 120
+blues147: folds
+MViniSol: raises 120 to 240
+Tijolinhomau: calls 240
+WRN10: folds
+rush1593: folds
+tordilho: calls 120
+*** FLOP *** [6s 4d Jd]
+tordilho: checks
+MViniSol: bets 450
+Tijolinhomau: folds
+tordilho: folds
+Uncalled bet (450) returned to MViniSol
+MViniSol collected 1005 from pot
+MViniSol: doesn't show hand
+*** SUMMARY ***
+Total pot 1005 | Rake 0
+Board [6s 4d Jd]
+Seat 1: WRN10 (small blind) folded before Flop
+Seat 2: rush1593 (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded on the Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol collected (1005)
+Seat 9: Tijolinhomau (button) folded on the Flop
+
+
+*********** # 45 **************
+PokerStars Hand #215160117508: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:39:30 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (4665 in chips)
+Seat 2: rush1593 (1705 in chips)
+Seat 3: elketefuka (3784 in chips)
+Seat 4: tordilho (715 in chips)
+Seat 6: blues147 (2380 in chips)
+Seat 7: MViniSol (2792 in chips)
+Seat 9: Tijolinhomau (2055 in chips)
+WRN10: posts the ante 15
+rush1593: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Tijolinhomau: posts the ante 15
+rush1593: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [6s 4s]
+tordilho: folds
+blues147: calls 120
+MViniSol: folds
+Tijolinhomau: raises 120 to 240
+WRN10: folds
+rush1593: calls 180
+elketefuka: calls 120
+blues147: calls 120
+*** FLOP *** [Ac Ks Th]
+rush1593: checks
+elketefuka: checks
+blues147: checks
+Tijolinhomau: bets 120
+rush1593: calls 120
+elketefuka: folds
+blues147: calls 120
+*** TURN *** [Ac Ks Th] [Jh]
+rush1593: checks
+blues147: checks
+Tijolinhomau: checks
+*** RIVER *** [Ac Ks Th Jh] [Jc]
+rush1593: checks
+blues147: checks
+Tijolinhomau: checks
+*** SHOW DOWN ***
+rush1593: shows [Ts 8s] (two pair, Jacks and Tens)
+blues147: shows [Ad 3d] (two pair, Aces and Jacks)
+Tijolinhomau: mucks hand
+blues147 collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | Rake 0
+Board [Ac Ks Th Jh Jc]
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 2: rush1593 (small blind) showed [Ts 8s] and lost with two pair, Jacks and Tens
+Seat 3: elketefuka (big blind) folded on the Flop
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 6: blues147 showed [Ad 3d] and won (1425) with two pair, Aces and Jacks
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 9: Tijolinhomau mucked [7h 5s]
+
+
+*********** # 46 **************
+PokerStars Hand #215160167334: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:40:34 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (4650 in chips)
+Seat 2: rush1593 (1330 in chips)
+Seat 3: elketefuka (3529 in chips)
+Seat 4: tordilho (700 in chips)
+Seat 6: blues147 (3430 in chips)
+Seat 7: MViniSol (2777 in chips)
+Seat 9: Tijolinhomau (1680 in chips)
+WRN10: posts the ante 15
+rush1593: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Tijolinhomau: posts the ante 15
+elketefuka: posts small blind 60
+tordilho: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Jh Ks]
+blues147: folds
+MViniSol: folds
+Tijolinhomau: raises 120 to 240
+WRN10: folds
+rush1593: calls 240
+elketefuka: calls 180
+tordilho: folds
+*** FLOP *** [7c Js 5d]
+elketefuka: checks
+Tijolinhomau: bets 240
+rush1593: raises 835 to 1075 and is all-in
+elketefuka: raises 835 to 1910
+Tijolinhomau: folds
+Uncalled bet (835) returned to elketefuka
+*** TURN *** [7c Js 5d] [5s]
+*** RIVER *** [7c Js 5d 5s] [8d]
+*** SHOW DOWN ***
+elketefuka: shows [Jh Ks] (two pair, Jacks and Fives)
+rush1593: shows [7s Qs] (two pair, Sevens and Fives)
+elketefuka collected 3335 from pot
+rush1593 finished the tournament in 20th place
+*** SUMMARY ***
+Total pot 3335 | Rake 0
+Board [7c Js 5d 5s 8d]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: rush1593 (button) showed [7s Qs] and lost with two pair, Sevens and Fives
+Seat 3: elketefuka (small blind) showed [Jh Ks] and won (3335) with two pair, Jacks and Fives
+Seat 4: tordilho (big blind) folded before Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded on the Flop
+
+
+*********** # 47 **************
+PokerStars Hand #215160196104: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:41:17 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (4635 in chips)
+Seat 3: elketefuka (5534 in chips)
+Seat 4: tordilho (565 in chips)
+Seat 6: blues147 (3415 in chips)
+Seat 7: MViniSol (2762 in chips)
+Seat 9: Tijolinhomau (1185 in chips)
+WRN10: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Tijolinhomau: posts the ante 15
+tordilho: posts small blind 60
+blues147: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Qc 2d]
+MViniSol: folds
+Tijolinhomau: folds
+WRN10: folds
+elketefuka: calls 120
+tordilho: folds
+blues147: checks
+*** FLOP *** [Qh 2h 5s]
+blues147: bets 390
+elketefuka: raises 750 to 1140
+blues147: folds
+Uncalled bet (750) returned to elketefuka
+elketefuka collected 1170 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 1170 | Rake 0
+Board [Qh 2h 5s]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 3: elketefuka (button) collected (1170)
+Seat 4: tordilho (small blind) folded before Flop
+Seat 6: blues147 (big blind) folded on the Flop
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 48 **************
+PokerStars Hand #215160234711: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:42:14 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 1: WRN10 (4620 in chips)
+Seat 2: mfranzreb (1719 in chips)
+Seat 3: elketefuka (6179 in chips)
+Seat 4: tordilho (490 in chips)
+Seat 5: wins174 (5410 in chips) out of hand (moved from another table into small blind)
+Seat 6: blues147 (2890 in chips)
+Seat 7: MViniSol (2747 in chips)
+Seat 8: Lymnhades (8563 in chips)
+Seat 9: Tijolinhomau (1170 in chips)
+wins174 will be allowed to play after the button
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+Tijolinhomau: posts the ante 15
+blues147: posts small blind 60
+MViniSol: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [6c Th]
+Lymnhades: folds
+Tijolinhomau: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: calls 120
+blues147: calls 60
+MViniSol: raises 180 to 300
+tordilho: calls 180
+blues147: calls 180
+*** FLOP *** [8h 7h 3c]
+blues147: checks
+MViniSol: bets 300
+tordilho: calls 175 and is all-in
+blues147: folds
+Uncalled bet (125) returned to MViniSol
+*** TURN *** [8h 7h 3c] [Js]
+*** RIVER *** [8h 7h 3c Js] [Kc]
+*** SHOW DOWN ***
+MViniSol: shows [7s Ah] (a pair of Sevens)
+tordilho: shows [9s Td] (a straight, Seven to Jack)
+tordilho collected 1370 from pot
+*** SUMMARY ***
+Total pot 1370 | Rake 0
+Board [8h 7h 3c Js Kc]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho (button) showed [9s Td] and won (1370) with a straight, Seven to Jack
+Seat 6: blues147 (small blind) folded on the Flop
+Seat 7: MViniSol (big blind) showed [7s Ah] and lost with a pair of Sevens
+Seat 8: Lymnhades folded before Flop (didn't bet)
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 49 **************
+PokerStars Hand #215160265767: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:43:01 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (4605 in chips)
+Seat 2: mfranzreb (1704 in chips)
+Seat 3: elketefuka (6164 in chips)
+Seat 4: tordilho (1370 in chips)
+Seat 5: wins174 (5410 in chips)
+Seat 6: blues147 (2575 in chips)
+Seat 7: MViniSol (2257 in chips)
+Seat 8: Lymnhades (8548 in chips)
+Seat 9: Tijolinhomau (1155 in chips)
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+wins174: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+Tijolinhomau: posts the ante 15
+MViniSol: posts small blind 60
+Lymnhades: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [9s 5d]
+Tijolinhomau: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: raises 138 to 258
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+Uncalled bet (138) returned to wins174
+wins174 collected 435 from pot
+wins174: doesn't show hand
+*** SUMMARY ***
+Total pot 435 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 collected (435)
+Seat 6: blues147 (button) folded before Flop (didn't bet)
+Seat 7: MViniSol (small blind) folded before Flop
+Seat 8: Lymnhades (big blind) folded before Flop
+Seat 9: Tijolinhomau folded before Flop (didn't bet)
+
+
+*********** # 50 **************
+PokerStars Hand #215160278930: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:43:21 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 1: WRN10 (4590 in chips)
+Seat 2: mfranzreb (1689 in chips)
+Seat 3: elketefuka (6149 in chips)
+Seat 4: tordilho (1355 in chips)
+Seat 5: wins174 (5710 in chips)
+Seat 6: blues147 (2560 in chips)
+Seat 7: MViniSol (2182 in chips)
+Seat 8: Lymnhades (8413 in chips)
+Seat 9: Tijolinhomau (1140 in chips)
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+wins174: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+Tijolinhomau: posts the ante 15
+Lymnhades: posts small blind 60
+Tijolinhomau: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [6h Kc]
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: calls 120
+wins174: folds
+blues147: folds
+MViniSol: folds
+Lymnhades: calls 60
+Tijolinhomau: raises 120 to 240
+tordilho: calls 120
+Lymnhades: folds
+*** FLOP *** [5d Tc 8c]
+Tijolinhomau: bets 240
+tordilho: calls 240
+*** TURN *** [5d Tc 8c] [Ks]
+Tijolinhomau: bets 645 and is all-in
+tordilho: calls 645
+*** RIVER *** [5d Tc 8c Ks] [6c]
+*** SHOW DOWN ***
+Tijolinhomau: shows [Jh 7h] (high card King)
+tordilho: shows [Kh As] (a pair of Kings)
+tordilho collected 2505 from pot
+Tijolinhomau finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 2505 | Rake 0
+Board [5d Tc 8c Ks 6c]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho showed [Kh As] and won (2505) with a pair of Kings
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol (button) folded before Flop (didn't bet)
+Seat 8: Lymnhades (small blind) folded before Flop
+Seat 9: Tijolinhomau (big blind) showed [Jh 7h] and lost with high card King
+
+
+*********** # 51 **************
+PokerStars Hand #215160324593: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:44:16 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (4575 in chips)
+Seat 2: mfranzreb (1674 in chips)
+Seat 3: elketefuka (6134 in chips)
+Seat 4: tordilho (2720 in chips)
+Seat 5: wins174 (5695 in chips)
+Seat 6: blues147 (2545 in chips)
+Seat 7: MViniSol (2167 in chips)
+Seat 8: Lymnhades (8278 in chips)
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+wins174: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+WRN10: posts small blind 60
+mfranzreb: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 2s]
+elketefuka: folds
+tordilho: folds
+wins174: folds
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: calls 60
+mfranzreb: checks
+*** FLOP *** [9d Ad 3s]
+WRN10: checks
+mfranzreb: bets 120
+WRN10: calls 120
+*** TURN *** [9d Ad 3s] [Kh]
+WRN10: checks
+mfranzreb: checks
+*** RIVER *** [9d Ad 3s Kh] [9s]
+WRN10: checks
+mfranzreb: checks
+*** SHOW DOWN ***
+WRN10: shows [Js Qc] (a pair of Nines)
+mfranzreb: shows [Tc 3d] (two pair, Nines and Threes)
+mfranzreb collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [9d Ad 3s Kh 9s]
+Seat 1: WRN10 (small blind) showed [Js Qc] and lost with a pair of Nines
+Seat 2: mfranzreb (big blind) showed [Tc 3d] and won (600) with two pair, Nines and Threes
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades (button) folded before Flop (didn't bet)
+
+
+*********** # 52 **************
+PokerStars Hand #215160359740: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:45:08 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (4320 in chips)
+Seat 2: mfranzreb (2019 in chips)
+Seat 3: elketefuka (6119 in chips)
+Seat 4: tordilho (2705 in chips)
+Seat 5: wins174 (5680 in chips)
+Seat 6: blues147 (2530 in chips)
+Seat 7: MViniSol (2152 in chips)
+Seat 8: Lymnhades (8263 in chips)
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+wins174: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+mfranzreb: posts small blind 60
+elketefuka: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [9s 4d]
+tordilho: folds
+wins174: folds
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: calls 60
+elketefuka: checks
+*** FLOP *** [3h Kc 5h]
+mfranzreb: checks
+elketefuka: bets 120
+mfranzreb: folds
+Uncalled bet (120) returned to elketefuka
+elketefuka collected 360 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 360 | Rake 0
+Board [3h Kc 5h]
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) folded on the Flop
+Seat 3: elketefuka (big blind) collected (360)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 53 **************
+PokerStars Hand #215160388911: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:45:51 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (4305 in chips)
+Seat 2: mfranzreb (1884 in chips)
+Seat 3: elketefuka (6344 in chips)
+Seat 4: tordilho (2690 in chips)
+Seat 5: wins174 (5665 in chips)
+Seat 6: blues147 (2515 in chips)
+Seat 7: MViniSol (2137 in chips)
+Seat 8: Lymnhades (8248 in chips)
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+wins174: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+elketefuka: posts small blind 60
+tordilho: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 5h]
+wins174: raises 420 to 540
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: calls 540
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+*** FLOP *** [Ts Ac 5s]
+wins174: bets 469
+WRN10: folds
+Uncalled bet (469) returned to wins174
+wins174 collected 1380 from pot
+wins174: doesn't show hand
+*** SUMMARY ***
+Total pot 1380 | Rake 0
+Board [Ts Ac 5s]
+Seat 1: WRN10 folded on the Flop
+Seat 2: mfranzreb (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: tordilho (big blind) folded before Flop
+Seat 5: wins174 collected (1380)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 54 **************
+PokerStars Hand #215160405185: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:46:15 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (3750 in chips)
+Seat 2: mfranzreb (1869 in chips)
+Seat 3: elketefuka (6269 in chips)
+Seat 4: tordilho (2555 in chips)
+Seat 5: wins174 (6490 in chips)
+Seat 6: blues147 (2500 in chips)
+Seat 7: MViniSol (2122 in chips)
+Seat 8: Lymnhades (8233 in chips)
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+wins174: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+tordilho: posts small blind 60
+wins174: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [Ad 5h]
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: calls 120
+tordilho: calls 60
+wins174: checks
+*** FLOP *** [Ks Jc 4c]
+tordilho: checks
+wins174: bets 320
+elketefuka: folds
+tordilho: folds
+Uncalled bet (320) returned to wins174
+wins174 collected 480 from pot
+wins174: doesn't show hand
+*** SUMMARY ***
+Total pot 480 | Rake 0
+Board [Ks Jc 4c]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded on the Flop
+Seat 4: tordilho (small blind) folded on the Flop
+Seat 5: wins174 (big blind) collected (480)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 55 **************
+PokerStars Hand #215160426005: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level V (60/120) - 2020/06/10 13:46:47 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 1: WRN10 (3735 in chips)
+Seat 2: mfranzreb (1854 in chips)
+Seat 3: elketefuka (6134 in chips)
+Seat 4: tordilho (2420 in chips)
+Seat 5: wins174 (6835 in chips)
+Seat 6: blues147 (2485 in chips)
+Seat 7: MViniSol (2107 in chips)
+Seat 8: Lymnhades (8218 in chips)
+WRN10: posts the ante 15
+mfranzreb: posts the ante 15
+elketefuka: posts the ante 15
+tordilho: posts the ante 15
+wins174: posts the ante 15
+blues147: posts the ante 15
+MViniSol: posts the ante 15
+Lymnhades: posts the ante 15
+wins174: posts small blind 60
+blues147: posts big blind 120
+*** HOLE CARDS ***
+Dealt to elketefuka [3s Ah]
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: calls 120
+tordilho: folds
+wins174: folds
+blues147: checks
+*** FLOP *** [7s 5h Qd]
+blues147: checks
+elketefuka: bets 330
+blues147: calls 330
+*** TURN *** [7s 5h Qd] [3d]
+blues147: checks
+elketefuka: checks
+*** RIVER *** [7s 5h Qd 3d] [2c]
+blues147: bets 540
+elketefuka: folds
+Uncalled bet (540) returned to blues147
+blues147 collected 1080 from pot
+blues147: doesn't show hand
+*** SUMMARY ***
+Total pot 1080 | Rake 0
+Board [7s 5h Qd 3d 2c]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded on the River
+Seat 4: tordilho (button) folded before Flop (didn't bet)
+Seat 5: wins174 (small blind) folded before Flop
+Seat 6: blues147 (big blind) collected (1080)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 56 **************
+PokerStars Hand #215160462230: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:47:40 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (3720 in chips)
+Seat 2: mfranzreb (1839 in chips)
+Seat 3: elketefuka (5669 in chips)
+Seat 4: tordilho (2405 in chips)
+Seat 5: wins174 (6760 in chips)
+Seat 6: blues147 (3100 in chips)
+Seat 7: MViniSol (2092 in chips)
+Seat 8: Lymnhades (8203 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+blues147: posts small blind 80
+MViniSol: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Td As]
+Lymnhades: folds
+WRN10: raises 320 to 480
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: folds
+blues147: folds
+MViniSol: folds
+Uncalled bet (320) returned to WRN10
+WRN10 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Seat 1: WRN10 collected (560)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 (button) folded before Flop (didn't bet)
+Seat 6: blues147 (small blind) folded before Flop
+Seat 7: MViniSol (big blind) folded before Flop
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 57 **************
+PokerStars Hand #215160487093: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:48:17 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (4100 in chips)
+Seat 2: mfranzreb (1819 in chips)
+Seat 3: elketefuka (5649 in chips)
+Seat 4: tordilho (2385 in chips)
+Seat 5: wins174 (6740 in chips)
+Seat 6: blues147 (3000 in chips)
+Seat 7: MViniSol (1912 in chips)
+Seat 8: Lymnhades (8183 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+MViniSol: posts small blind 80
+Lymnhades: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [7h Qc]
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: raises 2205 to 2365 and is all-in
+wins174: folds
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+Uncalled bet (2205) returned to tordilho
+tordilho collected 560 from pot
+tordilho: doesn't show hand
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho collected (560)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 (button) folded before Flop (didn't bet)
+Seat 7: MViniSol (small blind) folded before Flop
+Seat 8: Lymnhades (big blind) folded before Flop
+
+
+*********** # 58 **************
+PokerStars Hand #215160506880: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:48:46 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 1: WRN10 (4080 in chips)
+Seat 2: mfranzreb (1799 in chips)
+Seat 3: elketefuka (5629 in chips)
+Seat 4: tordilho (2765 in chips)
+Seat 5: wins174 (6720 in chips)
+Seat 6: blues147 (2980 in chips)
+Seat 7: MViniSol (1812 in chips)
+Seat 8: Lymnhades (8003 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+Lymnhades: posts small blind 80
+WRN10: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [3h Td]
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: folds
+blues147: folds
+MViniSol: raises 160 to 320
+Lymnhades: folds
+WRN10: folds
+Uncalled bet (160) returned to MViniSol
+MViniSol collected 560 from pot
+MViniSol: doesn't show hand
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Seat 1: WRN10 (big blind) folded before Flop
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol (button) collected (560)
+Seat 8: Lymnhades (small blind) folded before Flop
+
+
+*********** # 59 **************
+PokerStars Hand #215160520857: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:49:06 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (3900 in chips)
+Seat 2: mfranzreb (1779 in chips)
+Seat 3: elketefuka (5609 in chips)
+Seat 4: tordilho (2745 in chips)
+Seat 5: wins174 (6700 in chips)
+Seat 6: blues147 (2960 in chips)
+Seat 7: MViniSol (2192 in chips)
+Seat 8: Lymnhades (7903 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+WRN10: posts small blind 80
+mfranzreb: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 9c]
+elketefuka: folds
+tordilho: calls 160
+wins174: folds
+blues147: folds
+MViniSol: raises 2012 to 2172 and is all-in
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+tordilho: folds
+Uncalled bet (2012) returned to MViniSol
+MViniSol collected 720 from pot
+MViniSol: doesn't show hand
+*** SUMMARY ***
+Total pot 720 | Rake 0
+Seat 1: WRN10 (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol collected (720)
+Seat 8: Lymnhades (button) folded before Flop (didn't bet)
+
+
+*********** # 60 **************
+PokerStars Hand #215160544793: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:49:42 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (3800 in chips)
+Seat 2: mfranzreb (1599 in chips)
+Seat 3: elketefuka (5589 in chips)
+Seat 4: tordilho (2565 in chips)
+Seat 5: wins174 (6680 in chips)
+Seat 6: blues147 (2940 in chips)
+Seat 7: MViniSol (2732 in chips)
+Seat 8: Lymnhades (7883 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+mfranzreb: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [9d Ac]
+tordilho: raises 160 to 320
+wins174: calls 320
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: calls 320
+mfranzreb: folds
+elketefuka: calls 160
+*** FLOP *** [7d 7h 9s]
+elketefuka: bets 760
+tordilho: folds
+wins174: folds
+WRN10: raises 2700 to 3460 and is all-in
+elketefuka: calls 2700
+*** TURN *** [7d 7h 9s] [Js]
+*** RIVER *** [7d 7h 9s Js] [3s]
+*** SHOW DOWN ***
+elketefuka: shows [9d Ac] (two pair, Nines and Sevens)
+WRN10: shows [Jh Jd] (a full house, Jacks full of Sevens)
+WRN10 collected 8440 from pot
+*** SUMMARY ***
+Total pot 8440 | Rake 0
+Board [7d 7h 9s Js 3s]
+Seat 1: WRN10 (button) showed [Jh Jd] and won (8440) with a full house, Jacks full of Sevens
+Seat 2: mfranzreb (small blind) folded before Flop
+Seat 3: elketefuka (big blind) showed [9d Ac] and lost with two pair, Nines and Sevens
+Seat 4: tordilho folded on the Flop
+Seat 5: wins174 folded on the Flop
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 61 **************
+PokerStars Hand #215160572538: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:50:23 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (8440 in chips)
+Seat 2: mfranzreb (1499 in chips)
+Seat 3: elketefuka (1789 in chips)
+Seat 4: tordilho (2225 in chips)
+Seat 5: wins174 (6340 in chips)
+Seat 6: blues147 (2920 in chips)
+Seat 7: MViniSol (2712 in chips)
+Seat 8: Lymnhades (7863 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+elketefuka: posts small blind 80
+tordilho: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 2c]
+wins174: folds
+blues147: folds
+MViniSol: raises 160 to 320
+Lymnhades: folds
+WRN10: folds
+mfranzreb: raises 1159 to 1479 and is all-in
+elketefuka: folds
+tordilho: folds
+WRN10 is disconnected
+MViniSol: calls 1159
+*** FLOP *** [Td 3d 8h]
+*** TURN *** [Td 3d 8h] [5s]
+*** RIVER *** [Td 3d 8h 5s] [6c]
+*** SHOW DOWN ***
+MViniSol: shows [Ad Jc] (high card Ace)
+mfranzreb: shows [Th Tc] (three of a kind, Tens)
+mfranzreb collected 3358 from pot
+*** SUMMARY ***
+Total pot 3358 | Rake 0
+Board [Td 3d 8h 5s 6c]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) showed [Th Tc] and won (3358) with three of a kind, Tens
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: tordilho (big blind) folded before Flop
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol showed [Ad Jc] and lost with high card Ace
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 62 **************
+PokerStars Hand #215160614892: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:51:25 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (8420 in chips)
+Seat 2: mfranzreb (3358 in chips)
+Seat 3: elketefuka (1689 in chips)
+Seat 4: tordilho (2045 in chips)
+Seat 5: wins174 (6320 in chips)
+Seat 6: blues147 (2900 in chips)
+Seat 7: MViniSol (1213 in chips)
+Seat 8: Lymnhades (7843 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+tordilho: posts small blind 80
+wins174: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [3c 2c]
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: calls 80
+wins174: checks
+*** FLOP *** [3s Th Jc]
+tordilho: bets 320
+wins174: calls 320
+*** TURN *** [3s Th Jc] [Kh]
+tordilho: checks
+wins174: checks
+*** RIVER *** [3s Th Jc Kh] [Ad]
+tordilho: checks
+wins174: checks
+*** SHOW DOWN ***
+tordilho: shows [4c Tc] (a pair of Tens)
+wins174: shows [Js 6d] (a pair of Jacks)
+wins174 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0
+Board [3s Th Jc Kh Ad]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: tordilho (small blind) showed [4c Tc] and lost with a pair of Tens
+Seat 5: wins174 (big blind) showed [Js 6d] and won (1120) with a pair of Jacks
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 63 **************
+PokerStars Hand #215160670813: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:52:47 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 1: WRN10 (8400 in chips)
+Seat 2: mfranzreb (3338 in chips)
+Seat 3: elketefuka (1669 in chips)
+Seat 4: tordilho (1545 in chips)
+Seat 5: wins174 (6940 in chips)
+Seat 6: blues147 (2880 in chips)
+Seat 7: MViniSol (1193 in chips)
+Seat 8: Lymnhades (7823 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+wins174: posts small blind 80
+blues147: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [3s 7h]
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: raises 6760 to 6920 and is all-in
+blues147: folds
+Uncalled bet (6760) returned to wins174
+wins174 collected 480 from pot
+wins174: doesn't show hand
+*** SUMMARY ***
+Total pot 480 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho (button) folded before Flop (didn't bet)
+Seat 5: wins174 (small blind) collected (480)
+Seat 6: blues147 (big blind) folded before Flop
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 64 **************
+PokerStars Hand #215160688001: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:53:13 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (8380 in chips)
+Seat 2: mfranzreb (3318 in chips)
+Seat 3: elketefuka (1649 in chips)
+Seat 4: tordilho (1525 in chips)
+Seat 5: wins174 (7240 in chips)
+Seat 6: blues147 (2700 in chips)
+Seat 7: MViniSol (1173 in chips)
+Seat 8: Lymnhades (7803 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+blues147: posts small blind 80
+MViniSol: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [6h Td]
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: folds
+blues147: calls 80
+MViniSol: raises 993 to 1153 and is all-in
+blues147: folds
+Uncalled bet (993) returned to MViniSol
+MViniSol collected 480 from pot
+MViniSol: doesn't show hand
+*** SUMMARY ***
+Total pot 480 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 (button) folded before Flop (didn't bet)
+Seat 6: blues147 (small blind) folded before Flop
+Seat 7: MViniSol (big blind) collected (480)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 65 **************
+PokerStars Hand #215160706566: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:53:40 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (8360 in chips)
+Seat 2: mfranzreb (3298 in chips)
+Seat 3: elketefuka (1629 in chips)
+Seat 4: tordilho (1505 in chips)
+Seat 5: wins174 (7220 in chips)
+Seat 6: blues147 (2520 in chips)
+Seat 7: MViniSol (1473 in chips)
+Seat 8: Lymnhades (7783 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+MViniSol: posts small blind 80
+Lymnhades: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh Qh]
+WRN10: folds
+mfranzreb: folds
+elketefuka: raises 1449 to 1609 and is all-in
+tordilho: folds
+wins174: folds
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+Uncalled bet (1449) returned to elketefuka
+elketefuka collected 560 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka collected (560)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 (button) folded before Flop (didn't bet)
+Seat 7: MViniSol (small blind) folded before Flop
+Seat 8: Lymnhades (big blind) folded before Flop
+
+
+*********** # 66 **************
+PokerStars Hand #215160728819: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:54:13 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 1: WRN10 (8340 in chips)
+Seat 2: mfranzreb (3278 in chips)
+Seat 3: elketefuka (2009 in chips)
+Seat 4: tordilho (1485 in chips)
+Seat 5: wins174 (7200 in chips)
+Seat 6: blues147 (2500 in chips)
+Seat 7: MViniSol (1373 in chips)
+Seat 8: Lymnhades (7603 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+Lymnhades: posts small blind 80
+WRN10: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [7s 9d]
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: raises 184 to 344
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: calls 184
+*** FLOP *** [Kd Tc 4h]
+WRN10: bets 320
+wins174: calls 320
+*** TURN *** [Kd Tc 4h] [Qc]
+WRN10: bets 320
+wins174: calls 320
+*** RIVER *** [Kd Tc 4h Qc] [As]
+WRN10: bets 480
+wins174: raises 2112 to 2592
+WRN10: folds
+Uncalled bet (2112) returned to wins174
+wins174 collected 3168 from pot
+wins174: doesn't show hand
+*** SUMMARY ***
+Total pot 3168 | Rake 0
+Board [Kd Tc 4h Qc As]
+Seat 1: WRN10 (big blind) folded on the River
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 collected (3168)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol (button) folded before Flop (didn't bet)
+Seat 8: Lymnhades (small blind) folded before Flop
+
+
+*********** # 67 **************
+PokerStars Hand #215160759391: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 13:54:58 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (6856 in chips)
+Seat 2: mfranzreb (3258 in chips)
+Seat 3: elketefuka (1989 in chips)
+Seat 4: tordilho (1465 in chips)
+Seat 5: wins174 (8884 in chips)
+Seat 6: blues147 (2480 in chips)
+Seat 7: MViniSol (1353 in chips)
+Seat 8: Lymnhades (7503 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+WRN10: posts small blind 80
+mfranzreb: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [As Qd]
+elketefuka: raises 1809 to 1969 and is all-in
+tordilho: folds
+wins174: folds
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+Uncalled bet (1809) returned to elketefuka
+elketefuka collected 560 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Seat 1: WRN10 (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) folded before Flop
+Seat 3: elketefuka collected (560)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades (button) folded before Flop (didn't bet)
+
+
+*********** # 68 **************
+PokerStars Hand #215160947489: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 14:00:54 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (6756 in chips)
+Seat 2: mfranzreb (3078 in chips)
+Seat 3: elketefuka (2369 in chips)
+Seat 4: tordilho (1445 in chips)
+Seat 5: wins174 (8864 in chips)
+Seat 6: blues147 (2460 in chips)
+Seat 7: MViniSol (1333 in chips)
+Seat 8: Lymnhades (7483 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+mfranzreb: posts small blind 80
+elketefuka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [9c 4c]
+tordilho: folds
+wins174: folds
+blues147: calls 160
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: calls 80
+elketefuka: raises 2189 to 2349 and is all-in
+blues147: folds
+mfranzreb: folds
+Uncalled bet (2189) returned to elketefuka
+elketefuka collected 640 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 640 | Rake 0
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) folded before Flop
+Seat 3: elketefuka (big blind) collected (640)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 69 **************
+PokerStars Hand #215160988630: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VI (80/160) - 2020/06/10 14:01:58 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (6736 in chips)
+Seat 2: mfranzreb (2898 in chips)
+Seat 3: elketefuka (2829 in chips)
+Seat 4: tordilho (1425 in chips)
+Seat 5: wins174 (8844 in chips)
+Seat 6: blues147 (2280 in chips)
+Seat 7: MViniSol (1313 in chips)
+Seat 8: Lymnhades (7463 in chips)
+WRN10: posts the ante 20
+mfranzreb: posts the ante 20
+elketefuka: posts the ante 20
+tordilho: posts the ante 20
+wins174: posts the ante 20
+blues147: posts the ante 20
+MViniSol: posts the ante 20
+Lymnhades: posts the ante 20
+elketefuka: posts small blind 80
+tordilho: posts big blind 160
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 4c]
+wins174: folds
+blues147: folds
+MViniSol: folds
+Lymnhades: folds
+WRN10: calls 160
+mfranzreb: folds
+elketefuka: folds
+tordilho: checks
+*** FLOP *** [5s Td 4d]
+tordilho: checks
+WRN10: checks
+*** TURN *** [5s Td 4d] [Ts]
+tordilho: checks
+WRN10: checks
+*** RIVER *** [5s Td 4d Ts] [Ac]
+tordilho: checks
+WRN10: bets 560
+tordilho: folds
+Uncalled bet (560) returned to WRN10
+WRN10 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0
+Board [5s Td 4d Ts Ac]
+Seat 1: WRN10 collected (560)
+Seat 2: mfranzreb (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: tordilho (big blind) folded on the River
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: blues147 folded before Flop (didn't bet)
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 70 **************
+PokerStars Hand #215161039126: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:03:01 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (7116 in chips)
+Seat 2: mfranzreb (2878 in chips)
+Seat 3: elketefuka (2729 in chips)
+Seat 4: tordilho (1245 in chips)
+Seat 5: wins174 (8824 in chips)
+Seat 6: blues147 (2260 in chips)
+Seat 7: MViniSol (1293 in chips)
+Seat 8: Lymnhades (7443 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+blues147: posts the ante 25
+MViniSol: posts the ante 25
+Lymnhades: posts the ante 25
+tordilho: posts small blind 100
+wins174: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Ah]
+blues147: raises 400 to 600
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: raises 2104 to 2704 and is all-in
+tordilho: folds
+wins174: folds
+blues147: calls 1635 and is all-in
+Uncalled bet (469) returned to elketefuka
+*** FLOP *** [9d 6c Kh]
+*** TURN *** [9d 6c Kh] [2s]
+*** RIVER *** [9d 6c Kh 2s] [3d]
+*** SHOW DOWN ***
+blues147: shows [4c 4h] (a pair of Fours)
+elketefuka: shows [Qs Ah] (high card Ace)
+blues147 collected 4970 from pot
+*** SUMMARY ***
+Total pot 4970 | Rake 0
+Board [9d 6c Kh 2s 3d]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) showed [Qs Ah] and lost with high card Ace
+Seat 4: tordilho (small blind) folded before Flop
+Seat 5: wins174 (big blind) folded before Flop
+Seat 6: blues147 showed [4c 4h] and won (4970) with a pair of Fours
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 71 **************
+PokerStars Hand #215161071491: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:03:47 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 1: WRN10 (7091 in chips)
+Seat 2: mfranzreb (2853 in chips)
+Seat 3: elketefuka (469 in chips)
+Seat 4: tordilho (1120 in chips)
+Seat 5: wins174 (8599 in chips)
+Seat 6: blues147 (4970 in chips)
+Seat 7: MViniSol (1268 in chips)
+Seat 8: Lymnhades (7418 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+blues147: posts the ante 25
+MViniSol: posts the ante 25
+Lymnhades: posts the ante 25
+wins174: posts small blind 100
+blues147: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [9d 3c]
+MViniSol: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: raises 244 to 444 and is all-in
+tordilho: folds
+wins174: raises 244 to 688
+blues147: raises 4257 to 4945 and is all-in
+wins174: folds
+Uncalled bet (4257) returned to blues147
+*** FLOP *** [Td 6c Tc]
+*** TURN *** [Td 6c Tc] [9c]
+*** RIVER *** [Td 6c Tc 9c] [4h]
+*** SHOW DOWN ***
+blues147: shows [Ad Kc] (a pair of Tens)
+blues147 collected 488 from side pot
+elketefuka: shows [9d 3c] (two pair, Tens and Nines)
+elketefuka collected 1532 from main pot
+*** SUMMARY ***
+Total pot 2020 Main pot 1532. Side pot 488. | Rake 0
+Board [Td 6c Tc 9c 4h]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka showed [9d 3c] and won (1532) with two pair, Tens and Nines
+Seat 4: tordilho (button) folded before Flop (didn't bet)
+Seat 5: wins174 (small blind) folded before Flop
+Seat 6: blues147 (big blind) showed [Ad Kc] and won (488) with a pair of Tens
+Seat 7: MViniSol folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 72 **************
+PokerStars Hand #215161093566: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:04:19 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (7066 in chips)
+Seat 2: mfranzreb (2828 in chips)
+Seat 3: elketefuka (1532 in chips)
+Seat 4: tordilho (1095 in chips)
+Seat 5: wins174 (7886 in chips)
+Seat 6: blues147 (4745 in chips)
+Seat 7: MViniSol (1243 in chips)
+Seat 8: Lymnhades (7393 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+blues147: posts the ante 25
+MViniSol: posts the ante 25
+Lymnhades: posts the ante 25
+blues147: posts small blind 100
+MViniSol: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [5s 4s]
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: raises 1307 to 1507 and is all-in
+tordilho: folds
+wins174: folds
+blues147: folds
+MViniSol: folds
+Uncalled bet (1307) returned to elketefuka
+elketefuka collected 700 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 700 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka collected (700)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 (button) folded before Flop (didn't bet)
+Seat 6: blues147 (small blind) folded before Flop
+Seat 7: MViniSol (big blind) folded before Flop
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 73 **************
+PokerStars Hand #215161115458: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:04:51 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (7041 in chips)
+Seat 2: mfranzreb (2803 in chips)
+Seat 3: elketefuka (2007 in chips)
+Seat 4: tordilho (1070 in chips)
+Seat 5: wins174 (7861 in chips)
+Seat 6: blues147 (4620 in chips)
+Seat 7: MViniSol (1018 in chips)
+Seat 8: Lymnhades (7368 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+blues147: posts the ante 25
+MViniSol: posts the ante 25
+Lymnhades: posts the ante 25
+MViniSol: posts small blind 100
+Lymnhades: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [6d Qc]
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: raises 230 to 430
+blues147: calls 430
+MViniSol: folds
+Lymnhades: folds
+*** FLOP *** [9d 7s Jc]
+wins174: bets 462
+blues147: calls 462
+*** TURN *** [9d 7s Jc] [3s]
+wins174: bets 777
+blues147: calls 777
+*** RIVER *** [9d 7s Jc 3s] [4d]
+wins174: checks
+blues147: bets 2926 and is all-in
+wins174: calls 2926
+*** SHOW DOWN ***
+blues147: shows [Kh 9h] (a pair of Nines)
+wins174: shows [Kc Js] (a pair of Jacks)
+wins174 collected 9690 from pot
+blues147 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 9690 | Rake 0
+Board [9d 7s Jc 3s 4d]
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 showed [Kc Js] and won (9690) with a pair of Jacks
+Seat 6: blues147 (button) showed [Kh 9h] and lost with a pair of Nines
+Seat 7: MViniSol (small blind) folded before Flop
+Seat 8: Lymnhades (big blind) folded before Flop
+
+
+*********** # 74 **************
+PokerStars Hand #215161153234: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:05:45 ET
+Table '2931808908 3' 9-max Seat #7 is the button
+Seat 1: WRN10 (7016 in chips)
+Seat 2: mfranzreb (2778 in chips)
+Seat 3: elketefuka (1982 in chips)
+Seat 4: tordilho (1045 in chips)
+Seat 5: wins174 (12931 in chips)
+Seat 7: MViniSol (893 in chips)
+Seat 8: Lymnhades (7143 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+MViniSol: posts the ante 25
+Lymnhades: posts the ante 25
+Lymnhades: posts small blind 100
+WRN10: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh 2d]
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: folds
+MViniSol: raises 668 to 868 and is all-in
+Lymnhades: calls 768
+WRN10: folds
+*** FLOP *** [3d Ad 8h]
+*** TURN *** [3d Ad 8h] [Ah]
+*** RIVER *** [3d Ad 8h Ah] [As]
+*** SHOW DOWN ***
+Lymnhades: shows [Js Kd] (three of a kind, Aces)
+MViniSol: shows [2s Qd] (three of a kind, Aces - lower kicker)
+Lymnhades collected 2111 from pot
+MViniSol finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 2111 | Rake 0
+Board [3d Ad 8h Ah As]
+Seat 1: WRN10 (big blind) folded before Flop
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 7: MViniSol (button) showed [2s Qd] and lost with three of a kind, Aces
+Seat 8: Lymnhades (small blind) showed [Js Kd] and won (2111) with three of a kind, Aces
+
+
+*********** # 75 **************
+PokerStars Hand #215161177408: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:06:19 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (6791 in chips)
+Seat 2: mfranzreb (2753 in chips)
+Seat 3: elketefuka (1957 in chips)
+Seat 4: tordilho (1020 in chips)
+Seat 5: wins174 (12906 in chips)
+Seat 6: 11Victor26 (2852 in chips)
+Seat 8: Lymnhades (8361 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+WRN10: posts small blind 100
+mfranzreb: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Kc 3c]
+elketefuka: folds
+tordilho: calls 200
+wins174: folds
+11Victor26: folds
+Lymnhades: folds
+WRN10: calls 100
+mfranzreb: checks
+*** FLOP *** [2d 7h 7d]
+WRN10: checks
+mfranzreb: checks
+tordilho: checks
+*** TURN *** [2d 7h 7d] [Qs]
+WRN10: checks
+mfranzreb: bets 400
+tordilho: folds
+WRN10: folds
+Uncalled bet (400) returned to mfranzreb
+mfranzreb collected 775 from pot
+mfranzreb: doesn't show hand
+*** SUMMARY ***
+Total pot 775 | Rake 0
+Board [2d 7h 7d Qs]
+Seat 1: WRN10 (small blind) folded on the Turn
+Seat 2: mfranzreb (big blind) collected (775)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded on the Turn
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades (button) folded before Flop (didn't bet)
+
+
+*********** # 76 **************
+PokerStars Hand #215161204970: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:06:59 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (6566 in chips)
+Seat 2: mfranzreb (3303 in chips)
+Seat 3: elketefuka (1932 in chips)
+Seat 4: tordilho (795 in chips)
+Seat 5: wins174 (12881 in chips)
+Seat 6: 11Victor26 (2827 in chips)
+Seat 8: Lymnhades (8336 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+mfranzreb: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh 5h]
+tordilho: folds
+wins174: folds
+11Victor26: folds
+Lymnhades: folds
+WRN10: calls 200
+mfranzreb: calls 100
+elketefuka: raises 1707 to 1907 and is all-in
+WRN10: folds
+mfranzreb: folds
+Uncalled bet (1707) returned to elketefuka
+elketefuka collected 775 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 775 | Rake 0
+Seat 1: WRN10 (button) folded before Flop
+Seat 2: mfranzreb (small blind) folded before Flop
+Seat 3: elketefuka (big blind) collected (775)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 77 **************
+PokerStars Hand #215161221427: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:07:23 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (6341 in chips)
+Seat 2: mfranzreb (3078 in chips)
+Seat 3: elketefuka (2482 in chips)
+Seat 4: tordilho (770 in chips)
+Seat 5: wins174 (12856 in chips)
+Seat 6: 11Victor26 (2802 in chips)
+Seat 8: Lymnhades (8311 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+elketefuka: posts small blind 100
+tordilho: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs 3h]
+wins174: folds
+11Victor26: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: raises 600 to 800
+elketefuka: folds
+tordilho: folds
+Uncalled bet (600) returned to mfranzreb
+mfranzreb collected 675 from pot
+mfranzreb: doesn't show hand
+*** SUMMARY ***
+Total pot 675 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) collected (675)
+Seat 3: elketefuka (small blind) folded before Flop
+Seat 4: tordilho (big blind) folded before Flop
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 78 **************
+PokerStars Hand #215161238987: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:07:48 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (6316 in chips)
+Seat 2: mfranzreb (3528 in chips)
+Seat 3: elketefuka (2357 in chips)
+Seat 4: tordilho (545 in chips)
+Seat 5: wins174 (12831 in chips)
+Seat 6: 11Victor26 (2777 in chips)
+Seat 8: Lymnhades (8286 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+tordilho: posts small blind 100
+wins174: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [7h 6c]
+11Victor26: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+Uncalled bet (100) returned to wins174
+wins174 collected 375 from pot
+wins174: doesn't show hand
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: tordilho (small blind) folded before Flop
+Seat 5: wins174 (big blind) collected (375)
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 79 **************
+PokerStars Hand #215161252667: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:08:08 ET
+Table '2931808908 3' 9-max Seat #4 is the button
+Seat 1: WRN10 (6291 in chips)
+Seat 2: mfranzreb (3503 in chips)
+Seat 3: elketefuka (2332 in chips)
+Seat 4: tordilho (420 in chips)
+Seat 5: wins174 (13081 in chips)
+Seat 6: 11Victor26 (2752 in chips)
+Seat 8: Lymnhades (8261 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+wins174: posts small blind 100
+11Victor26: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Td Kd]
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: raises 2107 to 2307 and is all-in
+tordilho: folds
+wins174: folds
+11Victor26: folds
+Uncalled bet (2107) returned to elketefuka
+elketefuka collected 675 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 675 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka collected (675)
+Seat 4: tordilho (button) folded before Flop (didn't bet)
+Seat 5: wins174 (small blind) folded before Flop
+Seat 6: 11Victor26 (big blind) folded before Flop
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 80 **************
+PokerStars Hand #215161264922: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:08:25 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (6266 in chips)
+Seat 2: mfranzreb (3478 in chips)
+Seat 3: elketefuka (2782 in chips)
+Seat 4: tordilho (395 in chips)
+Seat 5: wins174 (12956 in chips)
+Seat 6: 11Victor26 (2527 in chips)
+Seat 8: Lymnhades (8236 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+11Victor26: posts small blind 100
+Lymnhades: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [7h 3s]
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+tordilho: folds
+wins174: folds
+11Victor26: folds
+Uncalled bet (100) returned to Lymnhades
+Lymnhades collected 375 from pot
+Lymnhades: doesn't show hand
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho folded before Flop (didn't bet)
+Seat 5: wins174 (button) folded before Flop (didn't bet)
+Seat 6: 11Victor26 (small blind) folded before Flop
+Seat 8: Lymnhades (big blind) collected (375)
+
+
+*********** # 81 **************
+PokerStars Hand #215161273470: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:08:38 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (6241 in chips)
+Seat 2: mfranzreb (3453 in chips)
+Seat 3: elketefuka (2757 in chips)
+Seat 4: tordilho (370 in chips)
+Seat 5: wins174 (12931 in chips)
+Seat 6: 11Victor26 (2402 in chips)
+Seat 8: Lymnhades (8486 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+tordilho: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+Lymnhades: posts small blind 100
+WRN10: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [4c 7h]
+mfranzreb: folds
+elketefuka: folds
+tordilho: raises 145 to 345 and is all-in
+wins174: folds
+11Victor26: folds
+Lymnhades: calls 245
+WRN10: folds
+*** FLOP *** [7c 3d 4s]
+*** TURN *** [7c 3d 4s] [Ad]
+*** RIVER *** [7c 3d 4s Ad] [Kd]
+*** SHOW DOWN ***
+Lymnhades: shows [8d Jd] (a flush, Ace high)
+tordilho: shows [As 9d] (a pair of Aces)
+Lymnhades collected 1065 from pot
+tordilho finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1065 | Rake 0
+Board [7c 3d 4s Ad Kd]
+Seat 1: WRN10 (big blind) folded before Flop
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: tordilho showed [As 9d] and lost with a pair of Aces
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 (button) folded before Flop (didn't bet)
+Seat 8: Lymnhades (small blind) showed [8d Jd] and won (1065) with a flush, Ace high
+
+
+*********** # 82 **************
+PokerStars Hand #215161295086: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:09:09 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (6016 in chips)
+Seat 2: mfranzreb (3428 in chips)
+Seat 3: elketefuka (2732 in chips)
+Seat 5: wins174 (12906 in chips)
+Seat 6: 11Victor26 (2377 in chips)
+Seat 8: Lymnhades (9181 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+WRN10: posts small blind 100
+mfranzreb: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh Tc]
+elketefuka: folds
+wins174: folds
+11Victor26: raises 2152 to 2352 and is all-in
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+Uncalled bet (2152) returned to 11Victor26
+11Victor26 collected 650 from pot
+11Victor26: doesn't show hand
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Seat 1: WRN10 (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) folded before Flop
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 collected (650)
+Seat 8: Lymnhades (button) folded before Flop (didn't bet)
+
+
+*********** # 83 **************
+PokerStars Hand #215161310316: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:09:31 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (5891 in chips)
+Seat 2: mfranzreb (3203 in chips)
+Seat 3: elketefuka (2707 in chips)
+Seat 5: wins174 (12881 in chips)
+Seat 6: 11Victor26 (2802 in chips)
+Seat 8: Lymnhades (9156 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+mfranzreb: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [3d 5h]
+wins174: folds
+11Victor26: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: calls 100
+elketefuka: checks
+*** FLOP *** [8c 9d Qd]
+mfranzreb: checks
+elketefuka: checks
+*** TURN *** [8c 9d Qd] [2c]
+mfranzreb: checks
+elketefuka: bets 200
+mfranzreb: calls 200
+*** RIVER *** [8c 9d Qd 2c] [7h]
+mfranzreb: checks
+elketefuka: bets 2282 and is all-in
+mfranzreb: folds
+Uncalled bet (2282) returned to elketefuka
+elketefuka collected 950 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 950 | Rake 0
+Board [8c 9d Qd 2c 7h]
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) folded on the River
+Seat 3: elketefuka (big blind) collected (950)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 84 **************
+PokerStars Hand #215161337635: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:10:10 ET
+Table '2931808908 3' 9-max Seat #2 is the button
+Seat 1: WRN10 (5866 in chips)
+Seat 2: mfranzreb (2778 in chips)
+Seat 3: elketefuka (3232 in chips)
+Seat 5: wins174 (12856 in chips)
+Seat 6: 11Victor26 (2777 in chips)
+Seat 8: Lymnhades (9131 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+elketefuka: posts small blind 100
+wins174: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [9c 5c]
+11Victor26: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: raises 400 to 600
+wins174: folds
+Uncalled bet (400) returned to elketefuka
+elketefuka collected 550 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 550 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) collected (550)
+Seat 5: wins174 (big blind) folded before Flop
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 85 **************
+PokerStars Hand #215161362467: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:10:45 ET
+Table '2931808908 3' 9-max Seat #3 is the button
+Seat 1: WRN10 (5841 in chips)
+Seat 2: mfranzreb (2753 in chips)
+Seat 3: elketefuka (3557 in chips)
+Seat 5: wins174 (12631 in chips)
+Seat 6: 11Victor26 (2752 in chips)
+Seat 8: Lymnhades (9106 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+wins174: posts small blind 100
+11Victor26: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Ad Kc]
+Lymnhades: folds
+WRN10: folds
+mfranzreb: folds
+elketefuka: raises 400 to 600
+wins174: folds
+11Victor26: folds
+Uncalled bet (400) returned to elketefuka
+elketefuka collected 650 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka (button) collected (650)
+Seat 5: wins174 (small blind) folded before Flop
+Seat 6: 11Victor26 (big blind) folded before Flop
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 86 **************
+PokerStars Hand #215161375411: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:11:04 ET
+Table '2931808908 3' 9-max Seat #5 is the button
+Seat 1: WRN10 (5816 in chips)
+Seat 2: mfranzreb (2728 in chips)
+Seat 3: elketefuka (3982 in chips)
+Seat 5: wins174 (12506 in chips)
+Seat 6: 11Victor26 (2527 in chips)
+Seat 8: Lymnhades (9081 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+11Victor26: posts small blind 100
+Lymnhades: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Js 5s]
+WRN10: folds
+mfranzreb: folds
+elketefuka: folds
+wins174: raises 230 to 430
+11Victor26: folds
+Lymnhades: folds
+Uncalled bet (230) returned to wins174
+wins174 collected 650 from pot
+wins174: doesn't show hand
+*** SUMMARY ***
+Total pot 650 | Rake 0
+Seat 1: WRN10 folded before Flop (didn't bet)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: wins174 (button) collected (650)
+Seat 6: 11Victor26 (small blind) folded before Flop
+Seat 8: Lymnhades (big blind) folded before Flop
+
+
+*********** # 87 **************
+PokerStars Hand #215161392553: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:11:28 ET
+Table '2931808908 3' 9-max Seat #6 is the button
+Seat 1: WRN10 (5791 in chips)
+Seat 2: mfranzreb (2703 in chips)
+Seat 3: elketefuka (3957 in chips)
+Seat 5: wins174 (12931 in chips)
+Seat 6: 11Victor26 (2402 in chips)
+Seat 8: Lymnhades (8856 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+Lymnhades: posts small blind 100
+WRN10: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [4d 9d]
+mfranzreb: folds
+elketefuka: folds
+wins174: folds
+11Victor26: folds
+Lymnhades: folds
+Uncalled bet (100) returned to WRN10
+WRN10 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0
+Seat 1: WRN10 (big blind) collected (350)
+Seat 2: mfranzreb folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 (button) folded before Flop (didn't bet)
+Seat 8: Lymnhades (small blind) folded before Flop
+
+
+*********** # 88 **************
+PokerStars Hand #215161407312: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:11:49 ET
+Table '2931808908 3' 9-max Seat #8 is the button
+Seat 1: WRN10 (6016 in chips)
+Seat 2: mfranzreb (2678 in chips)
+Seat 3: elketefuka (3932 in chips)
+Seat 5: wins174 (12906 in chips)
+Seat 6: 11Victor26 (2377 in chips)
+Seat 8: Lymnhades (8731 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+WRN10: posts small blind 100
+mfranzreb: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [9c Qh]
+elketefuka: folds
+wins174: folds
+11Victor26: folds
+Lymnhades: folds
+WRN10: folds
+Uncalled bet (100) returned to mfranzreb
+mfranzreb collected 350 from pot
+mfranzreb: doesn't show hand
+*** SUMMARY ***
+Total pot 350 | Rake 0
+Seat 1: WRN10 (small blind) folded before Flop
+Seat 2: mfranzreb (big blind) collected (350)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades (button) folded before Flop (didn't bet)
+
+
+*********** # 89 **************
+PokerStars Hand #215161428263: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VII (100/200) - 2020/06/10 14:12:19 ET
+Table '2931808908 3' 9-max Seat #1 is the button
+Seat 1: WRN10 (5891 in chips)
+Seat 2: mfranzreb (2903 in chips)
+Seat 3: elketefuka (3907 in chips)
+Seat 5: wins174 (12881 in chips)
+Seat 6: 11Victor26 (2352 in chips)
+Seat 8: Lymnhades (8706 in chips)
+WRN10: posts the ante 25
+mfranzreb: posts the ante 25
+elketefuka: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts the ante 25
+Lymnhades: posts the ante 25
+mfranzreb: posts small blind 100
+elketefuka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc 4s]
+wins174: folds
+11Victor26: folds
+Lymnhades: folds
+WRN10: folds
+mfranzreb: calls 100
+elketefuka: checks
+*** FLOP *** [3s Qd 4c]
+mfranzreb: checks
+elketefuka: bets 200
+mfranzreb: raises 200 to 400
+elketefuka: calls 200
+*** TURN *** [3s Qd 4c] [Ts]
+mfranzreb: checks
+elketefuka: bets 675
+mfranzreb: raises 1603 to 2278 and is all-in
+elketefuka: calls 1603
+*** RIVER *** [3s Qd 4c Ts] [9d]
+*** SHOW DOWN ***
+mfranzreb: shows [8c Qc] (a pair of Queens)
+elketefuka: shows [Tc 4s] (two pair, Tens and Fours)
+elketefuka collected 5906 from pot
+mfranzreb finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 5906 | Rake 0
+Board [3s Qd 4c Ts 9d]
+Seat 1: WRN10 (button) folded before Flop (didn't bet)
+Seat 2: mfranzreb (small blind) showed [8c Qc] and lost with a pair of Queens
+Seat 3: elketefuka (big blind) showed [Tc 4s] and won (5906) with two pair, Tens and Fours
+Seat 5: wins174 folded before Flop (didn't bet)
+Seat 6: 11Victor26 folded before Flop (didn't bet)
+Seat 8: Lymnhades folded before Flop (didn't bet)
+
+
+*********** # 90 **************
+PokerStars Hand #215161492307: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:13:49 ET
+Table '2931808908 2' 9-max Seat #4 is the button
+Seat 1: Lymnhades (8681 in chips)
+Seat 2: 11Victor26 (2327 in chips)
+Seat 3: IamUlt1mate (7648 in chips)
+Seat 4: Filterr (1691 in chips)
+Seat 5: elketefuka (6910 in chips) out of hand (moved from another table into small blind)
+Seat 6: WRN10 (5866 in chips) out of hand (moved from another table into small blind)
+Seat 7: LeeTenn (10513 in chips)
+Seat 8: Probeckk (11008 in chips)
+Seat 9: wins174 (12856 in chips)
+elketefuka will be allowed to play after the button
+WRN10 will be allowed to play after the button
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+LeeTenn: posts small blind 150
+Probeckk: posts big blind 300
+*** HOLE CARDS ***
+wins174: folds
+Lymnhades: folds
+11Victor26 is disconnected
+11Victor26 has timed out while disconnected
+11Victor26: folds
+IamUlt1mate: raises 300 to 600
+Filterr: folds
+LeeTenn: folds
+Probeckk: folds
+Uncalled bet (300) returned to IamUlt1mate
+IamUlt1mate collected 925 from pot
+IamUlt1mate: doesn't show hand
+*** SUMMARY ***
+Total pot 925 | Rake 0
+Seat 1: Lymnhades folded before Flop (didn't bet)
+Seat 2: 11Victor26 folded before Flop (didn't bet)
+Seat 3: IamUlt1mate collected (925)
+Seat 4: Filterr (button) folded before Flop (didn't bet)
+Seat 7: LeeTenn (small blind) folded before Flop
+Seat 8: Probeckk (big blind) folded before Flop
+Seat 9: wins174 folded before Flop (didn't bet)
+
+
+*********** # 91 **************
+PokerStars Hand #215161650507: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:17:33 ET
+Table '2931808908 2' 9-max Seat #7 is the button
+Seat 1: Lymnhades (8656 in chips)
+Seat 2: 11Victor26 (2302 in chips)
+Seat 3: IamUlt1mate (8248 in chips)
+Seat 4: Filterr (1666 in chips)
+Seat 5: elketefuka (6910 in chips)
+Seat 6: WRN10 (5866 in chips)
+Seat 7: LeeTenn (10338 in chips)
+Seat 8: Probeckk (10683 in chips)
+Seat 9: wins174 (12831 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+Probeckk: posts small blind 150
+wins174: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [4s 2d]
+Lymnhades: folds
+11Victor26 is connected
+11Victor26 has timed out
+11Victor26: folds
+11Victor26 is sitting out
+11Victor26 has returned
+IamUlt1mate: folds
+Filterr: raises 1341 to 1641 and is all-in
+elketefuka: folds
+WRN10: folds
+LeeTenn: folds
+Probeckk: folds
+wins174: folds
+Uncalled bet (1341) returned to Filterr
+Filterr collected 975 from pot
+Filterr: doesn't show hand
+*** SUMMARY ***
+Total pot 975 | Rake 0
+Seat 1: Lymnhades folded before Flop (didn't bet)
+Seat 2: 11Victor26 folded before Flop (didn't bet)
+Seat 3: IamUlt1mate folded before Flop (didn't bet)
+Seat 4: Filterr collected (975)
+Seat 5: elketefuka folded before Flop (didn't bet)
+Seat 6: WRN10 folded before Flop (didn't bet)
+Seat 7: LeeTenn (button) folded before Flop (didn't bet)
+Seat 8: Probeckk (small blind) folded before Flop
+Seat 9: wins174 (big blind) folded before Flop
+
+
+*********** # 92 **************
+PokerStars Hand #215161681184: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:18:16 ET
+Table '2931808908 2' 9-max Seat #8 is the button
+Seat 1: Lymnhades (8631 in chips)
+Seat 2: 11Victor26 (2277 in chips)
+Seat 3: IamUlt1mate (8223 in chips)
+Seat 4: Filterr (2316 in chips)
+Seat 5: elketefuka (6885 in chips)
+Seat 6: WRN10 (5841 in chips)
+Seat 7: LeeTenn (10313 in chips)
+Seat 8: Probeckk (10508 in chips)
+Seat 9: wins174 (12506 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+wins174: posts small blind 150
+Lymnhades: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [5c 7c]
+11Victor26: calls 300
+IamUlt1mate: folds
+Filterr: folds
+elketefuka: folds
+WRN10: folds
+LeeTenn: folds
+Probeckk: raises 600 to 900
+wins174: folds
+Lymnhades: folds
+11Victor26: calls 600
+*** FLOP *** [Qd 7s Kd]
+11Victor26: bets 1352 and is all-in
+Probeckk: folds
+Uncalled bet (1352) returned to 11Victor26
+11Victor26 collected 2475 from pot
+11Victor26: doesn't show hand
+*** SUMMARY ***
+Total pot 2475 | Rake 0
+Board [Qd 7s Kd]
+Seat 1: Lymnhades (big blind) folded before Flop
+Seat 2: 11Victor26 collected (2475)
+Seat 3: IamUlt1mate folded before Flop (didn't bet)
+Seat 4: Filterr folded before Flop (didn't bet)
+Seat 5: elketefuka folded before Flop (didn't bet)
+Seat 6: WRN10 folded before Flop (didn't bet)
+Seat 7: LeeTenn folded before Flop (didn't bet)
+Seat 8: Probeckk (button) folded on the Flop
+Seat 9: wins174 (small blind) folded before Flop
+
+
+*********** # 93 **************
+PokerStars Hand #215161708698: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:18:55 ET
+Table '2931808908 2' 9-max Seat #9 is the button
+Seat 1: Lymnhades (8306 in chips)
+Seat 2: 11Victor26 (3827 in chips)
+Seat 3: IamUlt1mate (8198 in chips)
+Seat 4: Filterr (2291 in chips)
+Seat 5: elketefuka (6860 in chips)
+Seat 6: WRN10 (5816 in chips)
+Seat 7: LeeTenn (10288 in chips)
+Seat 8: Probeckk (9583 in chips)
+Seat 9: wins174 (12331 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+Lymnhades: posts small blind 150
+11Victor26: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [5d 2d]
+IamUlt1mate: folds
+Filterr: folds
+elketefuka: folds
+WRN10: folds
+LeeTenn: folds
+Probeckk: folds
+wins174: folds
+Lymnhades: calls 150
+11Victor26: checks
+*** FLOP *** [7c Ah 2h]
+Lymnhades: checks
+11Victor26: checks
+*** TURN *** [7c Ah 2h] [Ac]
+Lymnhades: checks
+11Victor26: checks
+*** RIVER *** [7c Ah 2h Ac] [As]
+Lymnhades: checks
+11Victor26: checks
+*** SHOW DOWN ***
+Lymnhades: shows [8s Jd] (three of a kind, Aces)
+11Victor26: mucks hand
+Lymnhades collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0
+Board [7c Ah 2h Ac As]
+Seat 1: Lymnhades (small blind) showed [8s Jd] and won (825) with three of a kind, Aces
+Seat 2: 11Victor26 (big blind) mucked [9d 4c]
+Seat 3: IamUlt1mate folded before Flop (didn't bet)
+Seat 4: Filterr folded before Flop (didn't bet)
+Seat 5: elketefuka folded before Flop (didn't bet)
+Seat 6: WRN10 folded before Flop (didn't bet)
+Seat 7: LeeTenn folded before Flop (didn't bet)
+Seat 8: Probeckk folded before Flop (didn't bet)
+Seat 9: wins174 (button) folded before Flop (didn't bet)
+
+
+*********** # 94 **************
+PokerStars Hand #215161750009: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:19:53 ET
+Table '2931808908 2' 9-max Seat #1 is the button
+Seat 1: Lymnhades (8806 in chips)
+Seat 2: 11Victor26 (3502 in chips)
+Seat 3: IamUlt1mate (8173 in chips)
+Seat 4: Filterr (2266 in chips)
+Seat 5: elketefuka (6835 in chips)
+Seat 6: WRN10 (5791 in chips)
+Seat 7: LeeTenn (10263 in chips)
+Seat 8: Probeckk (9558 in chips)
+Seat 9: wins174 (12306 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+11Victor26: posts small blind 150
+IamUlt1mate: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [Js Ks]
+Filterr: folds
+elketefuka: raises 300 to 600
+WRN10: folds
+LeeTenn: folds
+Probeckk: folds
+wins174: folds
+Lymnhades: folds
+11Victor26: folds
+IamUlt1mate: folds
+Uncalled bet (300) returned to elketefuka
+elketefuka collected 975 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 975 | Rake 0
+Seat 1: Lymnhades (button) folded before Flop (didn't bet)
+Seat 2: 11Victor26 (small blind) folded before Flop
+Seat 3: IamUlt1mate (big blind) folded before Flop
+Seat 4: Filterr folded before Flop (didn't bet)
+Seat 5: elketefuka collected (975)
+Seat 6: WRN10 folded before Flop (didn't bet)
+Seat 7: LeeTenn folded before Flop (didn't bet)
+Seat 8: Probeckk folded before Flop (didn't bet)
+Seat 9: wins174 folded before Flop (didn't bet)
+
+
+*********** # 95 **************
+PokerStars Hand #215161766214: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:20:16 ET
+Table '2931808908 2' 9-max Seat #2 is the button
+Seat 1: Lymnhades (8781 in chips)
+Seat 2: 11Victor26 (3327 in chips)
+Seat 3: IamUlt1mate (7848 in chips)
+Seat 4: Filterr (2241 in chips)
+Seat 5: elketefuka (7485 in chips)
+Seat 6: WRN10 (5766 in chips)
+Seat 7: LeeTenn (10238 in chips)
+Seat 8: Probeckk (9533 in chips)
+Seat 9: wins174 (12281 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+IamUlt1mate: posts small blind 150
+Filterr: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts 5c]
+elketefuka: folds
+WRN10: calls 300
+LeeTenn: folds
+Probeckk: folds
+wins174: folds
+Lymnhades: folds
+11Victor26: folds
+IamUlt1mate: raises 300 to 600
+Filterr: folds
+WRN10: calls 300
+*** FLOP *** [2s 8d 7s]
+IamUlt1mate: bets 300
+WRN10: raises 4841 to 5141 and is all-in
+IamUlt1mate: folds
+Uncalled bet (4841) returned to WRN10
+WRN10 collected 2325 from pot
+*** SUMMARY ***
+Total pot 2325 | Rake 0
+Board [2s 8d 7s]
+Seat 1: Lymnhades folded before Flop (didn't bet)
+Seat 2: 11Victor26 (button) folded before Flop (didn't bet)
+Seat 3: IamUlt1mate (small blind) folded on the Flop
+Seat 4: Filterr (big blind) folded before Flop
+Seat 5: elketefuka folded before Flop (didn't bet)
+Seat 6: WRN10 collected (2325)
+Seat 7: LeeTenn folded before Flop (didn't bet)
+Seat 8: Probeckk folded before Flop (didn't bet)
+Seat 9: wins174 folded before Flop (didn't bet)
+
+
+*********** # 96 **************
+PokerStars Hand #215161790695: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:20:50 ET
+Table '2931808908 2' 9-max Seat #3 is the button
+Seat 1: Lymnhades (8756 in chips)
+Seat 2: 11Victor26 (3302 in chips)
+Seat 3: IamUlt1mate (6923 in chips)
+Seat 4: Filterr (1916 in chips)
+Seat 5: elketefuka (7460 in chips)
+Seat 6: WRN10 (7166 in chips)
+Seat 7: LeeTenn (10213 in chips)
+Seat 8: Probeckk (9508 in chips)
+Seat 9: wins174 (12256 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+Filterr: posts small blind 150
+elketefuka: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [8s 4h]
+WRN10: calls 300
+LeeTenn: folds
+Probeckk: raises 600 to 900
+wins174: folds
+Lymnhades: folds
+11Victor26: folds
+IamUlt1mate: folds
+Filterr: folds
+elketefuka: folds
+WRN10: calls 600
+*** FLOP *** [Qs Jh 2c]
+WRN10: checks
+Probeckk: bets 1238
+WRN10: folds
+Uncalled bet (1238) returned to Probeckk
+Probeckk collected 2475 from pot
+Probeckk: doesn't show hand
+*** SUMMARY ***
+Total pot 2475 | Rake 0
+Board [Qs Jh 2c]
+Seat 1: Lymnhades folded before Flop (didn't bet)
+Seat 2: 11Victor26 folded before Flop (didn't bet)
+Seat 3: IamUlt1mate (button) folded before Flop (didn't bet)
+Seat 4: Filterr (small blind) folded before Flop
+Seat 5: elketefuka (big blind) folded before Flop
+Seat 6: WRN10 folded on the Flop
+Seat 7: LeeTenn folded before Flop (didn't bet)
+Seat 8: Probeckk collected (2475)
+Seat 9: wins174 folded before Flop (didn't bet)
+
+
+*********** # 97 **************
+PokerStars Hand #215161817249: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:21:27 ET
+Table '2931808908 2' 9-max Seat #4 is the button
+Seat 1: Lymnhades (8731 in chips)
+Seat 2: 11Victor26 (3277 in chips)
+Seat 3: IamUlt1mate (6898 in chips)
+Seat 4: Filterr (1741 in chips)
+Seat 5: elketefuka (7135 in chips)
+Seat 6: WRN10 (6241 in chips)
+Seat 7: LeeTenn (10188 in chips)
+Seat 8: Probeckk (11058 in chips)
+Seat 9: wins174 (12231 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+elketefuka: posts small blind 150
+WRN10: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 7c]
+LeeTenn: folds
+Probeckk: calls 300
+wins174: folds
+Lymnhades: folds
+11Victor26: folds
+IamUlt1mate: folds
+Filterr: folds
+elketefuka: folds
+WRN10: checks
+*** FLOP *** [6s 2s Ah]
+WRN10: bets 300
+Probeckk: calls 300
+*** TURN *** [6s 2s Ah] [Js]
+WRN10: bets 300
+Probeckk: raises 600 to 900
+WRN10: calls 600
+*** RIVER *** [6s 2s Ah Js] [2d]
+WRN10: bets 300
+Probeckk: calls 300
+*** SHOW DOWN ***
+WRN10: shows [Ad 4h] (two pair, Aces and Deuces)
+Probeckk: mucks hand
+WRN10 collected 3975 from pot
+*** SUMMARY ***
+Total pot 3975 | Rake 0
+Board [6s 2s Ah Js 2d]
+Seat 1: Lymnhades folded before Flop (didn't bet)
+Seat 2: 11Victor26 folded before Flop (didn't bet)
+Seat 3: IamUlt1mate folded before Flop (didn't bet)
+Seat 4: Filterr (button) folded before Flop (didn't bet)
+Seat 5: elketefuka (small blind) folded before Flop
+Seat 6: WRN10 (big blind) showed [Ad 4h] and won (3975) with two pair, Aces and Deuces
+Seat 7: LeeTenn folded before Flop (didn't bet)
+Seat 8: Probeckk mucked [8s 8d]
+Seat 9: wins174 folded before Flop (didn't bet)
+
+
+*********** # 98 **************
+PokerStars Hand #215161856116: Tournament #2931808908, $0.23+$0.02 USD Hold'em No Limit - Level VIII (150/300) - 2020/06/10 14:22:21 ET
+Table '2931808908 2' 9-max Seat #5 is the button
+Seat 1: Lymnhades (8706 in chips)
+Seat 2: 11Victor26 (3252 in chips)
+Seat 3: IamUlt1mate (6873 in chips)
+Seat 4: Filterr (1716 in chips)
+Seat 5: elketefuka (6960 in chips)
+Seat 6: WRN10 (8391 in chips)
+Seat 7: LeeTenn (10163 in chips)
+Seat 8: Probeckk (9233 in chips)
+Seat 9: wins174 (12206 in chips)
+Lymnhades: posts the ante 25
+11Victor26: posts the ante 25
+IamUlt1mate: posts the ante 25
+Filterr: posts the ante 25
+elketefuka: posts the ante 25
+WRN10: posts the ante 25
+LeeTenn: posts the ante 25
+Probeckk: posts the ante 25
+wins174: posts the ante 25
+WRN10: posts small blind 150
+LeeTenn: posts big blind 300
+*** HOLE CARDS ***
+Dealt to elketefuka [8h Ah]
+Probeckk: raises 600 to 900
+wins174: folds
+Lymnhades: folds
+11Victor26: folds
+IamUlt1mate: folds
+Filterr: folds
+elketefuka: calls 900
+WRN10: folds
+LeeTenn: calls 600
+*** FLOP *** [Td Ac Ad]
+LeeTenn: checks
+Probeckk: bets 3075
+elketefuka: raises 2960 to 6035 and is all-in
+LeeTenn: folds
+Probeckk: calls 2960
+*** TURN *** [Td Ac Ad] [6c]
+*** RIVER *** [Td Ac Ad 6c] [Kh]
+*** SHOW DOWN ***
+Probeckk: shows [Th Ts] (a full house, Tens full of Aces)
+elketefuka: shows [8h Ah] (three of a kind, Aces)
+Probeckk collected 15145 from pot
+elketefuka finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 15145 | Rake 0
+Board [Td Ac Ad 6c Kh]
+Seat 1: Lymnhades folded before Flop (didn't bet)
+Seat 2: 11Victor26 folded before Flop (didn't bet)
+Seat 3: IamUlt1mate folded before Flop (didn't bet)
+Seat 4: Filterr folded before Flop (didn't bet)
+Seat 5: elketefuka (button) showed [8h Ah] and lost with three of a kind, Aces
+Seat 6: WRN10 (small blind) folded before Flop
+Seat 7: LeeTenn (big blind) folded on the Flop
+Seat 8: Probeckk showed [Th Ts] and won (15145) with a full house, Tens full of Aces
+Seat 9: wins174 folded before Flop (didn't bet)

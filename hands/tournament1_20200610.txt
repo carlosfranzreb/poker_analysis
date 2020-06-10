@@ -1,0 +1,1689 @@
+*********** # 1 **************
+PokerStars Hand #215156374206: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:00:27 ET
+Table '2931760484 1' 9-max Seat #1 is the button
+Seat 1: elketefuka (1500 in chips)
+Seat 2: IMaBuzzyBee (1500 in chips)
+Seat 3: Vecchio_07 (1500 in chips)
+Seat 4: leo-kerchner (1500 in chips)
+Seat 5: Rostovskii161 (1500 in chips)
+Seat 6: Abcd1982 (1500 in chips)
+Seat 7: mfranzreb (1500 in chips)
+Seat 8: poker@pok212 (1500 in chips)
+Seat 9: Evgen116Ev (1500 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+IMaBuzzyBee: posts small blind 10
+Vecchio_07: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [8s Kc]
+leo-kerchner: folds
+Rostovskii161: folds
+Abcd1982: folds
+mfranzreb: folds
+poker@pok212: folds
+Evgen116Ev: raises 1477 to 1497 and is all-in
+elketefuka: folds
+IMaBuzzyBee: calls 1487 and is all-in
+Vecchio_07: folds
+*** FLOP *** [2s 5s 2h]
+*** TURN *** [2s 5s 2h] [5c]
+*** RIVER *** [2s 5s 2h 5c] [3d]
+*** SHOW DOWN ***
+IMaBuzzyBee: shows [Qh Ah] (two pair, Fives and Deuces)
+Evgen116Ev: shows [Qd Ac] (two pair, Fives and Deuces)
+IMaBuzzyBee collected 1521 from pot
+Evgen116Ev collected 1520 from pot
+*** SUMMARY ***
+Total pot 3041 | Rake 0
+Board [2s 5s 2h 5c 3d]
+Seat 1: elketefuka (button) folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee (small blind) showed [Qh Ah] and won (1521) with two pair, Fives and Deuces
+Seat 3: Vecchio_07 (big blind) folded before Flop
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 5: Rostovskii161 folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: poker@pok212 folded before Flop (didn't bet)
+Seat 9: Evgen116Ev showed [Qd Ac] and won (1520) with two pair, Fives and Deuces
+
+
+*********** # 2 **************
+PokerStars Hand #215156388512: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:00:55 ET
+Table '2931760484 1' 9-max Seat #2 is the button
+Seat 1: elketefuka (1497 in chips)
+Seat 2: IMaBuzzyBee (1521 in chips)
+Seat 3: Vecchio_07 (1477 in chips)
+Seat 4: leo-kerchner (1497 in chips)
+Seat 5: Rostovskii161 (1497 in chips)
+Seat 6: Abcd1982 (1497 in chips)
+Seat 7: mfranzreb (1497 in chips)
+Seat 8: poker@pok212 (1497 in chips)
+Seat 9: Evgen116Ev (1520 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+Vecchio_07: posts small blind 10
+leo-kerchner: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [8s Qs]
+Rostovskii161: folds
+Abcd1982: folds
+mfranzreb: folds
+poker@pok212: calls 20
+Evgen116Ev: raises 1497 to 1517 and is all-in
+elketefuka: folds
+IMaBuzzyBee: folds
+Vecchio_07: folds
+leo-kerchner: folds
+poker@pok212: folds
+Uncalled bet (1497) returned to Evgen116Ev
+Evgen116Ev collected 97 from pot
+Evgen116Ev: doesn't show hand
+*** SUMMARY ***
+Total pot 97 | Rake 0
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee (button) folded before Flop (didn't bet)
+Seat 3: Vecchio_07 (small blind) folded before Flop
+Seat 4: leo-kerchner (big blind) folded before Flop
+Seat 5: Rostovskii161 folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: poker@pok212 folded before Flop
+Seat 9: Evgen116Ev collected (97)
+
+
+*********** # 3 **************
+PokerStars Hand #215156405340: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:01:27 ET
+Table '2931760484 1' 9-max Seat #3 is the button
+Seat 1: elketefuka (1494 in chips)
+Seat 2: IMaBuzzyBee (1518 in chips)
+Seat 3: Vecchio_07 (1464 in chips)
+Seat 4: leo-kerchner (1474 in chips)
+Seat 5: Rostovskii161 (1494 in chips)
+Seat 6: Abcd1982 (1494 in chips)
+Seat 7: mfranzreb (1494 in chips)
+Seat 8: poker@pok212 (1474 in chips)
+Seat 9: Evgen116Ev (1594 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+leo-kerchner: posts small blind 10
+Rostovskii161: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Qh Js]
+Abcd1982: folds
+mfranzreb: folds
+poker@pok212: calls 20
+Evgen116Ev: calls 20
+elketefuka: calls 20
+IMaBuzzyBee: folds
+Vecchio_07: calls 20
+leo-kerchner: folds
+Rostovskii161: checks
+*** FLOP *** [Th Tc 2h]
+Rostovskii161: checks
+poker@pok212: checks
+Evgen116Ev: checks
+elketefuka: checks
+Vecchio_07: checks
+*** TURN *** [Th Tc 2h] [Qd]
+Rostovskii161: checks
+poker@pok212: bets 20
+Evgen116Ev: folds
+elketefuka: calls 20
+Vecchio_07: calls 20
+Rostovskii161: folds
+*** RIVER *** [Th Tc 2h Qd] [7c]
+poker@pok212: bets 20
+elketefuka: calls 20
+Vecchio_07: calls 20
+*** SHOW DOWN ***
+poker@pok212: shows [Kh Qs] (two pair, Queens and Tens)
+elketefuka: mucks hand
+Vecchio_07: mucks hand
+poker@pok212 collected 257 from pot
+*** SUMMARY ***
+Total pot 257 | Rake 0
+Board [Th Tc 2h Qd 7c]
+Seat 1: elketefuka mucked [Qh Js]
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: Vecchio_07 (button) mucked [Ah 2d]
+Seat 4: leo-kerchner (small blind) folded before Flop
+Seat 5: Rostovskii161 (big blind) folded on the Turn
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: poker@pok212 showed [Kh Qs] and won (257) with two pair, Queens and Tens
+Seat 9: Evgen116Ev folded on the Turn
+
+
+*********** # 4 **************
+PokerStars Hand #215156435740: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:02:16 ET
+Table '2931760484 1' 9-max Seat #4 is the button
+Seat 1: elketefuka (1431 in chips)
+Seat 2: IMaBuzzyBee (1515 in chips)
+Seat 3: Vecchio_07 (1401 in chips)
+Seat 4: leo-kerchner (1461 in chips)
+Seat 5: Rostovskii161 (1471 in chips)
+Seat 6: Abcd1982 (1491 in chips)
+Seat 7: mfranzreb (1491 in chips)
+Seat 8: poker@pok212 (1668 in chips)
+Seat 9: Evgen116Ev (1571 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+Rostovskii161: posts small blind 10
+Abcd1982: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh 5c]
+mfranzreb: folds
+poker@pok212: folds
+Evgen116Ev: calls 20
+elketefuka: folds
+IMaBuzzyBee: calls 20
+Vecchio_07: folds
+leo-kerchner: raises 80 to 100
+Rostovskii161: folds
+Abcd1982: folds
+Evgen116Ev: calls 80
+IMaBuzzyBee: calls 80
+*** FLOP *** [2h 8s Jd]
+Evgen116Ev: checks
+IMaBuzzyBee: bets 100
+leo-kerchner: folds
+Evgen116Ev: folds
+Uncalled bet (100) returned to IMaBuzzyBee
+IMaBuzzyBee collected 357 from pot
+IMaBuzzyBee: doesn't show hand
+*** SUMMARY ***
+Total pot 357 | Rake 0
+Board [2h 8s Jd]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee collected (357)
+Seat 3: Vecchio_07 folded before Flop (didn't bet)
+Seat 4: leo-kerchner (button) folded on the Flop
+Seat 5: Rostovskii161 (small blind) folded before Flop
+Seat 6: Abcd1982 (big blind) folded before Flop
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: poker@pok212 folded before Flop (didn't bet)
+Seat 9: Evgen116Ev folded on the Flop
+
+
+*********** # 5 **************
+PokerStars Hand #215156467019: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:03:09 ET
+Table '2931760484 1' 9-max Seat #5 is the button
+Seat 1: elketefuka (1428 in chips)
+Seat 2: IMaBuzzyBee (1769 in chips)
+Seat 3: Vecchio_07 (1398 in chips)
+Seat 4: leo-kerchner (1358 in chips)
+Seat 5: Rostovskii161 (1458 in chips)
+Seat 6: Abcd1982 (1468 in chips)
+Seat 7: mfranzreb (1488 in chips)
+Seat 8: poker@pok212 (1665 in chips)
+Seat 9: Evgen116Ev (1468 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+Abcd1982: posts small blind 10
+mfranzreb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [2s Ac]
+poker@pok212: calls 20
+Evgen116Ev: calls 20
+elketefuka: calls 20
+IMaBuzzyBee: folds
+Vecchio_07: calls 20
+leo-kerchner: folds
+Rostovskii161: calls 20
+Abcd1982: raises 180 to 200
+mfranzreb: folds
+poker@pok212: calls 180
+Evgen116Ev: calls 180
+elketefuka: folds
+Vecchio_07: folds
+Rostovskii161: folds
+*** FLOP *** [8h 3h 9c]
+Abcd1982: bets 707
+poker@pok212: folds
+Evgen116Ev: folds
+Uncalled bet (707) returned to Abcd1982
+Abcd1982 collected 707 from pot
+Abcd1982: doesn't show hand
+*** SUMMARY ***
+Total pot 707 | Rake 0
+Board [8h 3h 9c]
+Seat 1: elketefuka folded before Flop
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: Vecchio_07 folded before Flop
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 5: Rostovskii161 (button) folded before Flop
+Seat 6: Abcd1982 (small blind) collected (707)
+Seat 7: mfranzreb (big blind) folded before Flop
+Seat 8: poker@pok212 folded on the Flop
+Seat 9: Evgen116Ev folded on the Flop
+
+
+*********** # 6 **************
+PokerStars Hand #215156499815: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:04:05 ET
+Table '2931760484 1' 9-max Seat #6 is the button
+Seat 1: elketefuka (1405 in chips)
+Seat 2: IMaBuzzyBee (1766 in chips)
+Seat 3: Vecchio_07 (1375 in chips)
+Seat 4: leo-kerchner (1355 in chips)
+Seat 5: Rostovskii161 (1435 in chips)
+Seat 6: Abcd1982 (1972 in chips)
+Seat 7: mfranzreb (1465 in chips)
+Seat 8: poker@pok212 (1462 in chips)
+Seat 9: Evgen116Ev (1265 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+mfranzreb: posts small blind 10
+poker@pok212: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Th 8h]
+Evgen116Ev: folds
+elketefuka: calls 20
+IMaBuzzyBee: folds
+Vecchio_07: calls 20
+leo-kerchner: folds
+Rostovskii161: folds
+Abcd1982: folds
+mfranzreb: raises 20 to 40
+poker@pok212: calls 20
+elketefuka: calls 20
+Vecchio_07: calls 20
+*** FLOP *** [Kh 7h Ks]
+mfranzreb: checks
+poker@pok212: checks
+elketefuka: bets 94
+Vecchio_07: folds
+mfranzreb: folds
+poker@pok212: folds
+Uncalled bet (94) returned to elketefuka
+elketefuka collected 187 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 187 | Rake 0
+Board [Kh 7h Ks]
+Seat 1: elketefuka collected (187)
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: Vecchio_07 folded on the Flop
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 5: Rostovskii161 folded before Flop (didn't bet)
+Seat 6: Abcd1982 (button) folded before Flop (didn't bet)
+Seat 7: mfranzreb (small blind) folded on the Flop
+Seat 8: poker@pok212 (big blind) folded on the Flop
+Seat 9: Evgen116Ev folded before Flop (didn't bet)
+
+
+*********** # 7 **************
+PokerStars Hand #215156536166: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:05:07 ET
+Table '2931760484 1' 9-max Seat #7 is the button
+Seat 1: elketefuka (1549 in chips)
+Seat 2: IMaBuzzyBee (1763 in chips)
+Seat 3: Vecchio_07 (1332 in chips)
+Seat 4: leo-kerchner (1352 in chips)
+Seat 5: Rostovskii161 (1432 in chips)
+Seat 6: Abcd1982 (1969 in chips)
+Seat 7: mfranzreb (1422 in chips)
+Seat 8: poker@pok212 (1419 in chips)
+Seat 9: Evgen116Ev (1262 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+poker@pok212: posts small blind 10
+Evgen116Ev: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [9h 5h]
+elketefuka: folds
+IMaBuzzyBee: folds
+Vecchio_07: calls 20
+leo-kerchner: folds
+Rostovskii161: folds
+Abcd1982: folds
+mfranzreb: calls 20
+poker@pok212: calls 10
+Evgen116Ev: raises 220 to 240
+Vecchio_07: folds
+mfranzreb: folds
+poker@pok212: folds
+Uncalled bet (220) returned to Evgen116Ev
+Evgen116Ev collected 107 from pot
+Evgen116Ev: doesn't show hand
+*** SUMMARY ***
+Total pot 107 | Rake 0
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: Vecchio_07 folded before Flop
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 5: Rostovskii161 folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb (button) folded before Flop
+Seat 8: poker@pok212 (small blind) folded before Flop
+Seat 9: Evgen116Ev (big blind) collected (107)
+
+
+*********** # 8 **************
+PokerStars Hand #215156555460: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:05:39 ET
+Table '2931760484 1' 9-max Seat #8 is the button
+Seat 1: elketefuka (1546 in chips)
+Seat 2: IMaBuzzyBee (1760 in chips)
+Seat 3: Vecchio_07 (1309 in chips)
+Seat 4: leo-kerchner (1349 in chips)
+Seat 5: Rostovskii161 (1429 in chips)
+Seat 6: Abcd1982 (1966 in chips)
+Seat 7: mfranzreb (1399 in chips)
+Seat 8: poker@pok212 (1396 in chips)
+Seat 9: Evgen116Ev (1346 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+Evgen116Ev: posts small blind 10
+elketefuka: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [3h 6h]
+IMaBuzzyBee: folds
+Vecchio_07: folds
+leo-kerchner: raises 50 to 70
+Rostovskii161: calls 70
+Abcd1982: folds
+mfranzreb: folds
+poker@pok212: folds
+Evgen116Ev: calls 60
+elketefuka: calls 50
+*** FLOP *** [7d 9s Tc]
+Evgen116Ev: checks
+elketefuka: checks
+leo-kerchner: checks
+Rostovskii161: bets 1356 and is all-in
+Evgen116Ev: folds
+elketefuka: folds
+leo-kerchner: folds
+Uncalled bet (1356) returned to Rostovskii161
+Rostovskii161 collected 307 from pot
+Rostovskii161: doesn't show hand
+*** SUMMARY ***
+Total pot 307 | Rake 0
+Board [7d 9s Tc]
+Seat 1: elketefuka (big blind) folded on the Flop
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: Vecchio_07 folded before Flop (didn't bet)
+Seat 4: leo-kerchner folded on the Flop
+Seat 5: Rostovskii161 collected (307)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: poker@pok212 (button) folded before Flop (didn't bet)
+Seat 9: Evgen116Ev (small blind) folded on the Flop
+
+
+*********** # 9 **************
+PokerStars Hand #215156596761: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:06:49 ET
+Table '2931760484 1' 9-max Seat #9 is the button
+Seat 1: elketefuka (1473 in chips)
+Seat 2: IMaBuzzyBee (1757 in chips)
+Seat 3: Vecchio_07 (1306 in chips)
+Seat 4: leo-kerchner (1276 in chips)
+Seat 5: Rostovskii161 (1663 in chips)
+Seat 6: Abcd1982 (1963 in chips)
+Seat 7: mfranzreb (1396 in chips)
+Seat 8: poker@pok212 (1393 in chips)
+Seat 9: Evgen116Ev (1273 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+elketefuka: posts small blind 10
+IMaBuzzyBee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [8d 5d]
+Vecchio_07: folds
+leo-kerchner: raises 50 to 70
+Rostovskii161: calls 70
+Abcd1982: calls 70
+mfranzreb: folds
+poker@pok212: calls 70
+Evgen116Ev: folds
+elketefuka: calls 60
+IMaBuzzyBee: folds
+*** FLOP *** [Ad Ts Kc]
+elketefuka: checks
+leo-kerchner: checks
+Rostovskii161: checks
+Abcd1982: bets 100
+poker@pok212: calls 100
+elketefuka: folds
+leo-kerchner: folds
+Rostovskii161: raises 1490 to 1590 and is all-in
+Abcd1982: folds
+poker@pok212: folds
+Uncalled bet (1490) returned to Rostovskii161
+Rostovskii161 collected 697 from pot
+Rostovskii161: doesn't show hand
+*** SUMMARY ***
+Total pot 697 | Rake 0
+Board [Ad Ts Kc]
+Seat 1: elketefuka (small blind) folded on the Flop
+Seat 2: IMaBuzzyBee (big blind) folded before Flop
+Seat 3: Vecchio_07 folded before Flop (didn't bet)
+Seat 4: leo-kerchner folded on the Flop
+Seat 5: Rostovskii161 collected (697)
+Seat 6: Abcd1982 folded on the Flop
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: poker@pok212 folded on the Flop
+Seat 9: Evgen116Ev (button) folded before Flop (didn't bet)
+
+
+*********** # 10 **************
+PokerStars Hand #215156635840: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:07:54 ET
+Table '2931760484 1' 9-max Seat #1 is the button
+Seat 1: elketefuka (1400 in chips)
+Seat 2: IMaBuzzyBee (1734 in chips)
+Seat 3: Vecchio_07 (1303 in chips)
+Seat 4: leo-kerchner (1203 in chips)
+Seat 5: Rostovskii161 (2187 in chips)
+Seat 6: Abcd1982 (1790 in chips)
+Seat 7: mfranzreb (1393 in chips)
+Seat 8: poker@pok212 (1220 in chips)
+Seat 9: Evgen116Ev (1270 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+poker@pok212: posts the ante 3
+Evgen116Ev: posts the ante 3
+IMaBuzzyBee: posts small blind 10
+Vecchio_07: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [7d Th]
+leo-kerchner: folds
+Rostovskii161: folds
+Abcd1982: folds
+mfranzreb: folds
+poker@pok212: calls 20
+Evgen116Ev: raises 480 to 500
+elketefuka: folds
+IMaBuzzyBee: folds
+Vecchio_07: folds
+poker@pok212: calls 480
+*** FLOP *** [Qs 9d 7s]
+poker@pok212: checks
+Evgen116Ev: bets 280
+poker@pok212: calls 280
+*** TURN *** [Qs 9d 7s] [2c]
+poker@pok212: checks
+Evgen116Ev: bets 340
+poker@pok212: calls 340
+*** RIVER *** [Qs 9d 7s 2c] [6h]
+poker@pok212: checks
+Evgen116Ev: bets 120
+poker@pok212: calls 97 and is all-in
+Uncalled bet (23) returned to Evgen116Ev
+*** SHOW DOWN ***
+Evgen116Ev: shows [9h 9s] (three of a kind, Nines)
+poker@pok212: shows [Jc Td] (high card Queen)
+Evgen116Ev collected 2491 from pot
+poker@pok212 finished the tournament in 42nd place
+*** SUMMARY ***
+Total pot 2491 | Rake 0
+Board [Qs 9d 7s 2c 6h]
+Seat 1: elketefuka (button) folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee (small blind) folded before Flop
+Seat 3: Vecchio_07 (big blind) folded before Flop
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 5: Rostovskii161 folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: poker@pok212 showed [Jc Td] and lost with high card Queen
+Seat 9: Evgen116Ev showed [9h 9s] and won (2491) with three of a kind, Nines
+
+
+*********** # 11 **************
+PokerStars Hand #215156671792: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:08:47 ET
+Table '2931760484 1' 9-max Seat #2 is the button
+Seat 1: elketefuka (1397 in chips)
+Seat 2: IMaBuzzyBee (1721 in chips)
+Seat 3: Vecchio_07 (1280 in chips)
+Seat 4: leo-kerchner (1200 in chips)
+Seat 5: Rostovskii161 (2184 in chips)
+Seat 6: Abcd1982 (1787 in chips)
+Seat 7: mfranzreb (1390 in chips)
+Seat 9: Evgen116Ev (2541 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+Evgen116Ev: posts the ante 3
+Vecchio_07: posts small blind 10
+leo-kerchner: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [3s Kc]
+Rostovskii161: folds
+Abcd1982: folds
+mfranzreb: folds
+Evgen116Ev: calls 20
+elketefuka: folds
+IMaBuzzyBee: folds
+Vecchio_07: calls 10
+leo-kerchner: checks
+*** FLOP *** [Qh 7c 7d]
+Vecchio_07: checks
+leo-kerchner: checks
+Evgen116Ev: checks
+*** TURN *** [Qh 7c 7d] [Ac]
+Vecchio_07: checks
+leo-kerchner: checks
+Evgen116Ev: checks
+*** RIVER *** [Qh 7c 7d Ac] [9d]
+Vecchio_07: checks
+leo-kerchner: checks
+Evgen116Ev: checks
+*** SHOW DOWN ***
+Vecchio_07: shows [5d Js] (a pair of Sevens)
+leo-kerchner: mucks hand
+Evgen116Ev: mucks hand
+Vecchio_07 collected 84 from pot
+*** SUMMARY ***
+Total pot 84 | Rake 0
+Board [Qh 7c 7d Ac 9d]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee (button) folded before Flop (didn't bet)
+Seat 3: Vecchio_07 (small blind) showed [5d Js] and won (84) with a pair of Sevens
+Seat 4: leo-kerchner (big blind) mucked [8c 4d]
+Seat 5: Rostovskii161 folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 9: Evgen116Ev mucked [Th 4h]
+
+
+*********** # 12 **************
+PokerStars Hand #215156725425: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level I (10/20) - 2020/06/10 12:10:18 ET
+Table '2931760484 1' 9-max Seat #3 is the button
+Seat 1: elketefuka (1394 in chips)
+Seat 2: IMaBuzzyBee (1718 in chips)
+Seat 3: Vecchio_07 (1341 in chips)
+Seat 4: leo-kerchner (1177 in chips)
+Seat 5: Rostovskii161 (2181 in chips)
+Seat 6: Abcd1982 (1784 in chips)
+Seat 7: mfranzreb (1387 in chips)
+Seat 9: Evgen116Ev (2518 in chips)
+elketefuka: posts the ante 3
+IMaBuzzyBee: posts the ante 3
+Vecchio_07: posts the ante 3
+leo-kerchner: posts the ante 3
+Rostovskii161: posts the ante 3
+Abcd1982: posts the ante 3
+mfranzreb: posts the ante 3
+Evgen116Ev: posts the ante 3
+leo-kerchner: posts small blind 10
+Rostovskii161: posts big blind 20
+*** HOLE CARDS ***
+Dealt to elketefuka [Kh Tc]
+Abcd1982: folds
+mfranzreb: calls 20
+Evgen116Ev: calls 20
+elketefuka: folds
+IMaBuzzyBee: folds
+Vecchio_07: calls 20
+leo-kerchner: folds
+Rostovskii161: checks
+*** FLOP *** [Ac Qh 3h]
+Rostovskii161: bets 20
+mfranzreb: raises 40 to 60
+Evgen116Ev: calls 60
+Vecchio_07: calls 60
+Rostovskii161: raises 40 to 100
+mfranzreb: calls 40
+Evgen116Ev: calls 40
+Vecchio_07: calls 40
+*** TURN *** [Ac Qh 3h] [7h]
+Rostovskii161: bets 200
+mfranzreb: calls 200
+Evgen116Ev: calls 200
+Vecchio_07: folds
+*** RIVER *** [Ac Qh 3h 7h] [7s]
+Rostovskii161: bets 1858 and is all-in
+mfranzreb: calls 1064 and is all-in
+Evgen116Ev: folds
+Uncalled bet (794) returned to Rostovskii161
+*** SHOW DOWN ***
+Rostovskii161: shows [Jc As] (two pair, Aces and Sevens)
+mfranzreb: shows [2h Ah] (a flush, Ace high)
+mfranzreb collected 3242 from pot
+*** SUMMARY ***
+Total pot 3242 | Rake 0
+Board [Ac Qh 3h 7h 7s]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: Vecchio_07 (button) folded on the Turn
+Seat 4: leo-kerchner (small blind) folded before Flop
+Seat 5: Rostovskii161 (big blind) showed [Jc As] and lost with two pair, Aces and Sevens
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb showed [2h Ah] and won (3242) with a flush, Ace high
+Seat 9: Evgen116Ev folded on the River
+
+
+*********** # 13 **************
+PokerStars Hand #215156780210: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:11:50 ET
+Table '2931760484 1' 9-max Seat #4 is the button
+Seat 1: elketefuka (1391 in chips)
+Seat 2: IMaBuzzyBee (1715 in chips)
+Seat 3: Vecchio_07 (1218 in chips)
+Seat 4: leo-kerchner (1164 in chips)
+Seat 5: Rostovskii161 (794 in chips)
+Seat 6: Abcd1982 (1781 in chips)
+Seat 7: mfranzreb (3242 in chips)
+Seat 9: Evgen116Ev (2195 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+Vecchio_07: posts the ante 4
+leo-kerchner: posts the ante 4
+Rostovskii161: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+Evgen116Ev: posts the ante 4
+Rostovskii161: posts small blind 15
+Abcd1982: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd Jh]
+mfranzreb: folds
+Evgen116Ev: calls 30
+elketefuka: calls 30
+IMaBuzzyBee: calls 30
+Vecchio_07: calls 30
+leo-kerchner: folds
+Rostovskii161: raises 90 to 120
+Abcd1982: folds
+Evgen116Ev: calls 90
+elketefuka: calls 90
+IMaBuzzyBee: calls 90
+Vecchio_07: raises 1094 to 1214 and is all-in
+Rostovskii161: calls 670 and is all-in
+Evgen116Ev: raises 977 to 2191 and is all-in
+elketefuka: folds
+IMaBuzzyBee: folds
+Uncalled bet (977) returned to Evgen116Ev
+*** FLOP *** [9d 6c 4s]
+*** TURN *** [9d 6c 4s] [4c]
+*** RIVER *** [9d 6c 4s 4c] [7c]
+*** SHOW DOWN ***
+Evgen116Ev: shows [8c 8d] (two pair, Eights and Fours)
+Vecchio_07: shows [As Qc] (a pair of Fours)
+Evgen116Ev collected 848 from side pot
+Rostovskii161: shows [Td 7s] (two pair, Sevens and Fours)
+Evgen116Ev collected 2672 from main pot
+Vecchio_07 finished the tournament in 38th place
+Rostovskii161 finished the tournament in 39th place
+*** SUMMARY ***
+Total pot 3520 Main pot 2672. Side pot 848. | Rake 0
+Board [9d 6c 4s 4c 7c]
+Seat 1: elketefuka folded before Flop
+Seat 2: IMaBuzzyBee folded before Flop
+Seat 3: Vecchio_07 showed [As Qc] and lost with a pair of Fours
+Seat 4: leo-kerchner (button) folded before Flop (didn't bet)
+Seat 5: Rostovskii161 (small blind) showed [Td 7s] and lost with two pair, Sevens and Fours
+Seat 6: Abcd1982 (big blind) folded before Flop
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 9: Evgen116Ev showed [8c 8d] and won (3520) with two pair, Eights and Fours
+
+
+*********** # 14 **************
+PokerStars Hand #215156855693: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:13:57 ET
+Table '2931760484 1' 9-max Seat #6 is the button
+Seat 1: elketefuka (1267 in chips)
+Seat 2: IMaBuzzyBee (1591 in chips)
+Seat 4: leo-kerchner (1160 in chips)
+Seat 6: Abcd1982 (1747 in chips)
+Seat 7: mfranzreb (3238 in chips)
+Seat 9: Evgen116Ev (4497 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+leo-kerchner: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+Evgen116Ev: posts the ante 4
+mfranzreb: posts small blind 15
+Evgen116Ev: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Qs Js]
+elketefuka: raises 60 to 90
+IMaBuzzyBee: folds
+leo-kerchner: folds
+Abcd1982 is disconnected
+Abcd1982 has timed out while disconnected
+Abcd1982: folds
+Abcd1982 is sitting out
+mfranzreb: folds
+Evgen116Ev: calls 60
+*** FLOP *** [Jd 7s 4d]
+Evgen116Ev: checks
+elketefuka: bets 150
+Evgen116Ev: folds
+Uncalled bet (150) returned to elketefuka
+elketefuka collected 219 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 219 | Rake 0
+Board [Jd 7s 4d]
+Seat 1: elketefuka collected (219)
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 6: Abcd1982 (button) folded before Flop (didn't bet)
+Seat 7: mfranzreb (small blind) folded before Flop
+Seat 9: Evgen116Ev (big blind) folded on the Flop
+
+
+*********** # 15 **************
+PokerStars Hand #215156881911: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:14:41 ET
+Table '2931760484 1' 9-max Seat #7 is the button
+Seat 1: elketefuka (1392 in chips)
+Seat 2: IMaBuzzyBee (1587 in chips)
+Seat 3: BaPé (1537 in chips)
+Seat 4: leo-kerchner (1156 in chips)
+Seat 5: kRiminalShow (1966 in chips)
+Seat 6: Abcd1982 (1743 in chips) is sitting out
+Seat 7: mfranzreb (3219 in chips)
+Seat 8: SIN MIEDO69 (4051 in chips) out of hand (moved from another table into small blind)
+Seat 9: Evgen116Ev (4403 in chips)
+SIN MIEDO69 will be allowed to play after the button
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+BaPé: posts the ante 4
+leo-kerchner: posts the ante 4
+kRiminalShow: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+Evgen116Ev: posts the ante 4
+Evgen116Ev: posts small blind 15
+elketefuka: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Th Qs]
+IMaBuzzyBee: folds
+BaPé: folds
+leo-kerchner: folds
+kRiminalShow: folds
+Abcd1982: folds
+mfranzreb: calls 30
+Evgen116Ev: raises 330 to 360
+elketefuka: folds
+mfranzreb: folds
+Uncalled bet (330) returned to Evgen116Ev
+Evgen116Ev collected 122 from pot
+Evgen116Ev: doesn't show hand
+*** SUMMARY ***
+Total pot 122 | Rake 0
+Seat 1: elketefuka (big blind) folded before Flop
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: BaPé folded before Flop (didn't bet)
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 5: kRiminalShow folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb (button) folded before Flop
+Seat 9: Evgen116Ev (small blind) collected (122)
+
+
+*********** # 16 **************
+PokerStars Hand #215156897311: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:15:07 ET
+Table '2931760484 1' 9-max Seat #9 is the button
+Seat 1: elketefuka (1358 in chips)
+Seat 2: IMaBuzzyBee (1583 in chips)
+Seat 3: BaPé (1533 in chips)
+Seat 4: leo-kerchner (1152 in chips)
+Seat 5: kRiminalShow (1962 in chips)
+Seat 6: Abcd1982 (1739 in chips) is sitting out
+Seat 7: mfranzreb (3185 in chips)
+Seat 8: SIN MIEDO69 (4051 in chips)
+Seat 9: Evgen116Ev (4491 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+BaPé: posts the ante 4
+leo-kerchner: posts the ante 4
+kRiminalShow: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+SIN MIEDO69: posts the ante 4
+Evgen116Ev: posts the ante 4
+elketefuka: posts small blind 15
+IMaBuzzyBee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [9d Js]
+BaPé: folds
+leo-kerchner: folds
+kRiminalShow: folds
+Abcd1982: folds
+mfranzreb: folds
+SIN MIEDO69: folds
+Evgen116Ev: calls 30
+elketefuka: calls 15
+IMaBuzzyBee: checks
+*** FLOP *** [5c 8d Qh]
+elketefuka: checks
+IMaBuzzyBee: checks
+Evgen116Ev: checks
+*** TURN *** [5c 8d Qh] [Kd]
+elketefuka: bets 63
+IMaBuzzyBee: folds
+Evgen116Ev: calls 63
+*** RIVER *** [5c 8d Qh Kd] [6d]
+elketefuka: bets 230
+Evgen116Ev: folds
+Uncalled bet (230) returned to elketefuka
+elketefuka collected 252 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 252 | Rake 0
+Board [5c 8d Qh Kd 6d]
+Seat 1: elketefuka (small blind) collected (252)
+Seat 2: IMaBuzzyBee (big blind) folded on the Turn
+Seat 3: BaPé folded before Flop (didn't bet)
+Seat 4: leo-kerchner folded before Flop (didn't bet)
+Seat 5: kRiminalShow folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: SIN MIEDO69 folded before Flop (didn't bet)
+Seat 9: Evgen116Ev (button) folded on the River
+
+
+*********** # 17 **************
+PokerStars Hand #215156934038: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:16:09 ET
+Table '2931760484 1' 9-max Seat #1 is the button
+Seat 1: elketefuka (1513 in chips)
+Seat 2: IMaBuzzyBee (1549 in chips)
+Seat 3: BaPé (1529 in chips)
+Seat 4: leo-kerchner (1148 in chips)
+Seat 5: kRiminalShow (1958 in chips)
+Seat 6: Abcd1982 (1735 in chips) is sitting out
+Seat 7: mfranzreb (3181 in chips)
+Seat 8: SIN MIEDO69 (4047 in chips)
+Seat 9: Evgen116Ev (4394 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+BaPé: posts the ante 4
+leo-kerchner: posts the ante 4
+kRiminalShow: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+SIN MIEDO69: posts the ante 4
+Evgen116Ev: posts the ante 4
+IMaBuzzyBee: posts small blind 15
+BaPé: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Tc Jd]
+leo-kerchner: raises 75 to 105
+kRiminalShow: folds
+Abcd1982: folds
+mfranzreb: folds
+SIN MIEDO69: folds
+Evgen116Ev: calls 105
+elketefuka: folds
+IMaBuzzyBee: folds
+BaPé: calls 75
+*** FLOP *** [3h 4s 8d]
+BaPé: checks
+leo-kerchner: bets 183
+Evgen116Ev: folds
+BaPé: calls 183
+*** TURN *** [3h 4s 8d] [7d]
+BaPé: checks
+leo-kerchner: bets 366
+BaPé: calls 366
+*** RIVER *** [3h 4s 8d 7d] [4h]
+BaPé: checks
+leo-kerchner: bets 490 and is all-in
+BaPé: folds
+Uncalled bet (490) returned to leo-kerchner
+leo-kerchner collected 1464 from pot
+leo-kerchner: doesn't show hand
+*** SUMMARY ***
+Total pot 1464 | Rake 0
+Board [3h 4s 8d 7d 4h]
+Seat 1: elketefuka (button) folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee (small blind) folded before Flop
+Seat 3: BaPé (big blind) folded on the River
+Seat 4: leo-kerchner collected (1464)
+Seat 5: kRiminalShow folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: SIN MIEDO69 folded before Flop (didn't bet)
+Seat 9: Evgen116Ev folded on the Flop
+
+
+*********** # 18 **************
+PokerStars Hand #215156967922: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:17:05 ET
+Table '2931760484 1' 9-max Seat #2 is the button
+Seat 1: elketefuka (1509 in chips)
+Seat 2: IMaBuzzyBee (1530 in chips)
+Seat 3: BaPé (871 in chips)
+Seat 4: leo-kerchner (1954 in chips)
+Seat 5: kRiminalShow (1954 in chips)
+Seat 6: Abcd1982 (1731 in chips) is sitting out
+Seat 7: mfranzreb (3177 in chips)
+Seat 8: SIN MIEDO69 (4043 in chips)
+Seat 9: Evgen116Ev (4285 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+BaPé: posts the ante 4
+leo-kerchner: posts the ante 4
+kRiminalShow: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+SIN MIEDO69: posts the ante 4
+Evgen116Ev: posts the ante 4
+BaPé: posts small blind 15
+leo-kerchner: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [Kd 8d]
+kRiminalShow: folds
+Abcd1982: folds
+mfranzreb: folds
+SIN MIEDO69: folds
+Evgen116Ev: calls 30
+elketefuka: calls 30
+IMaBuzzyBee: folds
+BaPé: folds
+leo-kerchner: checks
+*** FLOP *** [4c 4s 8h]
+Abcd1982 has returned
+leo-kerchner: checks
+Evgen116Ev: checks
+elketefuka: bets 141
+leo-kerchner: folds
+Evgen116Ev: folds
+Uncalled bet (141) returned to elketefuka
+elketefuka collected 141 from pot
+elketefuka: doesn't show hand
+*** SUMMARY ***
+Total pot 141 | Rake 0
+Board [4c 4s 8h]
+Seat 1: elketefuka collected (141)
+Seat 2: IMaBuzzyBee (button) folded before Flop (didn't bet)
+Seat 3: BaPé (small blind) folded before Flop
+Seat 4: leo-kerchner (big blind) folded on the Flop
+Seat 5: kRiminalShow folded before Flop (didn't bet)
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: SIN MIEDO69 folded before Flop (didn't bet)
+Seat 9: Evgen116Ev folded on the Flop
+
+
+*********** # 19 **************
+PokerStars Hand #215156987590: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:17:37 ET
+Table '2931760484 1' 9-max Seat #3 is the button
+Seat 1: elketefuka (1616 in chips)
+Seat 2: IMaBuzzyBee (1526 in chips)
+Seat 3: BaPé (852 in chips)
+Seat 4: leo-kerchner (1920 in chips)
+Seat 5: kRiminalShow (1950 in chips)
+Seat 6: Abcd1982 (1727 in chips)
+Seat 7: mfranzreb (3173 in chips)
+Seat 8: SIN MIEDO69 (4039 in chips)
+Seat 9: Evgen116Ev (4251 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+BaPé: posts the ante 4
+leo-kerchner: posts the ante 4
+kRiminalShow: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+SIN MIEDO69: posts the ante 4
+Evgen116Ev: posts the ante 4
+leo-kerchner: posts small blind 15
+kRiminalShow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [2s 2c]
+Abcd1982: folds
+mfranzreb: folds
+SIN MIEDO69: raises 30 to 60
+Evgen116Ev: folds
+elketefuka: calls 60
+IMaBuzzyBee: folds
+BaPé: folds
+leo-kerchner: folds
+kRiminalShow: calls 30
+*** FLOP *** [Js 7h Ts]
+kRiminalShow: checks
+SIN MIEDO69: bets 231
+elketefuka: folds
+kRiminalShow: folds
+Uncalled bet (231) returned to SIN MIEDO69
+SIN MIEDO69 collected 231 from pot
+*** SUMMARY ***
+Total pot 231 | Rake 0
+Board [Js 7h Ts]
+Seat 1: elketefuka folded on the Flop
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: BaPé (button) folded before Flop (didn't bet)
+Seat 4: leo-kerchner (small blind) folded before Flop
+Seat 5: kRiminalShow (big blind) folded on the Flop
+Seat 6: Abcd1982 folded before Flop (didn't bet)
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: SIN MIEDO69 collected (231)
+Seat 9: Evgen116Ev folded before Flop (didn't bet)
+
+
+*********** # 20 **************
+PokerStars Hand #215157008986: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:18:13 ET
+Table '2931760484 1' 9-max Seat #4 is the button
+Seat 1: elketefuka (1552 in chips)
+Seat 2: IMaBuzzyBee (1522 in chips)
+Seat 3: BaPé (848 in chips)
+Seat 4: leo-kerchner (1901 in chips)
+Seat 5: kRiminalShow (1886 in chips)
+Seat 6: Abcd1982 (1723 in chips)
+Seat 7: mfranzreb (3169 in chips)
+Seat 8: SIN MIEDO69 (4206 in chips)
+Seat 9: Evgen116Ev (4247 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+BaPé: posts the ante 4
+leo-kerchner: posts the ante 4
+kRiminalShow: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+SIN MIEDO69: posts the ante 4
+Evgen116Ev: posts the ante 4
+kRiminalShow: posts small blind 15
+Abcd1982: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [8s 6d]
+mfranzreb: folds
+SIN MIEDO69: folds
+Evgen116Ev: folds
+elketefuka: folds
+IMaBuzzyBee: folds
+BaPé: raises 120 to 150
+leo-kerchner: folds
+kRiminalShow: folds
+Abcd1982: folds
+Uncalled bet (120) returned to BaPé
+BaPé collected 111 from pot
+BaPé: doesn't show hand
+*** SUMMARY ***
+Total pot 111 | Rake 0
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: BaPé collected (111)
+Seat 4: leo-kerchner (button) folded before Flop (didn't bet)
+Seat 5: kRiminalShow (small blind) folded before Flop
+Seat 6: Abcd1982 (big blind) folded before Flop
+Seat 7: mfranzreb folded before Flop (didn't bet)
+Seat 8: SIN MIEDO69 folded before Flop (didn't bet)
+Seat 9: Evgen116Ev folded before Flop (didn't bet)
+
+
+*********** # 21 **************
+PokerStars Hand #215157026645: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level II (15/30) - 2020/06/10 12:18:42 ET
+Table '2931760484 1' 9-max Seat #5 is the button
+Seat 1: elketefuka (1548 in chips)
+Seat 2: IMaBuzzyBee (1518 in chips)
+Seat 3: BaPé (925 in chips)
+Seat 4: leo-kerchner (1897 in chips)
+Seat 5: kRiminalShow (1867 in chips)
+Seat 6: Abcd1982 (1689 in chips)
+Seat 7: mfranzreb (3165 in chips)
+Seat 8: SIN MIEDO69 (4202 in chips)
+Seat 9: Evgen116Ev (4243 in chips)
+elketefuka: posts the ante 4
+IMaBuzzyBee: posts the ante 4
+BaPé: posts the ante 4
+leo-kerchner: posts the ante 4
+kRiminalShow: posts the ante 4
+Abcd1982: posts the ante 4
+mfranzreb: posts the ante 4
+SIN MIEDO69: posts the ante 4
+Evgen116Ev: posts the ante 4
+Abcd1982: posts small blind 15
+mfranzreb: posts big blind 30
+*** HOLE CARDS ***
+Dealt to elketefuka [4h 5d]
+SIN MIEDO69: raises 30 to 60
+Evgen116Ev: calls 60
+elketefuka: folds
+IMaBuzzyBee: folds
+BaPé: folds
+leo-kerchner: calls 60
+kRiminalShow: folds
+Abcd1982: folds
+mfranzreb: calls 30
+*** FLOP *** [8s Kc Qc]
+mfranzreb: checks
+SIN MIEDO69: checks
+Evgen116Ev: checks
+leo-kerchner: checks
+*** TURN *** [8s Kc Qc] [7s]
+mfranzreb: bets 60
+SIN MIEDO69: folds
+Evgen116Ev: calls 60
+leo-kerchner: calls 60
+*** RIVER *** [8s Kc Qc 7s] [Kd]
+mfranzreb: checks
+Evgen116Ev: bets 540
+leo-kerchner: folds
+mfranzreb: folds
+Uncalled bet (540) returned to Evgen116Ev
+Evgen116Ev collected 471 from pot
+Evgen116Ev: doesn't show hand
+*** SUMMARY ***
+Total pot 471 | Rake 0
+Board [8s Kc Qc 7s Kd]
+Seat 1: elketefuka folded before Flop (didn't bet)
+Seat 2: IMaBuzzyBee folded before Flop (didn't bet)
+Seat 3: BaPé folded before Flop (didn't bet)
+Seat 4: leo-kerchner folded on the River
+Seat 5: kRiminalShow (button) folded before Flop (didn't bet)
+Seat 6: Abcd1982 (small blind) folded before Flop
+Seat 7: mfranzreb (big blind) folded on the River
+Seat 8: SIN MIEDO69 folded on the Turn
+Seat 9: Evgen116Ev collected (471)
+
+
+*********** # 22 **************
+PokerStars Hand #215157102866: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:20:49 ET
+Table '2931760484 2' 9-max Seat #7 is the button
+Seat 1: Koresh153 (1606 in chips)
+Seat 2: Sofet (2911 in chips)
+Seat 3: elketefuka (1544 in chips)
+Seat 4: 8CeMapzJI6 (2825 in chips)
+Seat 5: Lavzza (1602 in chips)
+Seat 6: Hobbit304 (5878 in chips)
+Seat 7: shacks81 (1345 in chips)
+Seat 8: hirachuu (1380 in chips)
+Koresh153: posts the ante 6
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+hirachuu: posts small blind 25
+Koresh153: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [7d 2c]
+Sofet: folds
+elketefuka: folds
+8CeMapzJI6: raises 60 to 110
+Lavzza: calls 110
+Hobbit304: folds
+shacks81: folds
+hirachuu: folds
+Koresh153: raises 1490 to 1600 and is all-in
+8CeMapzJI6: calls 1490
+Lavzza: folds
+*** FLOP *** [3c 4d 2s]
+*** TURN *** [3c 4d 2s] [2h]
+*** RIVER *** [3c 4d 2s 2h] [Jc]
+*** SHOW DOWN ***
+Koresh153: shows [Ad Kc] (a pair of Deuces)
+8CeMapzJI6: shows [Kh Ks] (two pair, Kings and Deuces)
+8CeMapzJI6 collected 3383 from pot
+Koresh153 finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 3383 | Rake 0
+Board [3c 4d 2s 2h Jc]
+Seat 1: Koresh153 (big blind) showed [Ad Kc] and lost with a pair of Deuces
+Seat 2: Sofet folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: 8CeMapzJI6 showed [Kh Ks] and won (3383) with two pair, Kings and Deuces
+Seat 5: Lavzza folded before Flop
+Seat 6: Hobbit304 folded before Flop (didn't bet)
+Seat 7: shacks81 (button) folded before Flop (didn't bet)
+Seat 8: hirachuu (small blind) folded before Flop
+
+
+*********** # 23 **************
+PokerStars Hand #215157139715: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:21:51 ET
+Table '2931760484 2' 9-max Seat #8 is the button
+Seat 2: Sofet (2905 in chips)
+Seat 3: elketefuka (1538 in chips)
+Seat 4: 8CeMapzJI6 (4602 in chips)
+Seat 5: Lavzza (1486 in chips)
+Seat 6: Hobbit304 (5872 in chips)
+Seat 7: shacks81 (1339 in chips)
+Seat 8: hirachuu (1349 in chips)
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+Sofet: posts small blind 25
+elketefuka: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [3c Ad]
+8CeMapzJI6: folds
+Lavzza: folds
+Hobbit304: folds
+shacks81: raises 50 to 100
+hirachuu: raises 100 to 200
+Sofet: folds
+elketefuka: folds
+shacks81: calls 100
+*** FLOP *** [5c 3h 9d]
+shacks81: bets 50
+hirachuu: calls 50
+*** TURN *** [5c 3h 9d] [7c]
+shacks81: bets 50
+hirachuu: calls 50
+*** RIVER *** [5c 3h 9d 7c] [7s]
+shacks81: bets 50
+hirachuu: folds
+Uncalled bet (50) returned to shacks81
+shacks81 collected 717 from pot
+*** SUMMARY ***
+Total pot 717 | Rake 0
+Board [5c 3h 9d 7c 7s]
+Seat 2: Sofet (small blind) folded before Flop
+Seat 3: elketefuka (big blind) folded before Flop
+Seat 4: 8CeMapzJI6 folded before Flop (didn't bet)
+Seat 5: Lavzza folded before Flop (didn't bet)
+Seat 6: Hobbit304 folded before Flop (didn't bet)
+Seat 7: shacks81 collected (717)
+Seat 8: hirachuu (button) folded on the River
+
+
+*********** # 24 **************
+PokerStars Hand #215157171447: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:22:44 ET
+Table '2931760484 2' 9-max Seat #2 is the button
+Seat 2: Sofet (2874 in chips)
+Seat 3: elketefuka (1482 in chips)
+Seat 4: 8CeMapzJI6 (4596 in chips)
+Seat 5: Lavzza (1480 in chips)
+Seat 6: Hobbit304 (5866 in chips)
+Seat 7: shacks81 (1750 in chips)
+Seat 8: hirachuu (1043 in chips)
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+elketefuka: posts small blind 25
+8CeMapzJI6: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [9s Kh]
+Lavzza: folds
+Hobbit304: folds
+shacks81: calls 50
+hirachuu: folds
+Sofet: folds
+elketefuka: calls 25
+8CeMapzJI6: checks
+*** FLOP *** [2c 4s 7c]
+elketefuka: bets 96
+8CeMapzJI6: calls 96
+shacks81: folds
+*** TURN *** [2c 4s 7c] [4c]
+elketefuka: checks
+8CeMapzJI6: bets 204
+elketefuka: folds
+Uncalled bet (204) returned to 8CeMapzJI6
+8CeMapzJI6 collected 384 from pot
+8CeMapzJI6: doesn't show hand
+*** SUMMARY ***
+Total pot 384 | Rake 0
+Board [2c 4s 7c 4c]
+Seat 2: Sofet (button) folded before Flop (didn't bet)
+Seat 3: elketefuka (small blind) folded on the Turn
+Seat 4: 8CeMapzJI6 (big blind) collected (384)
+Seat 5: Lavzza folded before Flop (didn't bet)
+Seat 6: Hobbit304 folded before Flop (didn't bet)
+Seat 7: shacks81 folded on the Flop
+Seat 8: hirachuu folded before Flop (didn't bet)
+
+
+*********** # 25 **************
+PokerStars Hand #215157201949: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:23:35 ET
+Table '2931760484 2' 9-max Seat #3 is the button
+Seat 2: Sofet (2868 in chips)
+Seat 3: elketefuka (1330 in chips)
+Seat 4: 8CeMapzJI6 (4828 in chips)
+Seat 5: Lavzza (1474 in chips)
+Seat 6: Hobbit304 (5860 in chips)
+Seat 7: shacks81 (1694 in chips)
+Seat 8: hirachuu (1037 in chips)
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+8CeMapzJI6: posts small blind 25
+Lavzza: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Jh 7c]
+Hobbit304: calls 50
+shacks81: calls 50
+hirachuu: folds
+Sofet: folds
+elketefuka: folds
+8CeMapzJI6: calls 25
+Lavzza: checks
+*** FLOP *** [9h 7h 9c]
+8CeMapzJI6: checks
+Lavzza: checks
+Hobbit304: checks
+shacks81: bets 50
+8CeMapzJI6: calls 50
+Lavzza: folds
+Hobbit304: calls 50
+*** TURN *** [9h 7h 9c] [Ad]
+8CeMapzJI6: checks
+Hobbit304: checks
+shacks81: bets 50
+8CeMapzJI6: calls 50
+Hobbit304: folds
+*** RIVER *** [9h 7h 9c Ad] [7s]
+8CeMapzJI6: checks
+shacks81: bets 150
+8CeMapzJI6: folds
+Uncalled bet (150) returned to shacks81
+shacks81 collected 492 from pot
+*** SUMMARY ***
+Total pot 492 | Rake 0
+Board [9h 7h 9c Ad 7s]
+Seat 2: Sofet folded before Flop (didn't bet)
+Seat 3: elketefuka (button) folded before Flop (didn't bet)
+Seat 4: 8CeMapzJI6 (small blind) folded on the River
+Seat 5: Lavzza (big blind) folded on the Flop
+Seat 6: Hobbit304 folded on the Turn
+Seat 7: shacks81 collected (492)
+Seat 8: hirachuu folded before Flop (didn't bet)
+
+
+*********** # 26 **************
+PokerStars Hand #215157246110: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:24:49 ET
+Table '2931760484 2' 9-max Seat #4 is the button
+Seat 2: Sofet (2862 in chips)
+Seat 3: elketefuka (1324 in chips)
+Seat 4: 8CeMapzJI6 (4672 in chips)
+Seat 5: Lavzza (1418 in chips)
+Seat 6: Hobbit304 (5754 in chips)
+Seat 7: shacks81 (2030 in chips)
+Seat 8: hirachuu (1031 in chips)
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+Lavzza: posts small blind 25
+Hobbit304: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [8h Kc]
+shacks81: calls 50
+hirachuu: folds
+Sofet: folds
+elketefuka: folds
+8CeMapzJI6: calls 50
+Lavzza: calls 25
+Hobbit304: checks
+*** FLOP *** [As 8c 8s]
+Lavzza: checks
+Hobbit304: checks
+shacks81: bets 50
+8CeMapzJI6: calls 50
+Lavzza: calls 50
+Hobbit304: folds
+*** TURN *** [As 8c 8s] [Kd]
+Lavzza: checks
+shacks81: checks
+8CeMapzJI6: bets 50
+Lavzza: calls 50
+shacks81: calls 50
+*** RIVER *** [As 8c 8s Kd] [5s]
+Lavzza: checks
+shacks81: bets 50
+8CeMapzJI6: calls 50
+Lavzza: calls 50
+*** SHOW DOWN ***
+shacks81: shows [7d Ks] (two pair, Kings and Eights)
+8CeMapzJI6: mucks hand
+Lavzza: shows [Ad Kh] (two pair, Aces and Kings)
+Lavzza collected 692 from pot
+*** SUMMARY ***
+Total pot 692 | Rake 0
+Board [As 8c 8s Kd 5s]
+Seat 2: Sofet folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: 8CeMapzJI6 (button) mucked [7c 7h]
+Seat 5: Lavzza (small blind) showed [Ad Kh] and won (692) with two pair, Aces and Kings
+Seat 6: Hobbit304 (big blind) folded on the Flop
+Seat 7: shacks81 showed [7d Ks] and lost with two pair, Kings and Eights
+Seat 8: hirachuu folded before Flop (didn't bet)
+
+
+*********** # 27 **************
+PokerStars Hand #215157287826: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:25:56 ET
+Table '2931760484 2' 9-max Seat #5 is the button
+Seat 2: Sofet (2856 in chips)
+Seat 3: elketefuka (1318 in chips)
+Seat 4: 8CeMapzJI6 (4466 in chips)
+Seat 5: Lavzza (1904 in chips)
+Seat 6: Hobbit304 (5698 in chips)
+Seat 7: shacks81 (1824 in chips)
+Seat 8: hirachuu (1025 in chips)
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+Hobbit304: posts small blind 25
+shacks81: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Ts 3c]
+hirachuu: folds
+Sofet: folds
+elketefuka: folds
+8CeMapzJI6: folds
+Lavzza: folds
+Hobbit304: calls 25
+shacks81: checks
+*** FLOP *** [4s 8d 9c]
+Hobbit304: checks
+shacks81: bets 50
+Hobbit304: calls 50
+*** TURN *** [4s 8d 9c] [8h]
+Hobbit304: checks
+shacks81: bets 50
+Hobbit304: calls 50
+*** RIVER *** [4s 8d 9c 8h] [Td]
+Hobbit304: checks
+shacks81: bets 100
+Hobbit304: calls 100
+*** SHOW DOWN ***
+shacks81: shows [3d 6c] (a pair of Eights)
+Hobbit304: shows [Th Ad] (two pair, Tens and Eights)
+Hobbit304 collected 542 from pot
+*** SUMMARY ***
+Total pot 542 | Rake 0
+Board [4s 8d 9c 8h Td]
+Seat 2: Sofet folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop (didn't bet)
+Seat 4: 8CeMapzJI6 folded before Flop (didn't bet)
+Seat 5: Lavzza (button) folded before Flop (didn't bet)
+Seat 6: Hobbit304 (small blind) showed [Th Ad] and won (542) with two pair, Tens and Eights
+Seat 7: shacks81 (big blind) showed [3d 6c] and lost with a pair of Eights
+Seat 8: hirachuu folded before Flop (didn't bet)
+
+
+*********** # 28 **************
+PokerStars Hand #215157316450: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:26:43 ET
+Table '2931760484 2' 9-max Seat #6 is the button
+Seat 1: Cruel-BH (3000 in chips)
+Seat 2: Sofet (2850 in chips)
+Seat 3: elketefuka (1312 in chips)
+Seat 4: 8CeMapzJI6 (4460 in chips)
+Seat 5: Lavzza (1898 in chips)
+Seat 6: Hobbit304 (5984 in chips)
+Seat 7: shacks81 (1568 in chips)
+Seat 8: hirachuu (1019 in chips)
+Seat 9: hatin666 (1030 in chips)
+Cruel-BH: posts the ante 6
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+hatin666: posts the ante 6
+shacks81: posts small blind 25
+hirachuu: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Qd Kh]
+hatin666: folds
+Cruel-BH: folds
+Sofet: folds
+elketefuka: raises 50 to 100
+8CeMapzJI6: folds
+Lavzza: folds
+Hobbit304: calls 100
+shacks81: raises 1462 to 1562 and is all-in
+hirachuu: folds
+elketefuka: folds
+Hobbit304: folds
+Uncalled bet (1462) returned to shacks81
+shacks81 collected 404 from pot
+*** SUMMARY ***
+Total pot 404 | Rake 0
+Seat 1: Cruel-BH folded before Flop (didn't bet)
+Seat 2: Sofet folded before Flop (didn't bet)
+Seat 3: elketefuka folded before Flop
+Seat 4: 8CeMapzJI6 folded before Flop (didn't bet)
+Seat 5: Lavzza folded before Flop (didn't bet)
+Seat 6: Hobbit304 (button) folded before Flop
+Seat 7: shacks81 (small blind) collected (404)
+Seat 8: hirachuu (big blind) folded before Flop
+Seat 9: hatin666 folded before Flop (didn't bet)
+
+
+*********** # 29 **************
+PokerStars Hand #215157344412: Tournament #2931760484, $0.23+$0.02 USD Hold'em No Limit - Level III (25/50) - 2020/06/10 12:27:17 ET
+Table '2931760484 2' 9-max Seat #7 is the button
+Seat 1: Cruel-BH (2994 in chips)
+Seat 2: Sofet (2844 in chips)
+Seat 3: elketefuka (1206 in chips)
+Seat 4: 8CeMapzJI6 (4454 in chips)
+Seat 5: Lavzza (1892 in chips)
+Seat 6: Hobbit304 (5878 in chips)
+Seat 7: shacks81 (1866 in chips)
+Seat 8: hirachuu (963 in chips)
+Seat 9: hatin666 (1024 in chips)
+Cruel-BH: posts the ante 6
+Sofet: posts the ante 6
+elketefuka: posts the ante 6
+8CeMapzJI6: posts the ante 6
+Lavzza: posts the ante 6
+Hobbit304: posts the ante 6
+shacks81: posts the ante 6
+hirachuu: posts the ante 6
+hatin666: posts the ante 6
+hirachuu: posts small blind 25
+hatin666: posts big blind 50
+*** HOLE CARDS ***
+Dealt to elketefuka [Jc Tc]
+Cruel-BH: raises 64 to 114
+Sofet: folds
+elketefuka: calls 114
+8CeMapzJI6: calls 114
+Lavzza: folds
+Hobbit304: calls 114
+shacks81: folds
+hirachuu: folds
+hatin666: calls 64
+*** FLOP *** [2s Qh 8s]
+hatin666: checks
+Cruel-BH: bets 325
+elketefuka: calls 325
+8CeMapzJI6: folds
+Hobbit304: calls 325
+hatin666: folds
+*** TURN *** [2s Qh 8s] [Td]
+Cruel-BH: checks
+elketefuka: bets 761 and is all-in
+Hobbit304: calls 761
+Cruel-BH: folds
+*** RIVER *** [2s Qh 8s Td] [7h]
+*** SHOW DOWN ***
+elketefuka: shows [Jc Tc] (a pair of Tens)
+Hobbit304: shows [Qs Jd] (a pair of Queens)
+Hobbit304 collected 3146 from pot
+elketefuka finished the tournament in 27th place
+*** SUMMARY ***
+Total pot 3146 | Rake 0
+Board [2s Qh 8s Td 7h]
+Seat 1: Cruel-BH folded on the Turn
+Seat 2: Sofet folded before Flop (didn't bet)
+Seat 3: elketefuka showed [Jc Tc] and lost with a pair of Tens
+Seat 4: 8CeMapzJI6 folded on the Flop
+Seat 5: Lavzza folded before Flop (didn't bet)
+Seat 6: Hobbit304 showed [Qs Jd] and won (3146) with a pair of Queens
+Seat 7: shacks81 (button) folded before Flop (didn't bet)
+Seat 8: hirachuu (small blind) folded before Flop
+Seat 9: hatin666 (big blind) folded on the Flop
